@@ -5,9 +5,9 @@ user-guide-description: Support resources for Adobe Experience Cloud and Adobe E
 
 # Support Resources {#data-sheets}
 
-+ [Adobe Support Overview](support-overview.md)
++ [Adobe Support Overview](overview.md)
 + Experience Cloud Services {#data-sheets}
-  + [Adobe Support Overview](experience-cloud-overview.md)
+  + [Adobe Support Overview](dx-overview.md)
   + [Online](online.md)
   + [Business](business.md)
   + [Enterprise](enterprise.md)

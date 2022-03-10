@@ -8,7 +8,7 @@ Adobe Support organization is committed to your success. All subscriptions inclu
 
 For more comprehensive needs, we offer Adobe Support services that include access to named support professionals and sessions for proactive mentoring and service reviews. No matter how complex your support needs may be, Adobe offers the technical and operational expertise needed to help you achieve peak performance and optimal value from your Adobe solution.
 
-NEED IMAGE - [Digital Experience Overview](support-overview.md)
+NEED IMAGE - [Digital Experience Overview](dx-overview.md)
 NEED IMAGE - [Creative Cloud/Document Cloud Overview](dme-overview.md)
 
 <!--
