@@ -8,13 +8,11 @@ Adobe Experience Cloud Customer Support organization is committed to your succes
 
 For more comprehensive needs, we offer Adobe Support services that include access to named support professionals, accelerated service-level response targets, and sessions for proactive mentoring and service reviews. No matter how complex your support needs may be, Adobe offers technical and operational expertise needed to help you achieve peak performance and optimal value from your Adobe solution.
 
-NEED PDFs
-
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="assets/DMeStandardSupportDatasheet_2022.pdf">
-    <img alt="Online" src="assets/OnlineSupportThumbnailCC.png"/>
+    <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
     <a href="assets/DMeStandardSupportDatasheet_2022.pdf"><strong>Standard Support</strong></a> 
