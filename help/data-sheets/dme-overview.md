@@ -1,8 +1,8 @@
 ---
-title: Creative Cloud/Document Cloud Overview
-description: This article provides a summary of Customer Support options for Adobe Creative Cloud and Document Cloud. These options include Online, Business, Enterprise, and Elite.
+title: Creative Cloud/Document Cloud Support Services Overview
+description: This article provides a summary of Customer Support options for Adobe Creative Cloud and Document Cloud. These options include Standard, Business, Enterprise, and Elite.
 ---
-# Creative Cloud/Document Cloud Overview
+# Creative Cloud/Document Cloud Support Services Overview
 
 Adobe Experience Cloud Customer Support organization is committed to your success. All subscriptions include a level of support that provides easy access to our highly skilled technical resources for technical assistance. 
 
