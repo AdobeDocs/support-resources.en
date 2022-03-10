@@ -13,11 +13,11 @@ NEED PDFs
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="assets/DMeOnlineSupportDatasheet_2022.pdf">
+    <a href="assets/DMeStandardSupportDatasheet_2022.pdf">
     <img alt="Online" src="assets/OnlineSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="assets/DMeOnlineSupportDatasheet_2022.pdf"><strong>Online Support</strong></a> 
+    <a href="assets/DMeOnlineSupportDatasheet_2022.pdf"><strong>Standard Support</strong></a> 
     </div>
     <p>Limited access to phone support</p>
     <br>
