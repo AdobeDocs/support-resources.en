@@ -13,21 +13,21 @@ NEED PDFs
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="assets/OnlineSupportDatasheet.pdf">
+    <a href="assets/DMeOnlineSupportDatasheet_2022.pdf">
     <img alt="Online" src="assets/OnlineSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="assets/OnlineSupportDatasheet.pdf"><strong>Online Support</strong></a> 
+    <a href="assets/DMeOnlineSupportDatasheet_2022.pdf"><strong>Online Support</strong></a> 
     </div>
     <p>Limited access to phone support</p>
     <br>
   </td>
   <td>
-    <a href="assets/BusinessSupportDatasheet.pdf">
+    <a href="assets/DMeBusinessSupportDatasheet_2022.pdf">
       <img alt="Business" src="assets/BusinessSupportThumbnailCC.png">
     </a>
     <div>
-    <a href="assets/BusinessSupportDatasheet.pdf"><strong>Business Support</strong></a>
+    <a href="assets/DMeBusinessSupportDatasheet_2022.pdf"><strong>Business Support</strong></a>
     </div>
     <p>Complete access to Adobe's technical support teams and to an Account Support Lead for account management</p>
     <br>
@@ -35,25 +35,24 @@ NEED PDFs
 </tr>
 <tr>
   <td>
-    <a href="assets/EnterpriseSupportDatasheet.pdf">
+    <a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf">
     <img alt="Enterprise" src="assets/EnterpriseSupportThumbnailxx.png"/>
     </a>
     <div>
-    <a href="assets/EnterpriseSupportDatasheet.pdf"><strong>Enterprise Support</strong></a>
+    <a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf"><strong>Enterprise Support</strong></a>
     </div>
     <p>Enhanced support Service Level Targets (SLTs), benefits of technical expertise and an advocate in the form of a Named Support Engineer</p>
     <br>
   </td>
   <td>
-    <a href="assets/EliteSupportDatasheet.pdf">
+    <a href="assets/DMeEliteSupportDatasheet_2022.pdf">
       <img alt="Elite" src="assets/EliteSupportThumbnailcc.png">
     </a>
     <div>
-    <a href="assets/EliteSupportDatasheet.pdf"><strong>Elite Support</strong></a>
+    <a href="assets/DMeEliteSupportDatasheet_2022.pdf"><strong>Elite Support</strong></a>
     </div>
     <p>Best-in-class Service Level Targets (SLTs), proactive support and partnership with a Technical Account Manager and a Named Support Engineer</p>
     <br>
   </td>
 </tr>
 </table>
-
