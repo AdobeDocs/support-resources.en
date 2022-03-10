@@ -17,7 +17,7 @@ NEED PDFs
     <img alt="Online" src="assets/OnlineSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="assets/DMeOnlineSupportDatasheet_2022.pdf"><strong>Standard Support</strong></a> 
+    <a href="assets/DMeStandardSupportDatasheet_2022.pdf"><strong>Standard Support</strong></a> 
     </div>
     <p>Limited access to phone support</p>
     <br>
