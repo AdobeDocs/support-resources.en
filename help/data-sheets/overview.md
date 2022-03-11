@@ -25,7 +25,7 @@ For more comprehensive needs, we offer Adobe Support services that include acces
       <img alt="Business" src="assets/CCDCThumbnail.png">
     </a>
     <div>
-    <a href="dme-overview.md"><strong>Creative Cloud/Document Support</strong></a>
+    <a href="dme-overview.md"><strong>Creative Cloud Enterprise and Document Support</strong></a>
     </div>
     <p>Support options for Creative Cloud and Document Cloud products</p>
     <br>
