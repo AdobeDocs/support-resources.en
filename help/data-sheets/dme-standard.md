@@ -1,19 +1,19 @@
 ---
-title: Online Support
+title: Standard Support
 description: Adobe Experience Cloud Online Support Services provide limited access to phone support.
 ---
-# Online Support
+# Standard Support
 
 ![icon](assets/OnlineBanner.png)
 
-Adobe Experience Cloud Online Support Services provide limited access to phone support.
+Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community. You can take advantage of our detailed and in depth technical product documentation and current release notes published on http://www.adobe.com . Our standard support also includes 24x7 access for Authorized Users (Admins) to our technical support teams via chat or telephone as well as the ability to log requests for assistance via our support web portal.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Online Support</th>
+    <th>Standard Support</th>
     <th>Business Support</th>
     <th>Enterprise Support</th>
     <th>Elite Support</th>
@@ -24,7 +24,7 @@ Adobe Experience Cloud Online Support Services provide limited access to phone s
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Paid Support ($)</td>
+    <td colspan="3">Paid Support Levels ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Assigned Experts<br></td>
@@ -50,7 +50,7 @@ Adobe Experience Cloud Online Support Services provide limited access to phone s
   </tr>
   <tr>
     <td rowspan="12">Support Services</td>
-    <td>Online Support</td>
+    <td>Standard Support</td>
     <td>Business hours</td>
     <td>Business hours</td>
     <td>24x5</td>
