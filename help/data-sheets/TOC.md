@@ -13,7 +13,9 @@ user-guide-description: Support resources for Adobe Experience Cloud and Adobe E
   + [Enterprise](enterprise.md)
   + [Elite](elite.md)
   + [Customer Support Guide](support-guide.md)
-+ [Creative Cloud & Document Cloud Services](dme-overview.md)
++ Creative Cloud & Document Cloud Services {#dme-data-sheets}
+  + [Creative Cloud & Document Cloud Services](dme-overview.md)
+  + [Standard](dme-standard.md)
 + [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
