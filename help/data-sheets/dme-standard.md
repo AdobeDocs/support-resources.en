@@ -6,7 +6,7 @@ description: Adobe Experience Cloud Online Support Services provide limited acce
 
 ![icon](assets/OnlineBanner.png)
 
-Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community. You can take advantage of our detailed and in depth technical product documentation and current release notes published on http://www.adobe.com . Our standard support also includes 24x7 access for Authorized Users (Admins) to our technical support teams via chat or telephone as well as the ability to log requests for assistance via our support web portal.
+Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community. You can take advantage of our detailed and in depth technical product documentation and current release notes published on <http://www.adobe.com>. Our standard support also includes 24x7 access for Authorized Users (Admins) to our technical support teams via chat or telephone as well as the ability to log requests for assistance via our support web portal.
 
 <table>
 <thead>
