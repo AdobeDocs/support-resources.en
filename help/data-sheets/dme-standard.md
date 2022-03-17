@@ -1,8 +1,8 @@
 ---
-title: Standard Support
-description: Adobe Experience Cloud Online Support Services provide limited access to phone support.
+title: Standard Support for Adobe Creative Cloud and Adobe Document Cloud
+description: Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community.
 ---
-# Standard Support
+# Standard Support for Creative Cloud and Adobe Document Cloud
 
 ![icon](assets/OnlineBanner.png)
 
@@ -256,7 +256,7 @@ Adobe Customer Support offers access to resources for documentation and engageme
 |[Production issues & system outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
 |[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings.|
 
-## Core Regional Hours Of Operation And Language Support
+## Regional Hours Of Operation And Language Support
 
 Adobe’s local business hours align to the customer’s billing region.
 
