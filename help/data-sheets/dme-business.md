@@ -253,6 +253,8 @@ BUSINESS customers also benefit from access to our technical support teams for a
 |[Production issues & system outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
 |[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings.|
 
+{style="table-layout:auto"}
+
 ## Regional Hours Of Operation And Language Support
 
 Adobe’s local business hours align to the customer’s billing region.
