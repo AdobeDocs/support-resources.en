@@ -201,7 +201,7 @@ Adobe provides a comprehensive range of technical resources to help support your
 &nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
 -->
 
-## Standard Support {standard-support-options}
+## Standard Support {#standard-support-options}
 
 Adobe Customer Support offers access to resources for documentation and engagement with other experts and customers for best practices. Several channels are also available for questions and case submissions
 
