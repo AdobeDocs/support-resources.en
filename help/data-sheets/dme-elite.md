@@ -144,7 +144,7 @@ With deep experience in your applicable Creative Cloud and Document Cloud soluti
   <tr>
     <td><strong>PRIORITY 1</strong><br>Customer's production business functions are down or have significant data loss or service degradation and immediate attention is required to restore functionality and usability.</td>
     <td>24x7/<br>30 minutes</td>
-    <td colspan="3" rowspan="4">&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>Customers who purchase a Support Plan for applicable Adobe Products and Services receive priority case routing that fast-tracks cases to Adobe's Support Engineers.</td>
+    <td colspan="3" rowspan="4" align="center">&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>Customers who purchase a Support Plan for applicable Adobe Products and Services receive priority case routing that fast-tracks cases to Adobe's Support Engineers.</td>
   </tr>
   <tr>
     <td><strong>PRIORITY 2</strong><br>Customer's business functions have major service degradation or potential data loss, or a major feature is impacted.</td>
