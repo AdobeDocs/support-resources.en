@@ -1,12 +1,16 @@
 ---
-title: Standard Support
-description: Adobe Experience Cloud Online Support Services provide limited access to phone support.
+title: Standard Support for Adobe Creative Cloud and Adobe Document Cloud
+description: Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community.
 ---
-# Standard Support
+# Standard Support for Creative Cloud and Adobe Document Cloud
 
-![icon](assets/OnlineBanner.png)
+![icon](assets/StandardBanner.png)
 
-Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community. You can take advantage of our detailed and in depth technical product documentation and current release notes published on http://www.adobe.com . Our standard support also includes 24x7 access for Authorized Users (Admins) to our technical support teams via chat or telephone as well as the ability to log requests for assistance via our support web portal.
+Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community. 
+
+You can take advantage of our detailed and in depth technical product documentation and current release notes published on <http://www.adobe.com>. Our standard support also includes 24x7 access for Authorized Users (Admins) to our technical support teams via chat or telephone as well as the ability to log requests for assistance via our support web portal.
+
+[View PDF version](assets/DMeStandardSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
@@ -49,34 +53,42 @@ Adobe provides a comprehensive range of technical resources to help support your
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="12">Support Services</td>
-    <td>Standard Support</td>
-    <td>Business hours</td>
-    <td>Business hours</td>
-    <td>24x5</td>
-    <td>24x5</td>
-  </tr>
-  <tr>
-    <td>24x7x365 P1 Issue Support</td>
+    <td rowspan="17">Support Services</td>
+    <td>24x7 Self-Help Support</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Named Support Contacts (per product)</td>
-    <td>4</td>
-    <td>6</td>
-    <td>10</td>
-    <td>15</td>
+    <td>24x7 Support via Chat / Phone</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Live Telephone Support</td>
+    <td>Web Case Submissions</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>Priority Case Routing</td>
     <td></td>
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
+  <tr>
+    <td>Accelerated Issue Prioritization</td>
+    <td></td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
   <tr>
     <td>Escalation Management</td>
     <td></td>
@@ -84,141 +96,160 @@ Adobe provides a comprehensive range of technical resources to help support your
     <td>✔</td>
     <td>✔</td>
   </tr>
-  <tr>
-    <td>Service Reviews per Year</td>
+    <td>Proactive Case Monitoring</td>
     <td></td>
     <td></td>
-    <td>2</td>
-    <td>4</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Expert Sessions per Year</td>
+    <td>In-Region Support Access</td>
     <td></td>
     <td></td>
-    <td>2</td>
-    <td>4</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>Service Reviews</td>
+    <td></td>
+    <td></td>
+    <td>2/year</td>
+    <td>4/year</td>
   </tr>
   <tr>
     <td>Case Reviews</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>1/month</td>
+    <td>2/month</td>
   </tr>
   <tr>
-    <td>Event Management</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>✔</td>
-  </tr>
-  <tr>
-    <td>Environment Review, Maintenance &amp; Monitoring</td>
+    <td>Solution Review</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Release, Migration, Upgrade &amp; Product Roadmap Review</td>
+    <td>Roadmap Review</td>
     <td></td>
     <td></td>
     <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Cloud Support Activities – Experience Manager as Cloud</td>
+    <td>Additional Named Support Contacts</td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td rowspan="2">Field Services</td>
-    <td>Launch Advisory Services – First Year of new solution</td>
+    <td>Upgrade/Migration Planning</td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td></td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>Field Service Activities</td>
+    <td>Release Preparation and Planning</td>
     <td></td>
     <td></td>
-    <td>2</td>
-    <td>4</td>
+    <td></td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>Executive Sponsor</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>✔</td>
   </tr>
 </tbody>
 </table>
 
 ## Service Level Targets: Initial Response {#service-level-targets}
 
-|Priority | Online Support | Business Support | Enterprise Support | Elite Support |
-|--- |--- |--- |--- |--- |
-|<b>PRIORITY 1</b><br>Customer's production business functions are down or have significant data loss or service degradation and immediate attention is required to restore functionality and usability. | 24x7/<br>1 hour | 24x7/<br>1 hour | 24x7/<br>30 minutes | 24x7/<br>15 minutes |
-|<b>PRIORITY 2</b><br>Customer's business functions have major service degradation or potential data loss, or a major feature is impacted.| Business  hours/<br>4hours | Business hours/<br>2 hours | 24x5/<br>1 hour | 24x5/<br>30 minutes |
-|<b>PRIORITY 3</b><br>Customer's business functions have minor service degradation but there exists a solution/workaround allowing business functions to continue normally. | Business hours/<br>6 hours | Business hours/<br> 4 hours | Business hours/<br>2 hours | 24x5/<br>1 hour |
-|<b>PRIORITY 4</b><br>General question regarding current product functionality or an enhancement request. | Business days/<br>3 days | Business day/<br>1 day | Business day/<br> 1 day | Business day/<br> 1 day |
+<table>
+<thead>
+  <tr>
+    <th>Priority</th>
+    <th>Standard Support</th>
+    <th>Business Support</th>
+    <th>Enterprise Support</th>
+    <th>Elite Support</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>PRIORITY 1</strong><br>Customer's production business functions are down or have significant data loss or service degradation and immediate attention is required to restore functionality and usability.</td>
+    <td>24x7/<br>30 minutes</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle">&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>Customers who purchase a Support Plan for applicable Adobe Products and Services receive priority case routing that fast-tracks cases to Adobe's Support Engineers.</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITY 2</strong><br>Customer's business functions have major service degradation or potential data loss, or a major feature is impacted.</td>
+    <td>24x7/<br>1 hour</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITY 3</strong><br>Customer's business functions have minor service degradation but there exists a solution/workaround allowing business functions to continue normally.</td>
+    <td>Business day/<br>4 hours</td>
+  </tr>
+  <tr>
+    <td><strong>PRIORITY 4</strong><br>General question regarding current product functionality or an enhancement request.</td>
+    <td>Business day/<br>1 day</td>
+  </tr>
+</tbody>
+</table>
 
-{style="table-layout:auto"}
+<!--
+&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
+-->
 
-## Online Support {#online-support-1}
+## Standard Support {#standard-support-options}
 
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+Adobe Customer Support offers access to resources for documentation and engagement with other experts and customers for best practices. Several channels are also available for questions and case submissions
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Forums" src="assets/CommunityForums.png"/>
+    <img alt="Forums" src="assets/community-forums-icon.png"/>
     <div>
-    <p>Community Forums</p>
-    <p><b>Online Forums</b></p>
+    <p><b>Community Forums</b></p>
     <p>Continuous online access to a growing database of technical solutions, product documentation, FAQs and more. Connect with practitioners and other customers on Adobe Community to share best practices and lessons learned.</p>
     </div>
   </td>
   <td>
-    <img alt="Office Hours" src="assets/Webinar.png"/>
+    <img alt="Self help" src="assets/dme-selfhelp.png"/>
     <div>
-    <p>Office Hours</p>
-    <p><b>Webinars</b></p>
-    <p>Office Hours led by the Adobe Customer Support team includes sessions designed to inform as well as help participants troubleshoot problems and provide tips and tricks for success with Adobe solutions.</p>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
-    <div>
-    <p>Experience League</p>
-    <p><b>Self-guided Journeys</b></p>
-    <p>Experience Makers are made with Experience League. Customers can kickstart their Customer Experience Management abilities with personalized learning to develop skills, engage with a global community of peers, and earn career advancing recognition.</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Self help" src="assets/SelfHelpPortal.png"/>
-    <div>
-    <p>Self-help Portals</p>
-    <p><b>24/7 Support Portal</b></p>
+    <p><b>Self-Help Portal</b></p>
     <p>On-demand access to the online Self-help Support Portal to submit support requests, review case status, and browse other resources, like our knowledgebase, news and alerts, featured tips, and more.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Live Chat Support" src="assets/LiveChat.png"/>
+    <img alt="Live Chat Support" src="assets/dmechat.png"/>
     <div>
-    <p>Live Chat Support *</p>
     <p><b>Chat Support</b></p>
-    <p>Start a chat session to get answers & help with case submission.</p>
-    <p>* <i>Not all products have live chat support.</i></p>
+    <p>Authorized Users (Admins) can start a chat session with Adobe Support to get answers and help with case submission</p>
+    <p><i>Subject to local hours.</i></p>
     </div>
   </td>
   <td>
-    <img alt="Phone support" src="assets/PhoneSupport.png"/>
+    <img alt="Phone support" src="assets/dmephone.png"/>
     <div>
-    <p>24x7x365 P1</p>
     <p><b>Phone Support</b></p>
-    <p>Authorized users or Named Support Contacts can submit issues through all available channels (including phone for P1) and interact with our technical support team on behalf of your company.</p>
+    <p>Authorized Users (Admins) can call Adobe Support via phone to get answers and help with case submission.</p>
+    <p><i>Subject to local hours.</i></p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img alt="Web Case" src="assets/dmewebcase.png"/>
+    <div>
+    <p><b>Web Case Submission</b></p>
+    <p>Authorized Users (Admins) can submit unlimited web cases at any time for support issues for review by our technical support team.</p>
     </div>
   </td>
 </tr>
@@ -228,39 +259,41 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 |Resource | Description |
 |--- |--- |
-|[Experience League](https://experienceleague.adobe.com/) | Experience League is how Adobe helps businesses achieve the value they expect from their Adobe investment. It's the unified place where customers can learn, connect, and grow along a personalized path to success that includes self-help tutorials, product documentation, instructor-led training, community and technical support.|
-|[Training](https://training.adobe.com/training/) | Adobe Digital Learning Services courses are accessible from Experience League. Learning courses integrate both on-demand and instructor-led lessons. Here you can accrue skills that have recognized market value and position them to drive success in your organizations.|
+|[Experience League](https://experienceleague.adobe.com/) | Experience League is a place where Adobe customers can find self-help tutorials, product documentation, instructor-led training, community and support for select Adobe Creative Cloud and Document products.|
+|[Adobe Support Community](https://community.adobe.com/) | The Adobe Support Community is the place to ask questions, find answers, learn from experts and share your knowledge.|
 |[Production issues & system outages](https://status.adobe.com/) | Status.adobe.com conveys the health information of all Adobe products and services that are deployed in multi-tenant environments. Customers can choose their subscription preferences to get email notifications whenever Adobe creates, updates or resolves a product event. This can include scheduled maintenance or service issues of varying levels of severity.|
 |[Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Terms and conditions detailing Support Services offerings.|
 
-## Regional Scope of Adobe Support, Local Hours of Operation, and Language Support
+{style="table-layout:auto"}
 
-The Regional scope of Adobe Support is established by aligning the customer's billing address (via the Sales Order or other Adobe Support purchasing document) to one of the following regions:
+## Regional Hours Of Operation And Language Support
+
+Adobe’s local business hours align to the customer’s billing region.
 
 <table>
 <thead>
   <tr>
-    <th>Americas</th>
+    <th>Americas<sup>1</sup></th>
     <th>Europe, Middle East & Africa</th>
     <th>Asia Pacific</th>
-    <th>Japan<sup>1</sup></th>
+    <th>Japan</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>6 am – 5:30 pm</td>
+    <td>24x7</td>
     <td>9 am – 5 pm</td>
     <td>9 am – 5 pm</td>
     <td>9 am – 5:30 pm</td>
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>Language support is available only in English and Japanese.</i></p>
-      <p><i>Adobe Commerce excludes Japanese language support.</i></p>
-      <p><i>P2, P3, P4 cases are limited to business hours only in Japan.</i></p>
+      <p><sup>1</sup>Americas Language support available in English only.</p>
     </td>
   </tr>
 </tbody>
 </table>
 
 ![icon](assets/bottom-banner.png)
+
+*To learn more about Adobe Support Offerings and the right level for you, contact your Named Account Manager (NAM) or Customer Success Manager (CSM).*
