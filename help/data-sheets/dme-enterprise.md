@@ -10,6 +10,8 @@ Adobe provides a comprehensive range of technical resources to help support your
 
 Your support team can also help coordinate and arrange delivery of the additional ENTERPRISE benefits ensuring minimal disruption to your business at the most critical times. ENTERPRISE support plan customers can also take advantage of our detailed and in depth technical product documentation and current release notes.
 
+[View PDF (English only)](assets/DMeEnterpriseSupportDatasheet_2022.pdf)
+
 <table>
 <thead>
   <tr>
