@@ -10,7 +10,7 @@ Adobe provides a comprehensive range of technical resources to help support your
 
 BUSINESS customers also benefit from access to our technical support teams for any product query via either the telephone or the support web portal, to help protect your business at the most critical times. BUSINESS customers will be able to leverage their Account Support Lead for support case escalation management to receive regular communications and updates for your most critical of support requests.
 
-[View PDF version (English only)](assets/DMeBusinessSupportDatasheet_2022.pdf)
+[View PDF version](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
 <table>
 <thead>

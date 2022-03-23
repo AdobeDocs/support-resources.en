@@ -10,7 +10,7 @@ Adobe provides a comprehensive range of technical resources to help support your
 
 With deep experience in your applicable Creative Cloud and Document Cloud solutions, your Support Team works to ensure that no matter how complex your support needs are, the Adobe Support Team will be there side by side with you throughout, to ensure you maximize your investment in applicable Adobe solutions and to help you avoid problems before they happen. You can also take advantage of our detailed and in depth technical product documentation and current release notes.
 
-[View PDF version (English only)](assets/DMeEliteSupportDatasheet_2022.pdf)
+[View PDF version](assets/DMeEliteSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
