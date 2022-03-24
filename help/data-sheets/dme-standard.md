@@ -1,6 +1,7 @@
 ---
 title: Standard Support for Adobe Creative Cloud and Adobe Document Cloud
 description: Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. Standard support includes 24x7 access to our self help support resources including articles on HelpX and engagement with other customers on Adobe Community.
+exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 ---
 # Standard Support for Creative Cloud and Adobe Document Cloud
 
