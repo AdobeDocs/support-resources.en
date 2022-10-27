@@ -36,8 +36,9 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 | P3  | **Minimal Business Impact:** <br>Customer's business functions have minor service degradation but there exists a solution/workaround allowing business functions to continue normally.  | 4 hours during Adobe's normal business hours  | 1 hour during Adobe's regional business hours  | Adobe Customer Support will contact Named Support Contacts during Adobe's business hours only.  |
 | P4  | **No business impact:** <br>General question regarding current product functionality or an enhancement request.  | 1 business day  | 1 business day  | Adobe Customer Support will contact Named Support Contacts during Adobe's business hours only.|
 
-## Key Features
+{style="table-layout:auto"}
 
+## Key Features
 
 <table style="table-layout:fixed">
 <tr>
@@ -83,7 +84,7 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 
 ## Adobe Digital Learning Services 
 
-***Enhance Ultimate Support with a Learning Subscription ***
+***Enhance Ultimate Support with a Learning Subscription***
 
 **Build an Adobe skilled workforce** with personalized learning journeys for individuals and teams 
 
@@ -145,6 +146,8 @@ Standard Support for Adobe Commerce: Managed Services products licensed or renew
 | P2  | **Major Business Impact:** <br>Customer's business functions have major service degradation or potential data loss, or a major feature is impacted.  | 1 hour during Adobe's normal business hours  | Adobe support will contact Named Support Contacts during Adobe's business hours only. If Adobe Customer Support is unable to obtain critical information for managing a support response from Named Support Contacts, Adobe may decrease a P2 Service Request to a lower priority level.  |
 | P3  | **Minimal Business Impact:** <br>Customer's business functions have minor service degradation but there exists a solution/workaround allowing business functions to continue normally.  | 2 hours during Adobe's normal business hours  | Adobe Customer Support will contact Named Support Contacts during Adobe's business hours only.  |
 | P4  | **No business impact:** <br>General question regarding current product functionality or an enhancement request.| 1 business day  | Adobe Customer Support will contact Named Support Contacts during Adobe's business hours only.  |
+
+{style="table-layout:auto"}
 
 ## Launch Advisory Services &ndash; Phased Proactive Activities
 
