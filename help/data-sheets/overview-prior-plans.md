@@ -1,8 +1,8 @@
 ---
-title: Overview of Preview Adobe Support Plans
+title: Overview of Prior Adobe Support Plans
 description: This article provides a summary of Customer Support options for Adobe Experience Cloud, Adobe Document Cloud, and Adobe Creative Cloud.
 ---
-# Overview of Preview Adobe Support Plans
+# Overview of Prior Adobe Support Plans
 
 >[!NOTE]
 >

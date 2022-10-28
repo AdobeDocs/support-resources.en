@@ -1,11 +1,11 @@
 ---
-title: Adobe Support Offering Overview
+title: Adobe Support Plans Overview
 description: This article provides a summary of Customer Support options for Adobe Experience Cloud, Adobe Document Cloud, and Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 ---
-# Adobe Support Offering Overview
+# Adobe Support Plans Overview
 
-Adobe Support plans go above and beyond reactive problem solving to bring you a new kind of personalized experience that will keep your business steps ahead of any issue. Engaging with our deep technical expertise and innovative support model will improve your technology performance and realize the potential of your Adobe solutions. 
+Adobe Support plans go above and beyond reactive problem solving to bring you a new kind of personalized experience that will keep your business steps ahead of any issue. Engaging with our deep technical expertise and innovative support model will improve your technology performance and help you realize the potential of your Adobe solutions. 
 
 <table style="table-layout:fixed">
 <tr>

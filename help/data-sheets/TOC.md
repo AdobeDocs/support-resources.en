@@ -5,9 +5,9 @@ user-guide-description: Support resources for Adobe Experience Cloud and Adobe E
 
 # Support Resources {#data-sheets}
 
-+ [Support Offering Overview](overview.md)
++ [Adobe Support Plans Overview](overview.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
-  + [Overview of Prior Plans](overview-prior-plans.md)
+  + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
   + Experience Cloud Services {#data-sheets}
     + [Adobe Support Overview](dx-overview.md)
     + [Online](online.md)
