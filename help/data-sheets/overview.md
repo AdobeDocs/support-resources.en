@@ -29,6 +29,8 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 
 ## Targeted Initial Response Times for Support
 
++++ View Details
+
 | Priority  | Definition  | Targeted Response time &ndash; Expert Support  | Targeted Response time &ndash; Ultimate Support  | Customer Commitment  |
 |---|---|---|---|---|
 | P1  | **Critical Business Impact:** <br>Customer's production business functions are down or have significant data loss or service degradation and immediate attention is required to restore functionality and usability. | 1 hour  | 15 minutes  | Customer commits to continuous, 24x7 engagement with Adobe Customer Support until mitigation. If Adobe Customer Support is unable to obtain critical information for managing the support response from Named Support Contacts, Adobe may decrease a P1 Service Request to a lower priority level. |
@@ -38,7 +40,11 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 
 {style="table-layout:auto"}
 
++++
+
 ## Key Features
+
++++ View Details
 
 <table style="table-layout:fixed">
 <tr>
@@ -75,14 +81,22 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 </tr>
 </table>
 
++++
+
 ## Support Add-ons
+
++++ View Details
 
 | Event Management  | Technical Account Director (Ultimate only)  | Advanced Cloud Support  |
 |---|---|---|
 | **Event Planning** &ndash; Plan, prepare, guide, communicate <br>**Event Execution** &ndash; Configure, implement, test, review, audit <br>**Event Monitoring** &ndash; Live monitoring, system monitoring, situation room  | **Oversees** engagement & execution to ensure the highest level of performance. <br>**Manages executive relationships** through reporting, reviews, and future planning discussions. <br>**Leads technical environment** reviews, risk mitigation, and predictive insights to improve technical quotient. <br>**Aligns and advocates** with technical teams to accelerate task execution and issue resolution. <br>**Owns activity and support planning** to ensure smooth delivery and maximize value. <br>**Communicates and coaches** the internal & external stakeholders on value drivers and engagement strategy  | Top-tier care and value assurance to customers of Adobe Experience Manager as a Cloud Service.  <br>Speed up your transition to the cloud with help navigating complex cloud technology scenarios with proactive optimization, enforced best practices, and ensuring a superior go-live experience <br> **Implementation:** Migration prep, monthly and pre-go-live check-in calls <br>**Engagement:** Kickoff, onboarding, testing best practices <br>**Go-Live:** Event support, domain monitoring, production handover <br>**Run & Operate:** Proactive optimization outreach and solution insights/reporting <br> |
 | **Sample Event Management scenarios:** <ul><li>Black Friday + Cyber Monday </li><li>Major sporting event (i.e., Superbowl, Olympic games, FIFA World Cup) </li><li>Special shopping events or major annual promotions </li></ul>  | **A Technical Account Director can add great value if one or more of the following situations are true.** <ul><li>You own multiple Adobe Experience Cloud applications. </li><li>You require support across multiple regions, brands, or business units. </li><li>You have complex use cases with Adobe technology and need strategic leadership.</li></ul>  | **When do you need Advanced Cloud Support?** <ul><li>If you own Adobe Experience Manager as a Cloud Service. </li><li>If you are undergoing a migration to Experience Manager as a Cloud Service. </li><li>If you are facing tight deadlines or complex use cases with Experience Manager as a Cloud Service. </li></ul> |
 
++++
+
 ## Adobe Digital Learning Services 
+
++++ View Details
 
 ***Enhance Ultimate Support with a Learning Subscription***
 
@@ -92,8 +106,11 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 
 **Realize business goals with an end-to-end learning strategy** that enables you to drive digital maturity from adoption to optimization 
 
++++
+
 ## Support Services &ndash; Regions, Hours, and Languages
 
++++ View Details
 
 <table style="table-layout:auto">
 <tr>
@@ -130,6 +147,8 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 </tr>
 </table>
 
++++
+
 ## Regional Business Hours for Support
 
 | Americas  | Europe, Middle East & Africa  | Asia Pacific  | Japan  |
@@ -137,6 +156,8 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 | 6 am &ndash; 5:30 pm  | 9 am &ndash; 5 pm  | 9 am &ndash; 5 pm  | 9 am &ndash; 5 pm |
 
 ## Additional Terms Applicable to Adobe Commerce on Managed Services (Formerly Magento Commerce Pro: Managed Services
+
++++ View Details
 
 Standard Support for Adobe Commerce: Managed Services products licensed or renewed by Customer with a License Term Start Date on or after September 20, 2021 will be subject to the Targeted Response Times specified in the table below, which will supersede the Targeted Response Times for Support as indicated in the table above. Except as specified in the table below, all other remaining Support terms for Adobe Commerce: Managed Services remain unchanged. For clarity, the Targeted Response Times below will only apply to Services Requests related to Adobe Commerce: Managed Services, and not any other AEC Products. 
 
@@ -149,7 +170,11 @@ Standard Support for Adobe Commerce: Managed Services products licensed or renew
 
 {style="table-layout:auto"}
 
++++
+
 ## Launch Advisory Services &ndash; Phased Proactive Activities
+
++++ View Details
 
 <table>
 <tbody>
@@ -181,7 +206,11 @@ Standard Support for Adobe Commerce: Managed Services products licensed or renew
 </tbody>
 </table>
 
++++
+
 ## Field Service Activities: Menu
+
++++ View Details
 
 | Activity Types  | Solutions  | Description |
 |---|---|---|
@@ -197,3 +226,5 @@ Standard Support for Adobe Commerce: Managed Services products licensed or renew
 >[!NOTE]
 >
 >Field Services are not meant to replace Adobe Consulting engagements. Field Services support the customer post-LAS implementation and complement any larger consulting engagement.
+
++++
