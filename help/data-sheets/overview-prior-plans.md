@@ -1,6 +1,7 @@
 ---
 title: Overview of Prior Adobe Support Plans
 description: This article provides a summary of Customer Support options for Adobe Experience Cloud, Adobe Document Cloud, and Adobe Creative Cloud.
+exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
 ---
 # Overview of Prior Adobe Support Plans
 
