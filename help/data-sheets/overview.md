@@ -13,15 +13,17 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 | **Support channels** | Online, chat, phone, Experience League, forums, self-help videos | Personalized online/chat, prioritized phone, Experience League, personalized Ultimate forums |
 | **Support team** | Pooled team of experts | Designated Technical Account Manager, Support Services Manager, and pooled team of technical experts |
 | **Technical support**| <ul><li>Standard outage management </li><li>P1 24x7 issue support</li><li>P2/P3/P4 business hours support</li><li>Pooled escalation management</li></ul>| <ul><li>Prioritized outage management</li><li>P1 24x7 issue support</li><li>P2/P3 24x5 issue support</li><li>P4 business hours support</li><li>Designated expert escalation management</li></ul>|
-| **Proactive technical + operational support** | ![not included icon](assets/Cross_red_circle.svg){width="32"} Not included | <ul><li>Roadmap reviews, service delivery planning </li><li>Maintenance & monitoring</li><li> Upgrade & migration reviews</li><li>Release preparation & review </li></ul>Knowledge transfer, solution troubleshooting <ul><li> Event planning (limited, see Event Management add-on)</li><li> Launch advisory</li></ul>|
+| **Proactive technical + operational support** | ![not included icon](assets/Cross_red_circle.svg){width="20"} Not included | <ul><li>Roadmap reviews, service delivery planning </li><li>Maintenance & monitoring</li><li> Upgrade & migration reviews</li><li>Release preparation & review </li></ul>Knowledge transfer, solution troubleshooting <ul><li> Event planning (limited, see Event Management add-on)</li><li> Launch advisory</li></ul>|
+
+{style="table-layout:fixed"}
 
 |  | Support Add-ons |  |
 |--- |--- |--- |
-|Event Management add-on |![available icon](assets/Plus_blue.svg){width="32"} Available|![available icon](assets/Plus_blue.svg){width="32"} Available|
-||||
-||||
-||||
-|||![included icon](assets/green_checkmark.svg){width="32"}|
+|**Event Management add-on**<br>Provides end-to-end leadership and support required to manage the entire lifecycle of key events |![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/Plus_blue.svg){width="20"} Available|
+|**Technical Account Director add-on**<br>Your lead technical resource who provides leadership oversight, owns executive engagement, and ensures governance to maximize your business outcomes|![not included icon](assets/Cross_red_circle.svg){width="20"} Not included|![available icon](assets/Plus_blue.svg){width="20"} Available|
+|**Advanced Cloud Support add-on**<br>Top-tier care and value assurance to customers of Adobe Experience Manager as a Cloud Service|![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/Plus_blue.svg){width="20"} Available|
+|**Mentor Sessions add-on**<br>Provides skill-based learning in a just-in-time training method|![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/green_checkmark.svg){width="20"} Included|
+|**Developer Boost add-on**<br>Provides access to field engineering experts that can assist with break-fix work|![available icon](assets/Plus_blue.svg){width="20"} Available|![included icon](assets/green_checkmark.svg){width="20"} Included|
 
 {style="table-layout:fixed"}
 
