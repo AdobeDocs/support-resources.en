@@ -62,7 +62,7 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
   </td>
   <td>
     <ul>
-      <li><strong>Designated Technical Account Manager and Support Service Manager</strong> -  Assigned experts orchestrate a holistic personalized support experience across solutions, champion feedback and issues, coordinate regular service reviews, and provide personalized insight into critical service outages. </li>
+      <li><strong>Designated Technical Account Manager and Support  Manager</strong> -  Assigned experts orchestrate a holistic personalized support experience across solutions, champion feedback and issues, coordinate regular service reviews, and provide personalized insight into critical service outages. </li>
       <li><strong>Proactive technical and operational services </strong> - Receive proactive guidance such as service delivery planning, health check, maintenance and best practices, upgrade/migration planning, and use-case recommendations. </li>
       <li><strong>Launch advisory</strong> - Help with adoption and rollout of your solution design with best practice launch and enablement advisory services for net new implementations. </li>
       <li><strong>Release preparation & review</strong> - Review new features and determine necessary maintenance and troubleshooting activities to prepare for the latest versions and platforms. </li>
