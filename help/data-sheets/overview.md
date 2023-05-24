@@ -21,7 +21,7 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 
 ## Support add-ons
 
-|  | Support Add-ons |  |
+| Add-ons  | Expert Support Plan | Ultimate Support Plan |
 |--- |--- |--- |
 |**Event Management add-on**<br>Provides end-to-end leadership and support required to manage the entire lifecycle of key events |![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/Plus_blue.svg){width="20"} Available|
 |**Technical Account Director add-on**<br>Your lead technical resource who provides leadership oversight, owns executive engagement, and ensures governance to maximize your business outcomes|![not included icon](assets/Cross_red_circle.svg){width="20"} Not included|![available icon](assets/Plus_blue.svg){width="20"} Available|
