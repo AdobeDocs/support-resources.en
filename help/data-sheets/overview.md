@@ -42,8 +42,10 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 
 ## Ultimate Support: Named Support Contacts
 
-Under Ultimate Support, Customer shall be entitled to an expanded capacity of up to fifteen (15) Named Support Contacts per AEC Product (increased from four (4) total across all AEC Products for Expert Support). 
-
+Sorry, again. Now, I think we need to correct the following description in https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en:
+ 
+Under Ultimate Support, Customer shall be entitled to an expanded capacity of up to fifteen (15) Named Support Contacts per AEC Product (increased from four (4) per AEC Products for Expert Support).
+ 
 Named Support Contacts can submit issues through all available channels and interact as needed with Adobe's technical support team on behalf Customer. One (1) such Named Support Contact can also be designated as Customer's account administrator, allowing self-service updates to the list of Named Support Contacts, as well as limited permission settings, via the Adobe-provided support portal.
 
 ## Adobe Digital Learning Services 
