@@ -1,6 +1,8 @@
 ---
 user-guide-title: Support Resources
 user-guide-description: Support resources for Adobe Experience Cloud and Adobe Experience Platform.
+feature-set: Experience Cloud
+feature: Support
 ---
 
 # Support Resources {#data-sheets}
