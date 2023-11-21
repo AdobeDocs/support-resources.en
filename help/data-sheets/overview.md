@@ -1,17 +1,17 @@
 ---
-title: Adobe Support Plans Overview
+title: Adobe Success Plans Overview
 description: This article provides a summary of Customer Support options for Adobe Experience Cloud, Adobe Document Cloud, and Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 ---
-# Adobe Support Plans Overview
+# Adobe Success Plans Overview
 
-Adobe Support plans go above and beyond reactive problem solving to bring you a new kind of personalized experience that will keep your business steps ahead of any issue. Engaging with our deep technical expertise and innovative support model will improve your technology performance and help you realize the potential of your Adobe solutions. 
+Adobe Success plans go above and beyond reactive problem solving to bring you a new kind of personalized experience that will keep your business steps ahead of any issue. Your Adobe team employs deep technical expertise, diverse capabilities, and an advanced methodology to give you the right level of support, expertise, and technical and strategic guidance you need. 
 
-## Comparison of Expert and Ultimate support plans
+## Comparison of Expert and Ultimate success plans
 
-|  | Expert Support Plan | Ultimate Support Plan |
+|  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-| Two levels of engagement&mdash;**Expert & Ultimate**&mdash;ensure that every customer receives the right level of support,expertise, and guidance needed. | With the Expert Support plan, you can access **24x7 expert care** for technical troubleshooting and guidance on your critical business issues. Or you can find quick resolutions by tapping into our self-guided resources, exclusive best practices, and an online community of Adobe experts & peers. *Included with all Adobe Experience Cloud licenses.* | With the Ultimate Support plan, you will experience **high-touch support with personalized, proactive expert care and guidance**. Your Adobe applications will be securely and consistently monitored by a team of experts&mdash;who are familiar with your environment and focused on your business objectives and solution health. |
+| Two levels of engagement&mdash;**Expert & Ultimate**&mdash;ensure that every customer receives the right level of support,expertise, and guidance needed. | With the Expert Success plan, you can access **24x7 expert care** for technical troubleshooting and guidance on your critical business issues. Or you can find quick resolutions by tapping into our self-guided resources, exclusive best practices, and an online community of Adobe experts & peers. *Included with all Adobe Experience Cloud licenses.* | With the Ultimate Success plan, you will experience **high-touch support with personalized, proactive expert care and guidance**. Your Adobe applications will be securely and consistently monitored by a team of experts&mdash;who are familiar with your environment and focused on your business objectives and solution health. |
 | **Support channels** | Online, chat, phone, Experience League, forums, self-help videos | Personalized online/chat, prioritized phone, Experience League, personalized Ultimate forums |
 | **Support team** | Pooled team of experts | Designated Technical Account Manager, Support Services Manager, and pooled team of technical experts |
 | **Technical support**| <ul><li>Standard outage management </li><li>P1 24x7 issue support</li><li>P2/P3/P4 business hours support</li><li>Pooled escalation management</li></ul>| <ul><li>Prioritized outage management</li><li>P1 24x7 issue support</li><li>P2/P3 24x5 issue support</li><li>P4 business hours support</li><li>Designated expert escalation management</li></ul>|
@@ -21,7 +21,7 @@ Adobe Support plans go above and beyond reactive problem solving to bring you a 
 
 ## Support add-ons
 
-| Add-ons  | Expert Support Plan | Ultimate Support Plan |
+| Add-ons  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 |**Event Management add-on**<br>Provides end-to-end leadership and support required to manage the entire lifecycle of key events |![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/Plus_blue.svg){width="20"} Available|
 |**Technical Account Director add-on**<br>Your lead technical resource who provides leadership oversight, owns executive engagement, and ensures governance to maximize your business outcomes|![not available icon](assets/Cross_red_circle.svg){width="20"} Not available|![available icon](assets/Plus_blue.svg){width="20"} Available|

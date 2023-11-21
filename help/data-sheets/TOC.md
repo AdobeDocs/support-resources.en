@@ -1,13 +1,13 @@
 ---
-user-guide-title: Support Resources
-user-guide-description: Support resources for Adobe Experience Cloud and Adobe Experience Platform.
+user-guide-title: Success Plans Resources
+user-guide-description: Success plans and support resources for Adobe Experience Cloud and Adobe Experience Platform.
 feature-set: Experience Cloud
-feature: Support
+feature: Success Plans
 ---
 
-# Support Resources {#data-sheets}
+# Success Plans Resources {#data-sheets}
 
-+ [Adobe Support Plans Overview](overview.md)
++ [Adobe Success Plans Overview](overview.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
   + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
   + Experience Cloud Services {#data-sheets}
