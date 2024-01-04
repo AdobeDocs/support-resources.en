@@ -174,7 +174,7 @@ Start of DIV.
 
 This is a new paragraph, then an image
 
-![image](/help/home/assets/analytics-icon-24.png)
+![image](/help/data-sheets/assets/BusinessSupportThumbnail.png)
 
 Last highlighted item.
 
