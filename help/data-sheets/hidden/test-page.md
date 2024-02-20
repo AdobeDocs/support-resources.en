@@ -22,11 +22,11 @@ Hidden test page
 
 ### Zoomable images
 
-`![Dive image](assets/maui-dive.png "Diving in Maui"){width=100 zoomable}`
+`![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}`
 
 **Plain**
 
-![Dive image](assets/maui-dive.png "Diving in Maui"){width=100 zoomable}
+![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable}
 
 **Note**
 
@@ -42,7 +42,7 @@ Hidden test page
 |---|---|---|
 | Juanya | 17 | Green<br>Red<br>Blue |
 | Maria | 23 | Yellow<br>Brown |
-| Bob | 60 | See image<br>![Dive image](assets/maui-dive.png "Diving in Maui"){width=100 zoomable} |
+| Bob | 60 | See image<br>![Dive image](assets/maui-dive.jpg "Diving in Maui"){width=100 zoomable} |
 
 {style="table-layout:fixed"}
 
