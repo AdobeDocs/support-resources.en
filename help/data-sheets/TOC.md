@@ -25,6 +25,7 @@ feature: Success Plans
     + [Elite](dme-elite.md)
 + [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Hidden test file](hidden-test.md)
++ [Hidden images test](hidden/test-page.md)
 
 <!--
 
