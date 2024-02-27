@@ -467,7 +467,7 @@ For shared images, you can place the images in a root assets folder and then use
 
 ### Resizing and aligning images
 
-**Image properties (with right-aligned image)** ![alt text](/help/_includes/assets/premium.png "Premium hover text"){align="right"}
+**Image properties (with right-aligned image)** ![alt text](assets/premium.png "Premium hover text"){align="right"}
 
 Use syntax such as the following to change the default image width or center or right-align the image within the page view or table cell.
 
