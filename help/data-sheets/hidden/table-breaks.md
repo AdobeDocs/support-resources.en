@@ -6,6 +6,8 @@ hidefromtoc: true
 ---
 # Table breaks 
 
+Not much to see here.
+
 ## Standard markdown table with `<br>`
 
 **FIXED `Green<br>Red<br>Blue`**
