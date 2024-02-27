@@ -6,7 +6,7 @@ hidefromtoc: true
 ---
 # Test page (hidden)
 
-Hidden test page
+Hidden test page - EDS
 
 ## Images (EXLM-412)
 
