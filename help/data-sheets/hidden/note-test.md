@@ -1,6 +1,8 @@
 ---
 description: Connecting to the Widget Data Warehouse - Product Documentation
 title: Connecting to the Widget Data Warehouse
+hide: true
+hidefromtoc: true
 ---
 # Connecting to the Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 
