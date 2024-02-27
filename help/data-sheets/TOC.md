@@ -28,6 +28,7 @@ feature: Success Plans
 + [Hidden syntax guide](hidden/syntax-style-guide.md)
 + [Hidden table breaks](hidden/table-breaks.md)
 + [Hidden images test](hidden/tables.md)
++ [Hidden note test](hidden/note-test.md)
 
 <!--
 
