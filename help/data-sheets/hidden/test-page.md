@@ -8,6 +8,16 @@ hidefromtoc: true
 
 Hidden test page
 
+## Buttons
+
+[Button Default](https://www.adobe.com/)
+
+**[Button Primary](https://www.adobe.com/)**
+
+_[Button Secondary](https://www.adobe.com/)_
+
+**_[Button Tertiary](https://www.adobe.com/)_**
+
 ## Images (EXLM-412)
 
 ### Image with hover text
