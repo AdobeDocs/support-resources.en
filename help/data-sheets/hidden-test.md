@@ -10,6 +10,16 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 
 Activate? Recheck submit around 3:10 PM. Will it go live at 3:30 PM?
 
+## Buttons
+
+[Button Default](https://www.adobe.com/)
+
+**[Button Primary](https://www.adobe.com/)**
+
+_[Button Secondary](https://www.adobe.com/)_
+
+**_[Button Tertiary](https://www.adobe.com/)_**
+
 ## Preview issue 
 
 The following paragraph fails to render properly in VSC Preview. I'm not sure why.
