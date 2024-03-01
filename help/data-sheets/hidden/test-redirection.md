@@ -10,13 +10,9 @@ Hidden test page with redirects
 
 ## Standard 1:1 redirects
 
-EXL: <https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/b2b-overview.html>
-
-EDS: <https://eds-stage.experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/b2b-overview>
-
 EXL: <https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf.html>
 
-EDS: https://eds-stage.experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf
+EDS: <https://eds-stage.experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf>
 
 EXL: <https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/quarterly-release/release-20-2/2020.2-release-overview.html>
 
