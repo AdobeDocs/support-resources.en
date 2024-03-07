@@ -8,6 +8,16 @@ hidefromtoc: true
 
 Hidden test page
 
+## Colonoscopy
+
+**Emoji**
+
+Looks like this is ignored.
+
+That is so funny! :joy:
+
+:smiley:
+
 ## Buttons
 
 [Button Default](https://www.adobe.com/)
