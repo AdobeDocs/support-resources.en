@@ -8,7 +8,9 @@ hidefromtoc: true
 
 Hidden test page
 
-## Colonoscopy
+## Welcome to AEM EDS!
+
+Publish test
 
 **Emoji**
 
