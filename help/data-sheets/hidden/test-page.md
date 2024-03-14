@@ -12,14 +12,6 @@ Hidden test page
 
 Publish test
 
-**Emoji**
-
-Looks like this is ignored.
-
-That is so funny! :joy:
-
-:smiley:
-
 ## Buttons
 
 [Button Default](https://www.adobe.com/)
@@ -35,12 +27,6 @@ _[Button Secondary](https://www.adobe.com/)_
 ### Image with hover text
 
 ![alt text - package.png](assets/package.png "Hover text - This is package.png")
-
-### Center text
-
-<p align="center">I am centered</p>
-
-<center>I am centered</center>
 
 ### Zoomable images
 
@@ -125,7 +111,7 @@ See bold heading above.
 
 Icon is right-aligned, dive image is centered 200 pixels, flip image is right 50%.
 
-|<center>Left|Middle|Right</center>|
+|Left|Middle|Right|
 |---|---|---|
 |![alt text](assets/package.png "align=right"){align=right}|![alt text](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"}|![alt text](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"}|
 
