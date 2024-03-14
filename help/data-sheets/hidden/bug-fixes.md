@@ -16,9 +16,9 @@ _Feb 13, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
-![New](../assets/package.png) Product videos are now supported by the Catalog Service API.
-![Fix](../assets/package.png) Bundle products with fixed prices are now supported.
-![Fix](../assets/package.png) Out-of-stock options are now shown in the PDP widget.
+![New](assets/package.png) Product videos are now supported by the Catalog Service API.
+![Fix](assets/package.png) Bundle products with fixed prices are now supported.
+![Fix](assets/package.png) Out-of-stock options are now shown in the PDP widget.
 
 #### Known limitations
 
@@ -39,9 +39,9 @@ _October 12, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
-![New](../assets/package.png) Catalog Service supports the `inStock` flag for product variants.
-![New](../assets/package.png) `urlKey` and `externalId` have been added to the GraphQL schema.
-![New](../assets/package.png) Downloadable products and gift cards are now supported.
+![New](assets/package.png) Catalog Service supports the `inStock` flag for product variants.
+![New](assets/package.png) `urlKey` and `externalId` have been added to the GraphQL schema.
+![New](assets/package.png) Downloadable products and gift cards are now supported.
 
 ### V1.12 Release
 
@@ -50,7 +50,7 @@ _September 19, 2023_
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
 ![New](https://www.adobe.com).
-![Fix](../assets/package.png) This release contains bug fixes and improvements on the service side.
+![Fix](assets/package.png) This release contains bug fixes and improvements on the service side.
 
 ### V1.11 Release
 
@@ -58,7 +58,7 @@ _July 18, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
-![New](../assets/package.png) Catalog Service now supports the [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) GraphQL query for Product Recommendations.
+![New](assets/package.png) Catalog Service now supports the [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) GraphQL query for Product Recommendations.
 
 ### V1.10 Release
 
@@ -66,7 +66,7 @@ _June 27, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
-![New](../assets/package.png) Catalog Service API now supports "related products".
+![New](assets/package.png) Catalog Service API now supports "related products".
 
 ### V1.7 Release
 
@@ -74,8 +74,8 @@ _April 12, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
-![New](../assets/package.png) Catalog Service now cleans up deleted product variants.
-![Fix](../assets/package.png) Infrastructure scalability and performance improvements.
+![New](assets/package.png) Catalog Service now cleans up deleted product variants.
+![Fix](assets/package.png) Infrastructure scalability and performance improvements.
 
 ### V1.6 Release
 
@@ -83,7 +83,7 @@ _March 28, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
-![New](../assets/package.png) Added swatches to the [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) query.
+![New](assets/package.png) Added swatches to the [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) query.
 ![New](https://www.adobe.com).
 
 ### V1.5 Release
@@ -92,8 +92,8 @@ _March 6, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.4 and newer
 
-![New](../assets/package.png) Added [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL functionality.
-![Fix](../assets/package.png) Improved performance and API scalability.
+![New](assets/package.png) Added [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL functionality.
+![Fix](assets/package.png) Improved performance and API scalability.
 
 ### V1.4 Release
 
@@ -101,8 +101,8 @@ _February 7, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.x and newer
 
-![New](../assets/package.png) Published catalog-service metapackage to simplify installation steps.
-![Fix](../assets/package.png) API scalability and performance improvements.
+![New](assets/package.png) Published catalog-service metapackage to simplify installation steps.
+![Fix](assets/package.png) API scalability and performance improvements.
 
 ### V1.3 Release
 
@@ -110,10 +110,10 @@ _January 17, 2023_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.x and newer
 
-![New](../assets/package.png) Simplified and improved the onboarding experience.
-![New](../assets/package.png) New customer sandbox endpoints are available for pre-production testing.
-![New](../assets/package.png) Support added for virtual products.
-![Fix](../assets/package.png) API scalability and performance improvements.
+![New](assets/package.png) Simplified and improved the onboarding experience.
+![New](assets/package.png) New customer sandbox endpoints are available for pre-production testing.
+![New](assets/package.png) Support added for virtual products.
+![Fix](assets/package.png) API scalability and performance improvements.
 
 ### V1.1 Release
 
@@ -121,8 +121,8 @@ _November 18, 2022_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.x and newer
 
-![New](../assets/package.png) Catalog Service now supports Adobe's [API Mesh](https://developer.adobe.com/graphql-mesh-gateway/).
-![Fix](../assets/package.png) Improved API scalability and overall performance.
+![New](assets/package.png) Catalog Service now supports Adobe's [API Mesh](https://developer.adobe.com/graphql-mesh-gateway/).
+![Fix](assets/package.png) Improved API scalability and overall performance.
 
 ### V1.0 Release
 
@@ -130,9 +130,9 @@ _October 4, 2022_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.x and newer
 
-![New](../assets/package.png) Now support bundled and grouped products.
-![New](../assets/package.png) Added B2B visibility overrides. Products are now searchable and can be added to the cart for specific customer groups.
-![Fix](../assets/package.png) Service is now more stable and has improved performance.
+![New](assets/package.png) Now support bundled and grouped products.
+![New](assets/package.png) Added B2B visibility overrides. Products are now searchable and can be added to the cart for specific customer groups.
+![Fix](assets/package.png) Service is now more stable and has improved performance.
 
 ### 0.3 Release - Beta+
 
@@ -140,10 +140,10 @@ _September 12, 2022_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.x and newer
 
-![New](../assets/package.png) Images for variants support: product images are returned based on the selected options
-![New](../assets/package.png) Roles for prices support: allow only members of specific customer groups to see the price of products
-![Fix](../assets/package.png) Improved stability and performance of the service
-![New](../assets/package.png) Updates are received when products are deleted from the catalog 
+![New](assets/package.png) Images for variants support: product images are returned based on the selected options
+![New](assets/package.png) Roles for prices support: allow only members of specific customer groups to see the price of products
+![Fix](assets/package.png) Improved stability and performance of the service
+![New](assets/package.png) Updates are received when products are deleted from the catalog 
 
 ### Beta Release
 
@@ -151,7 +151,7 @@ _August 9, 2022_
 
 [!BADGE Supported]{type=Informative tooltip="Supported"} Adobe Commerce versions 2.4.x and newer
 
-![New](../assets/package.png) The `products` and `refineProduct` queries return the following data:
+![New](assets/package.png) The `products` and `refineProduct` queries return the following data:
 
 * Predefined (system) product attributes.
 * Dynamic product attributes and filter them by role (product display page/product list page).
