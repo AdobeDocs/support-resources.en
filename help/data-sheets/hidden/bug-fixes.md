@@ -8,9 +8,9 @@ hidefromtoc: true
 
 ## Inline badges not working
 
-- [[!DNL Mixpanel]](note-test.md) [!BADGE Notes]{type=Informative}
-- [[!DNL Pendo]](tables.md) [!BADGE Tables]{type=Positive}
-- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Syntax Style Guide]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE Notes]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE Tables]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Syntax Style Guide]{type=Positive}
 
 ## UGP-10560 - Badges in collapsible sections
 
