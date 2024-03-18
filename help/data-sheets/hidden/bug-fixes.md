@@ -8,6 +8,8 @@ hidefromtoc: true
 
 ## Inline badges not working
 
+These badges should be on the same line as the bullet items.
+
 * [[!DNL Mixpanel]](note-test.md) [!BADGE Notes]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE Tables]{type=Positive}
 * [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Syntax Style Guide]{type=Positive}
