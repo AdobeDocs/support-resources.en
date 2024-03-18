@@ -6,7 +6,7 @@ hidefromtoc: true
 ---
 # Bug fixes
 
-## Inline badges not working
+## UGP-10584 Inline badges not working
 
 These badges should be on the same line as the bullet items.
 
