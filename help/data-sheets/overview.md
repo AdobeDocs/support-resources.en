@@ -27,6 +27,7 @@ Adobe Success plans go above and beyond reactive problem solving to bring you a 
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -40,7 +41,7 @@ Adobe Success plans go above and beyond reactive problem solving to bring you a 
 
 | Add-ons  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|**Event Management add-on**<br>Provides end-to-end leadership and support required to manage the entire lifecycle of key events |![available icon](assets/Plus_blue.svg){width="20"} Available| Available|
+|**Event Management add-on**<br>Provides end-to-end leadership and support required to manage the entire lifecycle of key events |Available| Available|
 |**Technical Account Director add-on**<br>Your lead technical resource who provides leadership oversight, owns executive engagement, and ensures governance to maximize your business outcomes| Not available|Available|
 |**Advanced Cloud Support add-on**<br>Top-tier care and value assurance to customers of Adobe Experience Manager as a Cloud Service| Available| Available|
 |**Mentor Sessions add-on**<br>Provides skill-based learning in a just-in-time training method| Available|Included|
