@@ -171,6 +171,14 @@ _August 9, 2022_
 
 +++
 
+## [!BADGE Deprecated]{type=negative} UGP-10617 Badges in headings
+
+See above heading. And the next one.
+
+### [!BADGE Beta]{type=Informative} Badges in headings don't render
+
+Bob
+
 ## UGP-10565 - Text highlighting
 
 Text before `<div class="preview">`
