@@ -175,6 +175,10 @@ _August 9, 2022_
 
 See above heading. And the next one.
 
+## Test for autoactivate
+
+I added this on Friday afternoon but didn't click Publish Now.
+
 ### [!BADGE Beta]{type=Informative} Badges in headings don't render
 
 Bob
