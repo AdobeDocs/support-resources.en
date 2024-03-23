@@ -7,6 +7,10 @@ exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
 ---
 # Bug fixes
 
+## Autoactivation test
+
+I submitted this on Saturday morning. No Publish Now.
+
 ## UGP-10584 Inline badges not working
 
 These badges should be on the same line as the bullet items.
