@@ -4,6 +4,7 @@ description: A basic introduction to Markdown styling
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
+exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
 ---
 # Markdown Syntax Style Guide
 

@@ -1,8 +1,9 @@
 ---
 title: Tables
-description: Working with markdown tables and HTML tables. 
+description: Working with markdown tables and HTML tables.
 hide: true
 hidefromtoc: true
+exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
 ---
 # Tables
 

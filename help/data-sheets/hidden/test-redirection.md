@@ -3,6 +3,7 @@ title: Redirects test page (hidden)
 description: Test page for internal testing purposes
 hide: true
 hidefromtoc: true
+exl-id: 07e6051d-b29c-4ac3-980c-d064487c2804
 ---
 # Redirects test page (hidden)
 

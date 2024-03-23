@@ -3,6 +3,7 @@ description: Connecting to the Widget Data Warehouse - Product Documentation
 title: Connecting to the Widget Data Warehouse
 hide: true
 hidefromtoc: true
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
 ---
 # Connecting to the Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 

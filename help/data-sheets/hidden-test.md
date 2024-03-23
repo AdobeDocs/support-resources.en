@@ -5,6 +5,7 @@ hide: yes
 hidefromtoc: yes
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Download Premium"
 badgeExam: label="Exam ADO-E903" type="neutral"
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
 ---
 # Hidden test page
 
