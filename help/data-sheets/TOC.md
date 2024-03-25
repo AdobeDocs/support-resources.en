@@ -29,11 +29,12 @@ feature: Success Plans
 + [Hidden EDS test tile](hidden/test-page.md)
 + [Hidden redirects test](hidden/test-redirection.md)
 + [Hidden syntax guide](hidden/syntax-style-guide.md)
-+ [Hidden table breaks](hidden/table-breaks.md)
 + [Hidden images test](hidden/tables.md)
 + [Hidden note test](hidden/note-test.md)
 
 <!--
++ [Hidden table breaks](hidden/table-breaks.md)
+
 
 Articles must be added to this TOC file in order to render.
 
