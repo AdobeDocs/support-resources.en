@@ -234,11 +234,11 @@ Use `fixed` for HTML tables that require balanced images that become unbalanced 
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Workflow for Adobe leads</strong></a>
+    <a href="note-test.md"><strong>Workflow for Adobe leads</strong></a>
     </div>
     <em>Main editing workflow for lead writers.</em>
     <br>
@@ -271,11 +271,11 @@ Use `fixed` for HTML tables that require balanced images that become unbalanced 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="table-breaks.md">
+    <a href="note-test.md">
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="table-breaks.md"><strong>Workflow for Adobe leads</strong></a>
+    <a href="note-test.md"><strong>Workflow for Adobe leads</strong></a>
     </div>
     <em>Main editing workflow for lead writers.</em>
     <br>
