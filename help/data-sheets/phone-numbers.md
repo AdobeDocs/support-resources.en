@@ -2,11 +2,11 @@
 title: Support Phone Number update
 description: Update for Adobe Support phone numbers. Specify your preferred support phone number.
 ---
-# Support Phone Number update
+# Specify a preferred support phone number
 
-When a user gets assigned an 'Admin' role such as a 'Product Support Admin', they get an email informing them that they have 'Administrator' rights to manage the instance they have been granted admin rights for.
+When you get assigned an 'Admin' role such as a 'Product Support Admin', you should receive an email informing you that you have 'Administrator' rights to manage the instance for which you have been granted admin rights.
 
-The email now contains the text below in red telling them to go to their Account profile and share with us their preferred Support Phone Number.
+The email now contains the text below in red that explains how to go to your Account profile and share with us your preferred Support Phone Number.
 
 ![preferred support number](assets/admin-console-1.png)
 
