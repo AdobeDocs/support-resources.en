@@ -24,6 +24,7 @@ feature: Success Plans
     + [Enterprise](dme-enterprise.md)
     + [Elite](dme-elite.md)
 + [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Hidden overview](hidden-overview.md)
 + [Hidden test file](hidden-test.md)
 + [Hidden bug fixes](hidden/bug-fixes.md)
 + [Hidden EDS test tile](hidden/test-page.md)
