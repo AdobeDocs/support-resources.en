@@ -3,6 +3,7 @@ title: Hidden overview page
 description: This page is hidden from search and from the TOC
 hide: yes
 hidefromtoc: yes
+exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
 ---
 # Hidden test page
 
