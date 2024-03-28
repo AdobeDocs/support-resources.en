@@ -8,6 +8,7 @@ feature: Success Plans
 # Success Plans Resources {#data-sheets}
 
 + [Adobe Success Plans Overview](overview.md)
++ [Support Phone Number update](phone-numbers.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
   + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
   + Experience Cloud Services {#data-sheets}
