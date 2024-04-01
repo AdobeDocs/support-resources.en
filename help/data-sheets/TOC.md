@@ -30,7 +30,8 @@ feature: Success Plans
 + [Hidden EDS test tile](hidden/test-page.md)
 + [Hidden redirects test](hidden/test-redirection.md)
 + [Hidden syntax guide](hidden/syntax-style-guide.md)
-+ [Hidden images test](hidden/tables.md)
++ [Hidden tables test](hidden/tables.md)
++ [Hidden table breaks](hidden/table-breaks.md)
 + [Hidden note test](hidden/note-test.md)
 
 <!--
