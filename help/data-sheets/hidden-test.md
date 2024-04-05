@@ -13,7 +13,6 @@ Activate? Recheck submit around 3:10 PM. Will it go live at 3:30 PM?
 
 ## Problem tables with images
 
-
 ## Comparison of Expert and Ultimate success plans
 
 |  | Expert Success Plan | Ultimate Success Plan |
