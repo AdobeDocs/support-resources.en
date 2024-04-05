@@ -9,7 +9,7 @@ exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
 
 ## Autoactivation test
 
-I submitted this on Saturday morning. No Publish Now.
+These bugs should all be fixed.
 
 ## UGP-10584 Inline badges not working
 
