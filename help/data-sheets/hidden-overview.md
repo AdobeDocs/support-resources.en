@@ -15,3 +15,8 @@ exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
 + [Test file 1](hidden/note-test.md)
 + [Test file 2](hidden-test.md)
 + [Redirects test](hidden/test-redirection.md)
++ [Autoactivate test](hidden/autoactivate.md)
+
+## New section
+
+I am not clicking Publish Now, so if you see this, autoactivate worked.
