@@ -7,7 +7,6 @@ exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 
 Adobe Success plans go above and beyond reactive problem solving to bring you a new kind of personalized experience that will keep your business steps ahead of any issue. Your Adobe team employs deep technical expertise, diverse capabilities, and an advanced methodology to give you the right level of support, expertise, and technical and strategic guidance you need. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on){transcript=true}
 
 ## Comparison of Expert and Ultimate success plans
 
