@@ -22,7 +22,7 @@ feature: Success Plans
     + [Standard](dme-standard.md)
     + [Business](dme-business.md)
     + [Enterprise](dme-enterprise.md)
-    + [`Elite` plan](dme-elite.md)
+    + [Elite](dme-elite.md)
 + [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Hidden overview](hidden-overview.md)
 + [Hidden test file](hidden-test.md)
