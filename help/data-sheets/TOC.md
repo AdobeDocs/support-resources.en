@@ -8,7 +8,7 @@ feature: Success Plans
 # Success Plans Resources {#data-sheets}
 
 + [Adobe Success Plans Overview](overview.md)
-+ [The Crux Podcast]{#crux-podcast}
++ The Crux Podcast{#crux-podcast}
   + [Ep.1 - Billy Georgaros](episode1.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
   + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
