@@ -7,7 +7,7 @@ exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 
 ![icon](assets/Businessbanner.png)
 
-Adobe Experience Cloud Business Support Services provide complete access to Adobe's technical support teams and to an Account Support Lead for account management.
+Adobe Experience Cloud Business Support Services provide complete access to Adobe's technical support teams and to an Account Support Lead for account management. 
  
 <table>
 <thead>
