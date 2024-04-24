@@ -10,6 +10,8 @@ feature: Success Plans
 + [Adobe Success Plans Overview](overview.md)
 + The Crux Podcast{#crux-podcast}
   + [Ep.1 - Billy Georgaros](episode1.md)
+    [Ep.2 - Karrie Benjamin](episode2.md)
+    [Ep.3 - George Kotsinis](episode3.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
   + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
   + Experience Cloud Services {#data-sheets}
