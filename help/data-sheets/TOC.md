@@ -13,6 +13,7 @@ feature: Success Plans
     [Ep.2 - Karrie Benjamin](episode2.md)
     [Ep.3 - George Kotsinis](episode3.md)
     [Ep.4 - Jessica Ouellette](episode4.md)
+    [Ep.5 - Corey Blackburn](episode5.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
   + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
   + Experience Cloud Services {#data-sheets}
