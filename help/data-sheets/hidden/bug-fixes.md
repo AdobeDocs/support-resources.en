@@ -11,6 +11,31 @@ exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
 
 These bugs should all be fixed.
 
+## UGP-10866 Links not bold in shade boxes
+
+>[!BEGINSHADEBOX]
+
+**Table of content**
+
+* [Get started with the AI Assistant](note-test.md)
+* **[Email generation with the AI Assistant](syntax-style-guide.md)**
+* [SMS generation with the AI Assistant](test-page.md)
+* [Push generation with the AI Assistant](tables.md)
+* [Content experiment with the AI Assistant](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+No shade box
+
+**Table of content**
+
+* [Get started with the AI Assistant](note-test.md)
+* **[Email generation with the AI Assistant](syntax-style-guide.md)**
+* [SMS generation with the AI Assistant](test-page.md)
+* [Push generation with the AI Assistant](tables.md)
+* [Content experiment with the AI Assistant](test-redirection.md)
+
+
 ## UGP-10584 Inline badges not working
 
 These badges should be on the same line as the bullet items.
