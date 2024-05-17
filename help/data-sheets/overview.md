@@ -102,6 +102,41 @@ Named Support Contacts can submit issues through all available channels and inte
 |---|---|---|---|
 | 6 am &ndash; 5:30 pm  | 9 am &ndash; 5 pm  | 9 am &ndash; 5 pm  | 9 am &ndash; 5 pm |
 
+## Support Case Lifecycle - Coming soon
+
+This documentation outlines improvements to the Adobe DX Support case lifecycle with the intention of increasing communication and providing resolutions for customers as quickly as possible to help ensure customer success. Below are the timelines and notifications for various scenarios encountered during the support process:
+
+**Case Follow Up Reminders**
+
+| Notification | Case Status | Notification Timing | Days to Case Closure Status |
+|--- |--- |--- |--- |
+| **1st** | Pending Response Or Resolution Provided | 24 hours / 1 day | 5 days |
+| **2nd** | Pending Reponse Or Resolution Provided | 72 hours / 3 days | 3 days |
+| **3rd** | Pending Response Or Resolution Provided | 120 hours / 5 days | 1 day |
+| **4th** | Pending Response Or Resolution Provided changed to "Auto Closed" | 144 hours / 6 days | closed |
+
+**Scenarios in detail**
+
+**Additional information is required from a customer**
+
+In this scenario, when additional information is needed from a customer, the following steps are taken:
+
+* The engineer sends an update requesting information and the case status is set to "Pending Response".
+* On the 1st, 3rd & 5th day following the status being set to "Pending response", follow up notifications are sent to the customer requesting the additional information.
+* If there is no response from the customer for 6 days after the status was set to "Pending Response", the case is set to closed, and a closure notification is sent.
+
+Customers can reopen a closed case within 14 days to continue communication. Beyond 14 days, a new support case can be opened to continue communication related to a previously closed case.
+
+**Engineer provides a solution**
+
+In this scenario, when an engineer offers a solution, the following steps are taken:
+
+* The engineer sends an update with a proposed solution and the case status is set to "Resolution Provided".
+* On the 1st, 3rd & 5th day following the status being set to "Resolution Provided", follow up notifications are sent to the customer requesting confirmation of the solution provided.
+* If there is no response from the customer for 6 days after the status was set to "Resolution Provided", the case is set to closed, and a closure notification is sent.
+
+Customers can reopen a closed case within 14 days to continue communication. Beyond 14 days, a new support case can be opened to continue communication related to a previously closed case.
+
 ## Additional Terms Applicable to Adobe Commerce on Managed Services (Formerly Magento Commerce Pro: Managed Services)
 
 Standard Support for Adobe Commerce: Managed Services products licensed or renewed by Customer with a License Term Start Date on or after September 20, 2021 will be subject to the Targeted Response Times specified in the table below, which will supersede the Targeted Response Times for Support as indicated in the table above. Except as specified in the table below, all other remaining Support terms for Adobe Commerce: Managed Services remain unchanged. For clarity, the Targeted Response Times below will only apply to Services Requests related to Adobe Commerce: Managed Services, and not any other AEC Products. 
