@@ -17,6 +17,7 @@ feature: Success Plans
     [Ep.6 - Kelly Oja](episode6.md)
     [Ep.7 - Chris Diaz](episode7.md)
     [Ep.8 - Vincent Lee](episode8.md)
+    [Ep.9 - Ren Wightman](episode9.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
   + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
   + Experience Cloud Services {#data-sheets}
