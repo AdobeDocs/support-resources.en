@@ -942,7 +942,6 @@ Workaround with manual bullets.
 |--- |--- |
 | Red | * Read <br> * Write <br> * Study |
 | Blue | * Swim <br> * Run <br> * Lift <br> **Note**: Remember to train smart.|
-.32
 
 
 ## Tabs
