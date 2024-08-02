@@ -368,7 +368,7 @@ Upload the .zip or other downloadable file to the assets directory, and then lin
 
 Rendered:
 
-Download [download-test.zip](assets/download-test.zip)
+Download [download test zip](assets/download-test.zip)
 
 >[!NOTE]
 >
