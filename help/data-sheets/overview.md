@@ -30,7 +30,7 @@ Adobe Success plans go above and beyond reactive problem solving to bring you a 
 |**Advanced Cloud Support add-on**<br>Top-tier care and value assurance to customers of Adobe Experience Manager as a Cloud Service|![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/Plus_blue.svg){width="20"} Available|
 |**Mentor Sessions add-on**<br>Provides skill-based learning in a just-in-time training method|![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/green_checkmark.svg){width="20"} Included|
 |**Developer Boost add-on**<br>Provides access to field engineering experts that can assist with break-fix work|![available icon](assets/Plus_blue.svg){width="20"} Available|![included icon](assets/green_checkmark.svg){width="20"} Included|
-|**Priority Queue Bundle add-on**<br>Skip the line to have your tickets worked on first with additional access to Mentor Sessions and Developer Boost|![available icon](assets/Plus_blue.svg){width="20"} Available|![included icon](assets/green_checkmark.svg){width="20"} Included|
+|**Priority Queue Bundle add-on**<br>Provides faster response times, a single point of contact for Support activities, and access to Success Accelerators.|![available icon](assets/Plus_blue.svg){width="20"} Available|![included icon](assets/green_checkmark.svg){width="20"} Included|
 
 {style="table-layout:fixed"}
 
