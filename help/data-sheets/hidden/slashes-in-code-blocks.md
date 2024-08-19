@@ -12,17 +12,12 @@ hidefromtoc: true
     vendor/bin/magento-patches -n status |grep "27015\|Status"
     ```
 
-1. Run the command (escaped):
-
-    ```bash
-    vendor/bin/magento-patches -n status |grep "27015&bsol;|Status"
-    ```
+1. Next step
 
 Not in code block
 
 vendor/bin/magento-patches -n status |grep "27015\|Status"
 
-Escaped:
+Escaped backslash:
 
 vendor/bin/magento-patches -n status |grep "27015&bsol;|Status"
-
