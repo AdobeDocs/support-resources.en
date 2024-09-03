@@ -507,22 +507,19 @@ Click this image to go to the Adobe website.
 
 [![image](assets/core-services_96.png)](https://www.adobe.com)
 
-<!--
 ### Click-to-zoom images
 
 Use the `zoomable` parameter to allow users to click an image to view an enlarged version of the image. When the user mouses over a zoomable image, the pointer becomes a magnifying glass. When clicked, the image expands to the full width of the browser. It can be dismissed with a close button.
 
 **Example**
 
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![Diving image](/help/data-sheets/hidden/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
 
 **Syntax**
 
 ```
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![Diving image](/help/data-sheets/hidden/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
 ```
-
--->
 
 ## Links and Cross-References {#links-and-cross-references}
 
