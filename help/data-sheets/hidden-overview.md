@@ -19,8 +19,6 @@ exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
 + [Redirects test](hidden/test-redirection.md)
 + [Autoactivate test](hidden/autoactivate.md)
 
-## New section
+## New section Akamai
 
-I am not clicking Publish Now, so if you see this, autoactivate worked.
-
-August 7, 2024
+Test to see if changes go live with AEM Live.
