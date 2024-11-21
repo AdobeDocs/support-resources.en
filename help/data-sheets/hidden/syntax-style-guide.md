@@ -480,6 +480,8 @@ Use syntax such as the following to change the default image width or center or 
 
 Rendered:
 
+Bob - Width = 300 pixels below
+
 ![Dive image alt text](assets/maui-dive.jpg "Hover text - Maui dive width is 300 pixels and centered"){width="300" align="center"}
 
 * For large images, we recommend that you create images large enough to be scaled down to fit within the page width&mdash;at least 640 pixels wide. Recommended width is 1500 pixels. There is no need to create images larger than 2500 pixels or 500 kilobytes. The maximum file size for images is 100 MB.
