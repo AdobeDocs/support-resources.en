@@ -2,6 +2,8 @@
 title: Hidden troubleshooting
 description: Hidden trouble
 type: Troubleshooting
+hide: yes
+hidefromtoc: yes
 ---
 # Hidden troubleshooting
 
