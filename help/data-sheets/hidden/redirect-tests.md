@@ -6,6 +6,8 @@ hidefromtoc: true
 ---
 # Redirects testing
 
+## Redirects good
+
 <https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/t-upload-attributes-ftp.html>
 
 <https://experienceleague.adobe.com/docs/advertising-cloud/dsp/integrations/analytics/data/advertising-metrics-in-analytics.html>
@@ -31,3 +33,13 @@ hidefromtoc: true
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/action-node>
 
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+
+## Redirects broken
+
+Redirect that 404s
+
+<https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
+
+## Other page
+
+See also [test-redirection.md](test-redirection.md)
