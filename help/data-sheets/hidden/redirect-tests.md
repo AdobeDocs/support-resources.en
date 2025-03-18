@@ -3,6 +3,7 @@ description: A bunch of external redirects
 title: Redirects testing
 hide: true
 hidefromtoc: true
+exl-id: 5a6af4ed-120d-44b5-ba91-f55fdbacfd8f
 ---
 # Redirects testing
 
