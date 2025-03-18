@@ -16,7 +16,9 @@ hidefromtoc: true
 
 <https://docs.adobe.com/content/help/en/experience-platform/profile/api/getting-started.html>
 
+<!--
 <https://marketing.adobe.com/resources/help/en_US/reference/regional-data-collection.html>
+-->
 
 <https://experiencleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decisioning>
 
@@ -39,6 +41,18 @@ hidefromtoc: true
 Redirect that 404s
 
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
+
+## Redirect inside comment and code block
+
+<!--
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+-->
+
+```
+code block
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+end code block
+```
 
 ## Other page
 
