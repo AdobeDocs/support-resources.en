@@ -47,6 +47,7 @@ feature: Success Plans
 + [Hidden tables test](hidden/tables.md)
 + [Hidden table breaks](hidden/table-breaks.md)
 + [Hidden note test](hidden/note-test.md)
++ [Hidden redirects](hidden/redirect-tests.md)
 + Test Section {#test-section}
   + [Hidden New Autoactivate Only](hidden/autoactivate.md)
 
