@@ -36,6 +36,7 @@ feature: Success Plans
 + [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Hidden overview](hidden-overview.md)
 + [Hidden troubleshooting](hidden-trouble.md)
++ [Hidden Lakshay test](hidden-lakshay-test.md)
 + [Hidden - slash in code block](hidden/slashes-in-code-blocks.md)
 + [Hidden new test](hidden-new-test.md)
 + [Hidden new test 2](hidden-new-test-2.md)
