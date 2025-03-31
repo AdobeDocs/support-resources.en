@@ -9,7 +9,7 @@ exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
 ---
 # Hidden test page
 
-Activate? Recheck submit around 3:10 PM. Will it go live at 3:30 PM?
+Preview? Should come thru Jenkins. March 31.
 
 ## Problem tables with images
 
