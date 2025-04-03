@@ -61,18 +61,24 @@ this is a test
 
 >[!CARD one]
 >![Alt text](https://gifdb.com/images/high/hasbulla-eating-listening-gossip-funny-reaction-wnm6riagxtvav91w.gif)
+>
 >### Type of content fragment
+>
 >Choose the type of fragment you want to create. **Visual fragments** are pre-defined visual blocks that you can reuse across multiple email deliveries or in content templates. **Expression fragments** are pre-defined expressions that are available from a dedicated entry in the expression editor.
 
 >[!CARD two]
 >![Alt text](https://gifdb.com/images/high/hasbulla-eating-listening-gossip-funny-reaction-wnm6riagxtvav91w.gif)
->### Type of content fragment 2
+>
+>### Type of content fragment
+>
 >Choose the type of fragment you want to create. **Visual fragments** are pre-defined visual blocks that you can reuse across multiple email deliveries or in content templates. **Expression fragments** are pre-defined expressions that are available from a dedicated entry in the expression editor.
 
 
 >[!CARD three]
 >![Alt text](https://gifdb.com/images/high/hasbulla-eating-listening-gossip-funny-reaction-wnm6riagxtvav91w.gif)
->### Type of content fragment 3
+>
+>### Type of content fragment
+>
 >Choose the type of fragment you want to create. **Visual fragments** are pre-defined visual blocks that you can reuse across multiple email deliveries or in content templates. **Expression fragments** are pre-defined expressions that are available from a dedicated entry in the expression editor.
 
 >[!ENDCARDS]
