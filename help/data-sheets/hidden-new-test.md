@@ -12,3 +12,5 @@ Autoactivate - or any activation
 This is a test.
 
 1/3/2025
+
+[!BADGE B2B Edition]{type=Informative url="https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2b/cja-b2b-edition" newtab=true tooltip="Customer Journey Analytics B2B Edition"}
