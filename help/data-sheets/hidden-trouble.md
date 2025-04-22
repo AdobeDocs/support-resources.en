@@ -12,7 +12,23 @@ There is `type: Troubleshooting` applied to this page. Does it have a left nav?
 
 ## Code table
 
-straight code
+**outside of table**
+
+```json
+PrimaryIdentities [
+  {"id": "ccid-2", "namespace": "CCID"},
+  {"id": "ecid-1", "namespace": "ECID"},
+  {"id": "ecid-2", "namespace": "ECID"}
+  ]
+NonPrimaryIdentities [
+  {"id": "ccid-1", "namespace": "CCID"},
+  {"id": "ecid-3", "namespace": "ECID"}
+  ]
+  "id": "ccid-1",
+    "namespace": "CCID"
+```
+
+**straight code in table**
 
 <table>
     <tr>
@@ -25,8 +41,7 @@ straight code
     </tr>
   </table>
 
- with pre lang code
- 
+**using pre lang code in table**
 
 <table>
     <tr>
@@ -39,3 +54,10 @@ straight code
     </tr>
   </table>
 
+## Deep links with new tab
+
+Click here: [Relative link to article open in new tab](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+
+```
+Click here: [Relative link to article open in new tab](hidden/bug-fixes.md#test-for-autoactivate){target=_blank}
+```
