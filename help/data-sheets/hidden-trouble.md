@@ -12,7 +12,7 @@ There is `type: Troubleshooting` applied to this page. Does it have a left nav?
 
 ## Code table
 
-straight `<code>`
+straight code
 
 <table>
     <tr>
@@ -25,9 +25,9 @@ straight `<code>`
     </tr>
   </table>
 
- with `<pre lang="json"><code>`
+ with pre lang code
  
- 
+
 <table>
     <tr>
       <th>Sorted identities list</th>
