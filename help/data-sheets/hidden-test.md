@@ -9,9 +9,7 @@ exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
 ---
 # Hidden test page
 
-Preview retry? Should come thru Jenkins. March 31.
-
-3:02 PM
+Publish test. June 25, 2025 at 10:20 am.
 
 ## Problem tables with images
 
