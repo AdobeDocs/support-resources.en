@@ -46,10 +46,10 @@ feature: Success Plans
 + [Hidden syntax guide](hidden/syntax-style-guide.md)
 + [Hidden tables test](hidden/tables.md)
 + [Hidden table breaks](hidden/table-breaks.md)
++ [Hidden note test](hidden/note-test.md)
 + [Hidden redirects](hidden/redirect-tests.md)
 + Test Section {#test-section}
   + [Hidden New Autoactivate Only](hidden/autoactivate.md)
-  + [Hidden note test](hidden/note-test.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
