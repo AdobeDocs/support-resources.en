@@ -9,6 +9,8 @@ exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
 
 ## New test
 
+June 27
+
 <ol><li>Use the `{{name}}` variable.</li></ol> 
 
 <ol><li>Use the &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace; variable.</li></ol> 
