@@ -6,7 +6,6 @@ products: SG_EXPERIENCEMANAGER/6.5/SITES
 topic-tags: platform
 content-type: reference
 solution: Experience Manager, Experience Manager Sites
-feature: Developing,Tagging
 hide: yes
 hidefromtoc: yes
 role: Developer
