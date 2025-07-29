@@ -17,11 +17,11 @@ The Granite, CQ, and Sling tag libraries give you access to specific functions f
 
 ## **Bold Heading**
 
-This is a bold heading
+This is a bold heading above.
 
 ## *Italicized heading*
 
-This is an italicized heading
+This is an italicized heading above.
 
 ## Granite Tag Library {#granite-tag-library}
 
