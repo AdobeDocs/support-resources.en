@@ -19,7 +19,7 @@ The Granite, CQ, and Sling tag libraries give you access to specific functions f
 
 This is a bold heading above.
 
-July 30, 2025
+July 31, 2025
 
 ## *Italicized heading*
 
