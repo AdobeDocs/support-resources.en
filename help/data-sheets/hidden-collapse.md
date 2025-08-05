@@ -3,6 +3,7 @@ title: Collapse sections bug
 description: UGP-13446 collapsible sections not rendering, perhaps due to embedded page tabs
 hide: yes
 hidefromtoc: yes
+exl-id: 297a5183-7448-43a8-b641-8099e1db3b6b
 ---
 # Collapsible sections
 
