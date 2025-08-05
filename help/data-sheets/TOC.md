@@ -35,6 +35,7 @@ feature: Success Plans
     + [Elite](dme-elite.md)
 + [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Hidden overview](hidden-overview.md)
++ [Hidden collapse](hidden-collapse.md)
 + [Hidden troubleshooting](hidden-trouble.md)
 + [Funky headings UGP-13342](hidden-funky-headings.md)
 + [Hidden - slash in code block](hidden/slashes-in-code-blocks.md)
