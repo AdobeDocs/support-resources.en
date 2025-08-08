@@ -37,14 +37,15 @@ syntax two:
 ```
 >[!FRAGMENT]
 >
->(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[analyze project](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 ```
 
 rendered:
 
 >[!FRAGMENT]
 >
->(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[analyze project](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+
 
 
 ## New section January 30
