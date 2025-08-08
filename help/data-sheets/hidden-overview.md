@@ -21,7 +21,31 @@ exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
 
 ## Slide test
 
+syntax one:
+
+```
 >[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+```
+
+rendered:
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+
+
+syntax two:
+
+```
+>[!FRAGMENT]
+>
+>(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+```
+
+rendered:
+
+>[!FRAGMENT]
+>
+>(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+
 
 ## New section January 30
 
