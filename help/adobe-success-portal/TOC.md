@@ -6,3 +6,6 @@ feature: Adobe Success portal
 type: Documentation
 hide: true
 ---
+
+# Adobe Success Portal Resources
+
