@@ -7,5 +7,5 @@ type: Documentation
 hide: true
 ---
 
-# Adobe Success Portal Resources
+# Adobe Success Portal Resources {#success}
 
