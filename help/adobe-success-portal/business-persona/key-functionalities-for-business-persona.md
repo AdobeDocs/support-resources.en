@@ -13,4 +13,4 @@ The following sections provide brief overviews of the portal's key functionaliti
 * The left-hand navigation panel provides quick access to key features such as [Action Plan], [Value Tracker], [Engagement Plan], and [Support & Insights].
 * The **[!UICONTROL Activities & Events]** section on the portal's homepage provides visibility into upcoming Adobe-hosted events and customer-specific activities, such as Quarterly Business Reviews (QBRs), enablement sessions, and customer journey workshops.
 
-![activities-and-events](/help/adobe-success-portal/assets/Activities%20&%20Events_Final.png)
+![activities-and-events](/help/adobe-success-portal/assets/activities-and-events.png)
