@@ -1,6 +1,6 @@
 ---
 title: Glossary
-description: A collection of key terminologies within the Adobe Success Portal and their definitions. 
+description: A collection of key terminologies within the Adobe Success portal and their definitions. 
 ---
 
 # Glossary
