@@ -5,7 +5,7 @@ description: Adobe Success portal is a unified portal for customers to submit ca
 
 # Introduction to the Adobe Success portal
 
-The Adobe Success portal is your personalized hub for managing your journey with Adobe. It brings together support, success planning, and progress tracking in one place -- making it easier to find answers, stay informed, and achieve your goals. 
+The Adobe Success portal is your personalized hub for managing your journey with Adobe. It brings together support, success planning, and progress tracking in one place - making it easier to find answers, stay informed, and achieve your goals. 
 
 ## User Personas
 
