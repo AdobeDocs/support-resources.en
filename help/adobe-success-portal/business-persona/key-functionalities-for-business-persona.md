@@ -11,4 +11,6 @@ The following sections provide brief overviews of the portal's key functionaliti
 
 * At the top of the homepage, you'll find your list of KBOs along with their associated activities and accelerators and statuses.
 * The left-hand navigation panel provides quick access to key features such as [Action Plan], [Value Tracker], [Engagement Plan], and [Support & Insights].
-* The **[!UICONTROL Activities & Events]** section on the portal's homepage provides visibility into upcoming Adobe-hosted events and customer-specific activities, such as Quarterly Business Reviews (QBRs), enablement sessions, and customer journey workshops. 
+* The **[!UICONTROL Activities & Events]** section on the portal's homepage provides visibility into upcoming Adobe-hosted events and customer-specific activities, such as Quarterly Business Reviews (QBRs), enablement sessions, and customer journey workshops.
+
+![activities-and-events](/help/adobe-success-portal/assets/Activities%20&%20Events_Final.png)
