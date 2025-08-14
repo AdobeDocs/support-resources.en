@@ -1,6 +1,6 @@
 ---
 title: Introduction to the Adobe Success portal
-description: Adobe Success portal is a unified portal for customers to submit cases, view ticket progress, and do much more.
+description: Adobe Success portal is a unified portal for customers to submit cases, view ticket progress, access support, and planning tools.
 ---
 
 # Introduction to the Adobe Success Portal
