@@ -10,7 +10,7 @@ role: User, Admin
 
 # Adobe Success portal {#adobe-success-portal}
 
-- [Introduction to the Adobe Success Portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Introduction to the Adobe Success portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
 - Business Persona {#business-persona}
     - [Key functionalities for business persona](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
 - Technical Persona {#technical-persona}
