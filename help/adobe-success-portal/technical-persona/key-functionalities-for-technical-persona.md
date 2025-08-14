@@ -34,4 +34,4 @@ Click **[!UICONTROL View all]** in the **[!UICONTROL Alerts & Adobe Status]** se
 
 Access **[!UICONTROL Support & Insights]** via the icon on the left-hand navigation panel of the portal homepage.
 
-Refer to [Support & Insights](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md) for more information on the individual resources available on this page.
+Refer to [Support and Insights](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md) for more information on the individual resources available on this page.
