@@ -11,5 +11,5 @@ The Adobe Success portal is your personalized hub for managing your journey with
 
 The portal experience is tailored to support two main user types:
 
-* [Business-focused Persona](/help/adobe-success-portal/business-persona/key-features-for-business-persona.md)
-* [Technical Persona](/help/adobe-success-portal/technical-persona/key-features-for-technical-persona.md)
+* [Business-focused Persona](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
+* [Technical Persona](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
