@@ -1,8 +1,8 @@
 ---
 title: Key functionalities for business persona
 description: Adobe Success portal's features for a business persona enable value measurement across key business objectives, tracking progress and offering insights in an easily accessible view.
+exl-id: 374c3809-a982-464e-b417-1b0ae4191628
 ---
-
 # Key functionalities for business persona
 
 The Adobe Success portal's features for a business persona enable value measurement across [Key Business Objectives] (KBO), tracking progress and offering insights in an easily accessible view. 

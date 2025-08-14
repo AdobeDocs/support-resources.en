@@ -1,8 +1,8 @@
 ---
 title: Key functionalities for technical persona
 description: Adobe Success portal's features for a technical persona enable users to create and manage support cases, monitor system performance, and track alerts related to security and functionality.
+exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
 ---
-
 # Key functionalities for technical persona
 
 This view is intended for users managing support cases and monitoring system performance. Following are the portal's key functionalities for a technical persona.

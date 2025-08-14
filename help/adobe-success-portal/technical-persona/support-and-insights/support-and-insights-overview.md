@@ -1,8 +1,8 @@
 ---
 title: Support and Insights Overview
 description: Adobe Success portal's [!UICONTROL Support & Insights] dashboard provides access to technical resources, environment scan findings, and case management tools.
+exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 ---
-
 # Support and Insights Overview
 
 The **[!UICONTROL Support & Insights]** dashboard provides access to technical resources, environment scan findings, and case management tools. It displays all your Adobe solutions as individual product tiles.
