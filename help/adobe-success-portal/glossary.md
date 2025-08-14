@@ -25,4 +25,4 @@ description: A collection of key terminologies within the Adobe Success portal a
 |TAM (Technical Account Manager) |A designated Adobe team member who provides proactive technical leadership, personalized knowledge sharing, and business-critical insights. |
 |Ultimate Success |A white glove support and customer success plan that provides strategic leadership and proactive technical health expertise for delivering high-performing digital experiences. |
 |Use Case  |A specific, trackable scenario or application of the product that enables customers to achieve their desired outcomes. |
-|Value |The tangible benefit or impact customers get from using the product, often tied to efficiency,growth, or ROI. |
+|Value |The tangible benefit or impact customers get from using the product, often tied to efficiency, growth, or ROI. |
