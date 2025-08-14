@@ -34,22 +34,10 @@ feature: Success Plans
     + [Enterprise](dme-enterprise.md)
     + [Elite](dme-elite.md)
 + [Terms and Conditions](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Hidden overview](hidden-overview.md)
-+ [Hidden troubleshooting](hidden-trouble.md)
-+ [Hidden - slash in code block](hidden/slashes-in-code-blocks.md)
-+ [Hidden new test](hidden-new-test.md)
-+ [Hidden new test 2](hidden-new-test-2.md)
-+ [Hidden test file](hidden-test.md)
-+ [Hidden bug fixes](hidden/bug-fixes.md)
-+ [Hidden EDS test tile](hidden/test-page.md)
-+ [Hidden redirects test](hidden/test-redirection.md)
-+ [Hidden syntax guide](hidden/syntax-style-guide.md)
-+ [Hidden tables test](hidden/tables.md)
-+ [Hidden table breaks](hidden/table-breaks.md)
-+ [Hidden note test](hidden/note-test.md)
-+ [Hidden New Autoactivate Only](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
