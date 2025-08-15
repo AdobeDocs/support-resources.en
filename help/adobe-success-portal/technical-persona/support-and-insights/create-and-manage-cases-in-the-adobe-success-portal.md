@@ -20,7 +20,7 @@ To access the **[!UICONTROL Open case]** page from the Home tab:
 1. Go to the Home tab.
 1. Select **[!UICONTROL Open Case]**. 
 
-![adobe-success-portal-home-page-open-case](assets/adobe-success-portal-home-page-open-case.png)
+![adobe-success-portal-home-page-open-case](assets/technical-personaadobe-success-portal-home-page-open-case.png)
 
 1. Fill in the required fields:
    1. **[!UICONTROL Select a product]**.
