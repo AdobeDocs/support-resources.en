@@ -67,13 +67,13 @@ Follow these steps to validate whether each finding is still applicable or can b
 1. Select the relevant product card. 
 1. Open the **[!UICONTROL Findings]** tab. You see all the findings for your selected product.  
 1. Select an entry under **[!UICONTROL Finding Name]**. On the Findings detail you can: 
-   * Select **[!UICONTROL Validate]** to check if the issue is still present (the **[!UICONTROL Validate]** button is designed as confirmation that the issue has been resolved): 
+* Select **[!UICONTROL Validate]** to check if the issue is still present (the **[!UICONTROL Validate]** button is designed as confirmation that the issue has been resolved): 
 
  ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
 
 
-   * If the issue is still present the following message displays: **[!UICONTROL Validation complete. Finding still detected]**. Use the information and recommendation on the Finding details page to investigate and resolve.  
-   * If the issue is no longer present the following message displays: **[!UICONTROL Validation Complete. Finding no longer detected]**. When the finding is no longer detected, the finding grays out and the status changes to **[!UICONTROL Not Detected]**. Findings with **[!UICONTROL Not Detected]** status are located at the bottom of the findings list.  
+* If the issue is still present the following message displays: **[!UICONTROL Validation complete. Finding still detected]**. Use the information and recommendation on the Finding details page to investigate and resolve.  
+* If the issue is no longer present the following message displays: **[!UICONTROL Validation Complete. Finding no longer detected]**. When the finding is no longer detected, the finding grays out and the status changes to **[!UICONTROL Not Detected]**. Findings with **[!UICONTROL Not Detected]** status are located at the bottom of the findings list.  
 * If the issue is not applicable or relevant to you, you can dismiss it by selecting the **[!UICONTROL Dismiss button]**. When the finding is dismissed the finding grays out and the status changes to **[!UICONTROL Dismissed]**.  Findings with **[!UICONTROL Dismissed]** status are located at the bottom of the findings list.  
 
 ## Understand findings
