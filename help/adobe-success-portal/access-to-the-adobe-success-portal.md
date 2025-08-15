@@ -36,7 +36,9 @@ You receive a notification from the Adobe Success portal team confirming your ac
 
 If you experience issues accessing the portal or its features reach out to our team using the [Alpha Teams channel](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).    
 
-You can use the **[!UICONTROL Alpha Feedback]** button on the portal to submit feedback. Note: The feedback tool is not a dedicated support channel. It is not suitable for urgent login issues.  
+You can use the **[!UICONTROL Alpha Feedback]** button on the portal to submit feedback. 
+
+Note: The feedback tool is not a dedicated support channel. It is not suitable for urgent login issues.  
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
 
