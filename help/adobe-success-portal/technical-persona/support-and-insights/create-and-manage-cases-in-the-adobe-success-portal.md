@@ -45,6 +45,8 @@ Follow the same steps as above to complete and submit the case.
 You can view a case from the Home tab or the **[!UICONTROL Support & Insights]** tab. 
 
 To access the **[!UICONTROL View cases]** page from the Home tab:
+
+
 1.	Go to the Home tab.
 1.	Select **[!UICONTROL View Cases]**.
 
@@ -77,7 +79,7 @@ To download PDF reports on your cases:
 
 
 
-      ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
 
 
