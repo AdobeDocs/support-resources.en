@@ -57,9 +57,9 @@ Follow these steps to validate whether each finding is still applicable or can b
 1. Select the relevant product card. 
 1. Open the **[!UICONTROL Findings]** tab. You see all the findings for your selected product.  
 1. Select an entry under **[!UICONTROL Finding Name]**. On the Findings detail you can: 
-* Select **[!UICONTROL Validate]** to check if the issue is still present (the **[!UICONTROL Validate]** button is designed as confirmation that the issue has been resolved): 
+    * Select **[!UICONTROL Validate]** to check if the issue is still present (the **[!UICONTROL Validate]** button is designed as confirmation that the issue has been resolved): 
 
- ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+     ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
 
 
    * If the issue is still present the following message displays: **[!UICONTROL Validation complete. Finding still detected]**. Use the information and recommendation on the Finding details page to investigate and resolve.  
