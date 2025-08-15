@@ -13,7 +13,7 @@ You receive a notification from the Adobe Success portal team confirming your ac
 1. Sign in with your Adobe ID. 
 1. Select the Success portal (Alpha) icon.
 
-    ![alpha-success-portal-alpha](assets/asp-support-inisghts-findings.png)
+    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
 
 
