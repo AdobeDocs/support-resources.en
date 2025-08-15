@@ -77,11 +77,11 @@ Follow these steps to validate whether each finding is still applicable or can b
 
 ## Understand findings
 
-   * **[!UICONTROL Finding Name]** – Select for detailed insights and recommended resolution steps.  
-   * **[!UICONTROL Type]** – Categorized as *Functionality*, *Performance*, and *Security*. 
-   * **[!UICONTROL Risk Level]** – Severity indicator, with visual indicators.  
-   * **[!UICONTROL Status]** – The Finding’s current state (e.g., *Detected*, *Not Detected*, *Dismissed*). 
-   * **[!UICONTROL Check Last Run]** – Timestamp of the last check that updated the finding.  
+* **[!UICONTROL Finding Name]** – Select for detailed insights and recommended resolution steps.  
+* **[!UICONTROL Type]** – Categorized as *Functionality*, *Performance*, and *Security*. 
+* **[!UICONTROL Risk Level]** – Severity indicator, with visual indicators.  
+* **[!UICONTROL Status]** – The Finding’s current state (e.g., *Detected*, *Not Detected*, *Dismissed*). 
+* **[!UICONTROL Check Last Run]** – Timestamp of the last check that updated the finding.  
 
 
 ## Best practices
