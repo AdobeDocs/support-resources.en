@@ -32,7 +32,7 @@ You receive a notification from the Adobe Success portal team confirming your ac
    * **[!UICONTROL Support & Insights]**
    * **[!UICONTROL Support Engagement Plan]**
 
-# Troubleshooting and Support 
+## Troubleshooting and Support 
 
 If you experience issues accessing the portal or its features reach out to our team using the [Alpha Teams channel](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).    
 
