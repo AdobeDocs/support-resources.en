@@ -37,23 +37,26 @@ To view insights for a product:
 1. Navigate to **[!UICONTROL Support and Insights]**. 
 1. Select the relevant product card. Select the **[!UICONTROL Findings]** tab. 
 
-     ![asp-support-inisghts-findings](assets/asp-support-inisghts-findings.png)
+     ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
 
 
 1. You see a list of all findings for your selected product.
 
-![adobe-success-portal-findings](technical-persona/assets/adobe-success-portal-findings.png)
+
+
+     ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
 
 
 1. From here, you can:
 
-   ![adobe-success-portal-download](assets/adobe-success-portal-download.png)
+
+     ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
 
 * Search for specific entries. 
 * Export the list of findings by selecting **[!UICONTROL Download Findings]**. To export a report for one finding, select the checkbox next to the relevant finding under the column **[!UICONTROL Finding Name]**. If you do not select a finding, the PDF by default contains a list of all findings.  
 * See details on a finding, including a recommended resolution by selecting a finding under **[!UICONTROL Finding Name]**. The Finding details page displays the selected finding with additional context and a recommendation. To see this report select the download arrow. 
 
-   ![adobe-success-portal-validate](assets/adobe-success-portal-validate.png)
+   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
 
  
 ## Action findings 
@@ -66,7 +69,7 @@ Follow these steps to validate whether each finding is still applicable or can b
 1. Select an entry under **[!UICONTROL Finding Name]**. On the Findings detail you can: 
    * Select **[!UICONTROL Validate]** to check if the issue is still present (the **[!UICONTROL Validate]** button is designed as confirmation that the issue has been resolved): 
 
-      ![adobe-success-portal-validate](assets/adobe-success-portal-validate.png)
+ ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
 
 
    * If the issue is still present the following message displays: **[!UICONTROL Validation complete. Finding still detected]**. Use the information and recommendation on the Finding details page to investigate and resolve.  
