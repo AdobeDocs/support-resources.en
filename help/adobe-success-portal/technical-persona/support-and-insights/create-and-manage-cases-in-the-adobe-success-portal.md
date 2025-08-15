@@ -15,7 +15,10 @@ To access the **[!UICONTROL Open case]** page from the Home tab:
 1. Go to the Home tab.
 1. Select **[!UICONTROL Open Case]**. 
 
+
    ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+
+
 
 1. Fill in the required fields:
    1. **[!UICONTROL Select a product]**.
@@ -23,7 +26,11 @@ To access the **[!UICONTROL Open case]** page from the Home tab:
    1. **[!UICONTROL Case Description]**.
 1. Select **[!UICONTROL Submit case]**.
 
+
+
    ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+
+
 
 
 To access the **[!UICONTROL Open case]** page from the **[!UICONTROL Support & Insights]** tab.
@@ -31,7 +38,11 @@ To access the **[!UICONTROL Open case]** page from the **[!UICONTROL Support & I
 1. Go to the  **[!UICONTROL Suppport & Insights]** tab.
 1. Select **[!UICONTROL Open case]**.
 
+
+
    ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+
+
 
 Follow the same steps as above to complete and submit the case.
 
@@ -44,13 +55,23 @@ To access the **[!UICONTROL View cases]** page from the Home tab:
 1. Go to the Home tab. 
 1. Select **[!UICONTROL View Cases]**.
 
+
+
    ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
-Select the product card you want to view, then choose **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**. Note: You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]** links.
 
-![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
 
-Click the **[!UICONTROL Case Number]** to view case details.  
+1. Select the product card you want to view, then choose **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**. 
+
+   Note: You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]** links.
+
+
+
+   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+
+
+
+1. Click the **[!UICONTROL Case Number]** to view case details.  
 
 
 
@@ -66,12 +87,12 @@ To download PDF reports on your cases:
 1. Select **[!UICONTROL View Cases]**.
 
 
-
    ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
 
+1. Select the product card you want to view, then choose **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**. 
 
-1. Select the product card you want to view, then choose **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**. Note: You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with links to **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**.
+   Note: You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with links to **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**.
 
    ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
 
