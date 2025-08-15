@@ -35,16 +35,14 @@ Each finding includes recommendations and clear instructions on how to resolve t
 To view insights for a product: 
 
 1. Navigate to **[!UICONTROL Support and Insights]**. 
-
-
 1. Select the relevant product card. Select the **[!UICONTROL Findings]** tab. 
 
-![asp-support-inisghts-findings](assets/asp-support-inisghts-findings.png)
+     ![asp-support-inisghts-findings](assets/asp-support-inisghts-findings.png)
 
 
 1. You see a list of all findings for your selected product.
 
-![adobe-success-portal-findings](assets/adobe-success-portal-findings.png)
+![adobe-success-portal-findings](technical-persona/assets/adobe-success-portal-findings.png)
 
 
 1. From here, you can:
