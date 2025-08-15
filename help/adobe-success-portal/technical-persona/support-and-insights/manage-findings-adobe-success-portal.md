@@ -51,9 +51,9 @@ To view insights for a product:
 
    ![adobe-success-portal-download](assets/adobe-success-portal-download.png)
 
-   * Search for specific entries. 
-   * Export the list of findings by selecting **[!UICONTROL Download Findings]**. To export a report for one finding, select the checkbox next to the relevant finding under the column **[!UICONTROL Finding Name]**. If you do not select a finding, the PDF by default contains a list of all findings.  
-   * See details on a finding, including a recommended resolution by selecting a finding under **[!UICONTROL Finding Name]**. The Finding details page displays the selected finding with additional context and a recommendation. To see this report select the download arrow. 
+* Search for specific entries. 
+* Export the list of findings by selecting **[!UICONTROL Download Findings]**. To export a report for one finding, select the checkbox next to the relevant finding under the column **[!UICONTROL Finding Name]**. If you do not select a finding, the PDF by default contains a list of all findings.  
+* See details on a finding, including a recommended resolution by selecting a finding under **[!UICONTROL Finding Name]**. The Finding details page displays the selected finding with additional context and a recommendation. To see this report select the download arrow. 
 
    ![adobe-success-portal-validate](assets/adobe-success-portal-validate.png)
 
