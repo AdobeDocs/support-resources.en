@@ -45,20 +45,20 @@ Follow the same steps as above to complete and submit the case.
 
 You can view a case from the Home tab or the **[!UICONTROL Support & Insights]** tab. 
 
-To access the  **[!UICONTROL View cases]** page from the Home tab:
+To access the **[!UICONTROL View cases]** page from the Home tab:
 1.	Go to the Home tab.
 1.	Select **[!UICONTROL View Cases]**.
 
-   ![adobe-success-portal-view-cases](assets/adobe-success-portal-view-cases.png)
+![adobe-success-portal-view-cases](assets/adobe-success-portal-view-cases.png)
 
 1.	Select the product card you want to view, then choose **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**. Note: You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]** links.
 
-   ![adobe-success-portal-open-case-closed-case](assets/adobe-success-portal-open-case-closed-case.png]
+   ![adobe-success-portal-open-case-closed-case](assets/adobe-success-portal-open-case-closed-case.png)
 
 
 1.	Click the **[!UICONTROL Case Number]** to view case details.  
 
-   ![adobe-success-portal-case-number](assets/adobe-success-portal-case-number.png)
+![adobe-success-portal-case-number](assets/adobe-success-portal-case-number.png)
 
 
 
