@@ -1,7 +1,7 @@
 ---
 title: Manage findings in the Adobe Success portal 
 description: This guide explains how to access, interpret, and act on findings in the Adobe Success Portal to help you proactively manage product performance, security, and functionality risks.
-type:
+type: Documentation
 feature: 
 role: Admin, Developer
 hidefromtoc: true
