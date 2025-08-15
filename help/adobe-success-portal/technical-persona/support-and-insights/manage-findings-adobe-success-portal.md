@@ -48,7 +48,7 @@ To view insights for a product:
     * See details on a finding, including a recommended resolution by selecting a finding under **[!UICONTROL Finding Name]**. The Finding details page displays the selected finding with additional context and a recommendation. To see this report select the download arrow. 
 
 
-     ![findings-details](../../assets/findings-details.png)
+      ![findings-details](../../assets/findings-details.png)
 
  
 ## Action findings 
