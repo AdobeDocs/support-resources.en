@@ -46,7 +46,7 @@ You can view a case from the Home tab or the **[!UICONTROL Support & Insights]**
 
 To access the **[!UICONTROL View cases]** page from the Home tab:
 1.	Go to the Home tab.
-1.	Select **[!UICONTROL View Cases]**.
+2.	Select **[!UICONTROL View Cases]**.
 
 ![adobe-success-portal-view-cases](assets/adobe-success-portal-view-cases.png)
 
