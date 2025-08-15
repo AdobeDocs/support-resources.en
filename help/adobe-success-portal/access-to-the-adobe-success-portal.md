@@ -2,8 +2,6 @@
 title: Access the Adobe Success portal 
 description: This guide explains how to log in to the Adobe Success portal and receive assistance if you encounter access issues. 
 type: Documentation
-feature: 
-role: Admin, Developer
 hidefromtoc: true
 hide: true 
 ---
