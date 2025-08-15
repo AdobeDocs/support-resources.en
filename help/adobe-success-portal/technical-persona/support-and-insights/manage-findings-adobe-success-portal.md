@@ -41,11 +41,11 @@ To view insights for a product:
 
 1. From here, you can:
 
-![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+     ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
 
-   * Search for specific entries. 
-   * Export the list of findings by selecting **[!UICONTROL Download Findings]**. To export a report for one finding, select the checkbox next to the relevant finding under the column **[!UICONTROL Finding Name]**. If you do not select a finding, the PDF by default contains a list of all findings.  
-   * See details on a finding, including a recommended resolution by selecting a finding under **[!UICONTROL Finding Name]**. The Finding details page displays the selected finding with additional context and a recommendation. To see this report select the download arrow. 
+    * Search for specific entries. 
+    * Export the list of findings by selecting **[!UICONTROL Download Findings]**. To export a report for one finding, select the checkbox next to the relevant finding under the column **[!UICONTROL Finding Name]**. If you do not select a finding, the PDF by default contains a list of all findings.  
+    * See details on a finding, including a recommended resolution by selecting a finding under **[!UICONTROL Finding Name]**. The Finding details page displays the selected finding with additional context and a recommendation. To see this report select the download arrow. 
 ![findings-details](../../assets/findings-details.png)
 
  
@@ -62,9 +62,9 @@ Follow these steps to validate whether each finding is still applicable or can b
  ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
 
 
-* If the issue is still present the following message displays: **[!UICONTROL Validation complete. Finding still detected]**. Use the information and recommendation on the Finding details page to investigate and resolve.  
-* If the issue is no longer present the following message displays: **[!UICONTROL Validation Complete. Finding no longer detected]**. When the finding is no longer detected, the finding grays out and the status changes to **[!UICONTROL Not Detected]**. Findings with **[!UICONTROL Not Detected]** status are located at the bottom of the findings list.  
-* If the issue is not applicable or relevant to you, you can dismiss it by selecting the **[!UICONTROL Dismiss button]**. When the finding is dismissed the finding grays out and the status changes to **[!UICONTROL Dismissed]**.  Findings with **[!UICONTROL Dismissed]** status are located at the bottom of the findings list.  
+   * If the issue is still present the following message displays: **[!UICONTROL Validation complete. Finding still detected]**. Use the information and recommendation on the Finding details page to investigate and resolve.  
+   * If the issue is no longer present the following message displays: **[!UICONTROL Validation Complete. Finding no longer detected]**. When the finding is no longer detected, the finding grays out and the status changes to **[!UICONTROL Not Detected]**. Findings with **[!UICONTROL Not Detected]** status are located at the bottom of the findings list.  
+   * If the issue is not applicable or relevant to you, you can dismiss it by selecting the **[!UICONTROL Dismiss button]**. When the finding is dismissed the finding grays out and the status changes to **[!UICONTROL Dismissed]**.  Findings with **[!UICONTROL Dismissed]** status are located at the bottom of the findings list.  
 
 ## Understand findings
 
