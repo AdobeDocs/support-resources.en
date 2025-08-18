@@ -4,7 +4,9 @@ description: This guide explains how to log in to the Adobe Success portal and r
 ---
 # Access the Adobe Success portal 
 
-You receive a notification from the Adobe Success portal team confirming your access. This message will include login details.   
+This guide explains how to log in to the Adobe Success portal and receive assistance if you encounter access issues. 
+
+You will receive a notification from the Adobe Success portal team confirming your access. This message will include login details.   
 
 1. Go to https://experience.adobe.com/. 
 1. Sign in with your Adobe ID. 
