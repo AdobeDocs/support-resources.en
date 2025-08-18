@@ -1,6 +1,6 @@
 ---
 title: Create and manage cases in the Adobe Success portal
-description: This guide explains how to create, view, and download reports for cases in the Adobe Success portal.
+description: Learn how to manage cases in the Adobe Success portal.
 ---
 # Create and manage cases in the Adobe Success portal
 
