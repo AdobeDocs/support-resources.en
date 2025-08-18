@@ -7,6 +7,8 @@ exl-id: 546db101-b9d4-43f4-a513-a46b955280de
 
 The Adobe Success portal is your personalized hub for managing your journey with Adobe. It brings together support, success planning, and progress tracking in one place - making it easier to find answers, stay informed, and achieve your goals. 
 
+![adobe-success-portal-homepage](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
+
 ## User Personas
 
 The portal experience is tailored to support two main user types:
