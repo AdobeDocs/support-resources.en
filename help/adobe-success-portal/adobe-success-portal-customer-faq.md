@@ -4,6 +4,7 @@ description: This FAQ article answers frequently asked questions about the [!DNL
 role: User, Admin
 type: Support
 ---
+
 # [!DNL Adobe Success] portal: customer FAQ
  
 ## What is the scope of the [!DNL Adobe Success] portal?
