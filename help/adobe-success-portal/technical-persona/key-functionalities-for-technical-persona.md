@@ -30,7 +30,7 @@ To access a list of active and closed cases, click **[!UICONTROL View Cases]** f
 
 ![view-and-manage-existing-cases](/help/adobe-success-portal/assets/technical-persona-view-cases.png)
 
-This will redirect you to the **[!UICONTROL Case Management]** section of the portal with a list of open and closed cases. 
+This will redirect you to the [Case Management](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview#case-management.md) section of the portal with a list of open and closed cases. 
 
 ## Alerts & Adobe Status
 
@@ -38,7 +38,7 @@ This section on the portal's homepage displays proactive alerts related to perfo
 
 ![alerts-and-adobe-status](/help/adobe-success-portal/assets/alerts-and-adobe-status.png)
 
-Click **[!UICONTROL View all]** in the **[!UICONTROL Alerts & Adobe Status]** section of the portal's homepage to access the **[!UICONTROL Support & Insights]** page. 
+The **[!UICONTROL View all]** button in the **[!UICONTROL Alerts & Adobe Status]** section of the portal's homepage takes you to the **[!UICONTROL Support & Insights]** page. 
 
 ## Support & Insights
 
