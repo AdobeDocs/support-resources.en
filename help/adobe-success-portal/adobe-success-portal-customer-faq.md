@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Adobe Success] portal: customer FAQ'
 description: This FAQ article answers frequently asked questions about the [!DNL Adobe Success] portal.
-role: User, Developer
+role: User, Admin
 type: Support
 ---
 # [!DNL Adobe Success] portal: customer FAQ
