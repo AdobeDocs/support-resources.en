@@ -17,9 +17,9 @@ Each product tile features key metrics, such as **[!UICONTROL Findings]**, **[!U
 
 ## Snapshot {#snapshot}
 
-The **[!UICONTROL Snapshot]** tab offers executive analyses into your cases, findings, and alerts. To access this tab, click the product name on any tile. 
+The **[!UICONTROL Snapshot]** tab offers executive analyses into your cases, findings, and alerts. To access this tab, click the *product name* on any tile. 
 
-
+![snapshot-from-support-and-insights-card](/help/adobe-success-portal/assets/snapshot-from-support-insights-card.png)
 
 The **[!UICONTROL View all]** button within each analysis takes you to the corresponding tab in **[!UICONTROL Support & Insights]**.
 
@@ -29,18 +29,30 @@ The **[!UICONTROL View all]** button within each analysis takes you to the corre
 
 The **[!UICONTROL Findings]** tab highlights issues detected across performance, security, and functionality. Entries are flagged based on risk level, status, and time since the last scan. 
 
-Click on each **[!UICONTROL Finding]** in the list to view its status, risk level, cause, symptoms, and our recommendations to address it. For more information, refer to our documentation on [Manage findings in Adobe Success portal].
+Click on an entry in the list to view its status, risk level, cause, symptoms, and our recommendations to address it. For more information, refer to our documentation on [Manage findings in Adobe Success portal].
+
+![findings-tab](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
 Navigate to this page directly from a product tile on the **[!UICONTROL Support & Insights]** page by clicking on **[!UICONTROL Findings]**. 
 
+![findings-from-support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
+
 ## Case Management
 
-The **[!UICONTROL Case Management]** tab displays a list of open and closed cases. You can click on each Case Number to view additional details about the issue and manage case-related actions directly.  
+The **[!UICONTROL Case Management]** tab displays a list of open and closed cases. Click on a *[!UICONTROL Case Number]* to view additional details about the issue and manage case-related actions directly.  
+
+![case-management-tab](/help/adobe-success-portal/assets/case-management-tab-support-and-insights.png)
 
 You can also access this tab directly from a product tile on the **[!UICONTROL Support & Insights]** page by clicking on **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**.
+
+![case-management-from-support-and-insights-card](/help/adobe-success-portal/assets/case-management-from-support-insights-card.png)
 
 ## Adobe Status Alert
 
 The **[!UICONTROL Adobe Status Alert]** tab displays alerts based on current and/or recently closed events from , covering all Adobe Cloud products and services. You can subscribe to the alerts most relevant to your needs to stay informed about updates and issues affecting your environment.
 
+![adobe-status-alert-tab](/help/adobe-success-portal/assets/status-alert-tab-support-and-insights.png)
+
 To access this page directly from the **[!UICONTROL Support & Insights]** dashboard, click the last row of the product tile.
+
+![adobe-status-alert-support-and-insights-card](/help/adobe-success-portal/assets/status-alerts-from-support-insights-card.png)
