@@ -57,7 +57,7 @@ To access the **[!UICONTROL View cases]** page from the Home tab:
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png.png)
 
 
 
