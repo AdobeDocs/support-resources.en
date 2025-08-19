@@ -3,7 +3,7 @@ title: Key Business Objectives
 description: /[!UICONTROL Key Business Objectives/] are high-level goals that a customer aims to achieve through their partnership with Adobe.
 ---
 
-# [!UICONTROL Key Business Objectives]
+# [!UICONTROL Key Business Objectives] (KBO)
 
 KBOs are displayed in a horizontal scroll view at the top of the portal's homepage. Each KBO card includes:
 

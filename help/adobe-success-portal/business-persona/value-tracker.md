@@ -3,7 +3,7 @@ title: Value Tracker
 description: The [!UICONTROL Value Tracker] page provides a view of your [!UICONTROL Use Cases] organized by KBOs.
 ---
 
-# Value Tracker
+# [!UICONTROL Value Tracker]
 
 The **[!UICONTROL Value Tracker]** page provides a view of **[!UICONTROL Use Cases]** organized by KBOs. You can filter which **[!UICONTROL Use Cases]** show up in this view by leveraging the filters at the top of the page.
 
