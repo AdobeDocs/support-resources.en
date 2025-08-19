@@ -23,3 +23,4 @@ Click a card to open a detailed view of information related to the KBO, such as:
 * List of associated [!UICONTROL Accelerators] and [!UICONTROL Activities]
 
 ![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)
+
