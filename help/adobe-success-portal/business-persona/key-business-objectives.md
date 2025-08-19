@@ -1,8 +1,8 @@
 ---
 title: '[!UICONTROL Key Business Objectives]'
 description: /[!UICONTROL Key Business Objectives/] are high-level goals that a customer aims to achieve through their partnership with Adobe.
+exl-id: 1798d438-caeb-45a6-bc12-347028a6a4e5
 ---
-
 # [!UICONTROL Key Business Objectives] (KBO)
 
 KBOs are displayed in a horizontal scroll view at the top of the portal's homepage. Each KBO card includes:
@@ -23,4 +23,3 @@ Click a card to open a detailed view of information related to the KBO, such as:
 * List of associated [!UICONTROL Accelerators] and [!UICONTROL Activities]
 
 ![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)
-

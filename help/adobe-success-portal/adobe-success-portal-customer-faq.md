@@ -1,8 +1,8 @@
 ---
 title: '[!DNL Adobe Success] portal: customer FAQ'
 description: This FAQ article answers frequently asked questions about the [!DNL Adobe Success] portal.
+exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
 ---
-
 # [!DNL Adobe Success] portal: Customer FAQ
 
  
@@ -50,4 +50,4 @@ To report an error or an issue, we recommend using the [!UICONTROL Alpha Feedbac
  
 ## I have an idea for a new feature or enhancement. Where do I go to submit this?
 
-Feature enhancement requests should be submitted via the [!UICONTROL Alpha Feedback Tool] within the [!DNL Adobe Success] portal. You can always leverage the additional channels available to you, including your account team, and [the Alpha Teams channel](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1). 
+Feature enhancement requests should be submitted via the [!UICONTROL Alpha Feedback Tool] within the [!DNL Adobe Success] portal. You can always leverage the additional channels available to you, including your account team, and [the Alpha Teams channel](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).

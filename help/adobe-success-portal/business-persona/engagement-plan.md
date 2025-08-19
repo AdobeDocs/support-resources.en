@@ -1,8 +1,8 @@
 ---
 title: '[!UICONTROL Engagement Plan]'
 description: Discover how [!UICONTROL Engagement Plan] enhances stakeholder visibility and communication by offering a centralized view of your Adobe account team and engagement options.
+exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
 ---
-
 # [!UICONTROL Engagement Plan]
 
 The **[!UICONTROL Engagement Plan]** section resolves challenges related to stakeholder visibility and communication. It provides a centralized view of your Adobe account team and ways you can engage with them.
@@ -28,4 +28,3 @@ This tab outlines the structure of your engagement with your Adobe team, includi
 This tab provides a catalog of available **[!UICONTROL Accelerators]** included in your subscription. Review offerings and coordinate with your Adobe account team to request an accelerator engagement.
 
 ![engagement-plan-accelerator-catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)
-
