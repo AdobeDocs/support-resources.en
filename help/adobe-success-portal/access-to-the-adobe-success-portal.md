@@ -33,7 +33,9 @@ If you experience issues accessing the portal or its features, reach out to our 
 
 You can use the **[!UICONTROL Alpha Feedback]** button on the portal to submit feedback. 
 
-Note: The feedback tool is not a dedicated support channel. It is not suitable for urgent login issues.  
+>[!NOTE]
+>
+>The feedback tool is not a dedicated support channel. It is not suitable for urgent login issues.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
 
