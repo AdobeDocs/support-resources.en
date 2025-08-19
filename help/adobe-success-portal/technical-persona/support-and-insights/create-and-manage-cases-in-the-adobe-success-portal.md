@@ -24,7 +24,7 @@ To access the **[!UICONTROL Open Case]** page from the Home tab:
    1. **[!UICONTROL Select a product]**.
    1. **[!UICONTROL Case Title]**.
    1. **[!UICONTROL Case Description]**.
-1. Select **[!UICONTROL Submit case]**.
+1. Select **[!UICONTROL Submit Case]**.
 
 
 
