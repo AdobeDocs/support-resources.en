@@ -1,11 +1,11 @@
 ---
-title: Value Tracker
+title: '[UICONTROL Value Tracker]'
 description: The [!UICONTROL Value Tracker] page provides a view of your [!UICONTROL Use Cases] organized by KBOs.
 ---
 
 # [!UICONTROL Value Tracker]
 
-The **[!UICONTROL Value Tracker]** page provides a view of **[!UICONTROL Use Cases]** organized by KBOs. You can filter which **[!UICONTROL Use Cases]** show up in this view by leveraging the filters at the top of the page.
+The **[!UICONTROL Value Tracker]** page provides a view of different **[!UICONTROL Use Cases]** organized by KBOs. You can filter which **[!UICONTROL Use Cases]** show up in this view by leveraging the filters at the top of the page.
 
 To access **[!UICONTROL Value Tracker]**, click the ![value-tracker-icon](/help/adobe-success-portal/assets/value-tracker-icon.png) icon on the left-hand navigation panel of the portal homepage. 
 

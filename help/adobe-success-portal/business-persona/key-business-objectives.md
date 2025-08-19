@@ -1,5 +1,5 @@
 ---
-title: Key Business Objectives
+title: '[UICONTROL Key Business Objectives]'
 description: /[!UICONTROL Key Business Objectives/] are high-level goals that a customer aims to achieve through their partnership with Adobe.
 ---
 

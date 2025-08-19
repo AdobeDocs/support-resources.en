@@ -1,5 +1,5 @@
 ---
-title: Engagement Plan
+title: '[UICONTROL Engagement Plan]'
 description: Discover how the [!UICONTROL Engagement Plan] enhances stakeholder visibility and communication by offering a centralized view of your Adobe account team and engagement options.
 ---
 

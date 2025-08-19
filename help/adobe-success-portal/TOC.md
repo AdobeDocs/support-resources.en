@@ -10,13 +10,13 @@ role: User, Admin
 
 # Adobe Success portal {#adobe-success-portal}
 
-- [Introduction to the Adobe Success portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Introduction to [!DNL Adobe Success] portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
 - Business Persona {#business-persona}
     - [Key functionalities for business persona](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
-    - [Key Business Objectives](/help/adobe-success-portal/business-persona/key-business-objectives.md)
-    - [Action Plan](/help/adobe-success-portal/business-persona/action-plan.md)
-    - [Value Tracker](/help/adobe-success-portal/business-persona/value-tracker.md)
-    - [Engagement Plan](/help/adobe-success-portal/business-persona/engagement-plan.md)
+    - [[!UICONTROL Key Business Objectives]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
+    - [[!UICONTROL Action Plan]](/help/adobe-success-portal/business-persona/action-plan.md)
+    - [[!UICONTROL Value Tracker]](/help/adobe-success-portal/business-persona/value-tracker.md)
+    - [[!UICONTROL Engagement Plan]](/help/adobe-success-portal/business-persona/engagement-plan.md)
 - Technical Persona {#technical-persona}
     - [Key functionalities for technical persona](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
     - Support and Insights {#support-and-insights}
