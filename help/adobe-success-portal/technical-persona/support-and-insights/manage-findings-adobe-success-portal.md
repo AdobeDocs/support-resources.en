@@ -14,7 +14,7 @@ Findings are Support Insights alerts shown in the Adobe Success portal. They hig
 
 **How are findings created?**
 
-Adobe teams regularly study the most common support issues and trends. Based on the insights they add new checks to the system. Once a day, the Success portal scans product data to detect issues – such as misconfigurations, stuck jobs, or anything that could lead to a system outage. If a check finds something outside the safe range (as defined by Adobe’s product and support teams), it shows up as a finding.  
+Adobe teams regularly study the most common support issues and trends. Based on the insights they add new checks to the system. Once a day, the [!DNL Adobe Success] portal scans product data to detect issues – such as misconfigurations, stuck jobs, or anything that could lead to a system outage. If a check finds something outside the safe range (as defined by Adobe’s product and support teams), it shows up as a finding.  
 
 **Why are findings important**
 
