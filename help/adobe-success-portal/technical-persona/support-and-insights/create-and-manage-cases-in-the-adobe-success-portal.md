@@ -10,7 +10,7 @@ This guide explains how to create, view, and download reports for cases in the [
 
 You can open a case from the Home tab or the **[!UICONTROL Support & Insights]** tab.
 
-To access the **[!UICONTROL Open case]** page from the Home tab:
+To access the **[!UICONTROL Open Case]** page from the Home tab:
 
 1. Go to the Home tab.
 1. Select **[!UICONTROL Open Case]**. 
@@ -35,7 +35,7 @@ To access the **[!UICONTROL Open case]** page from the Home tab:
 
 To access the **[!UICONTROL Open case]** page from the **[!UICONTROL Support & Insights]** tab.
 
-1. Go to the **[!UICONTROL Suppport & Insights]** tab.
+1. Go to the **[!UICONTROL Support & Insights]** tab.
 1. Select **[!UICONTROL Open case]**.
 
 
