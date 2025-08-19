@@ -22,3 +22,4 @@ Click a **[!UICONTROL Use Case]** card to open a detailed view featuring:
 * *Linked Adobe solutions*
 
 ![value-tracker-use-case-example](/help/adobe-success-portal/assets/value-tracker-use-case-example.png)
+
