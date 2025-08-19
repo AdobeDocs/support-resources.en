@@ -4,7 +4,7 @@ description: Learn how to manage cases in the [!DNL Adobe Success] portal.
 ---
 # Create and manage cases in the [!DNL Adobe Success] portal
 
-This guide explains how to create, view, and download reports for cases in the Adobe Success portal. 
+This guide explains how to create, view, and download reports for cases in the [!DNL Adobe Success] portal. 
 
 ## Open a case
 
