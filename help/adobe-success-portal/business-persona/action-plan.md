@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Action Plan]'
-description: [!UICONTROL Action Plan] offers a structured view of how your KBOs are being executed. It includes associated accelerators and activities that the Adobe team has planned, completed, or is actively working on to help you achieve your goals.
+description: /[!UICONTROL Action Plan/] offers a structured view of how your KBOs are being executed. It includes associated accelerators and activities that the Adobe team has planned, completed, or is actively working on to help you achieve your goals.
 ---
 
 # [!UICONTROL Action Plan]
