@@ -5,7 +5,7 @@ role: User, Admin
 type: Support
 ---
 
-# [!DNL Adobe Success] portal: customer FAQ
+# [!DNL Adobe Success] portal: Customer FAQ
 
  
 ## What is the scope of the [!DNL Adobe Success] portal?
@@ -20,7 +20,7 @@ The Alpha scope includes a curated set of features tailored to Ultimate customer
     * **[!UICONTROL Action Plan]** that tracks the status and progress of activities planned by your account team to drive your business goals 
     * **[!UICONTROL Value Tracker]** to demonstrate progress of the use cases identified and deployed across your Adobe solutions to drive your business goals 
     * **[!UICONTROL Engagement Plan]** to view the ways to engage with your account team and other Adobe resources  
-2. Support & Insights Features 
+1. [!UICONTROL Support & Insights] Features 
     These are geared toward technical users and include: 
     * Case management (open, manage, and review cases) 
     * Real-time system insights and proactive environment scanning 
