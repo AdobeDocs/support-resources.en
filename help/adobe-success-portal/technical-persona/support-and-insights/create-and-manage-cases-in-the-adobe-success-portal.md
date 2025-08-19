@@ -65,7 +65,7 @@ To access the **[!UICONTROL View cases]** page from the Home tab:
 
    >[!NOTE]
    >
-   > You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]** links.
+   >You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]** links.
 
 
 
@@ -96,7 +96,7 @@ To download PDF reports on your cases:
 
    >[!NOTE]
    >
-   > You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with links to **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**.
+   >You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with links to **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**.
 
    ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
 
