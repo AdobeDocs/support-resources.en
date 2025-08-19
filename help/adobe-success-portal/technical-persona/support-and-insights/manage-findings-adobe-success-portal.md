@@ -29,7 +29,7 @@ Each finding includes recommendations and clear instructions on how to resolve t
 
 To view insights for a product: 
 
-1. Navigate to **[!UICONTROL Support and Insights]**. 
+1. Navigate to **[!UICONTROL Support & Insights]**. 
 1. Select the relevant product card. Select the **[!UICONTROL Findings]** tab. 
 
      ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
