@@ -1,5 +1,5 @@
 ---
-title: '[UICONTROL Value Tracker]'
+title: '[!UICONTROL Value Tracker]'
 description: The [!UICONTROL Value Tracker] page provides a view of your [!UICONTROL Use Cases] organized by KBOs.
 ---
 
