@@ -2,7 +2,7 @@
 title: Access the [!DNL Adobe Success] portal 
 description: Learn how to manage cases in the [!DNL Adobe Success] portal. 
 ---
-# Access the Adobe Success portal 
+# Access the [!DNL Adobe Success] portal 
 
 This guide explains how to log in to the Adobe Success portal and receive assistance if you encounter access issues. 
 
