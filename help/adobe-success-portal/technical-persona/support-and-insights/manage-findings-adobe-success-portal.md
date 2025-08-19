@@ -10,7 +10,7 @@ The [!DNL Adobe Success] portal **[!UICONTROL Findings]** page displays issues o
 
 **What are findings?**
 
-Findings are Support Insights alerts shown in the Adobe Success portal. They highlight potential issues in your Adobe product setup – such as performance slowdowns, security risks, or incorrect configurations. These alerts are based on telemetry data collected from tools like APIs, [!DNL New Relic], and [!DNL Splunk].  
+Findings are Support Insights alerts shown in the [!DNL Adobe Success] portal. They highlight potential issues in your Adobe product setup – such as performance slowdowns, security risks, or incorrect configurations. These alerts are based on telemetry data collected from tools like APIs, [!DNL New Relic], and [!DNL Splunk].  
 
 **How are findings created?**
 
