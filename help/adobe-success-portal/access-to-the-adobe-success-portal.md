@@ -1,5 +1,5 @@
 ---
-title: Access the Adobe Success portal 
+title: Access the [!DNL Adobe Success] portal 
 description: Learn how to manage cases in the Adobe Success portal. 
 ---
 # Access the Adobe Success portal 
