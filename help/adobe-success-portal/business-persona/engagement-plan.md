@@ -28,3 +28,4 @@ This tab outlines the structure of your engagement with your Adobe team, includi
 This tab provides a catalog of available **[!UICONTROL Accelerators]** included in your subscription. Review offerings and coordinate with your Adobe account team to request an accelerator engagement.
 
 ![engagement-plan-accelerator-catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)
+
