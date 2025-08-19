@@ -24,7 +24,10 @@ The Alpha scope includes a curated set of features tailored to Ultimate customer
     * Real-time system insights and proactive environment scanning 
     * Adobe status alerts 
  
-To learn more about the [!DNL Adobe Success] portal, please reference the Portal Overview Guide.
+To learn more about the [!DNL Adobe Success] portal, please reference the [!UICONTROL Portal Overivew Guide]:
+
+* [[!UICONTROL Portal Overivew Guide] for Technical Users](https://experienceleague.adobe.com/en/docs/support-resources/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona)
+* [[!UICONTROL Portal Overivew Guide] for Business Users](https://experienceleague.adobe.com/en/docs/support-resources/adobe-success-portal/business-persona/key-functionalities-for-business-persona)
 
 ## How do I get access to the portal?
 
