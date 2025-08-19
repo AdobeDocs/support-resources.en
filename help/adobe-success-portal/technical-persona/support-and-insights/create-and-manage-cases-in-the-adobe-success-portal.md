@@ -33,10 +33,10 @@ To access the **[!UICONTROL Open Case]** page from the Home tab:
 
 
 
-To access the **[!UICONTROL Open case]** page from the **[!UICONTROL Support & Insights]** tab.
+To access the **[!UICONTROL Open Case]** page from the **[!UICONTROL Support & Insights]** tab.
 
 1. Go to the **[!UICONTROL Support & Insights]** tab.
-1. Select **[!UICONTROL Open case]**.
+1. Select **[!UICONTROL Open Case]**.
 
 
 
