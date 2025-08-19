@@ -4,7 +4,7 @@ description: This guide explains how to access, interpret, and act on findings i
 ---
 # Manage findings in the Adobe Success portal
 
-This guide explains how to access, interpret, and act on findings in the Adobe Success Portal to help you proactively manage product performance, security, and functionality risks. 
+This guide explains how to access, interpret, and act on findings in the [!DNL Adobe Success] portal to help you proactively manage product performance, security, and functionality risks. 
 
 The Adobe Success portal **[!UICONTROL Findings]** page displays issues or risks detected in your Adobe product instance. Findings include performance, security, and functionality issues, along with their status and risk level. Monitoring this page helps you address problems early – before they affect your environments. 
 
