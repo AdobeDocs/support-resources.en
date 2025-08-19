@@ -53,7 +53,11 @@ To view insights for a product:
  
 ## Action findings 
 
-Follow these steps to validate whether each finding is still applicable or can be dismissed. Note: Standard checks are run on your instances. If the checks do not find that the issue is present in your instance there is a status of **[!UICONTROL Not Detected]**. 
+Follow these steps to validate whether each finding is still applicable or can be dismissed. 
+
+>[!NOTE]: 
+>
+>Standard checks are run on your instances. If the checks do not find that the issue is present in your instance there is a status of **[!UICONTROL Not Detected]**. 
 
 1. Navigate to **[!UICONTROL Support & Insights]**. 
 1. Select the relevant product card. 
