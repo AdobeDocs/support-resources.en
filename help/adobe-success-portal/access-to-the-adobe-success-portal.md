@@ -10,7 +10,7 @@ You will receive a notification from the [!DNL Adobe Success] portal team confir
 
 1. Go to https://experience.adobe.com/. 
 1. Sign in with your Adobe ID. 
-1. Select the Success portal (Alpha) icon.
+1. Select the [!DNL Adobe Success] portal (Alpha) icon.
 
     ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
