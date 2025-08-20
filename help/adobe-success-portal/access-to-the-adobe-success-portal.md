@@ -9,9 +9,9 @@ This guide explains how to log in to the [!DNL Adobe Success] portal and receive
 
 You will receive a notification from the **[!UICONTROL Success]** portal team confirming your access. This message will include login details.   
 
-1. Go to https://experience.adobe.com/. 
+1. Go to [https://experience.adobe.com/](https://experience.adobe.com/). 
 1. Sign in with your Adobe ID. 
-1. Select the [!DNL Adobe Success] portal (Alpha) icon.
+1. Select the **[!UICONTROL Success portal (Alpha)]** icon.
 
     ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
