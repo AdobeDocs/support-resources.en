@@ -1,6 +1,6 @@
 ---
 title: Glossary
-description: A collection of key terminologies within the Adobe Success portal and their definitions.
+description: A collection of key terminologies within the [!DNL Adobe Success] portal and their definitions.
 exl-id: 76bb7345-6827-4a42-9784-441f2875435e
 ---
 # Glossary
