@@ -1,6 +1,7 @@
 ---
 title: Create and manage cases in the [!DNL Adobe Success] portal
 description: Learn how to manage cases in the [!DNL Adobe Success] portal.
+exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
 ---
 # Create and manage cases in the [!DNL Adobe Success] portal
 

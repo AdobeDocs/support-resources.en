@@ -1,6 +1,7 @@
 ---
-title: Manage findings in the [!DNL Adobe Success] portal 
+title: Manage findings in the [!DNL Adobe Success] portal
 description: This guide explains how to access, interpret, and act on findings in the [!DNL Adobe Success] Portal to help you proactively manage product performance, security, and functionality risks.
+exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
 ---
 # Manage findings in the [!DNL Adobe Success] portal
 
@@ -87,8 +88,4 @@ The **[!UICONTROL Findings]** page lists recommendations with the following risk
 
 * Address **[!UICONTROL High risk]** findings promptly, as they pose critical threats. 
 * Resolve **[!UICONTROL Elevated]** risk issues soon to avoid escalation. 
-* Monitor **[!UICONTROL Medium]** risk findings regularly and act as needed. 
-
-   
-
-
+* Monitor **[!UICONTROL Medium]** risk findings regularly and act as needed.

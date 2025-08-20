@@ -1,6 +1,7 @@
 ---
-title: Access the [!DNL Adobe Success] portal 
-description: Learn how to manage cases in the [!DNL Adobe Success] portal. 
+title: Access the [!DNL Adobe Success] portal
+description: Learn how to manage cases in the [!DNL Adobe Success] portal.
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
 ---
 # Access the [!DNL Adobe Success] portal 
 
@@ -38,5 +39,3 @@ You can use the **[!UICONTROL Alpha Feedback]** button on the portal to submit f
 >The feedback tool is not a dedicated support channel. It is not suitable for urgent login issues.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
