@@ -83,7 +83,7 @@ Follow these steps to validate whether each finding is still applicable or can b
 
 ## Best practices
 
-The **[!UICONTROL Findings]** page lists recommendations with the following risk levels: **[!UICONTROL High]**, **[!UICONTROL Elevated]**, and **[!UICONTROL Medium]. *[!UICONTROL High]** is critical, *[!UICONTROL Elevated]** is urgent, and **[!UICONTROL Medium]** is noncritical. To maintain site health and performance: 
+The **[!UICONTROL Findings]** page lists recommendations with the following risk levels: **[!UICONTROL High]**, **[!UICONTROL Elevated]**, and **[!UICONTROL Medium]**. **[!UICONTROL High]** is critical, **[!UICONTROL Elevated]** is urgent, and **[!UICONTROL Medium]** is noncritical. To maintain site health and performance: 
 
 Address **[!UICONTROL High risk]** findings promptly, as they pose critical threats. 
 Resolve **[!UICONTROL Elevated]** risk issues soon to avoid escalation. 
