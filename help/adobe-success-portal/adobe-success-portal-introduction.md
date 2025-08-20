@@ -1,11 +1,11 @@
 ---
-title: Introduction to the Adobe Success portal
-description: Adobe Success portal is a unified portal for customers to submit cases, view ticket progress, access support, and planning tools.
+title: Introduction to [!DNL Adobe Success] portal
+description: /[!DNL Adobe Success/] portal is a unified portal for customers to submit cases, view ticket progress, access support, and planning tools.
 exl-id: 546db101-b9d4-43f4-a513-a46b955280de
 ---
-# Introduction to the Adobe Success portal
+# Introduction to [!DNL Adobe Success] portal
 
-The Adobe Success portal is your personalized hub for managing your journey with Adobe. It brings together support, success planning, and progress tracking in one place - making it easier to find answers, stay informed, and achieve your goals. 
+[!DNL Adobe Success] portal is your personalized hub for managing your journey with Adobe. It brings together support, success planning, and progress tracking in one place - making it easier to find answers, stay informed, and achieve your goals. 
 
 ![adobe-success-portal-homepage](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
