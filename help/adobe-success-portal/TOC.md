@@ -10,7 +10,7 @@ role: User, Admin
 
 # Adobe Success portal {#adobe-success-portal}
 
-- [Introduction to the [!DNL Adobe Success] portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Introduction to [!DNL Adobe Success] portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
 - [Access to the [!DNL Adobe Success] portal](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
 - [Customer FAQ](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - Business Persona {#business-persona}

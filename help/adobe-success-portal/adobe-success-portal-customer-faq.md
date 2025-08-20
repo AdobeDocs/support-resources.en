@@ -28,7 +28,7 @@ To learn more about the [!DNL Adobe Success] portal, please reference the [[!UIC
 
 ## How do I get access to the portal?
 
-The [!DNL Adobe Success] portal is hosted on Adobe Experience Cloud. Access to Experience Cloud is required to access the [!DNL Adobe Success] portal, which is set at the IMS organization level. See [this guide](https://adobe.sharepoint.com/:b:/r/sites/PPSO/Team Document Library/Ultimate_Portal/External Documentation/Success portal Alpha Customer Documents/Access to the Adobe Success portal.pdf?csf=1&web=1&e=RQZack) for steps on how to access the portal. 
+The [!DNL Adobe Success] portal is hosted on Adobe Experience Cloud. Access to Experience Cloud is required to access the [!DNL Adobe Success] portal, which is set at the IMS organization level. See [this guide](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) for steps on how to access the portal. 
  
 Portal access for the Alpha is limited to a predefined list of users who have been identified to participate in the Alpha program. To learn more about who from your organization has access, and to request additional users be provided with access, please reach out to the Product team using [the Alpha Teams channel](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1). 
  

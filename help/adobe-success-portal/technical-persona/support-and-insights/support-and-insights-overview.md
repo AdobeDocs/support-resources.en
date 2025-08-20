@@ -5,17 +5,17 @@ exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 ---
 # Support and Insights Overview
 
-The **[!UICONTROL Support & Insights]** dashboard of the Adobe Success portal provides access to technical resources, environment scan findings, and case management tools. It displays all your Adobe solutions as individual product tiles.
-
-Use the *filter* dropdown at the top of the page to focus on a specific product.
+The **[!UICONTROL Support & Insights]** dashboard of the [!DNL Adobe Success] portal provides access to technical resources, environment scan findings, and case management tools. It displays all your Adobe solutions as individual product tiles.
 
 To access this page, click the ![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) icon directly from the left-hand navigation panel of the portal homepage.
 
 ![support-and-insights-landing-page](/help/adobe-success-portal/assets/support-and-insights-landing-page.png)
 
+Use the *filter* dropdown at the top of the page to focus on a specific product.
+
 Each product tile features key metrics, such as **[!UICONTROL Findings]**, **[!UICONTROL Open and Closed Cases]**, and **[!UICONTROL Major Issues]**. You can click on any of these metrics to navigate directly to its dedicated sub-section, where you can explore detailed support insights related to your product. 
 
-## Snapshot {#snapshot}
+## [!UICONTROL Snapshot] {#snapshot}
 
 The **[!UICONTROL Snapshot]** tab offers executive analyses into your cases, findings, and alerts. To access this tab, click the *product name* on any tile. 
 
@@ -25,11 +25,11 @@ The **[!UICONTROL View all]** button within each analysis takes you to the corre
 
 ![snapshot-tab](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## Findings {#findings}
+## [!UICONTROL Findings] {#findings}
 
 The **[!UICONTROL Findings]** tab highlights issues detected across performance, security, and functionality. Entries are flagged based on risk level, status, and time since the last scan. 
 
-Click on an entry in the list to view its status, risk level, cause, symptoms, and our recommendations to address it. For more information, refer to our documentation on [Manage findings in Adobe Success portal].
+Click on an entry in the list to view its status, risk level, cause, symptoms, and our recommendations to address it. For more information, refer to our documentation on [Manage findings in [!DNL Adobe Success] portal](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md).
 
 ![findings-tab](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
@@ -37,7 +37,7 @@ Navigate to this page directly from a product tile on the **[!UICONTROL Support 
 
 ![findings-from-support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
-## Case Management {#case-management}
+## [!UICONTROL Case Management] {#case-management}
 
 The **[!UICONTROL Case Management]** tab displays a list of open and closed cases. Click on a *[!UICONTROL Case Number]* to view additional details about the issue and manage case-related actions directly.  
 
