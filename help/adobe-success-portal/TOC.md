@@ -1,6 +1,6 @@
 ---
-user-guide-title: Adobe Success portal Resources
-user-guide-description: Explore various Adobe Success portal Resources for more details.
+user-guide-title: Adobe Success portal
+user-guide-description: Explore various resources related to Adobe Success portal for more details.
 feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation

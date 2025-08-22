@@ -11,7 +11,7 @@ To go to **[!UICONTROL Action Plan]**, click the ![action-plan-icon](/help/adobe
 
 The page is organized into two primary tabs:
 
-## 1. [!UICONTROL Key Business Objectives]
+## [!UICONTROL Key Business Objectives]
 
 This tab displays all your KBOs with their corresponding accelerators and activities.
 
@@ -19,18 +19,18 @@ This tab displays all your KBOs with their corresponding accelerators and activi
 
 Click on a KBO from the list to open the detailed view of the objective. You can also select a linked **[!UICONTROL Activity]** or an **[!UICONTROL Accelerator]** to view information specific to it, such as:
 
-* A description
+* Description
 * Current status
 * Planned or actual completion date
 * Adobe stakeholders involved
 
 ![action-plan-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## 2. [!UICONTROL Activities]
+## [!UICONTROL Activities]
 
 This tab displays a list of activities that are not tied to any KBOs. Each activity includes: 
 
-* A description
+* Description
 * Current status
 * Adobe stakeholders involved 
 
