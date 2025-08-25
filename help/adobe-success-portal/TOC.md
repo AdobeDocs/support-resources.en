@@ -5,6 +5,7 @@ feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
 hide: true
+index: false
 role: User, Admin
 ---
 
