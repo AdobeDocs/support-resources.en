@@ -24,7 +24,7 @@ _Sep 11, 2025_
 * **[!UICONTROL Next Steps]**: Displays the next actions captured for the activity.
 * **[!UICONTROL Adobe Solutions]**: Indicates the Adobe solutions related to the activity.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the **[!UICONTROL Key Business Objectives]** and **[!UICONTROL Activities]** pages within **[!UICONTROL Action Plan]** to display completion dates for each accelerator and activity, improving visibility into timelines.```
+![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the **[!UICONTROL Key Business Objectives]** and **[!UICONTROL Activities]** pages within **[!UICONTROL Action Plan]** to display completion dates for each accelerator and activity, improving visibility into timelines.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Improved how **[!UICONTROL Use Cases]** are displayed on the **[!UICONTROL KBO Details]** page to ensure a cleaner design, better usability, and consistent navigation.
 
