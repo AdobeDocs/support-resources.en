@@ -27,3 +27,5 @@ role: User, Admin
         - [Create and manage cases in the [!DNL Adobe Success] portal](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
         - [Manage findings in the [!DNL Adobe Success] portal](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [Glossary](/help/adobe-success-portal/glossary.md)
+- [Release Notes](/help/adobe-success-portal/release-notes.md)
+
