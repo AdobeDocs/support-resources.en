@@ -16,17 +16,17 @@ These release notes contain updates to the [!DNL Adobe Success portal] and inclu
 
 _Sep 11, 2025_
 
-![New](../adobe-success-portal/assets/new.svg) Added the following fields to the **[!UICONTROL Activities Details Page]**:
+![New](../adobe-success-portal/assets/new.svg) Added the following fields to the **[!UICONTROL Activities Details]** page:
 
-* **[!UICONTROL Priority]**: Indicates the priority level of an activity. Available values are *Urgent*, *High*, *Normal*, *Low*, and *None*. If the value is *None*, the **[!UICONTROL Priority]** field won't be visible on the UCP UI.
+* **[!UICONTROL Priority]**: Indicates the priority level of an activity. Available values are *Urgent*, *High*, *Normal*, *Low*, and *None*. If the value is *None*, the **[!UICONTROL Priority]** field won't be visible in the portal's UI.
 * **[!UICONTROL Adobe Owner]**: Displays the designated Adobe owner of the activity.
 * **[!UICONTROL Client Owner]**: Displays the owner from the customer side.
 * **[!UICONTROL Next Steps]**: Displays the next actions captured for the activity.
 * **[!UICONTROL Adobe Solutions]**: Indicates the Adobe solutions related to the activity.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the **[!UICONTROL Action Plan KBO]** and **[!UICONTROL Activities]** page to display the completion dates for each accelerator and activity, improving visibility into timelines.
+![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the **[!UICONTROL Key Business Objectives]** and **[!UICONTROL Activities]** pages within **[!UICONTROL Action Plan]** to display completion dates for each accelerator and activity, improving visibility into timelines.```
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Improved how **[!UICONTROL Use Cases]** are displayed on the **[!UICONTROL KBO Details]** page to ensure a cleaner design, better usability, and consistent navigation.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Fixed the issue where Ctrl+Click (or Command+Click on Mac) on case links didn't open the link in a new tab.
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed the issue where **Ctrl+Click** (or **Command+Click** on Mac) on case links didn't open the link in a new tab.
 
