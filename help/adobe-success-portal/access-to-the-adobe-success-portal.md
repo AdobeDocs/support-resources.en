@@ -13,13 +13,13 @@ You will receive a notification from the **[!UICONTROL Success]** portal team co
 1. Sign in with your Adobe ID. 
 1. Select the **[!UICONTROL Success portal (Alpha)]** icon.
 
-    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
+    ![Icon and label for Success Portal (Alpha)](assets/alpha-success-portal-alpha.png "Access Success portal (Alpha)")
 
 
 
 1. Once logged in, you see five tabs: 
 
-    ![adobe-success-portal-tabs](assets/adobe-success-portal-tabs.png)
+    ![Sidebar of the Adobe Success Portal interface](assets/adobe-success-portal-tabs.png "Sidebar tabs")
 
 
    * Home  
@@ -38,4 +38,4 @@ You can use the **[!UICONTROL Alpha Feedback]** button on the portal to submit f
 >
 >The feedback tool is not a dedicated support channel. It is not suitable for urgent login issues.
 
-![adobe-success-portal-home](assets/adobe-success-portal-home.png)
+![Alpha Feedback button on the portal to submit feedback](assets/adobe-success-portal-home.png "Alpha Feedback button")
