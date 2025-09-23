@@ -17,7 +17,7 @@ To access the **[!UICONTROL Open Case]** page from the Home tab:
 1. Select **[!UICONTROL Open Case]**. 
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   ![Open Case button in the create a new case section of Adobe Success Portal](../../assets/adobe-success-portal-home-page-open-case.png "Open case button")
 
 
 
@@ -29,7 +29,7 @@ To access the **[!UICONTROL Open Case]** page from the Home tab:
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   ![Submit Case button at the bottom of the support ticket form in Adobe Success Portal](../../assets/adobe-success-portal-submit-case.png "Submit your support request")
 
 
 
@@ -41,7 +41,7 @@ To access the **[!UICONTROL Open Case]** page from the **[!UICONTROL Support & I
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   ![Open Case button in the create a new case section of Adobe Success Portal](../../assets/adobe-success-portal-support-insights-open-case.png "Open case button")
 
 
 
@@ -58,7 +58,7 @@ To access the **[!UICONTROL View Cases]** page from the Home tab:
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![View Cases button in the Create a New Case section of Adobe Success Portal](../../assets/adobe-success-portal-view-cases.png "View your existing support cases")
 
 
 
@@ -70,7 +70,7 @@ To access the **[!UICONTROL View Cases]** page from the Home tab:
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Open and Closed Cases indicators in the Support & Insights section for AEM Cloud Service – Assets](../../assets/adobe-success-portal-open-case-closed-case.png "View summary of open and closed support cases")
 
 
 
@@ -78,7 +78,7 @@ To access the **[!UICONTROL View Cases]** page from the Home tab:
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Case Number link in the support cases of Adobe Success Portal](../../assets/adobe-success-portal-case-number.png "Click to view case details")
 
 
 
@@ -90,7 +90,7 @@ To download PDF reports on your cases:
 1. Select **[!UICONTROL View Cases]**.
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![View Cases button in the Create a New Case section of Adobe Success Portal](../../assets/adobe-success-portal-view-cases.png "View your existing support cases")
 
 
 1. Select the product card you want to view, then choose **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**. 
@@ -99,8 +99,8 @@ To download PDF reports on your cases:
    >
    >You can also select the **[!UICONTROL Support & Insights]** tab to quickly access product cards with links to **[!UICONTROL Open Cases]** or **[!UICONTROL Closed Cases]**.
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Open and Closed Cases indicators in the Support & Insights section for AEM Cloud Service – Assets](../../assets/adobe-success-portal-open-case-closed-case.png "View summary of open and closed support cases")
 
 1. On the [Product] - Support Cases page, select the checkbox next to the case you want to download and select **[!UICONTROL Download Cases]**.
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   ![Download Cases button in the Case Management section of Adobe Success Portal](../../assets/adobe-success-portal-download-cases.png "Download support case data")
