@@ -2,8 +2,8 @@
 title: Adobe Success portal Release Notes
 description: The latest release information for the [!DNL Adobe Success portal].
 feature: Release Notes
+exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
 ---
-
 # [!DNL Adobe Success portal] Release Notes
 
 These release notes contain updates to the [!DNL Adobe Success portal] and includes:
@@ -29,4 +29,3 @@ _Sep 11, 2025_
 ![Fix](../adobe-success-portal/assets/fix.svg) Improved how **[!UICONTROL Use Cases]** are displayed on the **[!UICONTROL KBO Details]** page to ensure a cleaner design, better usability, and consistent navigation.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Fixed the issue where **Ctrl+Click** (or **Command+Click** on Mac) on case links didn't open the link in a new tab.
-
