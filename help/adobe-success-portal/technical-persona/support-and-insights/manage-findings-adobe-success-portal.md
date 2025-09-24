@@ -33,23 +33,23 @@ To view insights for a product:
 1. Navigate to **[!UICONTROL Support & Insights]**. 
 1. Select the relevant product card. Select the **[!UICONTROL Findings]** tab. 
 
-     ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+     ![Adobe Success Portal highlighting Findings under AEM as Cloud Service - Assets with 3 listed items](../../assets/asp-support-inisghts-findings.png "View findings for AEM Assets in Cloud Service")
 
 
 1. You see a list of all findings for your selected product.
 
-     ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+     ![Adobe Success Portal showing Findings tab for AEM Cloud Service - Assets with caching issues listed](../../assets/adobe-success-portal-findings.png "View caching-related findings for AEM Assets in Cloud Service")
 
 1. From here, you can:
 
-     ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+     ![Adobe Success Portal interface highlighting search bar, download button, and a severe-risk finding under AEM Sites](../../assets/adobe-success-portal-download.png "Search, download, or view findings for AEM Sites in Cloud Service")
 
     * Search for specific entries. 
     * Export the list of findings by selecting **[!UICONTROL Download Findings]**. To export a report for one finding, select the checkbox next to the relevant finding under the column **[!UICONTROL Finding Name]**. If you do not select a finding, the PDF by default contains a list of all findings.  
     * See details on a finding, including a recommended resolution by selecting a finding under **[!UICONTROL Finding Name]**. The Finding details page displays the selected finding with additional context and a recommendation. To see this report select the download arrow. 
 
 
-      ![findings-details](../../assets/findings-details.png)
+      ![Download button for exporting Finding details in Adobe Success Portal](../../assets/findings-details.png "Download this Finding's report")
 
  
 ## Action findings 
@@ -66,7 +66,7 @@ Follow these steps to validate whether each finding is still applicable or can b
 1. Select an entry under **[!UICONTROL Finding Name]**. On the Finding details page you can: 
     * Select **[!UICONTROL Validate]** to check if the issue is still present (the **[!UICONTROL Validate]** button is designed as confirmation that the issue has been resolved): 
 
-     ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+     ![Validate button in the Findings panel to confirm issue resolution in Adobe Success Portal](../../assets/adobe-success-portal-validate.png "Validate button")
 
 
    * If the issue is still present the following message displays: *[!UICONTROL Validation complete. Finding still detected]*. Use the information and recommendation on the Finding details page to investigate and resolve.  
