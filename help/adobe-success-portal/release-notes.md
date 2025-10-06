@@ -31,7 +31,7 @@ _Oct 07, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Search added inside filters on Action Plan and Outcome Tracker for faster navigation.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Subscribe or unsubscribe to status alerts directly in the success portal without leaving the app.
+![Fix](../adobe-success-portal/assets/fix.svg) Enabled **Subscribe/Unsubscribe** to status alerts directly in the success portal without leaving the app.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Added tooltips to each finding for quick context.
 
