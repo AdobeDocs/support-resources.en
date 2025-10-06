@@ -16,7 +16,7 @@ These release notes contain updates to the [!DNL Adobe Success portal] and inclu
 
 _Oct 07, 2025_
 
-![New](../adobe-success-portal/assets/new.svg) Introduced a new Calendar View in the **[!UICONTROL Action Plan]** module along with following features:
+![New](../adobe-success-portal/assets/new.svg) Added a **[!UICONTROL Calendar View]** to the **[!UICONTROL Action Plan]** module for visualizing timelines of **[!UICONTROL Accelerators]** and **[!UICONTROL Activities]** linked to **[!UICONTROL Key Business Objectives]** (KBOs).
 * Open the calendar from the KBO page or any linked `KBO/Accelerator/Activity` detail page.
 * Switch between **[!UICONTROL List View]** (default) and **[!UICONTROL Calendar View]**.
 * Calendar displays collapsible sections for each KBO: 
