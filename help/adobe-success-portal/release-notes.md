@@ -19,7 +19,9 @@ _Oct 07, 2025_
 ![New](../adobe-success-portal/assets/new.svg) Introduced a new Calendar View in the **[!UICONTROL Action Plan]** module along with following features:
 * Open the calendar from the KBO page or any linked `KBO/Accelerator/Activity` detail page.
 * Switch between List View (default) and Calendar View.
-* View KBOs with collapsible sections: blue for Accelerators, green for Activities.
+* Calendar displays collapsible sections for each KBO: 
+  Blue for [!UICONTROL Accelerators] 
+  Green for [!UICONTROL Activities]
 * Each accelerator/activity shows name, status, and start/end dates (formatted as *Month XX*, *YYYY*).
 * Clickable event cards link to detail pages, with a back button to return to the calendar.
 * Events are color-coded: blue for Accelerators, green for Activities. Scroll vertically through KBOs and horizontally by week or month.
