@@ -29,7 +29,7 @@ _Oct 07, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the Key Business Objectives and Activities pages in Action Plan to show tooltips on completion dates, improving timeline visibility.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Search added inside filters on Action Plan and Outcome Tracker for faster navigation.
+![Fix](../adobe-success-portal/assets/fix.svg) Search added inside filters on [!UICONTROL Action Plan] and [!UICONTROL Outcome Tracker] for faster navigation.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Enabled **Subscribe/Unsubscribe** to status alerts directly in the success portal without leaving the app.
 
