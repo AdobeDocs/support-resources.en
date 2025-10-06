@@ -25,7 +25,7 @@ _Oct 07, 2025_
 * Each accelerator/activity shows name, status, and start/end dates (formatted as *Month XX*, *YYYY*).
 * Clickable event cards link to detail pages, with a back button to return to the calendar.
 * Events are color-coded: blue for [!UICONTROL Accelerators], green for [!UICONTROL Activities]. Scroll vertically through KBOs and horizontally by week or month.
-* Tooltips show full names when text is cut off; the timeline stays visible while scrolling.
+* Tooltips show full names when text is truncated, and the timeline stays visible while scrolling.
 * Default view is the current week; navigation arrows allow to move between weeks.
 * Month view provides a clear timeline of ongoing and planned work.
 
