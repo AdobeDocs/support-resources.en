@@ -29,7 +29,7 @@ _Oct 07, 2025_
 * Default view is the current week; navigation arrows allow to move between weeks.
 * Month view provides a clear timeline of ongoing and planned work.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the Key Business Objectives and Activities pages in Action Plan to show tooltips on completion dates, improving timeline visibility.
+![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the [!UICONTROL Key Business Objectives] and [!UICONTROL Activities] pages in [!UICONTROL Action Plan] to show tooltips on completion dates, improving timeline visibility.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Search added inside filters on [!UICONTROL Action Plan] and [!UICONTROL Outcome Tracker] for faster navigation.
 
