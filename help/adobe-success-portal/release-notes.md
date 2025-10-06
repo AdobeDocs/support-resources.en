@@ -39,7 +39,7 @@ _Oct 07, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Shows all Strategic Partners associated with an account, with indicators for primary contacts.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the time zones in Adobe status alerts did not reflect the logged-in user’s profile correctly.
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the time zones in [!UICONTROL Alerts & Adobe Status] did not reflect the logged-in user’s profile correctly.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where filters in Adobe Status Alerts did not work together as expected.
 
