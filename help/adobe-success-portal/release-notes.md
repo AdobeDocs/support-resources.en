@@ -26,7 +26,7 @@ _Oct 07, 2025_
 * Clickable event cards link to detail pages, with a back button to return to the calendar.
 * Events are color-coded: blue for [!UICONTROL Accelerators], green for [!UICONTROL Activities]. Scroll vertically through KBOs and horizontally by week or month.
 * Tooltips show full names when text is cut off; the timeline stays visible while scrolling.
-* Week view is default, showing the current week with navigation arrows.
+* Default view is the current week; navigation arrows allow to move between weeks.
 * Month view provides a clear timeline of ongoing and planned work.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the Key Business Objectives and Activities pages in Action Plan to show tooltips on completion dates, improving timeline visibility.
