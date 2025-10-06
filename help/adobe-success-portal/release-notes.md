@@ -21,7 +21,7 @@ _Oct 07, 2025_
 * Switch between List View (default) and Calendar View.
 * View KBOs with collapsible sections: blue for Accelerators, green for Activities.
 * Each Accelerator/Activities shows name, status, and start/end dates (Month XX, YYYY).
-* Clicking an event card opens its detail page, with a back button to return to the calendar.
+* Clickable event cards link to detail pages, with a back button to return to the calendar.
 * Events are color-coded: blue for Accelerators, green for Activities. Scroll vertically through KBOs and horizontally by week or month.
 * Tooltips show full names when text is cut off; the timeline stays visible while scrolling.
 * Week view is default, showing the current week with navigation arrows.
