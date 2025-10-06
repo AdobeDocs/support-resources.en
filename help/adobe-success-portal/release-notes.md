@@ -20,7 +20,7 @@ _Oct 07, 2025_
 * Open the calendar from the KBO page or any linked `KBO/Accelerator/Activity` detail page.
 * Switch between List View (default) and Calendar View.
 * View KBOs with collapsible sections: blue for Accelerators, green for Activities.
-* Each Accelerator/Activities shows name, status, and start/end dates (Month XX, YYYY).
+* Each accelerator/activity shows name, status, and start/end dates (formatted as *Month XX*, *YYYY*).
 * Clickable event cards link to detail pages, with a back button to return to the calendar.
 * Events are color-coded: blue for Accelerators, green for Activities. Scroll vertically through KBOs and horizontally by week or month.
 * Tooltips show full names when text is cut off; the timeline stays visible while scrolling.
