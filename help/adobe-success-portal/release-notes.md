@@ -45,7 +45,7 @@ _Oct 07, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the sorting of [!UICONTROL Use Cases] on KBO Details and Outcome Tracker pages was inconsistent.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the tooltip on the case list page failed to reveal the full case name when hovering over a case title.
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the tooltip on the case list page did not reveal the full case name when hovering over a case title.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the back arrow icon appeared incorrectly in the Safari browser.
 
