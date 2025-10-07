@@ -39,7 +39,7 @@ _Oct 07, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Added Adobe branding to PDFs downloaded from Findings and Cases.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Shows all **Strategic Partners** associated with an account, with indicators for primary contacts.
+![Fix](../adobe-success-portal/assets/fix.svg) Shows all **[!UICONTROL Strategic Partners]** associated with an account, with indicators for primary contacts.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the time zones in **[!UICONTROL Alerts & Adobe Status]** did not reflect the logged-in user’s profile correctly.
 
