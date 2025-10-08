@@ -17,13 +17,13 @@ These release notes contain updates to the [!DNL Adobe Success portal] and inclu
 _Oct 07, 2025_
 
 ![New](../adobe-success-portal/assets/new.svg) Added a Calendar View to the **[!UICONTROL Action Plan]** module for visualizing timelines of **[!UICONTROL Accelerators]** and **[!UICONTROL Activities]** linked to **[!UICONTROL Key Business Objectives]** (KBOs).
-* Open the calendar from the KBO page or any linked `KBO/Accelerator/Activity` detail page.
+* Access the calendar from the Action Plan KBO page or from **[!UICONTROL KBO]**/**[!UICONTROL Accelerator]**/**[!UICONTROL Activity]** detail pages (only if they are linked to a KBO).
 * Switch between List view (default) and Calendar view.
 * Calendar displays collapsible sections for each KBO: 
   * Blue for **[!UICONTROL Accelerators]** 
   * Green for **[!UICONTROL Activities]**
 * Each **[!UICONTROL Accelerators]**/ **[!UICONTROL Activities]** shows name, status, and start/end dates (formatted as *Month XX*, *YYYY*).
-* Clicking an event card opens a page with event details. Clicking the Back button returns you to the calendar. 
+* Clicking an event card opens a page with event details. Clicking the Back button returns you to the . 
 * Events are color-coded: blue for **[!UICONTROL Accelerators]**, green for **[!UICONTROL Activities]**. Scroll vertically through KBOs and horizontally by week or month.
 * Tooltips show full names when text is truncated, and the timeline stays visible while scrolling.
 * Default view is the current week; navigation arrows allow to move between weeks.
