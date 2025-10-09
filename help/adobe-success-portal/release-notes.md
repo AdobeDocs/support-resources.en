@@ -12,6 +12,44 @@ These release notes contain updates to the [!DNL Adobe Success portal] and inclu
 ![Fix](../adobe-success-portal/assets/fix.svg) - Fixes and improvements
 ![Bug](../adobe-success-portal/assets/bug.svg) - Known issues
 
+## 3.0 
+
+_Oct 09, 2025_
+
+![New](../adobe-success-portal/assets/new.svg) Added a Calendar View to the **[!UICONTROL Action Plan]** module for visualizing timelines of **[!UICONTROL Accelerators]** and **[!UICONTROL Activities]** linked to **[!UICONTROL Key Business Objectives]** (KBOs).
+* Access the calendar from the Action Plan KBO page or from **[!UICONTROL KBO]**/**[!UICONTROL Accelerator]**/**[!UICONTROL Activity]** detail pages (only if they are linked to a KBO).
+* Switch between List view (default) and Calendar view.
+* Calendar displays collapsible sections for each KBO: 
+  * Blue for **[!UICONTROL Accelerators]** 
+  * Green for **[!UICONTROL Activities]**
+* Each **[!UICONTROL Accelerators]**/ **[!UICONTROL Activities]** shows name, status, and start/end dates (formatted as *Month XX*, *YYYY*).
+* Clicking an event card opens a page with event details. Clicking the Back button returns you to the . 
+* Events are color-coded: blue for **[!UICONTROL Accelerators]**, green for **[!UICONTROL Activities]**. Scroll vertically through KBOs and horizontally by week or month.
+* Tooltips show full names when text is truncated, and the timeline stays visible while scrolling.
+* Default view is the current week; navigation arrows allow to move between weeks.
+* Month view provides a clear timeline of ongoing and planned work.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Enhanced the **[!UICONTROL Key Business Objectives]** and **[!UICONTROL Activities]** pages in **[!UICONTROL Action Plan]** to show tooltips on completion dates, improving timeline visibility.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Search added inside filters on **[!UICONTROL Action Plan]** and **[!UICONTROL Outcome Tracker]** for faster navigation.
+
+
+![Fix](../adobe-success-portal/assets/fix.svg) Added tooltips to each finding for quick context.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Added Adobe branding to PDFs downloaded from Findings and Cases.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Shows all **[!UICONTROL Strategic Partners]** associated with an account, with indicators for primary contacts.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the time zones in **[!UICONTROL Alerts & Adobe Status]** did not reflect the logged-in user’s profile correctly.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where filters in **[!UICONTROL Alerts & Adobe Status]** did not work together as expected.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the sorting of **[!UICONTROL Use Cases]** on KBO Details and **[!UICONTROL Outcome Tracker]** pages was inconsistent.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the tooltip on the case list page did not reveal the full case name when hovering over a case title.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the back arrow icon appeared incorrectly in the Safari browser.
+
 ## 2.0 
 
 _Sep 11, 2025_
