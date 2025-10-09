@@ -33,7 +33,6 @@ _Oct 09, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Search added inside filters on **[!UICONTROL Action Plan]** and **[!UICONTROL Outcome Tracker]** for faster navigation.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Add Subscribe/Unsubscribe to status alerts directly in the portal.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Added tooltips to each finding for quick context.
 
