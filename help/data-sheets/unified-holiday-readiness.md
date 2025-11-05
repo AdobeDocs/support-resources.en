@@ -59,8 +59,11 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 ## Adobe Campaign Holiday Readiness Guide {#campaign}
 
-+++Waiting on information to add here.
++++To prepare Adobe Campaign for holiday readiness, teams should proactively validate deliverability settings, optimize audience segmentation and message frequency, ensure infrastructure scalability, and test cross-channel campaign orchestration to handle seasonal volume and engagement spikes effectively.
 
+### Expert tips to make your holiday campaigns stand out
+
+Just like it's never too early to start your holiday shopping, it's never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that will make all your organization's holiday wishes come true. But do you know all the tips for running campaigns that will finish the year out with a bang? Check this video, [Expert tips to make your holiday campaigns stand out](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), that discusses deliverability and execution best practices and show you how to do it all in Adobe Campaign.
 
 +++
 
@@ -69,8 +72,11 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 +++The journey to success for your organization's peak season starts with ensuring that your Adobe Commerce digital storefront is ready for high traffic. 
 
+
+* During the peak holiday sales season (approximately Mid-November through Mid-January), in [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure prepare for increased traffic.
 * Follow Adobe's guide [How to prepare your infrastructure for high traffic — the 5 Ps of peak season performance](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
 * Check out [Tech tips for Commerce holiday readiness](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness) for tips on how to prepare your infrastructure for high traffic, prevent downtime, and optimize performance in the holiday period.
+* As the peak holiday season approaches, eCommerce businesses face rapidly shifting consumer behaviors and technological change. This [Planning and pivoting: A strategic approach to peak season 2025](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025) guide provides actionable strategies using Adobe Commerce (and optional Adobe Experience Cloud tools) to help you plan, pivot, and deliver outstanding customer experiences during the busiest time of year.
 
 
 +++
@@ -273,7 +279,7 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 * Use omnichannel orchestration: See the blog [Essential omnichannel customer journeys for engagement and growth](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) article that shows a holiday season example with AJO. 
 * Prioritize real-time triggers where appropriate. For example: cart abandon, browse abandon, and stock alerts, as holiday shoppers are more reactive.
-* Leverage segmentation & personalization: target high-intent segments, tailor offers based on past purchase behaviour, and preferences.
+* Leverage segmentation & personalization: target high-intent segments, tailor offers based on past purchase behavior, and preferences.
 * Minimal messaging fatigue: enforce caps and quiet hours to avoid over-soliciting. For example, see the [Elevate Customer Experience with Daily Frequency Capping in AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510) blog post.
 * Timing matters: plan sends earlier in holiday window (given compressed season) and align channels to time-zones and local audience behavior.
 * Offer dynamic/limited-time offers to create urgency, but coordinate across channels to avoid duplication and conflict.
