@@ -82,14 +82,14 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 ### Customer Journey Analytics – Holiday/Peak Season Readiness: The 5 Ps
 
-1. Preparation
+#### Preparation
 
 *    Pre-Identified Connections:
 Review CJA connections and data views; establish which Connections and Data Views require enhanced monitoring and provisioning?
 *    Provisioning:
 Confirm provisioning is sufficient for holiday scale; upscale critical Connections and Data Views as needed, and see [Manage Connections](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/manage-connections) for more information.
 
-1. Performance
+#### Performance
 
 *    Monitor & Manage System Load:
 Leverage RAM ([[!UICONTROL Reporting Activity Manager] overview](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to monitor active and queued reporting requests in real time, identify at-capacity connections, and spot bottlenecks.
@@ -98,21 +98,21 @@ Watch for increased latency during peak load using the [Errors And Troubleshooti
 *    Proactive Admin Actions:
 Empower admins to preemptively suspend or cancel long-running/blocked requests via RAM, and see the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests) article.
 
-1. Proactivity
+#### Proactivity
 
 *    Scheduled Reports & Exports Optimization:
 Schedule exports/reports during low-traffic periods to smooth load and minimize latency, reference the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager) article. Spread Out Requests: Schedule reports at different intervals throughout the day.
 *    Workspace Optimization:
 Reduce panels, simplify segments, shorten date ranges, and avoid excess concurrent jobs, and see the details in the [Optimizing CJA Workspace Performance](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance) article.
 
-1. Problem Resolution
+#### Problem Resolution
 
 *    Troubleshooting Workspace Errors:
 Refer to error messages for the cause and recommended actions; use RAM ([!UICONTROL Reporting Activity Manager]) to clear bottlenecks and manage concurrency effectively and check [CJA Workspace Error Handling](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) for more details.
 *    Admin Self-Diagnosis:
 Use RAM ([[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to pinpoint problematic users, queries, or projects; prioritize and terminate/cancel as needed.
 
-1. Postmortem
+#### Postmortem
 
 *    Review Performance & Incident Logs:
 After the holiday/peak period, review the impact of the best practices provided.
