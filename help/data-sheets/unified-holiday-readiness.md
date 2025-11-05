@@ -63,7 +63,7 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 ### Expert tips to make your holiday campaigns stand out
 
-Just like it's never too early to start your holiday shopping, it's never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that will make all your organization's holiday wishes come true. But do you know all the tips for running campaigns that will finish the year out with a bang? Check this video, [Expert tips to make your holiday campaigns stand out](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), that discusses deliverability and execution best practices and show you how to do it all in Adobe Campaign.
+Just like it's never too early to start your holiday shopping, it's never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that will make all your organization's holiday wishes come true. But do you know all the tips for running campaigns that will finish the year out with a bang? Check this video, [Expert tips to make your holiday campaigns stand out](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), that discusses deliverability and execution best practices and will show you how to do it all in Adobe Campaign.
 
 +++
 
