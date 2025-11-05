@@ -65,6 +65,17 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 Just like it's never too early to start your holiday shopping, it's never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that will make all your organization's holiday wishes come true. But do you know all the tips for running campaigns that will finish the year out with a bang? Check this video, [Expert tips to make your holiday campaigns stand out](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), that discusses deliverability and execution best practices and will show you how to do it all in Adobe Campaign.
 
+### Considerations and Preparations for the Holiday Period
+
+In this video, [Adobe Campaign: Holiday Readiness - Considerations and Preparations for the Holiday Period](https://helpx.adobe.com/customer-care-office-hours/campaign/campaign-holiday-readiness.html), covers:
+
+* Engaging the Campaign Community
+* Deliverability – Considerations for the Holidays and beyond! 
+* Technical Recommendations for Adobe Campaign Classic (ACC) & Adobe Campaign Standard (ACS)
+
+To have Adobe Campaign ready for the holiday peak season, organizations should finalize deliverability checks, validate campaign configurations, and ensure scalable infrastructure and cross-channel orchestration are in place to confidently execute high-volume, time-sensitive campaigns throughout the holiday season.
+
+
 +++
 
 
