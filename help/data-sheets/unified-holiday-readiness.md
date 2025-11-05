@@ -80,7 +80,7 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 +++Customer Journey Analytics uses The 5 Ps to achieve Holiday/Peak Season Readiness.
 
-#### Customer Journey Analytics – Holiday/Peak Season Readiness: The 5 Ps
+### Customer Journey Analytics – Holiday/Peak Season Readiness: The 5 Ps
 
 1. Preparation
 
