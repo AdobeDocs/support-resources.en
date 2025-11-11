@@ -22,7 +22,7 @@ _Nov 11, 2025_
 
 ![Bug](../adobe-success-portal/assets/bug.svg) Fixed an issue where incorrect status, region, or time zone details were displayed for **[!UICONTROL Adobe Status]** alerts in **[!UICONTROL Support & Insights]**.
 
-![Bug](../adobe-success-portal/assets/bug.svg) Resolved display issues for **[!UICONTROL Accelerators]** and **[!UICONTROL Activities]** linked to **[!UICONTROL Strategic Partners]**.
+![Bug](../adobe-success-portal/assets/bug.svg) Resolved display issues with **[!UICONTROL Accelerators]** and **[!UICONTROL Activities]** linked to **[!UICONTROL Strategic Partners]**.
 
 ## 3.0 
 
