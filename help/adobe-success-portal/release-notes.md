@@ -12,6 +12,18 @@ These release notes contain updates to the [!DNL Adobe Success portal] and inclu
 ![Fix](../adobe-success-portal/assets/fix.svg) - Fixes and improvements
 ![Bug](../adobe-success-portal/assets/bug.svg) - Known issues
 
+## 4.0
+
+_Nov 11, 2025_
+
+![Fix](../adobe-success-portal/assets/fix.svg) Optimized the conversation order in the case details page to automatically scroll to the latest message.
+
+![Fix](../adobe-success-portal/assets/fix.svg) Updated case details so that when opened in a new tab using **Ctrl+Click** / **Command+Click**, the Back button is properly disabled to prevent navigation errors.
+
+![Bug](../adobe-success-portal/assets/bug.svg) Fixed an issue where incorrect status, region, or time zone details were displayed for **[!UICONTROL Adobe Status]** alerts in **[!UICONTROL Support & Insights]**.
+
+![Bug](../adobe-success-portal/assets/bug.svg) Resolved display issues with **[!UICONTROL Accelerators]** and **[!UICONTROL Activities]** linked to **[!UICONTROL Strategic Partners]**.
+
 ## 3.0 
 
 _Oct 09, 2025_
@@ -40,7 +52,7 @@ _Oct 09, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Shows all **[!UICONTROL Strategic Partners]** associated with an account, with indicators for primary contacts.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the time zones in **[!UICONTROL Alerts & Adobe Status]** did not reflect the logged-in user’s profile correctly.
+![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where the time zones in **[!UICONTROL Alerts & Adobe Status]** did not reflect the logged-in user's profile correctly.
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Fixed an issue where filters in **[!UICONTROL Alerts & Adobe Status]** did not work together as expected.
 
