@@ -20,7 +20,7 @@ _Nov 11, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Updated case details so that when opened in a new tab using **Ctrl+Click** / **Command+Click**, the Back button is properly disabled to prevent navigation errors.
 
-![Bug](../adobe-success-portal/assets/bug.svg) Fixed incorrect status, region, or time zone details for **[!UICONTROL Adobe Status]** alerts in **[!UICONTROL Support & Insights]**.
+![Bug](../adobe-success-portal/assets/bug.svg) Fixed an issue where incorrect status, region, or time zone details were displayed for **[!UICONTROL Adobe Status]** alerts in **[!UICONTROL Support & Insights]**.
 
 ![Bug](../adobe-success-portal/assets/bug.svg) Resolved display issues for **[!UICONTROL Accelerators]** and **[!UICONTROL Activities]** linked to **[!UICONTROL Strategic Partners]**.
 
