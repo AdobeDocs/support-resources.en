@@ -18,7 +18,7 @@ _Nov 11, 2025_
 
 ![Fix](../adobe-success-portal/assets/fix.svg) Optimized the conversation order in the case details page to automatically scroll to the latest message.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Updated Case Details so that when opened in a new tab using **Ctrl+Click** / **Command+Click**, the Back button is properly disabled to prevent navigation errors.
+![Fix](../adobe-success-portal/assets/fix.svg) Updated case details so that when opened in a new tab using **Ctrl+Click** / **Command+Click**, the Back button is properly disabled to prevent navigation errors.
 
 ![Bug](../adobe-success-portal/assets/bug.svg) Fixed incorrect status, region, or time zone details for **[!UICONTROL Adobe Status]** alerts in **[!UICONTROL Support & Insights]**.
 
