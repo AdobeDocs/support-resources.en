@@ -127,7 +127,7 @@ Refer to [AJO Experimentation Accelerator best practices](https://experienceleag
 
 ## Best practices
 
-* Use omnichannel orchestration: Refer to the blog [Essential omnichannel customer journeys for engagement and growth](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) article that shows a holiday season example with AJO. 
+* Use omnichannel orchestration. Refer to the blog [Essential omnichannel customer journeys for engagement and growth](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) article that shows a holiday season example with AJO. 
 * Prioritize real-time triggers where appropriate. For example: cart abandon, browse abandon, and stock alerts, as holiday shoppers are more reactive.
 * Leverage segmentation & personalization: Target high-intent segments, tailor offers based on past purchase behavior, and preferences.
 * Minimal messaging fatigue: Enforce caps and quiet hours to avoid over-soliciting. Refer to the [Elevate Customer Experience with Daily Frequency Capping in AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510) blog post.
