@@ -332,7 +332,7 @@ Just like it's never too early to start your holiday shopping, it's never too ea
 
 ## Considerations and preparations for the holiday period
 
-In this video, [Adobe Campaign: Holiday Readiness - Considerations and Preparations for the Holiday Period](https://helpx.adobe.com/customer-care-office-hours/campaign/campaign-holiday-readiness.html), covers:
+This video, [Adobe Campaign: Holiday Readiness - Considerations and Preparations for the Holiday Period](https://helpx.adobe.com/customer-care-office-hours/campaign/campaign-holiday-readiness.html), covers:
 
 * Engaging the Campaign community
 * Deliverability – Considerations for the holidays and beyond! 
