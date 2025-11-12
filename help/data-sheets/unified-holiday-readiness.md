@@ -109,7 +109,7 @@ To prepare Adobe Journey Optimizer for the holiday season, organizations should 
 
 ## Test and validate
 
-* Use your experimentation framework to test key variable changes (send time, offer type, channel mix).
+* Use your experimentation framework to test key variable changes:
     * send time
     * offer type
     * channel mix
