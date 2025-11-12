@@ -121,7 +121,7 @@ Refer to [AJO Experimentation Accelerator best practices](https://experienceleag
     * personalization logic
     * offer constraints
     * exit criteria
-* Verify capping and conflict rules: Refer to the [Journey capping & arbitration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-capping) article.
+* Verify capping and conflict rules. Refer to the [Journey capping & arbitration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-capping) article.
 * Stress-test scaled volumes for peak sends or spikes: Simulate high trigger volumes to validate system behavior under load.
 * Validate deliverability: Warm-up email domains/senders, confirm mobile push configurations, and check fallback channels for SMS/in-app.
 
