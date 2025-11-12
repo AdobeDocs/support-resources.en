@@ -177,7 +177,7 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 
 *    Schedule exports/reports during low-traffic periods to smooth load and minimize latency. Refer to the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager) article.
 *    Spread out Requests: Schedule reports at different intervals throughout the day.
-*    Reduce panels, simplify segments, shorten date ranges, and avoid excess concurrent jobs, and see the [Optimizing CJA Workspace Performance](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance) article for details.
+*    Reduce panels, simplify segments, shorten date ranges, and avoid excess concurrent jobs. See the [Optimizing CJA Workspace Performance](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance) article for details.
 
 ### Troubleshooting
 
