@@ -236,7 +236,7 @@ If your organization experiences its busiest moments during the holiday season, 
 
 * If you are an Ultimate Success customer and have recently shared volume forecast information with your Adobe Account Team, don't worry about sending it through to us again as we have a view already.
 
-We are here to support you in every step of your journey, and we wish you a successful and prosperous holiday season. In case you have any questions or concerns, feel free to [submit a support ticket](https://experienceleague.adobe.com/en/docs/learning-manager/using/faq/how-to-submit-support-ticket). 
+We are here to support you in every step of your journey. In case you have any questions or concerns, feel free to [submit a support ticket](https://experienceleague.adobe.com/en/docs/learning-manager/using/faq/how-to-submit-support-ticket). 
 
 To prepare for a marketing campaign in the holiday season, check the [AEMaaCS User Guide: Introduction - Marketing campaign parameters](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching#marketing-parameters) documentation.
 
