@@ -211,7 +211,7 @@ Follow the recommendations in the [Planning and pivoting: A strategic approach t
 
 ## Adobe Experience Manager (AEM) holiday readiness guide {#aem}
 
-+++**Click to see the Adobe Experience Manager (AEM) Cloud Services readiness recommendations.**
++++**Click to see the Adobe Experience Manager (AEM) holiday readiness recommendations.**
 
 The holiday season is rapidly approaching, and for many Adobe customers, this signifies the onset of peak sales periods. In our commitment to your success, we want to ensure that you are fully prepared for the upcoming surge in traffic.
 
