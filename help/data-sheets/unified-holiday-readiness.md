@@ -171,7 +171,7 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 
 *    Leverage RAM ([[!UICONTROL Reporting Activity Manager] overview](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to monitor active and queued reporting requests in real time, identify at-capacity connections, and spot bottlenecks.
 *    Watch for increased latency during peak load using the [Errors And Troubleshooting Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) and [Known Limitations](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations) articles.
-*    Empower admins to preemptively suspend or cancel long-running/blocked requests via RAM, and see the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests) article.
+*    Empower admins to preemptively suspend or cancel long-running/blocked requests via RAM. Refer to the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests) article.
 
 ### Best practices
 
