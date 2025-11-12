@@ -353,7 +353,7 @@ To ensure adequate hardware allocation and system responsiveness, Adobe recommen
 
 * Check [Traffic spike scheduling and hardware allocation lead times](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/traffic-management/t-traffic-schedule-spike#hardware-allocation-lead-times), as understanding how quickly data becomes available is critical for real-time decision-making during high-volume periods.
 
-* Learn what impacts data availability and latency in Adobe Analytics in [Adobe Analytics data latency overview](https://experienceleague.adobe.com/en/docs/analytics/technotes/latency)including unexpected traffic spikes and hardware issues, and discover recommended strategies to reduce data delays.
+* Learn what impacts data availability and latency in Adobe Analytics in [Adobe Analytics data latency overview](https://experienceleague.adobe.com/en/docs/analytics/technotes/latency), including unexpected traffic spikes and hardware issues, and discover recommended strategies to reduce data delays.
 
 ## Best practices
 
