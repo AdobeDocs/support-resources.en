@@ -36,7 +36,7 @@ For solution-specific holiday readiness recommendations from Adobe, see the foll
 >Click on each section to expand it.
 
 
-## Adobe Experience Platform (AEP) holiday readiness guide
+## Adobe Experience Platform (AEP) holiday readiness guide {#aep}
 
 +++**Click to see the Adobe Experience Platform (AEP) holiday readiness recommendations.**
 
