@@ -64,7 +64,7 @@ To stay within operational limits and avoid service disruptions, Adobe recommend
 * [Streaming throughput best practices](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity#suggestions)
 * [Guardrails for Data Ingestion](https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/guardrails)
 * [Default guardrails for Real-Time Customer Profile data and segmentation](https://experienceleague.adobe.com/en/docs/experience-platform/profile/guardrails)
-* [AEP Blueprints: Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overviewvide)
+* [AEP Blueprints: Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails)
 
 ### Security and governance
 
