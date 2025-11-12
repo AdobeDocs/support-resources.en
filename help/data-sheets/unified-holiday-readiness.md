@@ -165,7 +165,7 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 ### Prepare for scale
 
 *    Review CJA connections and data views; establish which Connections and Data Views require enhanced monitoring and provisioning.
-*    Confirm provisioning is sufficient for holiday scale; upscale critical Connections and Data Views as needed, and see [Manage Connections](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/manage-connections) for more information.
+*    Confirm provisioning is sufficient for holiday scale; upscale critical Connections and Data Views as needed. See [Manage Connections](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/manage-connections) for more information.
 
 ### Monitor performance
 
