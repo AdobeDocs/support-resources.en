@@ -1,6 +1,9 @@
 ---
 title: Adobe DX Solutions Unified Holiday Readiness Guide
 description: This article provides a holiday readiness guide for DX Solutions.
+solution: Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
+feature: Security, Best Practices, Governance, Monitoring, Guardrails, Performance Monitoring
+role: Developer, Admin
 
 ---
 # Adobe DX Solutions Unified Holiday Readiness Guide
