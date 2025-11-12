@@ -157,8 +157,6 @@ By proactively forecasting seasonal demand, configuring channels and rules, vali
 
 Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readiness.
 
-## Customer Journey Analytics – holiday/peak season readiness: The 5 Ps
-
 ### Prepare for scale
 
 *    Review CJA connections and data views; establish which Connections and Data Views require enhanced monitoring and provisioning.
