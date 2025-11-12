@@ -192,7 +192,7 @@ To ensure a successful peak season for your organization, it's essential to prep
 
 ## Predict demand
 
-* During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for increase in visitors by submitting Holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud) for details.
+* During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for an increase in visitors by submitting Holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud) for details.
 
 ## Prepare for scale
 
