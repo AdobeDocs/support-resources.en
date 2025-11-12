@@ -209,7 +209,7 @@ Follow the recommendations in the [Planning and pivoting: A strategic approach t
 
 +++
 
-## Adobe Experience Manager (AEM) Cloud Services readiness guide {#aem}
+## Adobe Experience Manager (AEM) holiday readiness guide {#aem}
 
 +++**Click to see the Adobe Experience Manager (AEM) Cloud Services readiness recommendations.**
 
