@@ -25,7 +25,7 @@ The Adobe DX Solutions Unified Holiday Readiness Guide helps you prepare for the
 >Click on each section to expand it.
 
 
-## General holiday readiness best practices {#general}
+## General Holiday Readiness Best Practices {#general}
 
 +++Follow these best practices to ensure your Adobe Digital Experience solutions are resilient, secure, and ready for peak holiday traffic: 
 
@@ -97,7 +97,7 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 * Configure frequency capping and capping rules to control message volumes. See the [Frequency capping](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/business-rules/configure-frequency-capping-rules/) article.
 * Configure channel / journey rule sets: Refer to [Work with rule sets](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets).
 * Prepare your data hygiene / real-time event streams, and segmentation frameworks.
-* Ensure Ensure you have defined target audiences for holiday campaigns, such as:
+* Ensure you have defined target audiences for holiday campaigns, such as:
     * high-value customers 
     * loyal segments
     * cart-abandoners
@@ -265,8 +265,8 @@ AEM customers leveraging Adobe Managed Services can work proactively with their 
 
 * Check your SPF/DKIM settings and ensure everything is still set up and working correctly. See the [Set up SPF and DKIM for your Email Deliverability](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability) article for details.
 * Audit and clean your Marketo database by purging inactive/invalid records. This would increase the chances that your sends land in the inboxes of your most sales ready leads. See the [Marketo Database Health Check-up & How to Keep it Clean](https://nation.marketo.com/t5/champion-program-blogs/marketo-database-health-check-up-amp-how-to-keep-it-clean/ba-p/323563) article for details.   
-* Confirm that your team members have the right permissions to perform tasks and prevent unintended access or changes to the emails. Whether you're making changes through [!UICONTROL Admin Settings] or through [!UICONTROL Admin Console], we've got you covered. See the [Managing User Roles and Permissions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions) article.
-* Review your Launchpad integrations to ensure correct authentication and resolve any potential errors before they're being used. See the [Marketo Developer Guide: Authentication](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication) article.
+* Confirm that your team members have the right permissions to perform tasks and prevent unintended access or changes to the emails. Whether you're making changes through the **[!UICONTROL Admin]** or through the **[!UICONTROL Admin Console]**, we've got you covered. See the [Managing User Roles and Permissions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions) article.
+* Review your Launchpad integrations to ensure correct authentication and resolve any potential errors before they are used. See the [Marketo Developer Guide: Authentication](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication) article.
 
 ### Best practices
 
@@ -274,7 +274,7 @@ Efficiency starts with understanding exactly how Marketo prioritizes and process
 
 * Understanding how Marketo prioritizes the processing of campaign flow steps is crucial to avoid inadvertently delaying any urgent or high priority emails. See the [How Campaign Processing Works](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264) article.
 * Being mindful of smart list logic helps ensure your campaigns execute quickly and at peak performance. See the [Best Practices for Smart Lists](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists) article.
-* [!UICONTROL Head Start] or [!UICONTROL Recipient Time Zone] can start building emails in advance of your send, reducing delays, and providing added prep time for qualifying leads with high-resource logic. See the [Head Start for Email Programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs) and the [Schedule Email Programs with Recipient Time Zone](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone) articles for details. 
+* **[!UICONTROL Head Start]** or **[!UICONTROL Recipient Time Zone]** can start building emails in advance of your send, reducing delays, and providing added prep time for qualifying leads with high-resource logic. See the [Head Start for Email Programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs) and the [Schedule Email Programs with Recipient Time Zone](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone) articles for details. 
 * Your campaign is active, and leads are flowing through, and then you notice a mistake with flow step. It's tempting to fix with a quick adjustment, but being aware of what happens when you change a live wait step or reorder your flows can help you avoid a lot of headaches and clean-up later. See the [Editing Campaign Flow with Members in Wait Steps](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294) article.
 
 ### Test and validate
@@ -306,7 +306,7 @@ With this guide you can rest a bit easier knowing you're starting from a strong 
 
 To help ensure a smooth support experience during the holidays:
 
-* Review and update your Authorized Support Contacts in advance. 
+* Review and update your authorized support contacts in advance. 
 * Validate that key stakeholders are available to collaborate with Support if critical issues arise. 
 * If planning product or workflow changes during the holiday window, consider scheduling them before mid-November or after early January for best turnaround times. 
 * Communicate internal holiday schedules to your Adobe contacts to ensure alignment. 
@@ -368,7 +368,7 @@ To ensure adequate hardware allocation and system responsiveness, Adobe recommen
 
 * Check [Traffic spike scheduling and hardware allocation lead times](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/traffic-management/t-traffic-schedule-spike#hardware-allocation-lead-times), as understanding how quickly data becomes available is critical for real-time decision-making during high-volume periods.
 
-* [Adobe Analytics data latency overview](https://experienceleague.adobe.com/en/docs/analytics/technotes/latency)
+* Learn what impacts data availability and latency in Adobe Analytics in [Adobe Analytics data latency overview](https://experienceleague.adobe.com/en/docs/analytics/technotes/latency)including unexpected traffic spikes and hardware issues, and discover recommended strategies to reduce data delays.
 
 ### Best practices
 
@@ -414,7 +414,7 @@ Refer to [Best practices for optimization with Adobe Target](https://experiencel
 
 ### Test and validate
 
-Validate content delivery using [QA links](https://experienceleague.adobe.com/en/docs/target/using/activities/activity-qa/activity-qa) to confirm everything works as expected. Use the **[!UICONTROL Match audience rules to see experiences]** toggle to ensure the right audience qualifies for the activity you are testing. Double-check that your **[!UICONTROL Goal Metric]** configuration is aligned to the **[!UICONTROL Objective]** of the activity. And always have a backup plan ready-—just in case. 
+Validate content delivery using [QA links](https://experienceleague.adobe.com/en/docs/target/using/activities/activity-qa/activity-qa) to confirm everything works as expected. Use the **[!UICONTROL Match audience rules to see experiences]** toggle to ensure the right audience qualifies for the activity you are testing. Double-check that your **[!UICONTROL Goal Metric]** configuration is aligned to the **[!UICONTROL Objective]** of the activity. And always have a backup plan ready — just in case. 
 
 ### Best practices
 
