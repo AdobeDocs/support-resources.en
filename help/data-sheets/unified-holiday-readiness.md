@@ -211,12 +211,9 @@ Follow the recommendations in the [Planning and pivoting: A strategic approach t
 
 +++
 
-## Adobe Commerce holiday readiness guide
+## Adobe Experience Manager (AEM) Cloud Services readiness guide
 
-+++**Click to see the Adobe Commerce holiday readiness recommendations.**
-
-<details>
-<summary><h2 id="aem" style="display: inline-block;">Adobe Experience Manager (AEM) holiday readiness guide</h2></summary>
++++**Click to see the Adobe Experience Manager (AEM) Cloud Services readiness recommendations.**
 
 The holiday season is rapidly approaching, and for many Adobe customers, this signifies the onset of peak sales periods. In our commitment to your success, we want to ensure that you are fully prepared for the upcoming surge in traffic.
 
@@ -251,14 +248,16 @@ Adobe has scheduled maintenance exclusion periods to ensure uninterrupted servic
 
 This ensures stability during high-traffic periods. For full release schedules and maintenance windows, refer to the [AEM release roadmap](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap).
 
+
 ## Adobe Experience Manager (AEM) with Adobe Managed Services (AMS)
 
 AEM customers leveraging Adobe Managed Services can work proactively with their CSEs to plan for the holidays' coverage needs.
 
-</details>
+++++
 
-<details>
-<summary><h2 id="marketo" style="display: inline-block;">Adobe Marketo holiday readiness guide</h2></summary>
+## Adobe Marketo holiday readiness guide
+
++++**Click to see the Adobe Marketo holiday readiness recommendations.**
 
 To ensure successful holiday campaigns with Adobe Marketo, teams should verify email authentication settings, clean and secure their database, optimize campaign logic and scheduling, thoroughly test email rendering and deliverability, and streamline support readiness for peak performance and engagement.
 
@@ -295,10 +294,11 @@ When something goes wrong, speed matters, and Marketo Support is here to help! I
 
 With this guide you can rest a bit easier knowing you're starting from a strong position to drive engagement and conversions during this critical window. The stakes are high, but your stress doesn't have to be. Start your preparations today and make this holiday season your most successful yet. 
 
-</details>
++++
 
-<details>
-<summary><h2 id="workfront" style="display: inline-block;">Adobe Workfront holiday readiness guide</h2></summary>
+## Adobe Workfront holiday readiness guide
+
++++**Click to see the Adobe Workfront holiday readiness recommendations.**
 
 To prepare Adobe Workfront for the holiday season, teams should update support contacts, align internal schedules with Adobe, avoid major changes during peak windows, and proactively monitor automations and integrations to ensure smooth operations.
 
@@ -329,10 +329,12 @@ Stay informed about Workfront releases and test new features in sandbox environm
 
 By planning ahead, maintaining clear communication, and escalating issues early, organizations can minimize disruptions and ensure Workfront continues to support critical workflows throughout the holiday period.
 
-</details>
++++
 
-<details>
-<summary><h2 id="campaign" style="display: inline-block;">Adobe Campaign holiday readiness guide</h2></summary>
+## Adobe Campaign holiday readiness guide
+
++++**Click to see the Adobe Campaign holiday readiness recommendations.**
+
 
 To prepare Adobe Campaign for holiday readiness, teams should proactively validate deliverability settings, optimize audience segmentation and message frequency, ensure infrastructure scalability, and test cross-channel campaign orchestration to handle seasonal volume and engagement spikes effectively.
 
@@ -350,10 +352,11 @@ This video, [Adobe Campaign: Holiday Readiness - Considerations and Preparations
 
 To have Adobe Campaign ready for the holiday peak season, organizations should finalize deliverability checks, validate campaign configurations, and ensure scalable infrastructure and cross-channel orchestration are in place to confidently execute high-volume, time-sensitive campaigns throughout the holiday season.
 
-</details>
++++
 
-<details>
-<summary><h2 id="analytics" style="display: inline-block;">Adobe Analytics holiday readiness guide</h2></summary>
+## Adobe Analytics holiday readiness guide
+
++++**Click to see the Adobe Analytics holiday readiness recommendations.**
 
 As the holiday season approaches, organizations using Adobe Analytics should take proactive steps to ensure data accuracy, platform performance, and reporting reliability during peak traffic periods. Adobe provides several resources and best practices to help teams prepare effectively.
 
@@ -383,10 +386,11 @@ Adobe typically enforces **maintenance exclusion windows** during peak holiday p
 
 By following these guidelines and leveraging Adobe's public documentation, organizations can ensure their Adobe Analytics implementation is robust, responsive, and ready for the demands of the holiday season.
 
-</details>
++++
 
-<details>
-<summary><h2 id="target" style="display: inline-block;">Adobe Target holiday readiness guide</h2></summary>
+## Adobe Target holiday readiness guide
+
++++**Click to see the Adobe Target holiday readiness recommendations.**
 
 The holiday season brings exciting opportunities for engagement, but it also comes with challenges like traffic surges and increased demand on personalization systems. To help you deliver seamless experiences during this critical period, we've compiled key recommendations to ensure your Adobe Target implementation is ready.
 
@@ -418,4 +422,4 @@ Keep your implementation within [Adobe Target limits](https://experienceleague.a
 
 Before personalizing experiences, confirm consent compliance under GDPR and CCPA. Avoid storing personally identifiable information (PII) in profile parameters and validate API security to protect customer data. 
 
-</details>
++++
