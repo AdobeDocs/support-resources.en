@@ -91,7 +91,7 @@ To prepare Adobe Journey Optimizer for the holiday season, organizations should 
     * Message saturation risks (higher opt-outs, fatigue)
     * Increased cross-channel complexity (email + push + SMS + in-app)
 * Use past year's metrics (open/click/opt-out rates, journey entry volumes) to model expected loads and set thresholds for your messaging systems.
-* Identify likely "quiet windows" or periods of low performance (e.g., weekends, holiday days) and plan send volumes accordingly.
+* Identify likely "quiet windows" or periods of low performance (For example: weekends, holiday days) and plan send volumes accordingly.
 
 ## Prepare for scale
 
