@@ -35,8 +35,10 @@ For solution-specific holiday readiness recommendations from Adobe, see the foll
 >
 >Click on each section to expand it.
 
-<details>
-<summary><h2 id="aep" style="display: inline-block;">Adobe Experience Platform (AEP) holiday readiness guide</h2></summary>
+
+## Adobe Experience Platform (AEP) holiday readiness guide
+
++++**Click to see the Adobe Experience Platform (AEP) holiday readiness recommendations.**
 
 Adobe Experience Platform (AEP) plays a critical role in powering real-time customer experiences. As the holiday season approaches, it's essential to ensure your AEP implementation is optimized for increased traffic, secure data handling, and scalable ingestion.
 
@@ -71,10 +73,12 @@ Refer to [Governance, privacy, and security in Adobe Experience Platform: Securi
 
 By following these guidelines and leveraging Adobe's public documentation, organizations can ensure their Adobe Experience Platform is resilient, secure, and ready to deliver exceptional customer experiences throughout the holiday season.
 
-</details>
++++
 
-<details>
-<summary><h2 id="ajo" style="display: inline-block;">Adobe Journey Optimizer (AJO) holiday readiness guide</h2></summary>
+## Adobe Journey Optimizer (AJO) holiday readiness guide
+
++++**Click to see the Adobe Journey Optimizer (AJO) holdiay readiness recommendations.**
+
 
 To prepare Adobe Journey Optimizer for the holiday season, organizations should anticipate event spikes and cross-channel complexity, configure journey and frequency rules, and ensure data hygiene and decisioning logic. They must also validate performance at scale, enforce security and API guardrails, and apply post-peak insights to refine future campaigns.
 
@@ -145,10 +149,11 @@ Refer to [AJO Experimentation Accelerator best practices](https://experienceleag
 
 By proactively forecasting seasonal demand, configuring channels and rules, validating journey performance, and enforcing security and governance, organizations can ensure Adobe Journey Optimizer delivers seamless, personalized, and resilient customer experiences throughout this holiday season and beyond.
 
-</details>
++++
 
-<details>
-<summary><h2 id="cja" style="display: inline-block;">Adobe Customer Journey Analytics (CJA) holiday readiness guide</h2></summary>
+## Customer Journey Analytics (CJA) holiday readiness guide
+
++++**Click to see the Customer Journey Analytics (CJA) holiday readiness recommendations.**
 
 Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readiness.
 
@@ -183,10 +188,11 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 *    Gather feedback from users and stakeholders—update your own runbooks and readiness plans using newly gained insights.
 *    Provide feedback to the Adobe teams via your Account team.
 
-</details>
++++
 
-<details>
-<summary><h2 id="commerce" style="display: inline-block;">Adobe Commerce holiday readiness guide</h2></summary>
+## Adobe Commerce holiday readiness guide
+
++++**Click to see the  Adobe Commerce holiday readiness recommendations.**
 
 To ensure a successful peak season for your organization, it's essential to prepare your Adobe Commerce digital storefront for high traffic. 
 
@@ -203,7 +209,11 @@ Follow the recommendations in the [Planning and pivoting: A strategic approach t
 * Follow Adobe's guide [How to prepare your infrastructure for high traffic — the 5 Ps of peak season performance](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic).
 * Check out [Tech tips for Commerce holiday readiness](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness) for tips on how to prepare your infrastructure for high traffic, prevent downtime, and optimize performance in the holiday period.
 
-</details>
++++
+
+## Adobe Commerce holiday readiness guide
+
++++**Click to see the Adobe Commerce holiday readiness recommendations.**
 
 <details>
 <summary><h2 id="aem" style="display: inline-block;">Adobe Experience Manager (AEM) holiday readiness guide</h2></summary>
