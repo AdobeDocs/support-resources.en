@@ -96,7 +96,7 @@ To prepare Adobe Journey Optimizer for the holiday season, organizations should 
 ## Prepare for scale
 
 * Ensure all channel configurations in AJO are set up properly: email, push, SMS, web, in-app. Refer to [Set up channel configurations](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/channel-surfaces).
-* Configure frequency capping and capping rules to control message volumes. See the [Frequency capping](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/business-rules/configure-frequency-capping-rules/) article.
+* Configure frequency capping and capping rules to control message volumes. See the [Frequency capping by channel and communication type](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/channel-capping) article.
 * Configure channel / journey rule sets: Refer to [Work with rule sets](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets).
 * Prepare your data hygiene / real-time event streams, and segmentation frameworks.
 * Ensure you have defined target audiences for holiday campaigns, such as:
