@@ -390,7 +390,7 @@ Refer to [Best practices for optimization with Adobe Target](https://experiencel
 
 ## Prepare for scale
 
-* Plan for increased traffic on the website and mobile devices and inform Target support team to increase server capacity, to avoid any blocked calls.
+* Plan for increased traffic on the website and mobile devices and inform the Target support team to increase server capacity to avoid any blocked calls.
 * For any load/pen testing, Target support team should be informed in advance. 
 * Upgrade to latest `at.js`/Delivery API versions. 
 * Freeze non-critical changes; prepare for fallback experiences.
