@@ -219,7 +219,6 @@ Follow the recommendations in the [Planning and pivoting: A strategic approach t
 
 </details>
 
-
 <details>
 <summary><h2 id="aem" style="display: inline-block;">Adobe Experience Manager (AEM) Holiday Readiness Guide</h2></summary>
 
