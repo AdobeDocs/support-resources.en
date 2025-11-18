@@ -3,12 +3,13 @@ user-guide-title: Success Plans Resources
 user-guide-description: Success plans and support resources for Adobe Experience Cloud and Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
+hide: no
 ---
 
 # Success Plans Resources {#data-sheets}
 
 + [Adobe Success Plans Overview](overview.md)
-+ [Adobe DX Solutions Unified Holiday Readiness Guide](unified-holiday-readiness.md)
++ [Adobe DX Solutions Unified Holiday Readiness Guide](unified-holiday-readiness.md) 
 + The Crux Podcast{#crux-podcast}
   + [Ep.1 - Billy Georgaros](episode1.md)
     [Ep.2 - Karrie Benjamin](episode2.md)
