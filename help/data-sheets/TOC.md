@@ -3,7 +3,7 @@ user-guide-title: Success Plans Resources
 user-guide-description: Success plans and support resources for Adobe Experience Cloud and Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-hide: no
+index: yes
 ---
 
 # Success Plans Resources {#data-sheets}
