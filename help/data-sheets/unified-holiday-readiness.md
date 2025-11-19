@@ -1,8 +1,9 @@
 ---
 title: Adobe DX Solutions Unified Holiday Readiness Guide
-description: This article provides a holiday readiness guide for DX Solutions.
+description: Adobe DX holiday readiness for AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics, and Target to help you plan, scale, secure, and optimize.
 solution: Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
 role: Developer, Admin, Leader, User
+index: yes
 
 ---
 # Adobe DX Solutions Unified Holiday Readiness Guide
