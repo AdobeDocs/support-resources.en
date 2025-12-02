@@ -1,6 +1,8 @@
 ---
 title: Adobe DX Solutions Unified Holiday Readiness Guide
 description: Adobe DX holiday readiness for AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics, and Target to help you plan, scale, secure, and optimize.
+feature-set: Experience Cloud
+feature: Support
 solution: Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
 role: Developer, Admin, Leader, User
 index: yes
@@ -160,32 +162,32 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 
 ### Prepare for scale
 
-*    Review CJA connections and data views; establish which Connections and Data Views require enhanced monitoring and provisioning.
-*    Confirm provisioning is sufficient for holiday scale; upscale critical Connections and Data Views as needed. See [Manage Connections](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/manage-connections) for more information.
+* Review CJA connections and data views; establish which Connections and Data Views require enhanced monitoring and provisioning.
+* Confirm provisioning is sufficient for holiday scale; upscale critical Connections and Data Views as needed. See [Manage Connections](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/manage-connections) for more information.
 
 ### Monitor performance
 
-*    Leverage RAM ([[!UICONTROL Reporting Activity Manager] overview](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to monitor active and queued reporting requests in real time, identify at-capacity connections, and spot bottlenecks.
-*    Watch for increased latency during peak load using the [Errors And Troubleshooting Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) and [Known Limitations](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations) articles.
-*    Empower admins to preemptively suspend or cancel long-running/blocked requests via RAM. Refer to the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests) article.
+* Leverage RAM ([[!UICONTROL Reporting Activity Manager] overview](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to monitor active and queued reporting requests in real time, identify at-capacity connections, and spot bottlenecks.
+* Watch for increased latency during peak load using the [Errors And Troubleshooting Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) and [Known Limitations](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations) articles.
+* Empower admins to preemptively suspend or cancel long-running/blocked requests via RAM. Refer to the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests) article.
 
 ### Best practices
 
-*    Schedule exports/reports during low-traffic periods to smooth load and minimize latency. Refer to the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager) article.
-*    Spread out Requests: Schedule reports at different intervals throughout the day.
-*    Reduce panels, simplify segments, shorten date ranges, and avoid excess concurrent jobs. See the [Optimizing CJA Workspace Performance](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance) article for details.
+* Schedule exports/reports during low-traffic periods to smooth load and minimize latency. Refer to the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager) article.
+* Spread out Requests: Schedule reports at different intervals throughout the day.
+* Reduce panels, simplify segments, shorten date ranges, and avoid excess concurrent jobs. See the [Optimizing CJA Workspace Performance](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance) article for details.
 
 ### Troubleshooting
 
-*    When troubleshooting workspace errors, refer to error messages for the cause and recommended actions; use RAM ([!UICONTROL Reporting Activity Manager]) to clear bottlenecks and manage concurrency effectively. See [CJA Workspace Error Handling](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) for more details.
-*    Use RAM ([[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to pinpoint problematic users, queries, or projects; prioritize and terminate/cancel as needed.
+* When troubleshooting workspace errors, refer to error messages for the cause and recommended actions; use RAM ([!UICONTROL Reporting Activity Manager]) to clear bottlenecks and manage concurrency effectively. See [CJA Workspace Error Handling](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) for more details.
+* Use RAM ([[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to pinpoint problematic users, queries, or projects; prioritize and terminate/cancel as needed.
 
 ### Post-peak learns
 
-*    After the holiday/peak period, review performance & incident logs to evaluate the impact of the best practices provided.
-*    Review slow queries and user tasks to identify patterns/trends that can be optimized for the next season.
-*    Gather feedback from users and stakeholders—update your own runbooks and readiness plans using newly gained insights.
-*    Provide feedback to the Adobe teams via your Account team.
+* After the holiday/peak period, review performance & incident logs to evaluate the impact of the best practices provided.
+* Review slow queries and user tasks to identify patterns/trends that can be optimized for the next season.
+* Gather feedback from users and stakeholders—update your own runbooks and readiness plans using newly gained insights.
+* Provide feedback to the Adobe teams via your Account team.
 
 +++
 
