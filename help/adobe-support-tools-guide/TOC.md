@@ -5,6 +5,7 @@ feature-set: Experience Cloud
 feature: Support
 type: Documentation
 index: yes
+role: User, Admin
 ---
 
 # Adobe Support & Tools Guide {#adobe-support-tools-guide}  
