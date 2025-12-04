@@ -10,13 +10,13 @@ role: User, Admin
 
 # Adobe Support & Tools Guide {#adobe-support-tools-guide}  
 
-+ [Experience League Support Portal](home.md)
-+ [Support Phone Number update](phone-numbers.md)
-+ [Admin Roles](admin-roles.md)
-+ Reference Documents {#ref-docs}
-  + [Prior Announcement](intro-customer-support.md)
-  + [Parkour Now Announcement](parkour-now.md)
-+ Workfront Documents {#workfront}
-  + [Overview](overview.md)
-  + [Landing](landing.md)
-  + [FAQ](faq.md)
+- [Experience League Support Portal](home.md)
+- [Support Phone Number update](phone-numbers.md)
+- [Admin Roles](admin-roles.md)
+- Reference Documents {#ref-docs}
+  - [Prior Announcement](intro-customer-support.md)
+  - [Parkour Now Announcement](parkour-now.md)
+- Workfront Documents {#workfront}
+  - [Overview](overview.md)
+  - [Landing](landing.md)
+  - [FAQ](faq.md)
