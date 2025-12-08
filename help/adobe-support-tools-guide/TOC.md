@@ -13,9 +13,6 @@ role: User, Admin
 - [Experience League Support Portal](adobe-customer-support-experience.md)
 - [Support Phone Number update](phone-numbers.md)
 - [Admin Roles](admin-roles.md)
-- Reference Documents {#ref-docs}
-  - [Prior Announcement](intro-customer-support.md)
-  - [Parkour Now Announcement](parkour-now.md)
 - Workfront Documents {#workfront}
   - [Overview](overview.md)
   - [Landing](landing.md)
