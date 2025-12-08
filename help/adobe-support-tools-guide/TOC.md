@@ -10,7 +10,7 @@ role: User, Admin
 
 # Adobe Support & Tools Guide {#adobe-support-tools-guide}  
 
-- [Experience League Support Portal](home.md)
+- [Experience League Support Portal](adobe-customer-support-experience.md)
 - [Support Phone Number update](phone-numbers.md)
 - [Admin Roles](admin-roles.md)
 - Reference Documents {#ref-docs}
