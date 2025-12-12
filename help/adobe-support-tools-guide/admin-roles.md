@@ -4,7 +4,7 @@ description: Using the Adobe Admin Console, organizations can define a flexible 
 ---
 # Administrative Roles
 
-Using the [!DNL Adobe Admin Console], organizations can define a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage. One or more System admins, provisioned during the enterprise onboarding process, sit at the top of the hierarchy. These System admins can delegate responsibilities to other admins, while still retaining overall control.
+Using the Adobe Admin Console, organizations can define a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage. One or more System admins, provisioned during the enterprise onboarding process, sit at the top of the hierarchy. These System admins can delegate responsibilities to other admins, while still retaining overall control.
 
 Administrative Roles provide the following key benefits to enterprises:
 
@@ -16,7 +16,7 @@ Administrative Roles provide the following key benefits to enterprises:
 
 Applies to: Adobe enterprise customers.
 
-The administrative hierarchy can be used to suit the unique requirements of your enterprise. For example, an enterprise can appoint different admins to manage entitlements to [!DNL Adobe Creative Cloud] and [!DNL Adobe Marketing Cloud] offerings. Alternatively, an enterprise can have different admins to manage entitlements of users belonging to different business units.
+The administrative hierarchy can be used to suit the unique requirements of your enterprise. For example, an enterprise can appoint different admins to manage entitlements to Adobe Creative Cloud and Adobe Marketing Cloud offerings. Alternatively, an enterprise can have different admins to manage entitlements of users belonging to different business units.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ _Admin roles hierarchy_
 
 |Role | Description |
 |--- |--- |
-|**System Admin**| Super user for the organization; allowed to perform all administrative tasks in the [!DNL Admin Console].<br>Also, has permissions to delegate the following administrative functionality to other users: Product admin, Product Profile admin, User Group admin, Deployment admin, and Support admin.|
+|**System Admin**| Super user for the organization; allowed to perform all administrative tasks in the Admin Console.<br>Also, has permissions to delegate the following administrative functionality to other users: Product admin, Product Profile admin, User Group admin, Deployment admin, and Support admin.|
 |**Product Admin**| Administers the products assigned to that admin and all associated administrative functions, which include:<ul><li>Create product profiles</li><li>Add users and user groups to the organization but not remove these</li><li>Add or remove users and user groups from product profiles</li><li>Add or remove Product Profile admins from product profiles</li><li>Add or remove other product admins from the product</li><li>Add or remove Group admins from groups</li></ul>|
 |**Product Profile Admin**| Administers the Product Profile descriptions assigned to that admin and all associated administrative functions, which include:<ul><li>Add users and user groups to the organization but not remove these</li><li>Add or remove users and user groups from product profiles</li><li>Assign or revoke product permissions to users and user groups from product profiles</li><li>Manage product roles of users and user groups for product profiles|
 |**User Group Admin**| Administers the user group descriptions assigned to that admin and all associated administrative functions, which include:<ul><li>Add or remove users from groups</li><li>Add or remove User Group admins from groups|
@@ -46,7 +46,7 @@ As an admin, you can assign an admin role to other users, giving them the same p
 
 To add or invite an admin:
 
-1. In the **[!UICONTROL [!DNL Admin Console]](https://adminconsole.adobe.com/)**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
+1. In the **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
  
    Alternatively, go to the relevant Product, Product Profile, or User Group and navigate to the **[!UICONTROL Admins]** tab.
 
@@ -86,7 +86,7 @@ As an admin, you can assign the System admin role to other users, giving them th
 
 To add or invite a System admin:
 
-1. In the **[!UICONTROL [!DNL Adobe Admin Console]]**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
+1. In the **[!UICONTROL Adobe Admin Console]**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
 
    A list of existing admins displays.
 
@@ -117,7 +117,7 @@ As an admin, you can edit the admin role to other admin that are below you in th
 
 To edit admin roles:
 
-1. In the **[!UICONTROL [!DNL Adobe Admin Console]]**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**. The list of existing admins displays.
+1. In the **[!UICONTROL Adobe Admin Console]**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**. The list of existing admins displays.
 
    Alternatively, go to the relevant Product, Product Profile, or User Group and navigate to the **[!UICONTROL Admins]** tab.
 
@@ -136,7 +136,7 @@ As a teams System admin, you can remove the System admin privileges of other adm
 
 To revoke System admin privileges:
 
-1. In the **[!UICONTROL [!DNL Adobe Admin Console]]**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
+1. In the **[!UICONTROL Adobe Admin Console]**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
 
    The list of existing admins displays.
 
