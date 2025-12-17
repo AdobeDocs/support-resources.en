@@ -1,6 +1,6 @@
 ---
 keywords: FAQ;frequently asked questions
-title: [!DNL Adobe Business Platform] & Admin Console FAQ
+title: Adobe Business Platform & Admin Console FAQ
 description: Frequently Asked Question for Adobe Workfront
 ---
 # [!DNL Adobe Business Platform] & Admin Console FAQ
