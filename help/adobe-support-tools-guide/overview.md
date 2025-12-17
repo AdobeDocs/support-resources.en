@@ -8,7 +8,7 @@ exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
 
 Adobe Workfront is joining into Adobe Admin Console Platform.
  
-In the coming months, customers will be contacted to coordinate a migration to the Adobe Identity and Admin Console, an even more secure and functional system administrative console. Here are some benefits for the upcoming change:
+In the coming months, customers will be contacted to coordinate a migration to the Adobe Identity and Admin Console, a more secure and functional system administrative console. Here are some benefits for the upcoming change:
 
 * Authenticate to Workfront and other products by using a single Adobe Identity.
 * Manage user entitlements separately between production and sandbox or preview environments.
@@ -28,4 +28,4 @@ Additionally, there is an FAQ available for reference [here](faq.md).
 
 Existing customers were contacted to schedule migrations beginning in July 2022. Our migration team support colleagues guided customers through the process, advised on console setup, and provided links to documentation needed to make the move as simple and hassle-free as possible.
  
-Net new customers beginning in July 2022 were automatically be placed on Adobe Admin Console and required no further actions.
+Net new customers beginning in July 2022 were automatically placed on Adobe Admin Console and required no further actions.
