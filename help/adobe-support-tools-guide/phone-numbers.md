@@ -7,7 +7,7 @@ exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 
 When you get assigned an 'Admin' role such as a 'Product Support Admin', you should receive an email informing you that you have 'Administrator' rights to manage the instance for which you have been granted admin rights.
 
-The email now contains the text below in red that explains how to go to your **[!UICONTROL Account profile]** and share with us your preferred Support Phone Number.
+The email now contains the text below in red that explains how to go to your **[!UICONTROL Account Profile]** and share with us your preferred Support Phone Number.
 
 ![preferred support number](assets/admin-console-1.png)
 
