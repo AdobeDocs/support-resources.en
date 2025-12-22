@@ -18,7 +18,7 @@ To specify your preferred phone number:
    ![sign in](assets/sign-in.png)
 
 1. Go through the login process and land on the screen below on `account.adobe.com`.
-1. Click on the below tabs **[!UICONTROL Account and security]** > **[!UICONTROL Account]** to see the Support phone number field.
+1. Select **[!UICONTROL Account and security]** > **[!UICONTROL Account]** to see the Support phone number field.
 1. Add a phone number here that you would like us to use for recognizing you for your support needs.
 
 ![specify details](assets/account-info.png)
