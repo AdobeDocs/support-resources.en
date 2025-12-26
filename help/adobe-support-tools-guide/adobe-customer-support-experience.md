@@ -85,22 +85,22 @@ After you select **[!UICONTROL Open Ticket]**, you’re directed to the new case
 
 The guided workflow includes:
 
-   * Selecting the affected Adobe product
-   * Describing the issue in detail
-   * Providing relevant system and environment context
-   * Indicating the impact and urgency of the issue
-   * Confirming contact details for follow-up
+* Selecting the affected Adobe product
+* Describing the issue in detail
+* Providing relevant system and environment context
+* Indicating the impact and urgency of the issue
+* Confirming contact details for follow-up
 
 This structured approach ensures that essential information is captured upfront, helping Adobe Support investigate and resolve issues efficiently.
 
 ![Experience league issue details](./assets/experience-league-issue-details.png)
 
-To speed up troubleshooting and reduce back-and-forth communication, provide a clear, concise description of the issue. When possible, include context such as:
+To expedite troubleshooting and minimize back-and-forth communication, provide a clear and concise description of the issue. When possible, include context such as:
 
-   * What you are trying to achieve
-   * What is not working as expected
-   * Any recent changes to the environment
-   * Steps taken so far to investigate or resolve the issue
+* What you are trying to achieve
+* What is not working as expected
+* Any recent changes to the environment
+* Steps taken so far to investigate or resolve the issue
 
 Including meaningful details upfront helps Support Engineers understand the problem and take action faster.
 
@@ -110,9 +110,9 @@ As you describe the issue, Experience League may show AI-powered recommendations
 
 These recommendations:
 
-   * Suggest relevant documentation or known solutions
-   * Help you confirm if the issue is already addressed
-   * Reduce the need to submit a case for common issues
+* Suggest relevant documentation or known solutions
+* Help you confirm if the issue is already addressed
+* Reduce the need to submit a case for common issues
 
 They appear without interrupting the case creation flow, so you can review them anytime and continue submitting the case if needed.
 
@@ -120,8 +120,8 @@ They appear without interrupting the case creation flow, so you can review them 
 
 When selecting a solution, you’ll be asked to provide the following details. Some solutions may include additional fields:
 
-   * Case Priority (Low, Medium, High, Critical)
-   * Business Impact
+* Case Priority (Low, Medium, High, Critical)
+* Business Impact
 
 For details on how Case Priority and Business Impact affect support response times, see [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in the Success Plans Resources documentation.
 
@@ -131,9 +131,9 @@ Once you provide all required information, click **[!UICONTROL Submit]**. Requir
 
 After submission:
 
-   * The case is logged in Experience League
-   * You can track updates and communicate with Support through the portal
-   * Adobe Support responds based on the priority and impact you provided
+* The case is logged in Experience League
+* You can track updates and communicate with Support through the portal
+* Adobe Support responds based on the priority and impact you provided
 
 >[!TIP]
 >
