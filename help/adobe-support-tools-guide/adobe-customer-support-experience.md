@@ -66,73 +66,79 @@ For more details follow the [edit enterprise admin role](admin-roles.md#add-ente
 
 >[!NOTE]
 >
-> Before submitting a support ticket, consider checking Adobe system performance, availability, and solution issues at the [Adobe status](https://status.adobe.com) site. 
+> Before you submit a support ticket, check Adobe system performance, availability, and known issues on the [Adobe status](https://status.adobe.com) site.
 
-The process for submitting support cases is now directly integrated with the Experience League support platform. This is a self-service portal that was recently redesigned to offer more personalization and ease-of-use for entitled customers. 
+Experience League is a self-service support portal designed to provide personalized assistance and an easy-to-use experience for entitled customers.
 
-1. To create a ticket using [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab located in the top navigation.
+1. To create a ticket in [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab in the top navigation bar.
  ![Experience league support tab](./assets/experience-league-support-tab.png)
-1. From the support homepage, you can easily navigate to your open support cases, log a new case, view the top Support articles, or access additional learning sources.
- ![Experience league support resources](./assets/experience-league-support-resources.png)
-1. To submit a case, select **[!UICONTROL Open a support ticket]**. Also select the **[!UICONTROL Open Ticket]** option on the sidebar menu. 
+1. From the **[!UICONTROL Support]** homepage, you can navigate to **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a callback]**, view top support articles, or access additional learning resources.
+ ![Experience league open a ticket](./assets/experience-league-open-ticket.png)
+1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROL Open Ticket]** option on the sidebar menu.
 
 
 ### Fill out the suport ticket
 
-1. After you select **[!UICONTROL Open a support ticket]** you will be directed to the case creation page, where you can enter your product name (Audience Manager, Campaign, Target, etc.), **[!UICONTROL Case title]**, and **[!UICONTROL Case description]**. 
+After you select **[!UICONTROL Open Ticket]**, you’re directed to the new case creation page. The form is organized into a guided, multi-step workflow.
 
-    ![Experience league open ticket](./assets/experience-league-open-ticket.png)
+![Experience league select a prodcut](./assets/experience-league-select-product.png)
 
-   To expedite the troubleshooting process add the following information in the **[!UICONTROL Case description]** field:
+The guided workflow includes:
 
-   * Clear problem statement
-   * Steps to Reproduce
-   * Business impact statement
-   * Is this a new implementation / feature / development?
-   * When was the time the process worked?
-   * Troubleshooting steps taken
-   * Relevant log data
-   * Version number
-   * Build info (if relevant)
-   * Critical identifiers
+   * Selecting the affected Adobe product
+   * Describing the issue in detail
+   * Providing relevant system and environment context
+   * Indicating the impact and urgency of the issue
+   * Confirming contact details for follow-up
 
+This structured approach ensures that essential information is captured upfront, helping Adobe Support investigate and resolve issues efficiently.
 
-1. When selecting any solution, you are asked the following, and some solutions have additional fields:
+![Experience league issue details](./assets/experience-league-issue-details.png)
+
+To speed up troubleshooting and reduce back-and-forth communication, provide a clear, concise description of the issue. When possible, include context such as:
+
+   * What you are trying to achieve
+   * What is not working as expected
+   * Any recent changes to the environment
+   * Steps taken so far to investigate or resolve the issue
+
+Including meaningful details upfront helps Support Engineers understand the problem and take action faster.
+
+![Experience league system information](./assets/experience-league-system-information.png)
+
+As you describe the issue, Experience League may show AI-powered recommendations in a panel next to the form.
+
+These recommendations:
+
+   * Suggest relevant documentation or known solutions
+   * Help you confirm if the issue is already addressed
+   * Reduce the need to submit a case for common issues
+
+They appear without interrupting the case creation flow, so you can review them anytime and continue submitting the case if needed.
+
+![Experience league impact details](./assets/experience-league-impact.png)
+
+When selecting a solution, you’ll be asked to provide the following details. Some solutions may include additional fields:
 
    * Case Priority (Low, Medium, High, Critical)
-   * Business Impact 
-   * Customer Timezone (Americas, EMEA, APAC)
+   * Business Impact
 
-   For details on how Case Priority and Business Impact affect support response times, refer to [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in the Success Plans Resources Documentation.
- 
- ![Experience league ticket priority](./assets/experience-league-ticket-priority.png)
+For details on how Case Priority and Business Impact affect support response times, see [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in the Success Plans Resources documentation.
+
+![Experience league contact information](./assets/experience-league-contact-information.png)
+
+Once you provide all required information, click **[!UICONTROL Submit]**. Required fields are marked to ensure completeness before submission.
+
+After submission:
+
+   * The case is logged in Experience League
+   * You can track updates and communicate with Support through the portal
+   * Adobe Support responds based on the priority and impact you provided
 
 >[!TIP]
 >
-> If you are unable to see the **[!UICONTROL Create Case]** option or the **[!UICONTROL Support]** tab, you need to contact a System Administrator to assign the Support admin role.
-
-  
-
-  
-
-
-
+> If you don’t see the **[!UICONTROL Create Case]** option or the **[!UICONTROL Support]** tab, contact your System Administrator to assign the Support admin role.
 
 >[!NOTE]
 >
-> If the issue results in outages or serious interruptions to a production system, a phone number is provided for immediate assistance.
-
-
-
-
-<!--
-
-## What About the Legacy Systems?
-
-New Tickets/Cases will no longer be able to be submitted in legacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
-
-### Existing Tickets/Cases
-
-* Between May 11th and May 20th the legacy systems will remain available to work existing tickets/cases to completion.
-* Beginning May 20th the support team will migrate remaining open cases from the legacy systems to the new support experience.  You will receive an email notification regarding how to contact support to continue to work these cases.
--->
+> If the issue causes outages or serious interruptions to a production system, a phone number is provided for immediate assistance.
