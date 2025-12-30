@@ -3,17 +3,17 @@ keywords: FAQ;frequently asked questions
 title: Adobe Business Platform & Admin Console FAQ
 description: Frequently Asked Question for Adobe Workfront
 ---
-# Adobe Business Platform & Admin Console FAQ
+# [!DNL Adobe Business Platform] & Admin Console FAQ
 
 +++**What is the Adobe Identity and Admin Console?**
 
-The Adobe Business Platform gives administrators and functional leads a state-of-the-art control console to manage their customized Version of the Workfront software. 
+The [!DNL Adobe Business Platform] gives administrators and functional leads a state-of-the-art control console to manage their customized Version of the Workfront software. 
 
 +++
 
 +++**Why do customers need to move to Adobe Identity and Admin Console (AAC)?**
 
-Customers will experience an even more secure and intuitive administrative console by moving to Adobe Business Platform. 
+Customers will experience an even more secure and intuitive administrative console by moving to [!DNL Adobe Business Platform]. 
 
 +++
 
@@ -75,7 +75,7 @@ Length of time to implement AAC for customers may vary, but the typical experien
 
 +++**Will this impact other tech I have integrated into the Workfront solution outside of Adobe Products?**
 
-Customers using the Fusion application to connect to other services will only be moved when the Fusion application is ready to make this change. 
+Customers using the [!DNL Fusion] application to connect to other services will only be moved when the [!DNL Fusion] application is ready to make this change. 
 
 +++
 
