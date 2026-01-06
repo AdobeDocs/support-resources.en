@@ -22,20 +22,44 @@ The new Case Creation experience introduces a refreshed form designed to streaml
    - Issue Details  
    - System Information  
    - Impact  
-   - Contact Information  
+   - Contact Information
+   - Review and Submit
 
 ![New](../adobe-support-tools-guide/assets/new.svg) Added **New "Steps to Reproduce" Field** to capture actionable details and accelerate troubleshooting.
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added the following **Additional Environment Context Fields**:
+![New](../adobe-support-tools-guide/assets/new.svg) Added **Additional Environment Context Fields** for entitled products to capture critical details:
 
-   - *Have there been any recent changes to the environment?*  
-   - *Report Suite ID / Instance URL / Workspace shortlink*  
+   - **Marketo**  
+     - Munchkin ID  
+   - **Adobe Target**  
+     - Activity Name  
+     - Site URL (Tags Property Name) / HAR or Assurance log  
+   - **Adobe Analytics**  
+     - RSID  
+     - Site URL (Tags Property Name) / HAR or Assurance log / cURL / Debug Log  
+     - Workspace shortlink  
+   - **Adobe Journey Optimizer (AJO)**  
+     - Journey ID or Journey URL  
+     - Example profile  
+   - **Real-Time Customer Data Platform (RTCDP)**  
+     - Affected Component ID (Destination ID, Profile ID, Audience ID, Dataset ID, or Dataflow ID)  
+     - HAR file / Assurance logs  
+   - **Customer Journey Analytics (CJA)**  
+     - Workspace project  
+     - Tags Property Name  
+
 
 ![New](../adobe-support-tools-guide/assets/new.svg) Added an **AI-Driven Recommendations Panel** to display helpful guidance without interrupting the case creation flow.
 
-![Fix](../adobe-support-tools-guide/assets/fix.svg) Removed Case Title Field  to eliminate redundancy for a cleaner form.
+![New](../adobe-support-tools-guide/assets/new.svg) Added a Review Summary step to provide a consolidated view of all entered information and allow users to:
+
+   - Review case details in one place  
+   - Navigate back to previous steps to make edits  
+   - Return to the summary without losing progress
+
+
+![Fix](../adobe-support-tools-guide/assets/fix.svg) Removed Case Title Field to eliminate redundancy for a cleaner form.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Renamed Case Description Field to *"Please describe the issue"* for improved clarity.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as Mandatory Field Indicators to ensure completeness and reduce submission errors.
-
