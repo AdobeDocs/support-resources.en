@@ -71,63 +71,75 @@ For more details follow the [edit enterprise admin role](admin-roles.md#add-ente
 Experience League is a self-service support portal designed to provide personalized assistance and an easy-to-use experience for entitled customers.
 
 1. To create a ticket in [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab in the top navigation bar.
- ![Experience league support tab](./assets/experience-league-support-tab.png)
-1. From the **[!UICONTROL Support]** homepage, you can navigate to **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a callback]**, view top support articles, or access additional learning resources.
- ![Experience league open a ticket](./assets/experience-league-open-ticket.png)
-1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROL Open Ticket]** option on the sidebar menu.
 
+   ![Experience league support tab](./assets/experience-league-support-tab.png)
 
-### Fill out the suport ticket
+1. From the **[!UICONTROL Home]** menu, you can navigate to **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a callback]**, or access additional learning resources.
 
-After you select **[!UICONTROL Open Ticket]**, you’re directed to the new case creation page. The form is organized into a guided, multi-step workflow.
+   ![Experience league home menu](./assets/home-menu.png)
 
-![Experience league select a prodcut](./assets/experience-league-select-product.png)
+1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROL Get Started]** button.
 
-The guided workflow includes:
+   ![Experience league open a ticket](./assets/open-support-ticket.png)
 
-* Selecting the affected Adobe product
-* Describing the issue in detail
-* Providing relevant system and environment context
-* Indicating the impact and urgency of the issue
-* Confirming contact details for follow-up
+### Fill out the support ticket
 
-This structured approach ensures that essential information is captured upfront, helping Adobe Support investigate and resolve issues efficiently.
+After you select **[!UICONTROL Open Ticket]**, you’re taken to the case creation page.
 
-![Experience league issue details](./assets/experience-league-issue-details.png)
+The form uses a guided, multi-step workflow:
 
-To expedite troubleshooting and minimize back-and-forth communication, provide a clear and concise description of the issue. When possible, include context such as:
+* Select the affected Adobe product
+* Describe the issue
+* Provide system and environment details
+* Indicate impact and urgency
+* Confirm contact information
 
-* What you are trying to achieve
-* What is not working as expected
-* Any recent changes to the environment
-* Steps taken so far to investigate or resolve the issue
+Follow these steps to create a support ticket:
 
-Including meaningful details upfront helps Support Engineers understand the problem and take action faster.
+1. Click the product name to select the affected product. Then click **[!UICONTROL Next]**.
 
-![Experience league system information](./assets/experience-league-system-information.png)
+   ![Experience league select a product](./assets/select-product.png)
 
-As you describe the issue, Experience League may show AI-powered recommendations in a panel next to the form.
+1. In the **[!UICONTROL Issue Details]** section, enter the case title, describe the issue, provide steps to reproduce, and then click **[!UICONTROL Next]**.
 
-These recommendations:
+   ![Experience league issue details](./assets/issue-details.png)
 
-* Suggest relevant documentation or known solutions
-* Help you confirm if the issue is already addressed
-* Reduce the need to submit a case for common issues
+   Include details such as:
 
-They appear without interrupting the case creation flow, so you can review them anytime and continue submitting the case if needed.
+   * What you’re trying to do
+   * What isn’t working as expected
+   * Any recent environment changes
+   * Steps you’ve already taken
 
-![Experience league impact details](./assets/experience-league-impact.png)
+   As you enter issue details, Experience League displays AI-powered recommendations in a panel next to the form. These recommendations:
 
-When selecting a solution, you’ll be asked to provide the following details. Some solutions may include additional fields:
+   * Suggest relevant documentation or known solutions
+   * Help you confirm if the issue is already addressed
+   * Reduce the need to submit a case for common issues
 
-* Case Priority (Low, Medium, High, Critical)
-* Business Impact
+   The panel appears without interrupting the case creation process. You can review the recommendations anytime and continue submitting the case if needed.
 
-For details on how Case Priority and Business Impact affect support response times, see [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in the Success Plans Resources documentation.
+1. In the **[!UICONTROL System Information]** section, select the environment, and click **[!UICONTROL Next]**.
 
-![Experience league contact information](./assets/experience-league-contact-information.png)
+   ![Experience league system information](./assets/system-information.png)
 
-Once you provide all required information, click **[!UICONTROL Submit]**. Required fields are marked to ensure completeness before submission.
+1. In the **[!UICONTROL Impact]** section:
+   * Case Priority (P4 - Minor, P3 - Important, P2 - Urgent, P1 - Critical)
+   * Business Impact (Small, Medium, Large)
+
+   ![Experience league impact details](./assets/impact.png)
+
+   For details on how Case Priority and Business Impact affect support response times, see [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in the Success Plans Resources documentation.
+
+1. Click **[!UICONTROL Next]**.
+
+1. In the **[!UICONTROL Contact Information]** section, select the timezone, enter your phone number, add watchers, attach any files if needed, and then click **[!UICONTROL Next]**.
+
+   ![Experience league contact information](./assets/contact-information.png)
+
+1. In the **[!UICONTROL Review & Submit]** section, review your case details and click **[!UICONTROL Submit]**.
+
+   ![Experience league review and submit](./assets/review%20and%20submit.png)
 
 After submission:
 
@@ -137,7 +149,7 @@ After submission:
 
 >[!TIP]
 >
-> If you don’t see the **[!UICONTROL Create Case]** option or the **[!UICONTROL Support]** tab, contact your System Administrator to assign the Support admin role.
+> If you don’t see the **[!UICONTROL Open Ticket]** option or the **[!UICONTROL Support]** tab, contact your System Administrator to assign the Support admin role.
 
 >[!NOTE]
 >
