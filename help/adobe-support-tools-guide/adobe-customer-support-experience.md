@@ -139,7 +139,7 @@ Follow these steps to create a support ticket:
 
 1. In the **[!UICONTROL Review & Submit]** section, review your case details and click **[!UICONTROL Submit]**.
 
-   ![Experience league review and submit](./assets/review%20and%20submit.png)
+   ![Experience league review and submit](./assets/review-and-submit.png)
 
 After submission:
 
