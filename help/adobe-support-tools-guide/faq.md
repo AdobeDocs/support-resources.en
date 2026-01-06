@@ -45,7 +45,7 @@ Customers will receive instructions and coordination from an internal Workfront 
 
 +++**What new features are in AAC not currently available to customers in Workfront?**
 
-Please see [this document] highlighting some of the new feature additions available. 
+
 
 +++
 
