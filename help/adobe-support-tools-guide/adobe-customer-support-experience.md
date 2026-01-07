@@ -84,7 +84,7 @@ Experience League is a self-service support portal designed to provide personali
 
 ### Fill out the support ticket
 
-After you select **[!UICONTROL Open Ticket]**, you’re taken to the case creation page.
+After you select **[!UICONTROL Open a support ticket]** or **[!UICONTROL Open Ticket]**, the case creation page appears.
 
 The form uses a guided, multi-step workflow:
 
@@ -93,7 +93,7 @@ The form uses a guided, multi-step workflow:
 * Provide system and environment details
 * Indicate impact and urgency
 * Confirm contact information
-* Review and submit details
+* Review and submit the details
 
 Follow these steps to create a support ticket:
 
