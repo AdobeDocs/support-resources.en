@@ -96,7 +96,7 @@ The form uses a guided, multi-step workflow:
 
 Follow these steps to create a support ticket:
 
-1. Click the product name to select the affected product. Then click **[!UICONTROL Next]**.
+1. Click the product name to select the affected product, and then click **[!UICONTROL Next]**.
 
    ![Experience league select a product](./assets/select-product.png)
 
