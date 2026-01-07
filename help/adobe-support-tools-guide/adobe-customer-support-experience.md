@@ -128,7 +128,7 @@ Follow these steps to create a support ticket:
 
    >[!NOTE]
    >
-   > Based on the selected product, additional fields may appear.
+   > Based on the selected product, additional fields may appear. These fields include details about the environment where the issue occurs.
 
    ![Experience league system information](./assets/system-information.png)
 
