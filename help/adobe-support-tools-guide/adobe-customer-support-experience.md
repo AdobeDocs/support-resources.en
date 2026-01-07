@@ -100,7 +100,7 @@ Follow these steps to create a support ticket:
 
    ![Experience league select a product](./assets/select-product.png)
 
-1. In the **[!UICONTROL Issue Details]** section, enter the case title, describe the issue, provide steps to reproduce, and then click **[!UICONTROL Next]**.
+1. In the **[!UICONTROL Issue Details]** section, enter the case title, describe the issue, and provide steps to reproduce.
 
    ![Experience league issue details](./assets/issue-details.png)
 
@@ -118,6 +118,8 @@ Follow these steps to create a support ticket:
    * Reduce the need to submit a case for common issues
 
    The panel appears without interrupting the case creation process. You can review the recommendations anytime and continue submitting the case if needed.
+
+1.  Click **[!UICONTROL Next]**.
 
 1. In the **[!UICONTROL System Information]** section, select the environment, and click **[!UICONTROL Next]**.
 
