@@ -18,16 +18,16 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 
 ![New](../adobe-support-tools-guide/assets/new.svg) The case form is organized into a guided flow, helping users understand what information is required at each stage:
 
-   - Product Selection  
-   - Issue Details  
-   - System Information  
-   - Impact  
-   - Contact Information
-   - Review and Submit
+   - [!UICONTROL Product Selection]  
+   - [!UICONTROL Issue Details]  
+   - [!UICONTROL System Information]  
+   - [!UICONTROL Impact]  
+   - [!UICONTROL Contact Information]
+   - [!UICONTROL Review and Submit]
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added **New "Steps to Reproduce" Field** to capture actionable details and accelerate troubleshooting.
+![New](../adobe-support-tools-guide/assets/new.svg) Added **New [!UICONTROL Steps to Reproduce] Field** to capture actionable details and accelerate troubleshooting.
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added **Additional Environment Context Fields** for entitled products to capture critical details:
+![New](../adobe-support-tools-guide/assets/new.svg) Added **Additional [!UICONTROL Environment Context] Fields** for entitled products to capture critical details:
 
    - **Marketo**  
      - Munchkin ID  
@@ -49,14 +49,14 @@ The new Case Creation experience introduces a refreshed form designed to streaml
      - Tags Property Name  
 
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added an **AI-Driven Recommendations Panel** to display helpful guidance without interrupting the case creation flow.
+![New](../adobe-support-tools-guide/assets/new.svg) Added an **AI-Driven [!UICONTROL Recommendations Panel]** to display helpful guidance without interrupting the case creation flow.
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added a Review Summary step to provide a consolidated view of all entered information and allow users to:
+![New](../adobe-support-tools-guide/assets/new.svg) Added a [!UICONTROL Review Summary] step to provide a consolidated view of all entered information and allow users to:
 
    - Review case details in one place  
    - Navigate back to previous steps to make edits  
    - Return to the summary without losing progress
 
-![Fix](../adobe-support-tools-guide/assets/fix.svg) Renamed Case Description Field to *"Please describe the issue"* for improved clarity.
+![Fix](../adobe-support-tools-guide/assets/fix.svg) Renamed Case Description Field to *[!UICONTROL "Please describe the issue"]* for improved clarity.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as Mandatory Field Indicators to ensure completeness and reduce submission errors.
