@@ -74,7 +74,7 @@ Experience League is a self-service support portal designed to provide personali
 
    ![Experience league support tab](./assets/experience-league-support-tab.png)
 
-1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a callback]**, or access additional learning resources.
+1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a Callback]**, or access additional learning resources.
 
    ![Experience league home menu](./assets/home-menu.png)
 
