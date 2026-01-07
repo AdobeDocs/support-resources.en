@@ -57,9 +57,6 @@ The new Case Creation experience introduces a refreshed form designed to streaml
    - Navigate back to previous steps to make edits  
    - Return to the summary without losing progress
 
-
-![Fix](../adobe-support-tools-guide/assets/fix.svg) Removed Case Title Field to eliminate redundancy for a cleaner form.
-
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Renamed Case Description Field to *"Please describe the issue"* for improved clarity.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as Mandatory Field Indicators to ensure completeness and reduce submission errors.
