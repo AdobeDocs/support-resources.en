@@ -14,6 +14,4 @@ role: User, Admin
 - [Support Phone Number update](phone-numbers.md)
 - [Admin Roles](admin-roles.md)
 - Workfront Documents {#workfront}
-  - [Overview](overview.md)
-  - [Landing](landing.md)
   - [FAQ](faq.md)
