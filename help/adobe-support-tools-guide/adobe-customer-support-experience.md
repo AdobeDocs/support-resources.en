@@ -125,7 +125,7 @@ Follow these steps to create a support ticket:
 
    ![Experience league system information](./assets/system-information.png)
 
-1. In the **[!UICONTROL Impact]** section:
+1. In the **[!UICONTROL Impact]** section, select the below:
    * Case Priority (P4 - Minor, P3 - Important, P2 - Urgent, P1 - Critical)
    * Business Impact (Small, Medium, Large)
 
