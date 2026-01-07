@@ -70,15 +70,15 @@ For more details follow the [edit enterprise admin role](admin-roles.md#add-ente
 
 Experience League is a self-service support portal designed to provide personalized assistance and an easy-to-use experience for entitled customers.
 
-1. To create a ticket in [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab in the top navigation bar.
+1. To create a ticket in [Experience League](https://experienceleague.adobe.com/home#support), select the **[!UICONTROL Support]** tab in the top navigation.
 
    ![Experience league support tab](./assets/experience-league-support-tab.png)
 
-1. From the **[!UICONTROL Home]** menu, you can navigate to **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a callback]**, or access additional learning resources.
+1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a callback]**, or access additional learning resources.
 
    ![Experience league home menu](./assets/home-menu.png)
 
-1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROL Get Started]** button.
+1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROL Open Ticket]** in the sidebar menu.
 
    ![Experience league open a ticket](./assets/open-support-ticket.png)
 
@@ -93,6 +93,7 @@ The form uses a guided, multi-step workflow:
 * Provide system and environment details
 * Indicate impact and urgency
 * Confirm contact information
+* Review and submit details
 
 Follow these steps to create a support ticket:
 
@@ -119,9 +120,15 @@ Follow these steps to create a support ticket:
 
    The panel appears without interrupting the case creation process. You can review the recommendations anytime and continue submitting the case if needed.
 
-1.  Click **[!UICONTROL Next]**.
+   ![Experience league issue details](./assets/ai-recommendations.png)
+
+1. Click **[!UICONTROL Next]**.
 
 1. In the **[!UICONTROL System Information]** section, select the environment, and click **[!UICONTROL Next]**.
+
+   >[!NOTE]
+   >
+   > Based on the selected product, additional fields may appear.
 
    ![Experience league system information](./assets/system-information.png)
 
@@ -142,6 +149,12 @@ Follow these steps to create a support ticket:
 1. In the **[!UICONTROL Review & Submit]** section, review your case details and click **[!UICONTROL Submit]**.
 
    ![Experience league review and submit](./assets/review-and-submit.png)
+
+   The **[!UICONTROL Review & Submit]** step summarizes all the entered information and allows you to:
+
+   * Review all case details in one place
+   * Navigate back to any previous step to make edits
+   * Return to the review summary without losing progress
 
 After submission:
 
