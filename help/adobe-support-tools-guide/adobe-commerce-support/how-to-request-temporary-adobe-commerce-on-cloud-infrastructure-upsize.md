@@ -31,7 +31,7 @@ In addition, baseline alerting works well with new applications when you do not 
 
 Follow this link to learn more about New Relic [Anomaly detection with  applied Intelliegence](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
-If you receive an alert notification that suggests a high traffic event you may need to consider [submitting a Support Ticket](/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) requesting additional capacity. Follow the below steps.
+If you receive an alert notification that suggests a high traffic event you may need to consider [submitting a Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) requesting additional capacity. Follow the below steps.
 
 ## How to monitor performance of your site
 
