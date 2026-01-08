@@ -3,8 +3,6 @@ title: How to request temporary Adobe Commerce on cloud infrastructure upsize
 description: If your organization is planning an online event in which you expect high traffic, or you suddenly find your site to be undergoing a high traffic event, you can file a [Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) to request temporary additional cloud capacity for your Adobe Commerce on cloud infrastructure store.
 feature-set: Experience Cloud
 solution: Commerce
-feature: Support
-role: User, Admin
 ---
 # How to request temporary Adobe Commerce on cloud infrastructure upsize
 
