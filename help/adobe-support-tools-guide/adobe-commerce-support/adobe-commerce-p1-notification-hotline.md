@@ -1,7 +1,6 @@
 ---
 title: Adobe Commerce P1 notification hotline
 description: This article provides the P1 notification hotline numbers for Adobe Commerce that can be used when seeking to report a P1 incident and explains what information to provide.
-feature-set: Experience Cloud
 solution: Commerce
 ---
 # Adobe Commerce P1 notification hotline
