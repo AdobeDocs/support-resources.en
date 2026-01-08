@@ -47,5 +47,4 @@ The **Adobe Support & Tools Guide** is your central resource for navigating Adob
 1. [Search, review, comment, and escalate a support ticket](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/search-track-comment-escalate-support-ticket)
 1. [Community Announcements](https://experienceleaguecommunities.adobe.com/t5/announcements/discover-smarter-faster-learning-with-experience-league-s-new/m-p/739750)
 1. [Adobe Commerce Support Knowledge Base](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview)
-1. []()
-1. []()
+1. [Support Tools overview](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/overview)
