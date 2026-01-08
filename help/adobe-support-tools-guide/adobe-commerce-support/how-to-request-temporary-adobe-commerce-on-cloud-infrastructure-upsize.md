@@ -1,6 +1,6 @@
 ---
 title: How to request temporary Adobe Commerce on cloud infrastructure upsize
-description: If your organization is planning an online event in which you expect high traffic, or you suddenly find your site to be undergoing a high traffic event, you can file a [Support Ticket](/help/help-center-guide/help-center/magento-help-center-user-guide.md#submit-ticket) to request temporary additional cloud capacity for your Adobe Commerce on cloud infrastructure store.
+description: If your organization is planning an online event in which you expect high traffic, or you suddenly find your site to be undergoing a high traffic event, you can file a [Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) to request temporary additional cloud capacity for your Adobe Commerce on cloud infrastructure store.
 feature-set: Experience Cloud
 solution: Commerce
 feature: Support
@@ -47,7 +47,7 @@ Follow this link to learn how to [configure performance-based alerts](/docs/comm
 
 ## Steps to request temporary upsize
 
-To request temporary additional cloud capacity, submit a [Support Ticket](/help/help-center-guide/help-center/magento-help-center-user-guide.md#submit-ticket) at the Adobe Commerce Support Center with the following information:
+To request temporary additional cloud capacity, submit a [Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) at the Adobe Commerce Support Center with the following information:
 
 >[!NOTE]
 >
@@ -97,7 +97,7 @@ To request temporary additional cloud capacity, submit a [Support Ticket](/help/
 
 >[!NOTE]
 >
->Once the upsize is scheduled, an automated system will adjust the size of your cloud instance. You may not receive any ticket notification when the procedure is complete. You may use the Observation for Adobe Commerce tool to view your AWS or Azure instance types to [verify the change](/help/how-to/general/check-vcpu-using-observation-for-adobe-commerce.md).
+>Once the upsize is scheduled, an automated system will adjust the size of your cloud instance. You may not receive any ticket notification when the procedure is complete. You may use the Observation for Adobe Commerce tool to view your AWS or Azure instance types to [verify the change](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
 
 ## View the history of your upsizes
 
