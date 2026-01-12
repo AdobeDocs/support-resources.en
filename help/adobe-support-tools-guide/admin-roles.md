@@ -1,6 +1,7 @@
 ---
 title: Administrative Roles
 description: Using the Adobe Admin Console, organizations can define a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage.
+solution: Admin Console
 ---
 # Administrative Roles
 

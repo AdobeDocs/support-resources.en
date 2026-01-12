@@ -13,5 +13,8 @@ role: User, Admin
 - [Experience League Support Portal](adobe-customer-support-experience.md)
 - [Support Phone Number update](phone-numbers.md)
 - [Admin Roles](admin-roles.md)
-- Workfront Documents {#workfront}
+- Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
+- Adobe Commerce Support {#adobe-commerce-support}
+  - [How to request temporary Adobe Commerce on cloud infrastructure upsize](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
+  - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
