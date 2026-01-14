@@ -1,11 +1,11 @@
 ---
 title: Adobe Support and Tools Guide overview
-description: Adobe Support & Tools Guide—your central resource for case management, troubleshooting, and tool best practices in Experience League to resolve issues faster.
+description: Adobe Support & Tools Guide—your central resource on case management, support entitlements and support tools in Experience League to resolve issues faster.
 ---
 
 # Adobe Support & Tools Guide overview
 
-The **Adobe Support & Tools Guide** is your central resource for navigating Adobe's support ecosystem. It brings together case management, troubleshooting practices, and tool capabilities that help you resolve issues efficiently and optimize your Adobe solutions.
+The **Adobe Support & Tools Guide** is your central resource for navigating Adobe Digital Experience support. It brings together case management, support entitlements, and tools capabilities that help you resolve issues efficiently.
 
 ## Who is this guide for
 
@@ -15,7 +15,7 @@ The **Adobe Support & Tools Guide** is your central resource for navigating Adob
 
 ## What is in this Guide?
 
-| **Category**               | **Description** |
+| **Document**               | **Description** |
 |---------------------------|-----------------|
 | **Support Tools Overview** | Understand the purpose and capabilities of Adobe's support tools, including how they streamline case management, improve troubleshooting, and enhance your overall support experience. |
 | **Case Management**        | Learn how to submit, track, comment on, escalate, close, and reopen support tickets in Experience League, including shared-access workflows. [[1](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide)] [[2](https://experienceleague.adobe.com/en/docs/learning-manager/using/faq/how-to-submit-support-ticket)] [[3](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/search-track-comment-escalate-support-ticket)] |
