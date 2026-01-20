@@ -19,4 +19,5 @@ role: User, Admin
   - [How to request temporary Adobe Commerce on cloud infrastructure upsize](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
   - [Adobe support customer data access and privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+  - [Adobe Commerce Support ticket lifecycle policy update](adobe-commerce-support\magento-support-ticket-lifecycle-policy-update.md)
 
