@@ -5,10 +5,10 @@ description: Adobe Customer Support Experience
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 ---
-# Adobe Customer Support Experience
+# Adobe customer support experience
 
 
-## Experience League Support Tickets
+## Experience League support tickets
 
 Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#create-a-support-ticket-with-experience-league).
 
