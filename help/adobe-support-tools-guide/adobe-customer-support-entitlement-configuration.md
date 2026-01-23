@@ -1,13 +1,15 @@
 ---
 title: Adobe customer support entitlement 
 description: How Adobe customers can configure support entitlements to enable case submission.
+solution: Admin Console
+feature: Admin Console
 ---
 
 # Adobe customer support entitlement 
 
 To configure support entitlements for your organization, first add or invite the user through the Admin Console.
 
-## Adding support entitles roles to an organization
+## Adding support entitled roles to an organization
 
 The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
@@ -40,9 +42,9 @@ To assign a Support Admin role to a user (enable a user to be able to contact su
 
 The user receives an email invitation regarding the new administrative privileges from `message@adobe.com`.
 
-Users must click **Get started** in the email to join the organization. If new admins do not use the **Get started** link in the email invitation, they would not be able to sign into the Admin Console.
+Users must click ** **[!UICONTROL Get started]** in the email to join the organization. If new admins do not use the ****[!UICONTROL Get started]** link in the email invitation, they would not be able to sign into the Admin Console.
 
-As part of the sign-in process, users may be asked to set up an Adobe profile if they do not have one already. If users have multiple profiles associated with their email address, users must choose **Join Team** (if prompted) and then select the profile associated with the new organization.
+As part of the sign-in process, users may be asked to set up an Adobe profile if they do not have one already. If users have multiple profiles associated with their email address, users must choose ****[!UICONTROL Join Team]** (if prompted) and then select the profile associated with the new organization.
 
 ![Admin rights confirmation](assets/admin-rights-confirmation.png)
 
