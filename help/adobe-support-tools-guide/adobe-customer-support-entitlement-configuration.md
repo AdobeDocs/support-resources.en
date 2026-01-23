@@ -42,7 +42,7 @@ To assign a Support Admin role to a user (enable a user to be able to contact su
 
 The user receives an email invitation regarding the new administrative privileges from `message@adobe.com`.
 
-Users must click ** **[!UICONTROL Get started]** in the email to join the organization. If new admins do not use the ****[!UICONTROL Get started]** link in the email invitation, they would not be able to sign into the Admin Console.
+Users must click **[!UICONTROL Get started]** in the email to join the organization. If new admins do not use the **[!UICONTROL Get started]** link in the email invitation, they would not be able to sign into the Admin Console.
 
 As part of the sign-in process, users may be asked to set up an Adobe profile if they do not have one already. If users have multiple profiles associated with their email address, users must choose ****[!UICONTROL Join Team]** (if prompted) and then select the profile associated with the new organization.
 
