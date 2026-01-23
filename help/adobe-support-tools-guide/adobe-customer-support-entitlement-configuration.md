@@ -48,4 +48,4 @@ As part of the sign-in process, users may be asked to set up an Adobe profile if
 
 ![Admin rights confirmation](assets/admin-rights-confirmation.png)
 
-For more details follow the [edit enterprise admin role](admin-roles.md#add-enterprise-role) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](admin-roles.md) documentation.
+For more details refer to [edit enterprise admin role](admin-roles.md#add-enterprise-role) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](admin-roles.md) documentation.
