@@ -1,7 +1,7 @@
 ---
 keywords: Experience Platform support;platform support;intelligent services support; customer ai support; attribution ai support; rtcdp support; submit support ticket;customer support
-title: # Adobe customer support experience
-description: Adobe Customer Support Experience
+title: Adobe customer support experience
+description: Adobe Customer support experience.
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 ---
