@@ -1,12 +1,13 @@
 ---
 keywords: Experience Platform support;platform support;intelligent services support; customer ai support; attribution ai support; rtcdp support; submit support ticket;customer support
-title: Adobe Experience Cloud Customer One for Enterprise
+title: # Adobe customer support experience
 description: Adobe Customer Support Experience
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 ---
 # Adobe customer support experience
 
+This article explains how to submit support tickets and manage case-related access using Experience League.
 
 ## Experience League support tickets
 
@@ -16,7 +17,7 @@ We are working to improve how you interact with Adobe Customer Support. Our visi
 
 If you are an Adobe Commerce user, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
 
-## Support entitled roles needed for case submission {#submit-ticket}
+## Support entitlement roles needed for case submission {#submit-ticket}
 
 In order to submit a support ticket in [Experience League](https://experienceleague.adobe.com/home#support), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket. To learn more about the different types of admin roles and their entitlements, refer to [Admin roles](admin-roles.md). 
 
@@ -121,7 +122,7 @@ After submission:
 
 * The case is logged in Experience League
 * You can track updates and communicate with Support through the portal
-* Adobe Support responds based on the priority and impact you have provided
+* Adobe Support responds based on the priority and impact you selected
 
 >[!TIP]
 >
