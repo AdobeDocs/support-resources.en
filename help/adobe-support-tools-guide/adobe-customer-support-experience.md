@@ -8,6 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 # Adobe customer support experience
 
 This article explains how to submit support tickets and manage case-related access using Experience League.
+
 ## Experience League support tickets
 
 Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#create-a-support-ticket-with-experience-league).
