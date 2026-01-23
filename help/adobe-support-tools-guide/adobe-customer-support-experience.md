@@ -7,8 +7,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 ---
 # Adobe customer support experience
 
-This article explains how to submit support tickets and manage case-related access using Experience League. If you need to configure support entitlements before submitting a case, see [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md).
-
+This article explains how to submit support tickets and manage case-related access using Experience League.
 ## Experience League support tickets
 
 Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#create-a-support-ticket-with-experience-league).
@@ -16,6 +15,12 @@ Support tickets are now submitted via [Experience League](https://experienceleag
 We are working to improve how you interact with Adobe Customer support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access Adobe Customer support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
 
 If you are an Adobe Commerce user, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
+
+## Support entitled roles needed for case submission {#submit-ticket}
+
+In order to submit a support ticket in [Experience League](https://experienceleague.adobe.com/home#support), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket. To learn more about the different types of admin roles and their entitlements, refer to [Admin roles](admin-roles.md). If you need to set up these support entitlements before submitting a case, see [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md). 
+
+If you are on Commerce, the process for sharing access to work with support cases is different. To learn more, refer to [Shared access: grant privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) in the Experience League Support User Guide for Adobe Commerce.
 
 ### Create a support ticket with Experience League
 
