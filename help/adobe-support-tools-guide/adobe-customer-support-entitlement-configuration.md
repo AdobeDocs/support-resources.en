@@ -9,7 +9,7 @@ feature: Admin Console
 
 To configure support entitlements for your organization, first add or invite the user through the Admin Console.
 
-## Adding support entitled roles to an organization
+## Adding support entitlement roles to an organization
 
 The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
