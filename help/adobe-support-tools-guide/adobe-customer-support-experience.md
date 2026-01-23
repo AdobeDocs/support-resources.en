@@ -13,7 +13,7 @@ This article explains how to submit support tickets and manage case-related acce
 
 Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#create-a-support-ticket-with-experience-league).
 
-We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
+We are working to improve how you interact with Adobe Customer support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access Adobe Customer support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
 
 If you are an Adobe Commerce user, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
 
