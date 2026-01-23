@@ -1,5 +1,5 @@
 ---
-title: Adobe customer support entitlement 
+title: Adobe customer support entitlement configuration
 description: How Adobe customers can configure support entitlements to enable case submission.
 solution: Admin Console
 feature: Admin Console
