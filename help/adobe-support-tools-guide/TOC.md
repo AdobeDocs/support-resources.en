@@ -20,4 +20,5 @@ role: User, Admin
   - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
   - [Adobe support customer data access and privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
   - [Adobe Commerce Support ticket lifecycle policy update](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
+  - * [Monitoring fact sheet for Adobe Commerce on cloud pro infrastructure](adobe-support-tools-guide\adobe-commerce-support\monitoring-whitepaper.md)
 
