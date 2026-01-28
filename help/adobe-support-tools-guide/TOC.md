@@ -10,7 +10,8 @@ role: User, Admin
 
 # Adobe Support & Tools Guide {#adobe-support-tools-guide}  
 
-- [Experience League Support Portal](adobe-customer-support-experience.md)
+- [Adobe customer support experience](adobe-customer-support-experience.md)
+- [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
 - [Admin Roles](admin-roles.md)
 - Adobe Workfront Support {#workfront}
