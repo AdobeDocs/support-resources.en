@@ -42,7 +42,7 @@ This article lists the support ticket **[!UICONTROL Issue Reason]** field option
   </tr>
   <tr>
     <td>Infrastructure Incident</td>
-    <td>You need help with your Adobe Commerce on cloud infrastructure, such as stuck deployments, [!DNL New Relic] access, SSH/sFTP access, service upgrades ([!DNL OpenSearch], [!DNL MariaDB]/[!DNL MySQL], [!DNL Redis], [!DNL RabbitMQ], but not including PHP), SSL certificates, etc.<strong> (Does not apply to [!DNL Live Search])</strong>.</td>
+    <td>You need help with your Adobe Commerce on cloud infrastructure, such as stuck deployments, [!DNL New Relic] access, SSH/sFTP access, service upgrades ([!DNL OpenSearch], [!DNL MariaDB]/[!DNL MySQL], [!DNL Redis], [!DNL RabbitMQ], but not including PHP), SSL certificates, etc.<strong> (Does not apply to [!DNL Live Search].)</strong></td>
   </tr>  
 </tbody>
 </table>
