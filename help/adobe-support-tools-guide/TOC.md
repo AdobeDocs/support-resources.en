@@ -10,10 +10,10 @@ role: User, Admin
 
 # Adobe Support & Tools Guide {#adobe-support-tools-guide}  
 
-- [Experience League Support Portal](adobe-customer-support-experience.md)
+- [Adobe customer support experience](adobe-customer-support-experience.md)
+- [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
 - [Admin Roles](admin-roles.md)
-- [New Experience League Case Submit Form Release Notes](release-notes.md)
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
@@ -22,5 +22,5 @@ role: User, Admin
   - [Adobe support customer data access and privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
   - [Adobe Commerce Support ticket lifecycle policy update](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
   - [Adobe Commerce support ticket contact reason descriptions](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
-  
+  - [Adobe Commerce support tools at a glance](adobe-commerce-support/support-tools-overview.md)
 
