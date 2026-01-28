@@ -1,8 +1,8 @@
 ---
-title: Adobe Commerce Support ticket Issue Reason descriptions
+title: Adobe Commerce support ticket **[!UICONTROL Issue Reason]** descriptions
 description: This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
 ---
-# Adobe Commerce Support ticket Issue Reason descriptions
+# Adobe Commerce support ticket **[!UICONTROL Issue Reason ]** descriptions
 
 This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
 
@@ -21,15 +21,15 @@ This article lists the support ticket **[!UICONTROL Issue Reason]** field option
     <td>You have uncovered a security issue with your Adobe Commerce storefront.</td>
   </tr>
   <tr>
-    <td>Account/User/Identity Management</td>
+    <td>Account/User/Identity management</td>
     <td>You need help with updating the account ownership or troubleshooting shared access permissions. This doesn't apply to issues regarding the management nor obtaining of [!DNL New Relic] account access, nor SSH/sFTP access requests.</td>
   </tr>
   <tr>
-    <td>Adobe Commerce Application</td>
+    <td>Adobe Commerce application</td>
     <td>You need help with your Adobe Commerce application, including B2B, Catalog Service, [!DNL Live Search], Product Recommendations, Adobe Commerce Reporting, Adobe Payment Services, Adobe I/O Events for Adobe Commerce, etc.</td>
   </tr>
   <tr>
-    <td>Integrating with other Adobe Solutions</td>
+    <td>Integrating with other Adobe solutions</td>
     <td>You need help with Adobe Experience Manager, Adobe Experience Platform, Adobe Analytics, etc.</td>
   </tr>
   <tr>
@@ -37,11 +37,11 @@ This article lists the support ticket **[!UICONTROL Issue Reason]** field option
     <td>You need help with installing or upgrading Adobe Commerce.</td>
   </tr>
   <tr>
-    <td>Infrastructure Change Request</td>
+    <td>Infrastructure change request</td>
     <td>You need help with your Adobe Commerce on cloud infrastructure or have a configuration change request, such as temporary vCPU increase, backup/snapshot requests, updating domains, etc.</td>
   </tr>
   <tr>
-    <td>Infrastructure Incident</td>
+    <td>Infrastructure incident</td>
     <td>You need help with your Adobe Commerce on cloud infrastructure, such as stuck deployments, [!DNL New Relic] access, SSH/sFTP access, service upgrades ([!DNL OpenSearch], [!DNL MariaDB]/[!DNL MySQL], [!DNL Redis], [!DNL RabbitMQ], but not including PHP), SSL certificates, etc.<strong> (Does not apply to [!DNL Live Search].)</strong></td>
   </tr>  
 </tbody>
