@@ -1,10 +1,10 @@
 ---
 title: Support ticket Issue Reason descriptions
-description: This article lists the support ticket **Issue Reason** field options and provides detailed descriptions of each one.
+description: This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
 ---
 # Support ticket Issue Reason descriptions
 
-This article lists the support ticket **Issue Reason** field options and provides detailed descriptions of each one.
+This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
 
 ## Issue Reasons
 
