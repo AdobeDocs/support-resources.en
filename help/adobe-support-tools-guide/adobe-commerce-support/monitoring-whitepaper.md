@@ -1,7 +1,6 @@
 ---
 title: Monitoring fact sheet for [!DNL Adobe Commerce on cloud pro infrastructure]
 description: This document provides information about Adobe Commerce infrastructure monitoring and notifications.
-feature: Cloud
 ---
 
 # Monitoring fact sheet for [!DNL Adobe Commerce on cloud pro infrastructure]
