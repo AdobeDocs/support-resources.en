@@ -18,7 +18,7 @@ This article lists the support ticket **[!UICONTROL Issue Reason]** field option
 <tbody>
   <tr>
     <td>Security</td>
-    You have uncovered a security issue with your Adobe Commerce storefront.</td>
+    <td>You have uncovered a security issue with your Adobe Commerce storefront.</td>
   </tr>
   <tr>
     <td>Account/User/Identity Management</td>
