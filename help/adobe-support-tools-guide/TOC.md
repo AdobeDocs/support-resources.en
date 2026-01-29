@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Support & Tools Guide
+user-guide-title: Adobe Support and Tools Guide
 user-guide-description: Detailed guidance and updates about Adobe support and tools.
 feature-set: Experience Cloud
 feature: Support
@@ -8,8 +8,9 @@ index: yes
 role: User, Admin
 ---
 
-# Adobe Support & Tools Guide {#adobe-support-tools-guide}  
+# Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
+- [Adobe Support and Tools Guide overview](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe customer support experience](adobe-customer-support-experience.md)
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
