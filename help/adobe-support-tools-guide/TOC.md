@@ -8,7 +8,7 @@ index: yes
 role: User, Admin
 ---
 
-# Adobe Support & Tools Guide {#adobe-support-tools-guide}  
+# Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
 - [Adobe Support and Tools Guide overview](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe customer support experience](adobe-customer-support-experience.md)
