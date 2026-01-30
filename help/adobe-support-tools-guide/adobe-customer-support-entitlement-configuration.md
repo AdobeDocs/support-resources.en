@@ -12,7 +12,7 @@ To configure support entitlements for your organization, first add or invite the
 
 ## Adding support entitlement roles to an organization
 
-The **[!UICONTROL Support administrator] role is a non-administrative role that has access to support-related information. A **[!UICONTROL Support administrator] can view, create, and manage issue reports.
+The **[!UICONTROL Support administrator]** role is a non-administrative role that has access to support-related information. A **[!UICONTROL Support administrator]** can view, create, and manage issue reports.
 
 To add or invite an admin:
 
