@@ -1,6 +1,6 @@
 ---
 title: Adobe customer support entitlement configuration
-description: How Adobe customers can configure support entitlements to enable case submission.
+description: How Adobe customers can set up and manage support entitlements in the Admin Console so users can access support resources, submit issues, and manage case activity.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
@@ -26,7 +26,7 @@ To add or invite an admin:
 
 1. Click **[!UICONTROL Next]**. A list of admin roles appears.
 
-To assign a **[!UICONTROL Support administrator] role to a user (enable a user to be able to contact support):
+To assign a **[!UICONTROL Support administrator]** role to a user (enable a user to be able to contact support):
 
 1. Select the **[!UICONTROL Support administrator]** option.
 
@@ -49,4 +49,4 @@ As part of the sign-in process, users may be asked to set up an Adobe profile if
 
 ![Admin rights confirmation](assets/admin-rights-confirmation.png)
 
-For more details refer to [edit enterprise admin role](admin-roles.md#add-enterprise-role) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](admin-roles.md) documentation.
+For more details refer to [Edit enterprise admin role](admin-roles.md#edit-enterprise-admin-role) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [Administrative roles](admin-roles.md) documentation.
