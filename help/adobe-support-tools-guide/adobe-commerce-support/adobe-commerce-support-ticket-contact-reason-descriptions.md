@@ -1,8 +1,8 @@
 ---
-title: Adobe Commerce support ticket **[!UICONTROL Issue Reason]** descriptions
+title: Adobe Commerce support ticket [!UICONTROL Issue Reason] descriptions
 description: This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
 ---
-# Adobe Commerce support ticket **[!UICONTROL Issue Reason ]** descriptions
+# Adobe Commerce support ticket [!UICONTROL Issue Reason] descriptions
 
 This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
 
