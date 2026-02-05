@@ -1,8 +1,8 @@
 ---
 title: Adobe Support and Tools Guide overview
 description: Adobe Support and Tools Guide—your central resource on case management, support entitlements and support tools in Experience League.
+exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
 ---
-
 # Adobe Support and Tools Guide overview
 
 The **Adobe Support and Tools Guide** is your central resource for navigating Adobe Digital Experience support. It brings together case management, support entitlements, and tools capabilities that help you resolve issues efficiently.
@@ -24,4 +24,3 @@ The **Adobe Support and Tools Guide** is your central resource for navigating Ad
 | [Adobe Commerce software end of support FAQ](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-eos-policy-faq) | Understand the implications of Adobe Commerce’s published End of Support (EOS) date for affected versions of Adobe Commerce. | January 25, 2026 |
 | [Adobe Commerce support ticket **[!UICONTROL Issue Reason]** descriptions](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions) | Understand the available options for the **[!UICONTROL Issue Reason]** field when creating an Adobe Commerce support ticket. | January 27, 2026 |
 | [Adobe Commerce support tools at a glance](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/support-tools-overview) | Explore various Adobe Commerce support tools that help to optimize the e-commerce store experience. | January 26, 2026 |
-

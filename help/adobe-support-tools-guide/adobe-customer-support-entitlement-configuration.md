@@ -4,8 +4,8 @@ description: How Adobe customers can set up and manage support entitlements in t
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
 ---
-
 # Adobe customer support entitlement configuration
 
 To configure support entitlements for your organization, first add or invite the user through the Admin Console.

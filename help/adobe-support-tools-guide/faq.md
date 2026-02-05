@@ -2,6 +2,7 @@
 keywords: FAQ;frequently asked questions
 title: Adobe Business Platform & Admin Console FAQ
 description: Frequently Asked Question for Adobe Workfront
+exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
 ---
 # [!DNL Adobe Business Platform] & Admin Console FAQ
 
