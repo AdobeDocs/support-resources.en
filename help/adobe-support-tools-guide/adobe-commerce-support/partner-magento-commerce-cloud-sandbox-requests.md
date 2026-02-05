@@ -3,6 +3,7 @@ title: Partner Adobe Commerce on cloud infrastructure sandbox requests
 description: This FAQ article contains links to useful resources for Adobe Commerce on cloud infrastructure sandbox Requests.
 feature: Cloud
 solution: Commerce
+feature set: Commerce
 ---
 # Partner Adobe Commerce on cloud infrastructure sandbox requests
 
