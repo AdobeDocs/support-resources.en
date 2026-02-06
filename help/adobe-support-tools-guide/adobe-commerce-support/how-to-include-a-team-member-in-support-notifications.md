@@ -3,6 +3,8 @@ title: How to include a team member in Support notifications
 description: This article provides an explanation of how to include a team member in Support notifications.
 feature: Cloud, Support, Admin Workspace
 role: Admin, Developer
+solution: Commerce
+feature-set: Commerce
 ---
 # How to include a team member in Support notifications
 
