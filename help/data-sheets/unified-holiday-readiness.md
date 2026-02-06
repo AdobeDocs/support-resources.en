@@ -6,7 +6,7 @@ feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
 role: Developer, Admin, Leader, User
 index: yes
-
+exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
 ---
 # Adobe DX Solutions Unified Holiday Readiness Guide
 

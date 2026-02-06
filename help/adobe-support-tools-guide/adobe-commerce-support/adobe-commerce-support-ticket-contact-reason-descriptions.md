@@ -1,6 +1,7 @@
 ---
 title: Adobe Commerce support ticket [!UICONTROL Issue Reason] descriptions
 description: This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
+exl-id: 3af194c6-6f28-4ce1-bf60-af80057cb86b
 ---
 # Adobe Commerce support ticket [!UICONTROL Issue Reason] descriptions
 

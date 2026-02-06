@@ -4,6 +4,7 @@ description: The following FAQ is intended to help merchants, developers, and pa
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
+exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
 ---
 # Adobe Commerce Software End of Support FAQ
 

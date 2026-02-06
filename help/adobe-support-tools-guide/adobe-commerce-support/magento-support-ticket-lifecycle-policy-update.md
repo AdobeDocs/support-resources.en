@@ -1,6 +1,7 @@
 ---
 title: Adobe Commerce Support ticket lifecycle policy update
 description: This article provides information about Adobe Commerce Support ticket lifecycle policy update.
+exl-id: 1d0da27f-4334-4f3a-a9b5-fca2eb16de4e
 ---
 # Adobe Commerce Support ticket lifecycle policy update
 
