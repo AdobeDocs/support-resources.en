@@ -2,6 +2,8 @@
 title: Experience League Support User Guide for Adobe Commerce
 description: Learn how to submit a support ticket to Experience League Support, provide shared access to accounts, and navigate the Adobe Commerce Knowledge Base.
 feature: Support, Roles/Permissions, Tools and External Services, Admin Workspace, Iaas, Marketing Tools
+feature-set: Commerce
+solution: Commerce
 ---
 # Experience League Support User Guide for Adobe Commerce 
 
@@ -166,7 +168,7 @@ To resolve this:
 To submit a new support ticket using your Adobe Commerce account page, follow these steps:
 
 1. Sign in to your Adobe Commerce account. See [detailed instructions](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-create.html?lang=en#create-a-commerce-account) in our user guide.
-1. Click the **Support** tab.    
+1. Click the **Support** tab.
 
    ![magento_account_support_tab](/help/adobe-support-tools-guide/assets/magento_account_support_tab.png){width="800"}
 
