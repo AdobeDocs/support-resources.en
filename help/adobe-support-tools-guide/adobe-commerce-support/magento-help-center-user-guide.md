@@ -399,6 +399,6 @@ To know which account you are currently using (your own native account or shared
 
 ### Shared access troubleshooting {#troubleshooting-shared-access}
 
-Please refer to the [Shared access troubleshooting article](/help/troubleshooting/miscellaneous/shared-access-troubleshooting.md) in our support knowledge base.
+Please refer to the [Shared access troubleshooting article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting) in our support knowledge base.
 
 
