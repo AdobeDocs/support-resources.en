@@ -4,6 +4,7 @@ description: This FAQ article contains links to useful resources for Adobe Comme
 feature: Cloud
 solution: Commerce
 feature-set: Commerce
+exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
 ---
 # Partner Adobe Commerce on cloud infrastructure sandbox requests
 
@@ -29,5 +30,3 @@ If you're submitting a ticket on behalf of a merchant who has not been granted S
 
 * Solution Partners should submit sandbox-related support requests by emailing [SPPHelp@adobe.com](mailto:SPPHelp@adobe.com). These requests will be routed to the Partner Technical Support team.
 * Tech Partners should contact [Marketplace Support](mailto:commercemarketplacesupport@adobe.com).
-
-
