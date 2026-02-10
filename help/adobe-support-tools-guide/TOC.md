@@ -26,4 +26,4 @@ role: User, Admin
   - [Adobe Commerce Software End of Support FAQ](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
   - [Adobe Commerce support ticket Issue Reason descriptions](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
   - [Adobe Commerce support tools at a glance](adobe-commerce-support/support-tools-overview.md)
-  - [Experience League Support User Guide for Adobe Commerce](adobe-commerce-support/magento-help-center-user-guide.md)
+  - [Experience League Support User Guide for Adobe Commerce](adobe-commerce-support/adobe-commerce-help-center-user-guide.md)
