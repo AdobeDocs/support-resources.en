@@ -11,7 +11,7 @@ This article provides instructions on how to obtain and apply a [!UICONTROL secu
 
 ## Affected products and versions 
 
-Adobe Commerce on-premise and cloud infrastructure - All versions
+Adobe Commerce on-premise and cloud infrastructure - all supported versions
 
 
 ## Cause
