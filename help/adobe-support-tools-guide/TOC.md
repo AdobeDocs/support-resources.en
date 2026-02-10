@@ -27,3 +27,4 @@ role: User, Admin
   - [Adobe Commerce support ticket Issue Reason descriptions](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
   - [Adobe Commerce support tools at a glance](adobe-commerce-support/support-tools-overview.md)
   - [Experience League Support User Guide for Adobe Commerce](adobe-commerce-support/adobe-commerce-help-center-user-guide.md)
+  - [Partner Adobe Commerce on cloud infrastructure sandbox requests](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
