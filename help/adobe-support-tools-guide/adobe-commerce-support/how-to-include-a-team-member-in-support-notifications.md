@@ -5,6 +5,7 @@ feature: Cloud, Support, Admin Workspace
 role: Admin, Developer
 solution: Commerce
 feature-set: Commerce
+exl-id: 392ef795-f710-401f-8b0e-3c8dfec7bb3a
 ---
 # How to include a team member in Support notifications
 
