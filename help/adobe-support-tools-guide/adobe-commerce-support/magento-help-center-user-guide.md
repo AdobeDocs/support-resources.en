@@ -105,11 +105,11 @@ To submit a new support case using the start page of Adobe Experience League, re
 >
 >Ensure that you have selected the correct organization before submitting the case, and that the organization you selected has the appropriate entitlements for the product for which you are requesting support. For example, if your issue is related to Adobe Commerce, but you had selected Adobe Commerce Intelligence or Adobe Experience Platform as the product, and the case was successfully submitted, this may lead to misrouting of your case and delays in response times. 
 >
->In addition, if the wrong organization was selected at the time the case was submitted, your team will not be able to view the case under [!UICONTROL My Cases] for the appropriate/correct organization. The Adobe Commerce Support team does not have the ability to change the organization associated with the case; to address this, you must close the existing case and submit a new case with the appropriate details provided/selected.
+>In addition, if the wrong organization was selected at the time the case was submitted, your team will not be able to view the case under **[!UICONTROL My Cases]** for the appropriate/correct organization. The Adobe Commerce Support team does not have the ability to change the organization associated with the case; to address this, you must close the existing case and submit a new case with the appropriate details provided/selected.
 
    >[!NOTE]
    >
-   >If you're submitting a ticket with "**[!DNL Commerce] on cloud infrastructure**" selected as the product, and the organization has multiple projects listed, you'll be prompted to select the appropriate [!UICONTROL Project ID]. If you're unable to locate the desired [!UICONTROL Project ID], make sure to add a note on the ticket that you're seeking assistance with a different "project X".<br>If you intend to submit a "**[!DNL Commerce] on Managed Services**" ticket, and are on **[!DNL Commerce] on cloud infrastructure**, but don't see **[!DNL Commerce] on cloud infrastructure** as an available product:<br>1. Enter a subject for your issue in **[!UICONTROL Case title]**.<br>2. Enter a description of your issue in **[!UICONTROL Case description]**.<br>3. After entering both these items, you will be presented with the **[!UICONTROL Cloud Project URL]** field below.
+   >If you're submitting a ticket with "**[!DNL Commerce] on cloud infrastructure**" selected as the product, and the organization has multiple projects listed, you'll be prompted to select the appropriate **[!UICONTROL Project ID]**. If you're unable to locate the desired **[!UICONTROL Project ID]**, make sure to add a note on the ticket that you're seeking assistance with a different "project X".<br>If you intend to submit a "**[!DNL Commerce] on Managed Services**" ticket, and are on **[!DNL Commerce] on cloud infrastructure**, but don't see **[!DNL Commerce] on cloud infrastructure** as an available product:<br>1. Enter a subject for your issue in **[!UICONTROL Case title]**.<br>2. Enter a description of your issue in **[!UICONTROL Case description]**.<br>3. After entering both these items, you will be presented with the **[!UICONTROL Cloud Project URL]** field below.
 
 >[!IMPORTANT]
 >
@@ -128,12 +128,12 @@ To submit a new support case using the start page of Adobe Experience League, re
 >
 >1. Since each Organization represents one product, you will see two organizations in the dropdown, e.g., OrgA-Product1 and OrgB-Product2.
 >1. If you selected Product = Product1 but your issue is related to Product2, the case will be routed to Product2 support and there will be delays when transferring the case to Product1 support.
->1. If you submitted the case for OrgA-Product1 and would like to review [!UICONTROL My Cases] for that Organization in the future, you will not see it if you select OrgA-Product2 as the Organization (you would just have to select the other Organization, compared with Example B).
+>1. If you submitted the case for OrgA-Product1 and would like to review **[!UICONTROL My Cases]** for that Organization in the future, you will not see it if you select OrgA-Product2 as the Organization (you would just have to select the other Organization, compared with Example B).
 >
 >**Example B**: You have Shared Access to two companies, and each company only has entitlements for Adobe Commerce.
 >
->1. If you submitted the case for OrgA but the issue is actually impacting OrgB, members of OrgB will not be able to see this case under [!UICONTROL My Cases] in the future. 
->1. In addition, members of OrgA will be able to see cases under [!UICONTROL My Cases] that are actually meant for OrgB, which can lead to privacy issues.
+>1. If you submitted the case for OrgA but the issue is actually impacting OrgB, members of OrgB will not be able to see this case under **[!UICONTROL My Cases]** in the future. 
+>1. In addition, members of OrgA will be able to see cases under **[!UICONTROL My Cases]** that are actually meant for OrgB, which can lead to privacy issues.
 
 >[!NOTE]
 >
@@ -141,7 +141,7 @@ To submit a new support case using the start page of Adobe Experience League, re
 >
 >If your organization has entitlements for Adobe Commerce Intelligence / Commerce Reporting (MBI) but you need assistance with Advanced Reporting, don't select **Commerce Reporting** as the product. The Commerce Reporting team doesn't provide support for Advanced Reporting issues.
 >
->If you are unable to select a different product (for example, the **Select a product** dropdown is empty or not displayed), it is usually due to one of the following reasons:
+>If you are unable to select a different product (for example, the **[!UICONTROL Select a product]** dropdown is empty or not displayed), it is usually due to one of the following reasons:
 >
 >* Your Commerce entitlements have expired or are inactive (for example, due to an outstanding billing or licensing issue).
 >* For instances hosted on Adobe Commerce on cloud infrastructure (PaaS), you haven't been added to the Cloud project.
