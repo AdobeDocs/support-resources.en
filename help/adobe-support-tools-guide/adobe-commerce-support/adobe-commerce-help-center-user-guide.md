@@ -4,6 +4,7 @@ description: Learn how to submit a support ticket to Experience League Support, 
 feature: Support, Roles/Permissions, Tools and External Services, Admin Workspace, Iaas, Marketing Tools
 feature-set: Commerce
 solution: Commerce
+exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
 ---
 # Experience League Support User Guide for Adobe Commerce 
 
@@ -400,5 +401,3 @@ To know which account you are currently using (your own native account or shared
 ### Shared access troubleshooting {#troubleshooting-shared-access}
 
 Please refer to the [Shared access troubleshooting article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting) in our support knowledge base.
-
-
