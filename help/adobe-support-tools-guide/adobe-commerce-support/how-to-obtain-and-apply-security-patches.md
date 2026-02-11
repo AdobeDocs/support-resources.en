@@ -1,6 +1,7 @@
 ---
 title: How to obtain and apply [!UICONTROL security patch]
 description: This article provides instructions on how to obtain and apply a [!UICONTROL security patch] that has been released, but instructions are unavailable.
+exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
 ---
 # How to obtain and apply a [!UICONTROL security patch]
 
