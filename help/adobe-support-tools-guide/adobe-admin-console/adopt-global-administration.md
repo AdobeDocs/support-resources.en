@@ -13,7 +13,6 @@ For more information about supported functionality, see the [Global Admin Consol
 [!VIDEO](https://youtu.be/FLBWR78wpok)
 
 > **Note:** The content and voice-over for this video is currently available in English only.
----
 
 ## Key advantages
 
@@ -31,8 +30,6 @@ Following are some key advantages of the Global Admin Console:
 - Import updates to organizations and changes to the organizational hierarchy.
 - Receive notifications about ETLA contract status in child organizations, including upcoming expiration, expired, or inactive contracts. For more information, see the [contract expiry](https://helpx.adobe.com/enterprise/using/contract-expiry.html) documentation.
 
----
-
 ## Eligibility criteria
 
 Adobe recommends global administration if your organization meets one or more of the following criteria:
@@ -44,8 +41,6 @@ Adobe recommends global administration if your organization meets one or more of
 - You want to allocate purchased resources to different parts of the enterprise and assign separate administrators.
 - You have administrators for specific Adobe products, regions, or organizations and want to prevent overlap or interference.
 
----
-
 ## Request access to the Global Admin Console
 
 To request access to the Global Admin Console, follow the steps below after consulting your Adobe representative.
@@ -54,15 +49,15 @@ To request access to the Global Admin Console, follow the steps below after cons
 
    **Note:** Submit the support case through the main organization, which serves as the root organization in the Global Admin hierarchy.
 
-2. Select **Create Case** to open the **Create Case** window.
+1. Select **Create Case** to open the **Create Case** window.
 
-3. In the form, specify the following details:
+1. In the form, specify the following details:
 
    - Priority of the issue: P4 – Minor
    - Impact of the issue: Medium
    - Issue summary: <Your organization’s name> is requesting access to the Global Admin Console
 
-4. In **Describe the nature of the issue you're facing**, state that your organization is requesting access to the Global Admin Console, and include the following details:
+1. In **Describe the nature of the issue you're facing**, state that your organization is requesting access to the Global Admin Console, and include the following details:
 
    - **Name and Console ID** (found in the URL as the series of numbers and letters preceding "@AdobeOrg") of the Admin Console to designate as the *root (top)* organization, or request a new console and specify the desired name.
          - In some cases, a new console is the preferred option. Your Adobe representative can guide you. Select the *root* organization carefully, because it is difficult to change later.
@@ -71,7 +66,7 @@ To request access to the Global Admin Console, follow the steps below after cons
 
    ![Issue description](assets/describe.png)
 
-5. Select **Next**, and provide the following information:
+1. Select **Next**, and provide the following information:
 
 | Details to fill in | Description |
 | ------------------ | ----------- |
@@ -80,6 +75,4 @@ To request access to the Global Admin Console, follow the steps below after cons
 | **Working hours** | Adobe Customer Care considers your working hours and their normal business hours if a call is required. Use the time slider to specify the best time to reach you. |
 | **Phone number** | Provide a contact number so an Adobe Customer Care agent can contact you for troubleshooting or clarification. |
 
-6. Select **Submit**.
-
----
+1. Select **Submit**.
