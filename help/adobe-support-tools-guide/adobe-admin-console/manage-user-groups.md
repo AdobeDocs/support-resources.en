@@ -11,7 +11,7 @@ In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-co
 
 [Sign in to the Global Admin Console](https://global-admin-console.adobe.com)
 
----
+
 
 ## Create User Groups
 
@@ -40,7 +40,7 @@ You can either [create user groups](https://helpx.adobe.com/enterprise/using/use
 >
 >Global admins can [assign product profiles and user group admins](#review-user-groups) to the user groups using the [!DNL Global Admin Console]. Using the [!DNL Adobe Admin Console], system admins and user group admins can [add users and assign admins and product profiles](https://helpx.adobe.com/enterprise/using/user-groups.html) to the user group.
 
----
+
 
 ## Share User Groups
 
@@ -84,7 +84,7 @@ When you share a user group, the group and its users are added to the target org
 
 Changes in the projected user group's name or associated users in the source user group are automatically updated in the target organization. While the shared user group cannot be managed directly, an admin within the target organization can assign product profiles to a shared group, giving license access to the group's users.
 
----
+
 
 ## Revoke access to Shared Groups
 
@@ -104,7 +104,7 @@ Changes in the projected user group's name or associated users in the source use
 
 7. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) them.
 
----
+
 
 ## Edit User Groups
 
@@ -132,7 +132,7 @@ Changes in the projected user group's name or associated users in the source use
 >
 >If you change the name of a shared user group, the changes are automatically updated in the target organization.
 
----
+
 
 ## Delete User Groups
 
