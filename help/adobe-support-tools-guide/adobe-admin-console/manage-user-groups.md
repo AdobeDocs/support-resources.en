@@ -1,10 +1,9 @@
-# Manage User Groups in the Global Admin Console
-
-> **Applies to:** Enterprise  
-> **Source:** [Adobe Help Center](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html)  
-> **Last updated:** Feb 11, 2025
-
 ---
+title: Manage User Groups in the Global Admin Console
+description: Learn how to create, share, edit, and delete user groups in the Global Admin Console to streamline user management across organizations.
+---
+
+# Manage User Groups in the Global Admin Console
 
 Create, manage, and share user groups in the [!DNL Global Admin Console] to streamline user management by grouping users with the same permissions, saving time, and ensuring consistency.
 
