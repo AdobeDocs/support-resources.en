@@ -377,7 +377,7 @@ However, once you have revoked the permissions on those Shared Access users, the
 1. In the panel on the left, under **[!UICONTROL Shared Access]**, select **[!UICONTROL Manage Permissions]**.
 1. Find the user to revoke shared access from and click **[!UICONTROL Edit]** in the user's row (*[!UICONTROL Actions]* column).
 1. Uncheck all resources under **[!UICONTROL Grant Account Permissions]**.
-1. To prevent any confusion about whether the user still has **[!UICONTROL Cloud Shared Access]**, you should modify the **[!UICONTROL Share Name]** to something similar to (For example: *Cloud Shared Access Revoked - can't be deleted*).
+1. To prevent any confusion about whether the user still has **[!UICONTROL Cloud Shared Access]**, you should modify the **[!UICONTROL Share Name]** to a name like, for example: *Cloud Shared Access Revoked - can't be deleted*, or something similar.
 
 ![grant-account-permissions-image](/help/adobe-support-tools-guide/assets/help-center-user-guide-grant-account-permissions-image.png){width="800"}
 
