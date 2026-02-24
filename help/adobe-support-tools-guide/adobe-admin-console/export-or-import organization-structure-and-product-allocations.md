@@ -13,7 +13,7 @@ Learn how global administrators can streamline organization and product manageme
 >
 
 > Access the **[!UICONTROL Organizations]** tab in the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) to export or import the organization structure, and go to the **[!UICONTROL Product Allocation]** tab for allocation data. Use the **[!UICONTROL More Options]** ⋯ icon to select export or import.
-> [Sign in to the Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html).
+> [Sign in to the Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Export the organization structure
 
