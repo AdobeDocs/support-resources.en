@@ -87,56 +87,39 @@ Input records with no or blank operation field are ignored.
   <tr>
     <td>Determine needed infrastructure changes</td>
     <td></td>
-    <td>Contributor</td>
   </tr>
   <tr>
     <td>Assess upgrade complexity<br />Identify and document packages, issues &amp; fixes, and 3rd party &amp; custom modules</td>
     <td>Contributor</td>
-    <td>Owner</td>
-
   </tr>
   <tr>
     <td rowspan="3">Execute upgrade</td>
     <td>Upgrade infrastructure services<br />[MariaDB, Redis, Open Search, and Rabbit MQ] (Staging and Production)</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Update Commerce code base and customizations; code recompilation and code refactoring</td>
     <td>Contributor</td>
-    <td>Owner</td>
   </tr>
   <tr>
     <td>Perform post-upgrade checks and troubleshooting</td>
     <td></td>
-    <td>Owner</td>
-
   </tr>
   <tr>
     <td rowspan="3">UAT and Launch</td>
     <td>Run performance and security tests</td>
-    <td>Contributor</td>
-    <td>Owner</td>
-
   </tr>
   <tr>
     <td>User Acceptance Testing on Staging</td>
     <td>Owner</td>
-    <td>Contributor</td>
-
   </tr>
   <tr>
     <td>Launch to Production</td>
     <td>Contributor</td>
-    <td>Owner</td>
-
   </tr>
   <tr>
     <td>Post-Launch</td>
     <td></td>
-    <td>Contributor</td>
-    <td>Contributor</td>
- 
   </tr>
 </tbody>
 </table>
