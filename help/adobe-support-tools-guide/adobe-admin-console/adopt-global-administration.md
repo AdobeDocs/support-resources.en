@@ -64,7 +64,7 @@ To request access to the Global Admin Console, follow the steps below after cons
    - Assign at least one current **System Admin** to the Global Admin role. You can add additional administrators later.
    - **Name and email address** of your Adobe representative or Customer Success Manager.
 
-   ![Issue description](assets/describe.png)
+   ![Issue description](help/adobe-support-tools-guide/assets/describe.png)
 
 1. Select **Next**, and provide the following information:
 
