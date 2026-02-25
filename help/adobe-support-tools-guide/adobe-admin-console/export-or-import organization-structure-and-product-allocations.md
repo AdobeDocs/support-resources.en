@@ -31,11 +31,11 @@ The export format chosen impacts the structure of the exported data:
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). In the **[!UICONTROL Organizations]** tab, use the organization picker to select the organization hierarchy where you want to perform the export. Data for all organizations in the hierarchy is exported.
 2. Select the **[!UICONTROL More Options]** ⋮ icon and choose **[!UICONTROL Export]**.
 
-![Export organization structure](./assets/export-org-structure.png)
+    ![Export organization structure](./assets/export-org-structure.png)
 
 3. In the **[!UICONTROL Export]** dialog box, select what to export and a format to export the data in.
 
-![Admin Console export dialog box](./assets/export-12.png)
+    ![Admin Console export dialog box](./assets/export-12.png)
 
 4. Select **[!UICONTROL Export]**. The export file can take several minutes to generate. Once complete, to download the report, navigate to **[!UICONTROL Global Admin Console]** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
