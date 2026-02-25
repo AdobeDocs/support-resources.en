@@ -1,8 +1,10 @@
 ---
-
-## title: Export or import organization structure and product allocations
-
+title: Export or import organization structure and product allocations
 description: Learn how global administrators export and import organization hierarchy and product allocation data in the Global Admin Console using JSON, CSV, or XLSX. Applies to Enterprise.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
+---
 
 # Export or import organization structure and product allocations
 
