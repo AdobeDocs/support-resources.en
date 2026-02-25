@@ -70,7 +70,6 @@ Input records with no or blank operation field are ignored.
 ### Organizations
 
 
-
 <table>
 <thead>
   <tr>
@@ -84,14 +83,11 @@ Input records with no or blank operation field are ignored.
     <td rowspan="3"></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Determine needed infrastructure changes</td>
     <td></td>
     <td>Contributor</td>
-
   </tr>
   <tr>
     <td>Assess upgrade complexity<br />Identify and document packages, issues &amp; fixes, and 3rd party &amp; custom modules</td>
@@ -104,13 +100,11 @@ Input records with no or blank operation field are ignored.
     <td>Upgrade infrastructure services<br />[MariaDB, Redis, Open Search, and Rabbit MQ] (Staging and Production)</td>
     <td></td>
     <td></td>
-    <td>Owner<br />CSE coordinates infrastructure service upgrades.<br />CSE schedules conference meeting event for upgrades.<br />CSE assists with data migration from Production to Staging.</td>
   </tr>
   <tr>
     <td>Update Commerce code base and customizations; code recompilation and code refactoring</td>
     <td>Contributor</td>
     <td>Owner</td>
-    <td></td>
   </tr>
   <tr>
     <td>Perform post-upgrade checks and troubleshooting</td>
@@ -146,6 +140,9 @@ Input records with no or blank operation field are ignored.
   </tr>
 </tbody>
 </table>
+
+
+
 
 
 
