@@ -1,6 +1,9 @@
 ---
 title: Adopt global administration
 description: Learn what the Global Admin Console is and how to request access.
+Feature-set: Experience Cloud Services
+Solution: Admin Console
+Feature: Admin Console
 ---
 # Introduction
 
