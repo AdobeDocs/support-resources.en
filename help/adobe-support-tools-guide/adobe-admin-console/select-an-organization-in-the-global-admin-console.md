@@ -5,6 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 ---
+
 # Select an organization in the Global Admin Console
 
 Learn how to choose an organization for editing within the Global Admin Console.
