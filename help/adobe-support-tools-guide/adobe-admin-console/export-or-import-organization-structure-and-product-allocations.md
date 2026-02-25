@@ -70,24 +70,83 @@ Input records with no or blank operation field are ignored.
 ### Organizations
 
 
-| Field Name      | Description                                                                                                                                                                                                                                                                                                                                                     | Notes                                                                                   |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| id              | Organization Id. When adding a new organization this can be empty or set to a placeholder identifier (for example, new_org_1). The placeholder identifier is used in cases where other imported entries need to refer to this organization. After creation, an actual organization id will be assigned and replace all uses of the placeholder organization id. | Can be set to a temporary value when operation=create                                   |
-| name            | Organization simple name. Min length 4, max 100. Names can contain UTF-8 characters up to 3-bytes; 4-byte characters are not supported.                                                                                                                                                                                                                         | Can be set or updated when operation=create or operation=update, respectively           |
-| countryCode     | Country or region code                                                                                                                                                                                                                                                                                                                                          | Must be set when operation=create, can be updated when operation=Update                 |
-| type            | Type of organization                                                                                                                                                                                                                                                                                                                                            | Read only                                                                               |
-| parentOrgId     | Parent organization id. Blank for root organization. When updating, significant restrictions apply including that new parent be in same hierarchy and have the products that are present in the organization.                                                                                                                                                   | Can be set or updated when operation=create or operation=update, respectively           |
-| adminCount      | Number of administrators                                                                                                                                                                                                                                                                                                                                        | Read only                                                                               |
-| domainCount     | Number of domains                                                                                                                                                                                                                                                                                                                                               | Read only                                                                               |
-| userCount       | Number of users                                                                                                                                                                                                                                                                                                                                                 | Read only                                                                               |
-| userGroupCount  | Number of user groups                                                                                                                                                                                                                                                                                                                                           | Read only                                                                               |
-| admins          | Set of admin objects representing administrators for this organization                                                                                                                                                                                                                                                                                          | May be missing if not selected for export. It displays in a separate tab in XLSX files. |
-| domains         | Set of domain objects representing domains in this organization                                                                                                                                                                                                                                                                                                 |                                                                                         |
-| products        | Set of product objects representing products in this organization                                                                                                                                                                                                                                                                                               |                                                                                         |
-| productProfiles | Set of product profile objects representing product profiles in this organization                                                                                                                                                                                                                                                                               |                                                                                         |
-| userGroups      | Set of user group objects representing user groups in this organization                                                                                                                                                                                                                                                                                         |                                                                                         |
-| orgPolicies     | Structure representing policies and their values                                                                                                                                                                                                                                                                                                                |                                                                                         |
-| operation       | One of blank, Create, Update or Delete. Action to take when data is imported.                                                                                                                                                                                                                                                                                   | Always blank on export.                                                                 |
+
+<table>
+<thead>
+  <tr>
+    <th>Field Name</th>
+    <th>Description</th>
+    <th>Notes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Determine needed infrastructure changes</td>
+    <td></td>
+    <td>Contributor</td>
+    <td>Owner<br />CSE reviews staging and production infrastructure to ensure proper sizing.</td>
+  </tr>
+  <tr>
+    <td>Assess upgrade complexity<br />Identify and document packages, issues &amp; fixes, and 3rd party &amp; custom modules</td>
+    <td>Contributor</td>
+    <td>Owner</td>
+    <td>Contributor<br />CSE provides Upgrade Compatibility Tool reports and recommendations.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Execute upgrade</td>
+    <td>Upgrade infrastructure services<br />[MariaDB, Redis, Open Search, and Rabbit MQ] (Staging and Production)</td>
+    <td></td>
+    <td></td>
+    <td>Owner<br />CSE coordinates infrastructure service upgrades.<br />CSE schedules conference meeting event for upgrades.<br />CSE assists with data migration from Production to Staging.</td>
+  </tr>
+  <tr>
+    <td>Update Commerce code base and customizations; code recompilation and code refactoring</td>
+    <td>Contributor</td>
+    <td>Owner</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Perform post-upgrade checks and troubleshooting</td>
+    <td></td>
+    <td>Owner</td>
+    <td>Contributor<br />CSE executes post-upgrade runbook to detect and remediate issues related to upgrade.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">UAT and Launch</td>
+    <td>Run performance and security tests</td>
+    <td>Contributor</td>
+    <td>Owner</td>
+    <td>Contributor<br />CSE assists with load testing by monitoring performance of application and infrastructure.<br />CSE assists with configuring Commerce Security Scan Tool.</td>
+  </tr>
+  <tr>
+    <td>User Acceptance Testing on Staging</td>
+    <td>Owner</td>
+    <td>Contributor</td>
+    <td>Contributor<br />CSE validates the application and infrastructure are performing correctly post upgrade.</td>
+  </tr>
+  <tr>
+    <td>Launch to Production</td>
+    <td>Contributor</td>
+    <td>Owner</td>
+    <td>Contributor<br />CSE schedules launch conference meeting event.</td>
+  </tr>
+  <tr>
+    <td>Post-Launch</td>
+    <td></td>
+    <td>Contributor</td>
+    <td>Contributor</td>
+    <td>Owner<br />CSE monitors performance of application and infrastructure.</td>
+  </tr>
+</tbody>
+</table>
+``
 
 
 **Import requirements:**
