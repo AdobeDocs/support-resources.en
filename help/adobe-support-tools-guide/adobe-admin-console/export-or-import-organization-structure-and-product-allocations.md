@@ -91,13 +91,13 @@ Input records with no or blank operation field are ignored.
     <td>Determine needed infrastructure changes</td>
     <td></td>
     <td>Contributor</td>
-    <td>Owner<br />CSE reviews staging and production infrastructure to ensure proper sizing.</td>
+
   </tr>
   <tr>
     <td>Assess upgrade complexity<br />Identify and document packages, issues &amp; fixes, and 3rd party &amp; custom modules</td>
     <td>Contributor</td>
     <td>Owner</td>
-    <td>Contributor<br />CSE provides Upgrade Compatibility Tool reports and recommendations.</td>
+
   </tr>
   <tr>
     <td rowspan="3">Execute upgrade</td>
@@ -116,37 +116,37 @@ Input records with no or blank operation field are ignored.
     <td>Perform post-upgrade checks and troubleshooting</td>
     <td></td>
     <td>Owner</td>
-    <td>Contributor<br />CSE executes post-upgrade runbook to detect and remediate issues related to upgrade.</td>
+
   </tr>
   <tr>
     <td rowspan="3">UAT and Launch</td>
     <td>Run performance and security tests</td>
     <td>Contributor</td>
     <td>Owner</td>
-    <td>Contributor<br />CSE assists with load testing by monitoring performance of application and infrastructure.<br />CSE assists with configuring Commerce Security Scan Tool.</td>
+
   </tr>
   <tr>
     <td>User Acceptance Testing on Staging</td>
     <td>Owner</td>
     <td>Contributor</td>
-    <td>Contributor<br />CSE validates the application and infrastructure are performing correctly post upgrade.</td>
+
   </tr>
   <tr>
     <td>Launch to Production</td>
     <td>Contributor</td>
     <td>Owner</td>
-    <td>Contributor<br />CSE schedules launch conference meeting event.</td>
+
   </tr>
   <tr>
     <td>Post-Launch</td>
     <td></td>
     <td>Contributor</td>
     <td>Contributor</td>
-    <td>Owner<br />CSE monitors performance of application and infrastructure.</td>
+ 
   </tr>
 </tbody>
 </table>
-``
+
 
 
 **Import requirements:**
