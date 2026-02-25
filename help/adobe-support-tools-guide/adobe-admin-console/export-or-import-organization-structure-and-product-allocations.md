@@ -69,66 +69,128 @@ Input records with no or blank operation field are ignored.
 
 ### Organizations
 
-
 <table>
-<thead>
   <tr>
     <th>Field Name</th>
     <th>Description</th>
     <th>Notes</th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
-    <td rowspan="3"></td>
-    <td>x</td>
-    <td>x</td>
+    <td>id</td>
+    <td>
+      Organization Id.<br><br>
+      When adding a new organization this can be empty or set to a placeholder identifier, for example,
+      new_org_1. The placeholder identifier is used in cases where other imported entries need to refer
+      to this organization. After creation, an actual organization id will be assigned and replace all
+      uses of the placeholder organization id.
+    </td>
+    <td>Can be set to a temporary value when operation=create</td>
   </tr>
+
   <tr>
-    <td>Determine needed infrastructure changes</td>
-    <td></td>
+    <td>name</td>
+    <td>
+      Organization simple name. Min length 4, max 100.
+      Names can contain UTF-8 characters up to 3 bytes,
+      4-byte characters are not supported.
+    </td>
+    <td>
+      Can be set or updated when operation=create or operation=update, respectively
+    </td>
   </tr>
+
   <tr>
-    <td>Assess upgrade complexity<br />Identify and document packages, issues &amp; fixes, and 3rd party &amp; custom modules</td>
-    <td>Contributor</td>
+    <td>countryCode</td>
+    <td>Country or region code</td>
+    <td>
+      Must be set when operation=create, can be updated when operation=update
+    </td>
   </tr>
+
   <tr>
-    <td rowspan="3">Execute upgrade</td>
-    <td>Upgrade infrastructure services<br />[MariaDB, Redis, Open Search, and Rabbit MQ] (Staging and Production)</td>
-    <td>x</td>
+    <td>type</td>
+    <td>Type of organization</td>
+    <td>Read only</td>
   </tr>
+
   <tr>
-    <td>Update Commerce code base and customizations; code recompilation and code refactoring</td>
-    <td>Contributor</td>
+    <td>parentOrgId</td>
+    <td>
+      Parent organization id. Blank for root organization.
+      When updating, significant restrictions apply including that new parent be in same hierarchy and
+      have the products that are present in the organization.
+    </td>
+    <td>
+      Can be set or updated when operation=create or operation=update, respectively
+    </td>
   </tr>
+
   <tr>
-    <td>Perform post-upgrade checks and troubleshooting</td>
-    <td></td>
+    <td>adminCount</td>
+    <td>Number of administrators</td>
+    <td>Read only</td>
   </tr>
+
   <tr>
-    <td rowspan="3">UAT and Launch</td>
-    <td>Run performance and security tests</td>
-    <td>x</td>
+    <td>domainCount</td>
+    <td>Number of domains</td>
+    <td>Read only</td>
   </tr>
+
   <tr>
-    <td>User Acceptance Testing on Staging</td>
-    <td>Owner</td>
+    <td>userCount</td>
+    <td>Number of users</td>
+    <td>Read only</td>
   </tr>
+
   <tr>
-    <td>Launch to Production</td>
-    <td>Contributor</td>
+    <td>userGroupCount</td>
+    <td>Number of user groups</td>
+    <td>Read only</td>
   </tr>
+
   <tr>
-    <td>Post-Launch</td>
-    <td></td>
-    <td>x</td>
+    <td>admins</td>
+    <td>Set of admin objects representing administrators for this organization</td>
+    <td rowspan="6">
+      May be missing if not selected for export. It displays in a separate tab in XLSX files.
+    </td>
   </tr>
-</tbody>
+
+  <tr>
+    <td>domains</td>
+    <td>Set of domain objects representing domains in this organization</td>
+  </tr>
+
+  <tr>
+    <td>products</td>
+    <td>Set of product objects representing products in this organization</td>
+  </tr>
+
+  <tr>
+    <td>productProfiles</td>
+    <td>Set of product profile objects representing product profiles in this organization</td>
+  </tr>
+
+  <tr>
+    <td>userGroups</td>
+    <td>Set of user group objects representing user groups in this organization</td>
+  </tr>
+
+  <tr>
+    <td>orgPolicies</td>
+    <td>Structure representing policies and their values</td>
+  </tr>
+
+  <tr>
+    <td>operation</td>
+    <td>
+      One of blank, Create, Update or Delete. Action to take when data is imported.
+    </td>
+    <td>Always blank on export.</td>
+  </tr>
 </table>
-
-
-
-
 
 
 **Import requirements:**
