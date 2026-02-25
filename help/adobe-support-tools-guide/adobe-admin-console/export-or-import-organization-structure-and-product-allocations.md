@@ -81,8 +81,8 @@ Input records with no or blank operation field are ignored.
 <tbody>
   <tr>
     <td rowspan="3"></td>
-    <td></td>
-    <td></td>
+    <td>x</td>
+    <td>x</td>
   </tr>
   <tr>
     <td>Determine needed infrastructure changes</td>
@@ -95,7 +95,7 @@ Input records with no or blank operation field are ignored.
   <tr>
     <td rowspan="3">Execute upgrade</td>
     <td>Upgrade infrastructure services<br />[MariaDB, Redis, Open Search, and Rabbit MQ] (Staging and Production)</td>
-    <td></td>
+    <td>x</td>
   </tr>
   <tr>
     <td>Update Commerce code base and customizations; code recompilation and code refactoring</td>
@@ -108,6 +108,7 @@ Input records with no or blank operation field are ignored.
   <tr>
     <td rowspan="3">UAT and Launch</td>
     <td>Run performance and security tests</td>
+    <td>x</td>
   </tr>
   <tr>
     <td>User Acceptance Testing on Staging</td>
@@ -120,6 +121,7 @@ Input records with no or blank operation field are ignored.
   <tr>
     <td>Post-Launch</td>
     <td></td>
+    <td>x</td>
   </tr>
 </tbody>
 </table>
