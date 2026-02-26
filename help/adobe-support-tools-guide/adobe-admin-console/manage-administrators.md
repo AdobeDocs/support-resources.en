@@ -25,8 +25,6 @@ The Global Admin Console introduces a role—the **global administrator**—that
   - For example, a global admin can allocate a product to a child Admin Console but cannot assign it to users. The system admin assigns products to users.
 - Optionally apply organizational policies to Admin Consoles in the hierarchy.
 
----
-
 ## Fundamental administrative tasks
 
 The Global Admin Console is designed to work across multiple organizations and Admin Consoles. The following table outlines where administrative tasks can be completed.
@@ -102,8 +100,6 @@ The Global Admin Console is designed to work across multiple organizations and A
   </tbody>
 </table>
 
----
-
 ## Administrator roles
 
 You can create a flexible administrative hierarchy for fine-grained management of Adobe product access and usage.
@@ -125,8 +121,6 @@ Two additional roles are available for global administration:
 - **Global Admin**
 - **Global Viewer**
 
----
-
 ## Global Admin role
 
 The **Global Admin** role is transitive:
@@ -143,15 +137,11 @@ The **Global Admin** role is transitive:
 - Set or change resource allocations for child organizations
 - Manage Product Profiles and User Groups
 
----
-
 ## Global Viewer role
 
 ### Global Viewer capabilities
 
 - View user groups, products, product profiles, administrators, policies, and resources in the organization and its child organizations
-
----
 
 ## Distributed administration
 
@@ -174,8 +164,6 @@ A system admin added by a global admin can:
 - Onboard users
 - Create and manage product profiles
 - Perform other organization-level administrative tasks
-
----
 
 ## Add an admin
 
@@ -206,8 +194,6 @@ After the admin is added:
 - The user receives an invitation to accept the role.
 - If assigned both global admin and another role, two invitations are sent.
 
----
-
 ## Edit an admin
 
 1. Select an organization and go to the **Admins** tab.
@@ -216,8 +202,6 @@ After the admin is added:
 4. Select **Review Pending Changes**, then **Submit Changes**.
 
 Each role change appears as a separate pending item.
-
----
 
 ## Remove admin rights
 
