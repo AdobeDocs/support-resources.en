@@ -43,7 +43,7 @@ To allocate products to an organization, follow these steps:
 
 1. To allocate the product, select the **Add +** icon for the relevant organization.  
    Some products include more than one allocatable resource; in that case, several resources are listed in the dialog box and you must provide values for each. For example, Adobe Stock can include Adobe Stock Image credits and premium credits.
-   [Adobe Stock Images](./assets/adobe-stock-images.png)
+   [Adobe Stock Images](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. In the dialog box that appears, specify the product quantity.
 1. Select **Save**.
 1. To allow or disallow overallocation of a resource, select the relevant toggle.
@@ -79,13 +79,13 @@ Overallocation allows granting more product resources to a child organization th
 If overallocation is disabled for a product resource in an organization, then the sum of child grants cannot exceed the parent grant. Requests to overallocate a resource marked with overallocation disabled are not executed.
 When the overallocation toggle is switched from enabled to disabled, the grant values must be adjusted to eliminate overallocation before grant updates can be executed, if an overallocation situation is present in the grant quantities of a resource.
 
-![Overallocation](./assets/overallocation.png)
+![Overallocation](/help/adobe-support-tools-guide/assets/overallocation.png)
 
 ## Expired contracts in the hierarchy
 
 You cannot allocate products to a child organization from an ETLA contract that has expired. In‑app banners and notifications, such as the following, on the Overview and Product Allocation pages clearly indicate when the contract on one or more child organizations is going to expire, has expired, or is inactive.
 
-![Product allocation](./assets/product-allocation.png)
+![Product allocation](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
 >**Caution:** Once an ETLA contract that is part of the hierarchy is inactive, the products are removed from the **Overview** and **Product Allocation** pages.
 
