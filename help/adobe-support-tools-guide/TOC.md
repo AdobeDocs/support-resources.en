@@ -17,6 +17,7 @@ role: User, Admin
 - [Admin Roles](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+  - [Create license assignment reports for multiple organizations and products](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
