@@ -176,7 +176,9 @@ A system admin added by a global admin can:
    - Account Type
    - Country Code
 
-   > **Note**  
+
+   > [!NOTE]
+   >
    > When adding an existing user, select the same account type as the existing user or the operation fails.
 
    Organizations cannot contain both **AdobeID** and **BusinessID** users simultaneously.  
