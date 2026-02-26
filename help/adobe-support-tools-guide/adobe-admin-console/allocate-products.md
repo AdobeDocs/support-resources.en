@@ -47,7 +47,7 @@ To allocate products to an organization, follow these steps:
 1. In the dialog box that appears, specify the product quantity.
 1. Select **Save**.
 1. To allow or disallow overallocation of a resource, select the relevant toggle.
-   ![Overallocation](./assets/overallocation.png)
+   ![Overallocation](/help/adobe-support-tools-guide/assets/overallocation.png)
 1. Select **Review Pending Changes** after you are done allocating resources. After reviewing, select **Submit Changes** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 ## Allocate and distribute Adobe Acrobat Sign user licenses or transactions
