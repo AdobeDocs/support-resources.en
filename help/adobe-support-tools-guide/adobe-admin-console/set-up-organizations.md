@@ -62,9 +62,9 @@ As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-cons
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). In the **[!UICONTROL Organizations]** tab, select the organization you want to rename.
 1. Sign in to the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/). Go to the **[!UICONTROL Organizations]** tab and select the organization you want to rename.
-2. Select the **[!UICONTROL Edit]** icon.
+1. Select the **[!UICONTROL Edit]** icon.
    ![Rename organization](/help/adobe-support-tools-guide/assets/rename-organization.png)
-3. Update your organization name and select **[!UICONTROL Save]**.
+1. Update your organization name and select **[!UICONTROL Save]**.
 
 **Tip**  
 Use a clear, recognizable organization name up to 255 characters to help users select the correct profile. Avoid using special characters, and consider including region, department, or entitlement. Also, avoid uncommon acronyms and vague or similar names across your organization hierarchy.
