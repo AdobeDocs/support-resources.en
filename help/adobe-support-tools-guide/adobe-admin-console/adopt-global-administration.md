@@ -7,7 +7,7 @@ Feature: Admin Console
 ---
 # Introduction
 
-The Global Admin Console supports organizations that manage multiple Adobe Admin Consoles or require a single Admin Console to be divided into multiple, independently administered consoles. It is intended for environments with complex organizational structures.
+The Global Admin Console supports organizations that manage multiple Adobe Admin Consoles or require a single Admin Console to be divided into multiple, independently administered consoles. It is intended for organizations with complex structures.
 
 It organizes existing Admin Consoles into a hierarchical structure with a single root organization and one or more child organizations. It does not replace or change the functionality of existing Admin Consoles; each console continues to operate independently. Adobe applies specific eligibility criteria when determining which Admin Console can serve as the root organization.
 
