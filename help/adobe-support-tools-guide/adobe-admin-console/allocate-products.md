@@ -9,13 +9,13 @@ Feature: Admin Console
 
 ## Overview
 
-In the [!DNL Global Admin Console], go to the **Product Allocation** tab and select a product to allocate to child organizations.
+In the [!DNL Global Admin Console], go to the **[!UICONTROL Product Allocation]** tab and select a product to allocate to child organizations.
 
 Sign in to the [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html)
 
 >**Note:** Product allocation is available only for **ETLA** (Enterprise Term License Agreement) contracts.
 
-Part of distributing and administering Adobe products across organizations is partitioning purchased resources into resource allocations across the organizations to be managed. You can distribute administration of product resources to other organizations by giving all or some of the resource. Not all resources of all products can be allocated; some products are not distributable to other organizations. Such products appear in the **Product Allocation** tab but have no controls to add them to other organizations.
+Part of distributing and administering Adobe products across organizations is partitioning purchased resources into resource allocations across the organizations to be managed. You can distribute administration of product resources to other organizations by giving all or some of the resource. Not all resources of all products can be allocated; some products are not distributable to other organizations. Such products appear in the **[!UICONTROL Product Allocation]** tab but have no controls to add them to other organizations.
 
 >**Caution:** You cannot allocate products to a child organization from a contract that has **expired** or if the organization is in an **inactive** state. Learn more about [contract expiry](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html), or contact your company's administrator for assistance to prevent users in the child organization from losing access to their Adobe apps and services.
 
@@ -23,7 +23,7 @@ Part of distributing and administering Adobe products across organizations is pa
 
 We are in the process of migrating customers to the [pooled storage model](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html). Once your organization is migrated, you will see the following changes:
 
-- Global administrators gain access to storage quota and usage across the hierarchy and can allocate storage to organizations using the **Product Allocation** tab in the [[!DNL Global Admin Console]](https://adminconsole.adobe.com/).
+- Global administrators gain access to storage quota and usage across the hierarchy and can allocate storage to organizations using the **[!UICONTROL Product Allocation]** tab in the [[!DNL Global Admin Console]](https://adminconsole.adobe.com/).
 - System administrators and storage administrators have full control and visibility of storage across the organization. They can track and manage storage using the **Storage** tab in the [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 With the updates to Adobe Creative Cloud storage, storage quotas are flexible for end users, up to the amount of storage purchased by the organization. [Learn more](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html).
@@ -34,25 +34,24 @@ The **Product Allocation** tab in the [!DNL Global Admin Console] shows allocati
 
 To allocate products to an organization, follow these steps:
 
-1. Sign in to the [!DNL Global Admin Console] and go to **Product Allocation**.
+1. Sign in to the [!DNL Global Admin Console] and go to **[!UICONTROL Product Allocation]**.
 1. Select a product from the drop-down list to see how it is allocated to different organizations.  
-   If an organization does not currently have a product, **+** appears.
-   If an organization does not currently have the product, **+** icon appears.
+   If an organization does not currently have the product, **Add +** icon appears.
 
    > **Note:** If the child organization already has a purchase contract, product allocation from the parent to that child organization may be limited. [Learn more](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html).
 
-1. To allocate the product, select the **Add +** icon for the relevant organization.  
-   Some products include more than one allocatable resource; in that case, several resources are listed in the dialog box and you must provide values for each. For example, Adobe Stock can include Adobe Stock Image credits and premium credits.
+1. To allocate the product, select the **[!UICONTROL Add +]** icon for the relevant organization.  
+   Some products include more than one allocatable resource; in that case, several resources are listed in the dialog box and you must provide values for each. For example, [!DNL Adobe Stock] can include [!DNL Adobe Stock Image] credits and premium credits.
    [Adobe Stock Images](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. In the dialog box that appears, specify the product quantity.
-1. Select **Save**.
+1. Select **[!UICONTROL Save]**.
 1. To allow or disallow overallocation of a resource, select the relevant toggle.
    ![Overallocation](/help/adobe-support-tools-guide/assets/overallocation.png)
-1. Select **Review Pending Changes** after you are done allocating resources. After reviewing, select **Submit Changes** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
+1. Select **[!UICONTROL Review Pending Changes]** after you are done allocating resources. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 ## Allocate and distribute Adobe Acrobat Sign user licenses or transactions
 
-The **[!DNL Global Admin Console]** lets you allocate and distribute Acrobat Sign user licenses or transactions across the organizational hierarchy. Each organization in the hierarchy that has Acrobat Sign licenses or transactions allocated to it creates its own separate Acrobat Sign account.
+The [!DNL Global Admin Console] lets you allocate and distribute Acrobat Sign user licenses or transactions across the organizational hierarchy. Each organization in the hierarchy that has Acrobat Sign licenses or transactions allocated to it creates its own separate Acrobat Sign account.
 
 - Each Acrobat Sign account created is independent and siloed in terms of administration and content.
 - Each Acrobat Sign account is unaware of other Acrobat Sign accounts (for example, in parent or sister organizations).
@@ -71,7 +70,7 @@ Allocation from a parent organization to a child organization is limited in thes
 
 ## Overallocation
 
-As a global administrator, you can allow **overallocation** of resources.
+As a global administrator, you can allow overallocation of resources.
 
 An allocation policy associated with the product and organization indicates whether overallocation is allowed.
 
@@ -87,6 +86,6 @@ You cannot allocate products to a child organization from an ETLA contract that 
 
 ![Product allocation](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->**Caution:** Once an ETLA contract that is part of the hierarchy is inactive, the products are removed from the **Overview** and **Product Allocation** pages.
+>**Caution:** Once an ETLA contract that is part of the hierarchy is inactive, the products are removed from the **[!UICONTROL Overview]** and **[!UICONTROL Product Allocation]** pages.
 
 [Learn more about contract expiry](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html), or contact your company's administrator for assistance to prevent users in the child organization from losing access to their Adobe apps and services.
