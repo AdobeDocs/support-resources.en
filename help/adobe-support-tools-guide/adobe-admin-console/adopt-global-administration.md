@@ -11,7 +11,7 @@ The [!DNL Global Admin Console]] supports organizations that manage multiple Ado
 
 It organizes existing Admin Consoles into a hierarchical structure with a single root organization and one or more child organizations. It does not replace or change the functionality of existing Admin Consoles; each console continues to operate independently. Adobe applies specific eligibility criteria when determining which Admin Console can serve as the root organization.
 
-For more information about supported functionality, see the [[!DNL Global Admin Console]]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) white paper.
+For more information about supported functionality, see the [!DNL Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) white paper.
 
 [!VIDEO](https://youtu.be/FLBWR78wpok)
 
@@ -19,7 +19,7 @@ For more information about supported functionality, see the [[!DNL Global Admin 
 
 ## Key advantages
 
-Following are some key advantages of the [!DNL Global Admin Console]]:
+Following are some key advantages of the [!DNL Global Admin Console]:
 
 - Delegate administration of Adobe product usage and cloud storage to divisions, departments, or field offices, reducing the need for centralized administration.
 - Create organizations for each entity and manage them in a hierarchical structure. Organizations can also be deleted.
@@ -46,7 +46,7 @@ Adobe recommends global administration if your organization meets one or more of
 
 ## Request access to the [!DNL Global Admin Console]
 
-To request access to the [!DNL Global Admin Console]], follow the steps below after consulting your Adobe representative.
+To request access to the [!DNL Global Admin Console], follow the steps below after consulting your Adobe representative.
 
 1. In the Admin Console, navigate to **[!UICONTROL Support]** > **[!UICONTROL Support Summary]**.
 
@@ -58,9 +58,9 @@ To request access to the [!DNL Global Admin Console]], follow the steps below af
 
    - Priority of the issue: P4 – Minor
    - Impact of the issue: Medium
-   - Issue summary: <Your organization’s name> is requesting access to the [!DNL Global Admin Console]]
+   - Issue summary: <Your organization’s name> is requesting access to the [!DNL Global Admin Console]
 
-1. In **[!UICONTROL Describe the nature of the issue you're facing]**, state that your organization is requesting access to the [!DNL Global Admin Console]], and include the following details:
+1. In **[!UICONTROL Describe the nature of the issue you're facing]**, state that your organization is requesting access to the [!DNL Global Admin Console], and include the following details:
 
    - **Name and Console ID** (found in the URL as the series of numbers and letters preceding "@AdobeOrg") of the Admin Console to designate as the *root (top)* organization, or request a new console and specify the desired name.
          - In some cases, a new console is the preferred option. Your Adobe representative can guide you. Select the *root* organization carefully, because it is difficult to change later.
