@@ -209,7 +209,7 @@ Input records with no or blank operation field are ignored.
   <tr>
     <th>Field Name</th>
     <th>Description</th>
-    <th>Notes</th>
+    <th>Use</th>
   </tr>
 
   <tr>
@@ -258,7 +258,7 @@ Country or region code where user operates. Only applies to Federated and Enterp
   <tr>
     <td>adminType</td>
     <td>One of "GLOBAL ADMIN", "GLOBAL VIEWER", "SYSTEM ADMIN", "USER GROUP ADMIN", "PRODUCT ADMIN", "PRODUCT PROFILE ADMIN", "DEPLOYMENT ADMIN", and "STORAGE_ADMIN".</td>
-    <td rowspan="4">Read only</td>
+    <td rowspan="4">Can be set when operation=Create</td>
   </tr>
 
   <tr>
