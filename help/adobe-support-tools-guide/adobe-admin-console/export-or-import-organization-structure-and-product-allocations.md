@@ -311,17 +311,74 @@ Exports and imports of product profiles consist of two parts: the product profil
 - When importing product profiles, there must be a Create or Update operation on the product profile itself and on any resource objects that are to be updated or created.
 
 
-| Field Name                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Use                                                                           |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| productProfileId          | Identifier of product profile. Placeholder value can be used on create so that other objects can reference the new profile.                                                                                                                                                                                                                                                                                                                                                              | Can be set to temporary value when operation=create                           |
-| productProfileName        | Name of product profile. It cannot be a duplicate of other product profiles or user groups in the same organization.                                                                                                                                                                                                                                                                                                                                                                     | Can be set or updated when operation=create or operation=update, respectively |
-| productProfileDescription | Text description of the product profile                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                               |
-| licenseId                 | License Id reference to the product                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Used as a reference to find containing or associated object                   |
-| orgId                     | Organization that contains the user group                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                               |
-| notifications             | True or false to indicate if email notification should be sent to users when they are added or removed from this product profile                                                                                                                                                                                                                                                                                                                                                         | Can be set or updated when operation=create or operation=update, respectively |
-| resources                 | Array of resources associated with this product profile. The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. If the product profile has more than one resource, there will be multiple rows present, one for each resource. For details on these fields, see [Products and Resources](#accordion-container-7-trigger-6). |                                                                               |
-| operation                 | One of blank, Create, Update or Delete. Action to take when data is imported.                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                               |
+<table>
+  <tr>
+    <th>Field Name</th>
+    <th>Description</th>
+    <th>Use</th>
+  </tr>
 
+  <tr>
+    <td>productProfileId</td>
+    <td>
+     <br><br>
+      Identifier of product profile
+Placeholder value can be used on create so that other objects can reference the new profile.
+    </td>
+    <td>Can be set to temporary value when operation=create</td>
+  </tr>
+
+  <tr>
+    <td>productProfileName</td>
+    <td>
+     Name of product profile. It cannot be a duplicate of other product profiles or user groups in the same organization.
+    </td>
+    <td rowspan="2">
+   Can be set or updated when operation=create or operation=update, respectively
+    </td>
+  </tr>
+
+  <tr>
+    <td>productProfileDescription</td>
+    <td>Text description of the product profile</td>
+  </tr>
+
+  <tr>
+    <td>licenseId</td>
+    <td>License Id reference to the product</td>
+    <td rowspan="2"> Used as a reference to find containing or associated object
+    </td>
+  </tr>
+
+  <tr>
+    <td>orgId</td>
+    <td>
+Organization that contains the user group
+    </td>
+  </tr>
+
+  <tr>
+    <td>notifications</td>
+    <td>True or false to indicate if email notification should be sent to users when they are added or removed from this product profile</td>
+    <td>Can be set or updated when operation=create or operation=update, respectively</td>
+  </tr>
+
+  <tr>
+    <td>resources</td>
+    <td> Array of resources associated with this product profile.
+The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with the following additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. For details on these fields, see [Products and Resources](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#accordion-container-7-trigger-6).
+If the product profile has more than one resource, there will be multiple rows present, one for each resource. The other fields will have the same values for each resource. </td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>operation</td>
+    <td>One of blank, Create, Update or Delete. Action to take when data is imported.</td>  
+    <td></td>
+  </tr>
+</table>
+
+                                                                       
 
 **Import requirements:**
 
