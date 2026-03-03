@@ -205,21 +205,93 @@ Input records with no or blank operation field are ignored.
 
 ### Admins
 
+<table>
+  <tr>
+    <th>Field Name</th>
+    <th>Description</th>
+    <th>Notes</th>
+  </tr>
 
-| Field Name  | Description                                                                                                                                                    | Use                                                                           |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| orgId       | Reference to organization in which the admin resides.                                                                                                          | Used as a reference to find containing or associated objects.                 |
-| firstName   | Admin user first name. First and Last name for Adobe ID users can be replaced with a user-supplied value when the user accepts the invitation.                 | Can be set or updated when operation=create or operation=update, respectively |
-| lastName    | Admin user last name                                                                                                                                           |                                                                               |
-| email       | Admin user email address. This is a primary key for the user and must be unique.                                                                               |                                                                               |
-| countryCode | Country or region code where user operates. Only applies to Federated and Enterprise Id types.                                                                 |                                                                               |
-| userType    | One of "Adobe ID", "Enterprise ID", or "Federated ID".                                                                                                         | Read only                                                                     |
-| adminType   | One of "GLOBAL ADMIN", "GLOBAL VIEWER", "SYSTEM ADMIN", "USER GROUP ADMIN", "PRODUCT ADMIN", "PRODUCT PROFILE ADMIN", "DEPLOYMENT ADMIN", and "STORAGE_ADMIN". | Can be set when operation=Create                                              |
-| groupId     | Group id of group this user is an admin of. Relevant for user group and product profile admins only.                                                           |                                                                               |
-| licenseId   | Product license id of the product this user is admin of. Relevant for product admins only.                                                                     |                                                                               |
-| domain      | Domain name of user if not using email domain                                                                                                                  |                                                                               |
-| userName    | User name of user if not using email address                                                                                                                   |                                                                               |
-| operation   | One of blank, Create, Update or Delete. Action to take when data is imported.                                                                                  |                                                                               |
+  <tr>
+    <td>orgId</td>
+    <td>
+     <br><br>
+      Reference to organization in which the admin resides.
+    </td>
+    <td>Used as a reference to find containing or associated objects.</td>
+  </tr>
+
+  <tr>
+    <td>firstName</td>
+    <td>
+     Admin user first name.
+First and Last name for Adobe ID users can be replaced with a user-supplied value when the user accepts the invitation.
+    </td>
+    <td rowspan="4">
+      Can be set or updated when operation=create or operation=update, respectively
+    </td>
+  </tr>
+
+  <tr>
+    <td>lastName</td>
+    <td>Admin user last name</td>
+  </tr>
+
+  <tr>
+    <td>email</td>
+    <td>Admin user email address. This is a primary key for the user and must be unique.</td>
+  </tr>
+
+  <tr>
+    <td>countryCode</td>
+    <td>
+Country or region code where user operates. Only applies to Federated and Enterprise Id types.
+    </td>
+  </tr>
+
+  <tr>
+    <td>userType</td>
+    <td>One of "Adobe ID", "Enterprise ID", or "Federated ID".</td>
+    <td>Read only</td>
+  </tr>
+
+  <tr>
+    <td>adminType</td>
+    <td>One of "GLOBAL ADMIN", "GLOBAL VIEWER", "SYSTEM ADMIN", "USER GROUP ADMIN", "PRODUCT ADMIN", "PRODUCT PROFILE ADMIN", "DEPLOYMENT ADMIN", and "STORAGE_ADMIN".</td>
+    <td rowspan="4">Read only</td>
+  </tr>
+
+  <tr>
+    <td>groupId</td>
+    <td>Group id of group this user is an admin of. Relevant for user group and product profile admins only.</td>
+    
+  </tr>
+
+  <tr>
+    <td>licenseId</td>
+    <td>Product license id of the product this user is admin of. Relevant for product admins only.</td>
+  
+  </tr>
+
+  <tr>
+    <td>domain</td>
+    <td>Domain name of user if not using email domain</td>
+  
+  </tr>
+
+  <tr>
+    <td>userName</td>
+    <td>User name of user if not using email address</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>operation</td>
+    <td>One of blank, Create, Update or Delete. Action to take when data is imported.</td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 **Import requirements:**
