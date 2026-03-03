@@ -33,6 +33,3 @@ If you're submitting a ticket on behalf of a merchant who has not been granted S
 
 * Solution Partners should submit sandbox-related support requests by emailing [SPPHelp@adobe.com](mailto:SPPHelp@adobe.com). These requests will be routed to the Partner Technical Support team.
 * Tech Partners should contact [Marketplace Support](mailto:commercemarketplacesupport@adobe.com).
-
-
-TEST TEST
