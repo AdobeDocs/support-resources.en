@@ -366,7 +366,7 @@ Organization that contains the user group
   <tr>
     <td>resources</td>
     <td> Array of resources associated with this product profile.
-The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with the following additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. For details on these fields, see [Products and Resources](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#accordion-container-7-trigger-6).
+The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with the following additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. For details on these fields, see [Products and resources](#products-and-resources).
 If the product profile has more than one resource, there will be multiple rows present, one for each resource. The other fields will have the same values for each resource. </td>
     <td></td>
   </tr>
@@ -417,7 +417,7 @@ If the product profile has more than one resource, there will be multiple rows p
 - For product profiles to be created, the number of resources should match the source product profile's number of resources.
 - For resources with *Update* operation, the resource must be present in the product profile.
 
-### User Groups
+### User Groups - GOT TO HERE REVIEW
 
 
 | Field Name           | Description                                                                                                                        | Use                                                                           |
@@ -458,7 +458,7 @@ The domain information provides read-only information about domains available in
 | domainStatus  | One of "ACTIVE", "RESERVED", "UNCLAIMED", "CLAIMED", "VALIDATED", "WITHDRAWN", "EXPIRED". | Read only                                                     |
 
 
-### Products and resources {#accordion-container-7-trigger-6}
+### Products and resources {#products-and-resourcs} 
 
 In XLSX files, there are two sheets—one for products and one for the resources. In JSON, resource objects are nested in the product object.
 
