@@ -30,6 +30,20 @@ The Global Admin Console introduces a role—the **global administrator**—that
 The Global Admin Console is designed to work across multiple organizations and Admin Consoles. The following table outlines where administrative tasks can be completed.
 
 <table>
+  <tr>
+    <th>Task</th>
+    <th>Scope</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Manage administrators</td>
+    <td>For one or more organizations</td>
+  </tr>
+  <tr>
+    <td>For one organization</td>
+  </tr>
+</table>
+
+<table>
   <thead>
     <tr>
       <th>Task</th>
@@ -40,62 +54,53 @@ The Global Admin Console is designed to work across multiple organizations and A
   <tbody>
     <tr>
       <td>Create, reparent, and delete child organizations</td>
-      <td>✔</td>
-      <td></td>
+      <td>Yes</td>
+      <td>No</td>
     </tr>
-    <tr>
-      <td>Work with multiple organizations</td>
-      <td>✔</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td rowspan="2">Manage administrators</td>
-      <td>For one or more organizations</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>For one organization</td>
-    </tr>
+   <tr>
+     <td>Work with multiple organizations</td>
+     <td></td>
+   </tr><tr><td rowspan="2">Manage administrators</td>
+     <td>For one or more organizations</td>
     <tr>
       <td>Manage Product Profiles and user groups</td>
-      <td>✔</td>
-      <td></td>
+      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td>Define and manage policies</td>
-      <td>✔</td>
-      <td></td>
+      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td>Allocate products across organizations</td>
-      <td>✔</td>
-      <td></td>
+      <td>Yes</td>
+      <td>No</td>
     </tr>
     <tr>
       <td>Allocate products to users</td>
-      <td></td>
-      <td>✔</td>
+      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Manage users</td>
-      <td></td>
-      <td>✔</td>
+      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Manage packages</td>
-      <td></td>
-      <td>✔</td>
+      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Set up domains and directories</td>
-      <td></td>
-      <td>✔</td>
+      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
       <td>Manage enterprise storage and encryption</td>
-      <td></td>
-      <td>✔</td>
+      <td>No</td>
+      <td>Yes</td>
     </tr>
   </tbody>
 </table>
