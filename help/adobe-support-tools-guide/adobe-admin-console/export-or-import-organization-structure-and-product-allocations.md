@@ -478,7 +478,7 @@ If the product profile has more than one resource, there will be multiple rows p
   <tr>
     <td>userGroupId</td>
     <td>
-   Identifier of user group
+Identifier of user group
 Placeholder value can be used on create so that other objects can reference the new user group.
     </td>
     <td>Can be set to temporary value when operation=create</td>
@@ -486,12 +486,14 @@ Placeholder value can be used on create so that other objects can reference the 
 
   <tr>
     <td>userGroupName</td>
-    <td>
-Name of user group
-    </td>
-    <td span =2+>
-Can be set or updated when operation=create or operation=update, respectively
-    </td>
+    <td> Name of user group</td>
+    <td rowspan="2"> Can be set or updated when operation=create or operation=update, respectively</td>
+  </tr>
+
+  <tr>
+    <td>userGroupDescription</td>
+    <td>Text description of user group</td>
+    <td></td>
   </tr>
 
   <tr>
@@ -504,18 +506,18 @@ Can be set or updated when operation=create or operation=update, respectively
     <td>profiles</td>
     <td>Array of product profile ids that the user group is associated with.
 XLSX has one row per value with same values for other fields.</td>
-    <td> Can be set or updated when operation=create or operation=update, respectively</td>
+    <td>Can be set or updated when operation=create or operation=update, respectively</td>
   </tr>
 
   <tr>
     <td>orgId</td>
-    <td>Organization that contains the user group</td>
+    <td>Organization that contains the user group.</td>
     <td>Used as a reference to find containing or associated object.</td>
   </tr>
-  
+
   <tr>
     <td>operation</td>
-    <td>One of blank, Create, Update or Delete. Action to take when data is imported.</td></td>  
+    <td>One of blank, Create, Update or Delete. Action to take when data is imported.</td>
     <td></td>
   </tr>
 </table>
