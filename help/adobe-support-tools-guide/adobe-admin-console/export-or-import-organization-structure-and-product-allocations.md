@@ -548,7 +548,7 @@ The domain information provides read-only information about domains available in
 | domainStatus  | One of "ACTIVE", "RESERVED", "UNCLAIMED", "CLAIMED", "VALIDATED", "WITHDRAWN", "EXPIRED". | Read only                                                     |
 
 
-### Products and resources {#products-and-resourcs} 
+### Products and resources {#products-and-resources} 
 
 In XLSX files, there are two sheets—one for products and one for the resources. In JSON, resource objects are nested in the product object.
 
