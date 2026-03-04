@@ -26,8 +26,8 @@ The user’s account must first be created at [https://accounts.magento.cloud](h
 ## Solution
 
 1. Ask the user to sign in at [https://accounts.magento.cloud](https://accounts.magento.cloud). The user must already be registered with Adobe using the same email address.
-   > **NOTE**  
-   > Creating or having an account at [https://account.adobe.com](https://account.adobe.com) doesn't automatically mean that the user has an account at [https://accounts.magento.cloud](https://accounts.magento.cloud). The user must first [create their Commerce account](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
+   >[!NOTE]
+   >Creating or having an account at [https://account.adobe.com](https://account.adobe.com) doesn't automatically mean that the user has an account at [https://accounts.magento.cloud](https://accounts.magento.cloud). The user must first [create their Commerce account](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
 
 1. If the user already has an Adobe account but is unable to sign in, ask them to submit a [support request](https://experienceleague.adobe.com/home#support) with [!UICONTROL Issue Reason] set to *User Management*.
 
