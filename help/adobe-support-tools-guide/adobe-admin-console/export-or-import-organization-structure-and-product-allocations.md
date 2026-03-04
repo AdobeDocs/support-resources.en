@@ -214,10 +214,7 @@ Input records with no or blank operation field are ignored.
 
   <tr>
     <td>orgId</td>
-    <td>
-     <br><br>
-      Reference to organization in which the admin resides.
-    </td>
+    <td>Reference to organization in which the admin resides.</td>
     <td>Used as a reference to find containing or associated objects.</td>
   </tr>
 
