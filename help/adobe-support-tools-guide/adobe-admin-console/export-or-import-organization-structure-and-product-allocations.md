@@ -607,7 +607,7 @@ Resource objects can appear in products and in product profiles.
 
 **Import requirements:**
 
-- Operation field on resources is ignored when the product to which they belong have operations set as *Delete* or *Create*.
+Operation field on resources is ignored when the product to which they belong have operations set as *Delete* or *Create*.
 - No resource should be marked for deletion; it is an invalid operation.
 - For products to be created, the number of resources should match the source product's number of resources.
 - For resources with *Update* operation, the resource must be present in the product.
