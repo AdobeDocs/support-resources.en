@@ -293,7 +293,6 @@ Country or region code where user operates. Only applies to Federated and Enterp
 </table>
 
 
-
 **Import requirements:**
 
 - orgId, email, adminType and userType must contain valid values.
@@ -398,17 +397,67 @@ If the product profile has more than one resource, there will be multiple rows p
 ### Resources in product profiles
 
 
-| Field Name          | Description                                                                                                                                                                                 | Use                                                                           |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| resourceName        | Name of the resource                                                                                                                                                                        | Read only                                                                     |
-| resourceId          | Identifier of the resource                                                                                                                                                                  | Read only                                                                     |
-| resourceDescription | Text description of the resource                                                                                                                                                            | Read only                                                                     |
-| icon                | URL to image for resource                                                                                                                                                                   | Read only                                                                     |
-| selected            | For a configuration entry, whether the feature is enabled. This field is present in JSON only.                                                                                              | Can be set or updated when operation=create or operation=update, respectively |
-| quota               | Quantity of primary resource that can be given out to users via this product profile. This field is present in JSON only.                                                                   |                                                                               |
-| resourceType        | If present, value is SERVICE. It indicates this resource represents a service that can be enabled or disabled based on the value of the selected field. This field is present in JSON only. | Read only                                                                     |
-| operation           | One of blank, Create, Update or Delete. Action to take when data is imported.                                                                                                               |                                                                               |
+<table>
+  <tr>
+    <th>Field Name</th>
+    <th>Description</th>
+    <th>Use</th>
+  </tr>
 
+  <tr>
+    <td>resourceName</td>
+    <td>
+     Name of the resource
+    </td>
+    <td>Read only</td>
+  </tr>
+
+  <tr>
+    <td>resourceId</td>
+    <td>
+   Identifier of the resource
+    </td>
+    <td>
+   Read only
+    </td>
+  </tr>
+
+  <tr>
+    <td>resourceDescription</td>
+    <td>Text description of the resource</td>
+    <td>Read only</td>
+  </tr>
+
+  <tr>
+    <td>icon</td>
+    <td>URL to image for resource</td>
+    <td> Read only</td>
+  </tr>
+
+  <tr>
+    <td>selected</td>
+    <td>For a configuration entry, whether the feature is enabled. This field is present in JSON only.</td>
+    <td rowspan ="2">Can be set or updated when operation=create or operation=update, respectively.</td>
+  </tr>
+
+  <tr>
+    <td>quota</td>
+    <td>Quantity of primary resource that can be given out to users via this product profile. This field is present in JSON only.</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>resourceType</td>
+    <td> If present, value is SERVICE. It indicates this resource represents a service that can be enabled or disabled based on the value of the selected field. This field is present in JSON only.</td>
+    <td>Read only</td>
+  </tr>
+
+  <tr>
+    <td>operation</td>
+    <td>One of blank, Create, Update or Delete. Action to take when data is imported.</td>  
+    <td></td>
+  </tr>
+</table>
 
 **Import requirements:**
 
