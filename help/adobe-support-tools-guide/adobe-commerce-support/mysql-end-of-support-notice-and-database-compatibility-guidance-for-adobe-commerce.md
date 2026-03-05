@@ -27,7 +27,7 @@ All Adobe Commerce on‑premises customers running the following versions:
 * 2.4.7
 
 are strongly advised to migrate their database servers to a compatible MariaDB version.
-MariaDB is fully supported for these Adobe Commerce versions and is the recommended database platform moving forward.
+MariaDB is fully supported for these Adobe Commerce versions and is the recommended database platform.
 
 ## MySQL support in Adobe Commerce 2.4.8 and 2.4.9
 
