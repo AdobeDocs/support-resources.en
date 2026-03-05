@@ -140,7 +140,7 @@ In the Global Admin Console, select an organization to edit, then navigate to th
 
 1. Select **[!UICONTROL Add Admin]**.
 
-2. In the **[!UICONTROL Add Admin]** dialog box that appears, enter the **[!UICONTROL User Details]**—Email, First Name, Last Name, Account Type, Country Code.
+2. In the **[!UICONTROL Add Admin]** dialog box that appears, enter the **[!UICONTROL User Details]** — Email, First Name, Last Name, Account Type, Country Code.
 
    If you are trying to add an existing user as admin, choose the same account type as the existing user, otherwise the add operation will fail.
 
@@ -148,7 +148,7 @@ In the Global Admin Console, select an organization to edit, then navigate to th
    > 
    > Organizations can have restrictions on which Account Types can be added. These may be based on policies or on other configuration parameters for an organization. Organizations do not allow adding both AdobeID users and BusinessID users at the same time. In general, there should not be users of both types in an organization but depending on the order in which rules are set there may be some users of a particular Account Type that pre-date the application of policies or rules.
 
-3. Select one or more admin roles from the **[!UICONTROL Admin Rights] section.
+3. Select one or more admin roles from the **[!UICONTROL Admin Rights]** section.
 
    For admin types like product administrator, product profile administrator, and user group administrator, select the specific products, profiles, and groups respectively.
 
