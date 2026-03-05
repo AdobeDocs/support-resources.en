@@ -136,7 +136,7 @@ A global admin can create organizations, distribute resources such as products a
 
 ## Add an admin
 
-In the Global Admin Console, select an organization to edit, then navigate to the **[!UICONTROL Admins]** tab.
+In the [Global Admin Console](https://global-admin-console.adobe.com/), select an organization to edit, then navigate to the **[!UICONTROL Admins]** tab.
 
 1. Select **[!UICONTROL Add Admin]**.
 
@@ -154,7 +154,7 @@ In the Global Admin Console, select an organization to edit, then navigate to th
 
 4. Select **[!UICONTROL Save]**.
 
-5. After editing the organizations, select **[!UICONTROL Review Pending Changes]**. After reviewing, select **[!UICONTROL Submit Changes]** to execute them.
+5. After editing the organizations, select **[!UICONTROL Review Pending Changes]**. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 When an admin role is added, the user receives an email notification informing them of the change in their role.
 
@@ -164,7 +164,7 @@ After the administrator is added, they receive an email message inviting them to
 
 Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
-1. Select the **[!UICONTROL More Options]** icon for the relevant admin, and select **[!UICONTROL Edit Admin]**.
+1. Select the **[!UICONTROL More Options]** *** icon for the relevant admin, and select **[!UICONTROL Edit Admin]**.
 
 2. Update the admin details and select **[!UICONTROL Save]**.
 
