@@ -145,6 +145,7 @@ In the Global Admin Console, select an organization to edit, then navigate to th
    If you are trying to add an existing user as admin, choose the same account type as the existing user, otherwise the add operation will fail.
 
    > [!Note]
+   > 
    > Organizations can have restrictions on which Account Types can be added. These may be based on policies or on other configuration parameters for an organization. Organizations do not allow adding both AdobeID users and BusinessID users at the same time. In general, there should not be users of both types in an organization but depending on the order in which rules are set there may be some users of a particular Account Type that pre-date the application of policies or rules.
 
 3. Select one or more admin roles from the **[!UICONTROL Admin Rights] section.
