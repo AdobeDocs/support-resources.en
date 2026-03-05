@@ -29,17 +29,23 @@ The Global Admin Console introduces a role—the **global administrator**—that
 
 The Global Admin Console is designed to work across multiple organizations and Admin Consoles. The following table outlines where administrative tasks can be completed.
 
-<table>
+<table border="1" cellpadding="16" cellspacing="0" width="100%">
   <tr>
     <th>Task</th>
     <th>Scope</th>
   </tr>
   <tr>
-    <td rowspan="2">Manage administrators</td>
-    <td>For one or more organizations</td>
+    <td rowspan="2" valign="middle">
+      Manage administrators
+    </td>
+    <td>
+      For one or more organizations
+    </td>
   </tr>
   <tr>
-    <td>For one organization</td>
+    <td>
+      For one organization
+    </td>
   </tr>
 </table>
 
@@ -58,10 +64,12 @@ The Global Admin Console is designed to work across multiple organizations and A
       <td>No</td>
     </tr>
    <tr>
+     <td rowspan="2">Manage administrators</td>
+          <td>For one or more organizations</td>
      <td>Work with multiple organizations</td>
      <td></td>
-   </tr><tr><td rowspan="2">Manage administrators</td>
-     <td>For one or more organizations</td>
+   </tr><tr>
+
     <tr>
       <td>Manage Product Profiles and user groups</td>
       <td>Yes</td>
