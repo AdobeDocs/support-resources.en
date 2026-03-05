@@ -1,6 +1,8 @@
 ---
 title: MySQL end-of-support notice and database compatibility guidance for Adobe Commerce
 description: This article provides information about MySQL end‑of‑support timelines and database compatibility guidance for supported Adobe Commerce versions.
+feature: on‑premises
+solution: Commerce
 ---
 # MySQL end-of-support notice and database compatibility guidance for Adobe Commerce
 
