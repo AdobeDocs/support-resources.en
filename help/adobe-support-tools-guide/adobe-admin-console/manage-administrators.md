@@ -12,10 +12,10 @@ feature: Admin Console
 
 Explore global administrator capabilities and learn how to delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization.
 
-In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), select an organization and navigate to the **Admins** tab to add, edit, or remove admin rights.  in to the [Global Admin Console](https://global-admin-console.adobe.com/).
+In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), select an organization and navigate to the **Admins** tab to add, edit, or remove admin rights. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/).
 
 
-The Global Admin Console introduces a role — the [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) — that is distinct from a system administrator and allows you to do the following:
+The Global Admin Console introduces a role, the [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), that is distinct from a system administrator and allows you to do the following:
 
 - View the global landscape of their total Adobe investment across those Admin Consoles added to the Global Admin Console hierarchy.
 - Monitor their Adobe license & resource assignments and usage across multiple Admin Consoles.
@@ -136,7 +136,7 @@ A global admin can create organizations, distribute resources such as products a
 
 ## Add an admin
 
-In the [Global Admin Console](https://global-admin-console.adobe.com/), select an organization to edit, then navigate to the **[!UICONTROL Admins]** tab.
+1. In the [Global Admin Console](https://global-admin-console.adobe.com/), select an organization to edit, then navigate to the **[!UICONTROL Admins]** tab.
 
 1. Select **[!UICONTROL Add Admin]**.
 
@@ -148,7 +148,7 @@ In the [Global Admin Console](https://global-admin-console.adobe.com/), select a
 
    > [!Note]
    > 
-   > Organizations can have restrictions on which Account Types can be added. These may be based on policies or on other configuration parameters for an organization. Organizations do not allow adding both AdobeID users and BusinessID users at the same time. In general, there should not be users of both types in an organization but depending on the order in which rules are set there may be some users of a particular Account Type that pre-date the application of policies or rules.
+   > Organizations can have restrictions on which Account Types can be added. These may be based on [policies](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) or on other configuration parameters for an organization. Organizations do not allow adding both AdobeID users and BusinessID users at the same time. In general, there should not be users of both types in an organization but depending on the order in which rules are set there may be some users of a particular Account Type that pre-date the application of policies or rules.
 
 1. Select one or more admin roles from the **[!UICONTROL Admin Rights]** section.
 
@@ -166,7 +166,7 @@ After the administrator is added, they receive an email message inviting them to
 
 ## Edit an admin
 
-Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
+1. Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
 1. Select the **[!UICONTROL More Options]** ⋮ icon for the relevant admin, and select **[!UICONTROL Edit Admin]**.
 
@@ -176,7 +176,7 @@ Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
 1. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations.
 
-A separate command appears in the pending change list for each added or removed admin role. After reviewing, select **[!UICONTROL Submit Changes]** to execute them.
+A separate command appears in the pending change list for each added or removed admin role. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 ## Remove admin rights
 
