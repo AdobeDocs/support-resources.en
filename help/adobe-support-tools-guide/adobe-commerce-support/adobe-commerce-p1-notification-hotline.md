@@ -42,4 +42,4 @@ Note: If you reach voicemail for any reason, please leave your information: Full
   * Malaysia (toll): (+60) 1800 220 120 (At first menu, press 3 for Adobe Commerce P1 hotline)
   * India: (+91) 0008 004 402 107 (At first menu, press 3 for Adobe Commerce P1 hotline)
   * Hong Kong: (+852) 30 713 107 (At first menu, press 3 for Adobe Commerce P1 hotline)
-  * Japan: (+81) 120 071 300 (At first menu, press 3 for Adobe Commerce P1 hotline)
+  * Japan: (+81) 0120 410 404 (At first menu, press 3 for Adobe Commerce P1 hotline)
