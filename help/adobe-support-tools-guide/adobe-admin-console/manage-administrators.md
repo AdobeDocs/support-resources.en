@@ -29,88 +29,85 @@ The Global Admin Console introduces a role—the **global administrator**—that
 
 The Global Admin Console is designed to work across multiple organizations and Admin Consoles. The following table outlines where administrative tasks can be completed.
 
-<table border="1" cellpadding="16" cellspacing="0" width="100%">
-  <tr>
-    <th>Task</th>
-    <th>Scope</th>
-  </tr>
-  <tr>
-    <td rowspan="2" valign="middle">
-      Manage administrators
-    </td>
-    <td>
-      For one or more organizations
-    </td>
-  </tr>
-  <tr>
-    <td>
-      For one organization
-    </td>
-  </tr>
-</table>
-
 <table>
-  <thead>
-    <tr>
-      <th>Task</th>
-      <th>Global Admin Console</th>
-      <th>Admin Console</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Create, reparent, and delete child organizations</td>
-      <td>Yes</td>
-      <td>No</td>
-    </tr>
-   <tr>
-     <td rowspan="2">Manage administrators</td>
-          <td>For one or more organizations</td>
-     <td>Work with multiple organizations</td>
-     <td></td>
-   </tr><tr>
+  <tr>
+    <th colspan="2">Task</th>
+    <th>Global Admin Console</th>
+    <th>Admin Console</th>
+  </tr>
 
-    <tr>
-      <td>Manage Product Profiles and user groups</td>
-      <td>Yes</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>Define and manage policies</td>
-      <td>Yes</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>Allocate products across organizations</td>
-      <td>Yes</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>Allocate products to users</td>
-      <td>No</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Manage users</td>
-      <td>No</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Manage packages</td>
-      <td>No</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Set up domains and directories</td>
-      <td>No</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Manage enterprise storage and encryption</td>
-      <td>No</td>
-      <td>Yes</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td colspan="2">Create, reparent, and delete child organizations</td>
+    <td align="center">Yes</td>
+    <td align="center">No</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Work with multiple organizations</td>
+    <td align="center">Yes</td>
+    <td align="center">No</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" valign="middle">Manage administrators</td>
+    <td>For one or more organizations</td>
+    <td align="center">Yes</td>
+    <td align="center">No</td>
+  </tr>
+
+  <tr>
+    <td>For one organization</td>
+    <td align="center">Yes</td>
+    <td align="center">Yes</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Manage Product Profiles and user groups</td>
+    <td align="center">Yes</td>
+    <td align="center">Yes</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Define and manage policies</td>
+    <td align="center">Yes</td>
+    <td align="center">No</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Allocate products across organizations</td>
+    <td align="center">Yes</td>
+    <td align="center">No</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Allocate products to users</td>
+    <td align="center">No</td>
+    <td align="center">Yes</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Manage users</td>
+    <td align="center">No</td>
+    <td align="center">Yes</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Manage packages</td>
+    <td align="center">No</td>
+    <td align="center">Yes</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Set up domains and directories</td>
+    <td align="center">No</td>
+    <td align="center">Yes</td>
+  </tr>
+
+  <tr>
+    <td colspan="2">Manage enterprise storage and encryption</td>
+    <td align="center">No</td>
+    <td align="center">Yes</td>
+  </tr>
 </table>
 
 ## Administrator roles
