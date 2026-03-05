@@ -12,7 +12,7 @@ feature: Admin Console
 
 Explore global administrator capabilities and learn how to delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization.
 
-In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), select an organization and navigate to the **Admins** tab to add, edit, or remove admin rights. Sign in the [Global Admin Console](https://global-admin-console.adobe.com/).
+In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), select an organization and navigate to the **Admins** tab to add, edit, or remove admin rights.  in to the [Global Admin Console](https://global-admin-console.adobe.com/).
 
 
 The Global Admin Console introduces a role — the [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) — that is distinct from a system administrator and allows you to do the following:
@@ -124,7 +124,7 @@ The following are the capabilities of the Global Admin role:
 - Set or change resource allocations for child organizations
 - Manage Product Profiles and User Groups
 
-Following are the capabilities of the Global Viewer role:
+The following are the capabilities of the Global Viewer role:
 
 - View the list of user groups, products, product profiles, administrators, policies set, and resources in the organization and in the child organizations.
 
@@ -132,7 +132,7 @@ Following are the capabilities of the Global Viewer role:
 
 By managing administrators, a Global Admin can delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization. The admin added to an organization by a global administrator is given the flexibility to manage the organization without having any visibility into the administration of other orgs. So, the global admin can delegate administration of resources and users keeping the data on those resources and users isolated.
 
-A global admin can create organizations, distribute resources such as products and storage to those organizations, manage identity setup, and create and apply organization policy templates. A system admin added to an organization by a global admin can assign products to users, onboard users, create and manage product profiles, and perform other administrative tasks within that organization.
+A global admin can create organizations, distribute resources such as products and storage to those organizations, manage identity setup, and create and apply organization policy templates. A system admin added to an organization by a global admin can as products to users, onboard users, create and manage product profiles, and perform other administrative tasks within that organization.
 
 ## Add an admin
 
@@ -144,7 +144,7 @@ In the [Global Admin Console](https://global-admin-console.adobe.com/), select a
 
 1. In the **[!UICONTROL Add Admin]** dialog box that appears, enter the **[!UICONTROL User Details]** — Email, First Name, Last Name, Account Type, Country Code.
 
-   If you are trying to add an existing user as admin, choose the same account type as the existing user, otherwise the add operation will fail.
+   If you are trying to add an existing user as an admin, choose the same account type as the existing user, otherwise the add operation will fail.
 
    > [!Note]
    > 
@@ -186,7 +186,7 @@ A separate command appears in the pending change list for each added or removed 
 
     ![global admin console remove admin rights](../assets/global-admin-console-remove-admin-right.png) 
 
-1. Select **[!UICONTROL Ok]** in the dialog box that appears.
+1. Select **[!UICONTROL OK]** in the dialog box that appears.
 
 1. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
