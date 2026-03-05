@@ -180,7 +180,7 @@ Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
 2. Select **[!UICONTROL Ok]** in the dialog box that appears.
 
-3. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to execute them.
+3. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 After you delete an admin, the admin receives an email notification informing them of the loss of access to the admin console for that organization.
 
