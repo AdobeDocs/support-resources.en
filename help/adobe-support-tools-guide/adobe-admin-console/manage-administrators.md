@@ -140,9 +140,9 @@ In the [Global Admin Console](https://global-admin-console.adobe.com/), select a
 
 1. Select **[!UICONTROL Add Admin]**.
 
- ![global admin console add admin](../assets/global-admin-console-add-admin.png)  
+    ![global admin console add admin](../assets/global-admin-console-add-admin.png)  
 
-2. In the **[!UICONTROL Add Admin]** dialog box that appears, enter the **[!UICONTROL User Details]** — Email, First Name, Last Name, Account Type, Country Code.
+1. In the **[!UICONTROL Add Admin]** dialog box that appears, enter the **[!UICONTROL User Details]** — Email, First Name, Last Name, Account Type, Country Code.
 
    If you are trying to add an existing user as admin, choose the same account type as the existing user, otherwise the add operation will fail.
 
@@ -150,15 +150,15 @@ In the [Global Admin Console](https://global-admin-console.adobe.com/), select a
    > 
    > Organizations can have restrictions on which Account Types can be added. These may be based on policies or on other configuration parameters for an organization. Organizations do not allow adding both AdobeID users and BusinessID users at the same time. In general, there should not be users of both types in an organization but depending on the order in which rules are set there may be some users of a particular Account Type that pre-date the application of policies or rules.
 
-3. Select one or more admin roles from the **[!UICONTROL Admin Rights]** section.
+1. Select one or more admin roles from the **[!UICONTROL Admin Rights]** section.
 
    For admin types like product administrator, product profile administrator, and user group administrator, select the specific products, profiles, and groups respectively. 
 
    ![global admin console add admin](../assets/global-admin-console-add-admin-detail.png)
 
-4. Select **[!UICONTROL Save]**.
+1. Select **[!UICONTROL Save]**.
 
-5. After editing the organizations, select **[!UICONTROL Review Pending Changes]**. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
+1. After editing the organizations, select **[!UICONTROL Review Pending Changes]**. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 When an admin role is added, the user receives an email notification informing them of the change in their role.
 
@@ -172,9 +172,9 @@ Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
     ![global admin console edit admin rights](../assets/global-admin-console-edit-admin-right.png) 
 
-2. Update the admin details and select **[!UICONTROL Save]**.
+1. Update the admin details and select **[!UICONTROL Save]**.
 
-3. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations.
+1. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations.
 
 A separate command appears in the pending change list for each added or removed admin role. After reviewing, select **[!UICONTROL Submit Changes]** to execute them.
 
