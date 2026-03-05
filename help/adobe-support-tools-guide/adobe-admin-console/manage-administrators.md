@@ -140,6 +140,8 @@ In the [Global Admin Console](https://global-admin-console.adobe.com/), select a
 
 1. Select **[!UICONTROL Add Admin]**.
 
+ ![global admin console add admin](../assets/global-admin-console-add-admin.png)  
+
 2. In the **[!UICONTROL Add Admin]** dialog box that appears, enter the **[!UICONTROL User Details]** — Email, First Name, Last Name, Account Type, Country Code.
 
    If you are trying to add an existing user as admin, choose the same account type as the existing user, otherwise the add operation will fail.
@@ -150,7 +152,9 @@ In the [Global Admin Console](https://global-admin-console.adobe.com/), select a
 
 3. Select one or more admin roles from the **[!UICONTROL Admin Rights]** section.
 
-   For admin types like product administrator, product profile administrator, and user group administrator, select the specific products, profiles, and groups respectively.
+   For admin types like product administrator, product profile administrator, and user group administrator, select the specific products, profiles, and groups respectively. 
+
+   ![global admin console add admin](../assets/global-admin-console-add-admin-detail.png)
 
 4. Select **[!UICONTROL Save]**.
 
@@ -164,7 +168,9 @@ After the administrator is added, they receive an email message inviting them to
 
 Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
-1. Select the **[!UICONTROL More Options]** *** icon for the relevant admin, and select **[!UICONTROL Edit Admin]**.
+1. Select the **[!UICONTROL More Options]** ⋮ icon for the relevant admin, and select **[!UICONTROL Edit Admin]**.
+
+    ![global admin console edit admin rights](../assets/global-admin-console-edit-admin-right.png) 
 
 2. Update the admin details and select **[!UICONTROL Save]**.
 
@@ -177,6 +183,8 @@ A separate command appears in the pending change list for each added or removed 
 1. Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
 1. Select the **[!UICONTROL More Options]** ⋮ icon for the relevant admin, and select **[!UICONTROL Remove Admin Rights]**.
+
+    ![global admin console remove admin rights](../assets/global-admin-console-remove-admin-right.png) 
 
 1. Select **[!UICONTROL Ok]** in the dialog box that appears.
 
