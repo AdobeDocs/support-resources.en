@@ -10,7 +10,7 @@ feature: Admin Console
 
 Applies to enterprise & teams.
 
-The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to easily manage your licenses, users, payments, and more using the Adobe Admin Console.[Sign in to the Admin Console](https://adminconsole.adobe.com/?promoid=12B9DRDF&mv=other). Review the video below to learn more about navigating the Adobe Admin Console.
+The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, payments, and more using the Adobe Admin Console.[Sign in to the Admin Console](https://adminconsole.adobe.com/?promoid=12B9DRDF&mv=other). Review the video below to learn more about navigating the Adobe Admin Console.
 
 [!Video](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
@@ -48,9 +48,13 @@ If you have a complex organizational structure that has many Admin Consoles or i
 
 ## Products {#products}
 
+
+Who can view this tab: System Administrators, Product Administrators, and Product Profile Administrators
+
 Enterprise
 
-The Products page in the [Admin Console](https://adminconsole.adobe.com) provides the options to manage your products and product profiles. Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated with a given product or plan. You can then assign administrators, called Product Administrators, to the product profiles. These administrators add end users to the product profiles that they manage.
+The Products page in the [Admin Console](https://adminconsole.adobe.com) provides the options to manage your products and product profiles. Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated 
+with a given product or plan. You can then assign administrators, called Product Administrators, to the product profiles. These administrators add end users to the product profiles that they manage.
 
 For more information, see:
 
@@ -81,13 +85,11 @@ For more information:
 - [Manage users](https://helpx.adobe.com/enterprise/using/users.html)
 - [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html)
 
-  GOT TO HERE!
-
 ## Account {#account}
 
 **Who can view this tab:** System Administrators and Contract Administrators
 
-System and contract admins can easily manage their organization’s Adobe contracts from the **Account** tab in the Admin Console.
+System and contract admins can manage their organization’s Adobe contracts from the **Account** tab in the Admin Console.
 
 Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
 
@@ -115,7 +117,7 @@ Learn more: [https://helpx.adobe.com/enterprise/using/audit-logs.html](https://h
 
 Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments.
 
-License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement.
+License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. [CHECK WITH JERZEE ABOUT MENTIONS OF CREATIVE CLOUD]
 
 Learn more: [https://helpx.adobe.com/enterprise/using/assignment-reports.html](https://helpx.adobe.com/enterprise/using/assignment-reports.html)
 
@@ -123,7 +125,7 @@ Learn more: [https://helpx.adobe.com/enterprise/using/assignment-reports.html](h
 
 **Who can view this tab:** System Administrators and Storage Administrators (only for customers migrated to the pooled storage model)
 
-The Storage page in the Admin Console gives you full control and visibility of storage across your Creative Cloud applications.
+The Storage page in the Admin Console gives you full control and visibility of storage across your Creative Cloud applications. [CHECK WITH JERZEE ABOUT THIS MENTION OF CC]
 
 Learn more: [https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)
 
