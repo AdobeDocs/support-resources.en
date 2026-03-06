@@ -18,21 +18,25 @@ The Adobe Admin Console is a central location for managing the Adobe entitlement
 
 Each tab on the Admin Console enables you to perform various tasks.
 
-- Overview: View a summary of the licenses purchased and quick actions to set up your organization.
+- [Overview](#overview): View a summary of the licenses purchased and quick actions to set up your organization.
 
-- Products: Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
+- [Products](#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
 
-- Users: Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
+- [Users](#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
 
-- Packages: Download pre-configured packages or create them for desktop apps that you plan to deploy.
+- [Packages](#packages): Download pre-configured packages or create them for desktop apps that you plan to deploy.
 
-- Account: Manage your organization's contracts and agreements with Adobe.
+- [Account](#accounts): Manage your organization's contracts and agreements with Adobe.
 
-- Storage: Manage individual user folders and shared folders, view storage quota consumed by users.
+- [Storage](#storage): Manage individual user folders and shared folders, view storage quota consumed by users.
 
 If you are unable to sign in to the Admin Console, see [Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
-## Select your organization
+## Overview {#overview}
+
+The Overview efficiently displays a wealth of information about product licenses. It shows the status of licenses in your plan—the number of licenses assigned out of the total available ones. There are also some quick links available to add users and admins.
+
+## Select your organization {#select-your-organization}
 
 An administrator can belong to multiple organizations. If a company has multiple subsidiaries that exist as separate organizations, or each subsidiary has a separate license agreement, the same administrator can be assigned to all.
 
