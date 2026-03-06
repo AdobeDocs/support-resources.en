@@ -42,40 +42,35 @@ An administrator can belong to multiple organizations. If a company has multiple
 
 If you're an administrator for multiple organizations, you can switch between organizations using the organization selector. The selected organization shows a green check mark next to the organization's name.
 
-If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy.
+If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of the organization Athletic Shoe Division and this organization's Global Admin Console path is [placeholder] > [placeholder], where [placeholder] is a child of the organization [placeholder].
 
-If you have a complex organizational structure that has many Admin Consoles or if you want to break up your main Admin Console into multiple consoles, you can adopt the Global Admin Console.
-
-For example, multinational corporations, education consortiums, large school districts, and large government agencies.
-
-The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
-
-Learn more: [https://helpx.adobe.com/content/help/en/enterprise/global-admin-console/adopt-global-administration.html](https://helpx.adobe.com/content/help/en/enterprise/global-admin-console/adopt-global-administration.html)
+If you have a complex organizational structure that has many Admin Consoles or if you want to break up your main Admin Console into multiple consoles, you can adopt the Global Admin Console. For example, multinational corporations, education consortiums, large school districts, and large government agencies. The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
 
 ## Products
 
-**Who can view this tab:** System Administrators, Product Administrators, and Product Profile Administrators
+Enterprise
 
-The Products page in the Admin Console provides the options to manage your products and product profiles.
+The Products page in the [Admin Console](https://adminconsole.adobe.com) provides the options to manage your products and product profiles. Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated with a given product or plan. You can then assign administrators, called Product Administrators, to the product profiles. These administrators add end users to the product profiles that they manage.
 
-Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated with a given product or plan.
+For more information, see:
 
-You can then assign administrators, called Product Administrators, to the product profiles.
+[Manage products](https://helpx.adobe.com/enterprise/using/manage-products.html)
+[Manage product profiles](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html)
 
-The Products page in the Admin Console lets you assign product licenses to users.
+Teams
 
-To assign a product license to a user or group, select the desired product on the Products page, and click **Add User**.
+The Products page in the [Admin Console](https://adminconsole.adobe.com) lets you assign product licenses to users. To assign a product license to a user or group, select the desired product on the Products page, and click Add User.
 
-For more information:
+Enter the name or email address of the user. You can search for existing users or add a user by specifying a valid email address and filling in the information on the screen. Click Save. An email is sent to the user or group confirming access to the application.
 
-- [https://helpx.adobe.com/enterprise/using/manage-products.html](https://helpx.adobe.com/enterprise/using/manage-products.html)
-- [https://helpx.adobe.com/enterprise/using/manage-product-profiles.html](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html)
-- [https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
-- [https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
+For more information, see:
+
+[Assign or unassign licenses](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
+[Add or remove products or licenses](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
 
 ## Users
 
-The Users page in the Admin Console lets you create, search, update, and remove user accounts.
+The Users page in the [Admin Console](https://adminconsole.adobe.com) lets you create, search, update, and remove user accounts.
 
 These user accounts entitle the end users in your organization to Adobe products and services.
 
@@ -83,8 +78,10 @@ You can also use the bulk edit workflows to add users or modify user details and
 
 For more information:
 
-- [https://helpx.adobe.com/enterprise/using/users.html](https://helpx.adobe.com/enterprise/using/users.html)
-- [https://helpx.adobe.com/enterprise/using/user-groups.html](https://helpx.adobe.com/enterprise/using/user-groups.html)
+- [Manage users](https://helpx.adobe.com/enterprise/using/users.html)
+- [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html)
+
+  GOT TO HERE!
 
 ## Account
 
