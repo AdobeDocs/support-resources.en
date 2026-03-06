@@ -1,61 +1,187 @@
+---
+title: Admin Console Overview
+description: How Adobe customers can use the Adobe Admin Console to manage licenses, users, storage, packages, settings, and organizational access across their enterprise.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
+---
+
 # Adobe Admin Console
 
 Applies to enterprise & teams.
 
 The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization.
 
-Easily manage your licenses, users, payments, and more using the Adobe Admin Console.
+Page URL: https://helpx.adobe.com/enterprise/using/admin-console.html
+
+## Overview
 
 Each tab on the Admin Console enables you to perform various tasks. Select the titles below to know more.
 
----
+Easily manage your licenses, users, payments, and more using the Adobe Admin Console.
 
-## Overview
+[Sign in to the Admin Console](https://adminconsole.adobe.com/?promoid=12B9DRDF&mv=other)
 
-View a summary of the licenses purchased and quick actions to set up your organization.
+https://youtu.be/hDOhQL9xPRY about navigating the Adobe Admin Console.
 
-## Products
+Overview: View a summary of the licenses purchased and quick actions to set up your organization.
 
-Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
+Products: Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
 
-## Users
+Users: Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
 
-Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
+Packages: Download pre-configured packages or create them for desktop apps that you plan to deploy.
 
-## Packages
+Account: Manage your organization's contracts and agreements with Adobe.
 
-Download pre-configured packages or create them for desktop apps that you plan to deploy.
+Storage: Manage individual user folders and shared folders, view storage quota consumed by users.
 
-## Account
+If you are unable to sign in to the Admin Console, see [Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
-Manage your organization's contracts and agreements with Adobe.
-
-## Storage
-
-Manage individual user folders and shared folders, view storage quota consumed by users.
-
-## Insights
-
-View, create, and download license assignment reports and track changes made in the Admin Console.
-
-## Settings
-
-Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
-
----
-
-If you are unable to sign in to the Admin Console, see **Solve Adobe account sign-in issues**.
-
----
-
-## Overview
-
-The Overview efficiently displays a wealth of information about product licenses. It shows the status of licenses in your plan—the number of licenses assigned out of the total available ones. There are also some quick links available to add users and admins.
-
-### Select your organization
+## Select your organization
 
 An administrator can belong to multiple organizations. If a company has multiple subsidiaries that exist as separate organizations, or each subsidiary has a separate license agreement, the same administrator can be assigned to all.
 
 If you're an administrator for multiple organizations, you can switch between organizations using the organization selector. The selected organization shows a green check mark next to the organization's name.
 
-If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy. For example:
+If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy.
+
+If you have a complex organizational structure that has many Admin Consoles or if you want to break up your main Admin Console into multiple consoles, you can adopt the Global Admin Console.
+
+For example, multinational corporations, education consortiums, large school districts, and large government agencies.
+
+The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
+
+Learn more: https://helpx.adobe.com/content/help/en/enterprise/global-admin-console/adopt-global-administration.html
+
+## Products
+
+**Who can view this tab:** System Administrators, Product Administrators, and Product Profile Administrators
+
+The Products page in the Admin Console provides the options to manage your products and product profiles.
+
+Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated with a given product or plan.
+
+You can then assign administrators, called Product Administrators, to the product profiles.
+
+The Products page in the Admin Console lets you assign product licenses to users.
+
+To assign a product license to a user or group, select the desired product on the Products page, and click **Add User**.
+
+For more information:
+
+- https://helpx.adobe.com/enterprise/using/manage-products.html
+- https://helpx.adobe.com/enterprise/using/manage-product-profiles.html
+- https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html
+- https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html
+
+## Users
+
+The Users page in the Admin Console lets you create, search, update, and remove user accounts.
+
+These user accounts entitle the end users in your organization to Adobe products and services.
+
+You can also use the bulk edit workflows to add users or modify user details and license assignments.
+
+For more information:
+
+- https://helpx.adobe.com/enterprise/using/users.html
+- https://helpx.adobe.com/enterprise/using/user-groups.html
+
+## Account
+
+**Who can view this tab:** System Administrators and Contract Administrators
+
+System and contract admins can easily manage their organization’s Adobe contracts from the **Account** tab in the Admin Console.
+
+Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
+
+- View key contract details, such as contract ID, status, anniversary/end date, and apps and licenses.
+- Change the display name of your contracts for easier identification.
+- Add or remove contract admins.
+- Manage payment details, invoices, and renewals.
+- View your Adobe account manager’s contact details.
+
+Learn more: https://helpx.adobe.com/enterprise/using/accounts.html
+
+## Insights
+
+**Who can view this tab:** System Administrators
+
+### Audit Log
+
+Audit log helps ensuring continued compliance, safeguarding against any inappropriate system access, and auditing suspicious behavior within your organization.
+
+You can search the audit log based on the type of actions, when they occurred, and who made them.
+
+Learn more: https://helpx.adobe.com/enterprise/using/audit-logs.html
+
+### Assignment Reports
+
+Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments.
+
+License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement.
+
+Learn more: https://helpx.adobe.com/enterprise/using/assignment-reports.html
+
+## Storage
+
+**Who can view this tab:** System Administrators and Storage Administrators (only for customers migrated to the pooled storage model)
+
+The Storage page in the Admin Console gives you full control and visibility of storage across your Creative Cloud applications.
+
+Learn more: https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html
+
+## Packages
+
+**Who can view this tab:** System Administrators and Deployment Administrators
+
+The Packages page in the Admin Console provides the following functionality.
+
+Use them when you plan to deploy desktop applications to end users in your organization.
+
+For more information:
+
+- https://helpx.adobe.com/enterprise/using/package-templates.html
+- https://helpx.adobe.com/enterprise/using/create-nul-packages.html
+- https://helpx.adobe.com/enterprise/using/create-sdl-packages.html
+- https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html
+- https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html
+- https://helpx.adobe.com/enterprise/using/manage-extensions.html
+- https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html
+
+## Settings
+
+**Who can view this tab:** System Administrators and Storage Administrators
+
+Storage administrators can access only the asset settings and content logs.
+
+System administrators can view or modify settings depending on their plan.
+
+For more information:
+
+- https://helpx.adobe.com/enterprise/using/asset-settings.html
+- https://helpx.adobe.com/enterprise/using/content-logs.html
+- https://helpx.adobe.com/enterprise/using/identity.html
+- https://helpx.adobe.com/enterprise/using/security-contacts.html
+- https://helpx.adobe.com/enterprise/using/console-settings.html
+- https://helpx.adobe.com/enterprise/using/authentication-settings.html
+- https://helpx.adobe.com/enterprise/using/encryption.html
+- https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies
+
+## Support
+
+To contact Adobe Customer Care, navigate to the Support page in the Admin Console.
+
+Learn more:
+
+- https://helpx.adobe.com/enterprise/using/support-and-expert-services.html
+- https://helpx.adobe.com/enterprise/using/restricting-domains.html
+
+## Legal and Community
+
+- https://helpx.adobe.com/legal/legal-notices.html
+- https://www.adobe.com/privacy.html
+- https://community.adobe.com/t5/enterprise-teams/bd-p/enterprise-and-teams
+- https://experienceleaguecommunities.adobe.com/
+
