@@ -46,7 +46,7 @@ If the organization is a part of a Global Admin Console, a hierarchy icon appear
 
 If you have a complex organizational structure that has many Admin Consoles or if you want to break up your main Admin Console into multiple consoles, you can adopt the Global Admin Console. For example, multinational corporations, education consortiums, large school districts, and large government agencies. The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
 
-## Products
+## Products {#products}
 
 Enterprise
 
@@ -57,7 +57,7 @@ For more information, see:
 [Manage products](https://helpx.adobe.com/enterprise/using/manage-products.html)
 [Manage product profiles](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html)
 
-Teams
+Teams {#teams}
 
 The Products page in the [Admin Console](https://adminconsole.adobe.com) lets you assign product licenses to users. To assign a product license to a user or group, select the desired product on the Products page, and click Add User.
 
@@ -68,7 +68,7 @@ For more information, see:
 [Assign or unassign licenses](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
 [Add or remove products or licenses](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
 
-## Users
+## Users {#users}
 
 The Users page in the [Admin Console](https://adminconsole.adobe.com) lets you create, search, update, and remove user accounts.
 
@@ -83,7 +83,7 @@ For more information:
 
   GOT TO HERE!
 
-## Account
+## Account {#account}
 
 **Who can view this tab:** System Administrators and Contract Administrators
 
@@ -99,11 +99,11 @@ Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
 
 Learn more: [https://helpx.adobe.com/enterprise/using/accounts.html](https://helpx.adobe.com/enterprise/using/accounts.html)
 
-## Insights
+## Insights {#insights}
 
 **Who can view this tab:** System Administrators
 
-### Audit Log
+### Audit Log {#audit-log}
 
 Audit log helps ensuring continued compliance, safeguarding against any inappropriate system access, and auditing suspicious behavior within your organization.
 
@@ -111,7 +111,7 @@ You can search the audit log based on the type of actions, when they occurred, a
 
 Learn more: [https://helpx.adobe.com/enterprise/using/audit-logs.html](https://helpx.adobe.com/enterprise/using/audit-logs.html)
 
-### Assignment Reports
+### Assignment Reports {#assignment-reports}
 
 Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments.
 
@@ -119,7 +119,7 @@ License assignment data only supports named user licenses for Creative Cloud and
 
 Learn more: [https://helpx.adobe.com/enterprise/using/assignment-reports.html](https://helpx.adobe.com/enterprise/using/assignment-reports.html)
 
-## Storage
+## Storage {#storage}
 
 **Who can view this tab:** System Administrators and Storage Administrators (only for customers migrated to the pooled storage model)
 
@@ -127,7 +127,7 @@ The Storage page in the Admin Console gives you full control and visibility of s
 
 Learn more: [https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)
 
-## Packages
+## Packages {#packages}
 
 **Who can view this tab:** System Administrators and Deployment Administrators
 
@@ -145,7 +145,7 @@ For more information:
 - [https://helpx.adobe.com/enterprise/using/manage-extensions.html](https://helpx.adobe.com/enterprise/using/manage-extensions.html)
 - [https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html)
 
-## Settings
+## Settings {#packages}
 
 **Who can view this tab:** System Administrators and Storage Administrators
 
