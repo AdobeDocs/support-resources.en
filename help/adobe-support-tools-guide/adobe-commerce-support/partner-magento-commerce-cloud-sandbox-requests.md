@@ -27,7 +27,7 @@ Submit a support ticket in the [Support section on Experience League](https://ex
 Partners with a Partner Sandbox Cloud project cannot submit tickets for sandbox-related issues through Experience League. Please do not use a merchant's account to submit these tickets, as it may appear to be submitted on their behalf and cause confusion.
 
 > **Example**
-> While this section refers to Adobe Commerce Cloud sandbox accounts, this requirement also applies when partners are working in their own internal environments and not with a specific customer. In those cases, partners must not submit support requests under a customer’s organization if they are not actively working on behalf of that customer.
+> While this section refers to Adobe Commerce Cloud sandbox accounts, the same requirement applies when partners are working in internal environments and not for a specific customer. Partners must not submit support requests under a customer organization unless they are actively engaged on that customer’s behalf.
 
 If you're submitting a ticket on behalf of a merchant who has not been granted Shared Access, please request access from the account owner. For steps on how to request access, refer to [Shared Access: Grant Privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access). 
 
