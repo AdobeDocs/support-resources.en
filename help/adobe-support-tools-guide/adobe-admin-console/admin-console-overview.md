@@ -12,7 +12,7 @@ Applies to enterprise & teams.
 
 The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization.
 
-Page URL: https://helpx.adobe.com/enterprise/using/admin-console.html
+Page URL: [https://helpx.adobe.com/enterprise/using/admin-console.html](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Easily manage your licenses, users, payments, and more using the Adobe Admin Con
 
 [Sign in to the Admin Console](https://adminconsole.adobe.com/?promoid=12B9DRDF&mv=other)
 
-https://youtu.be/hDOhQL9xPRY about navigating the Adobe Admin Console.
+[https://youtu.be/hDOhQL9xPRY](https://youtu.be/hDOhQL9xPRY) about navigating the Adobe Admin Console.
 
 Overview: View a summary of the licenses purchased and quick actions to set up your organization.
 
@@ -52,7 +52,7 @@ For example, multinational corporations, education consortiums, large school dis
 
 The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
 
-Learn more: https://helpx.adobe.com/content/help/en/enterprise/global-admin-console/adopt-global-administration.html
+Learn more: [https://helpx.adobe.com/content/help/en/enterprise/global-admin-console/adopt-global-administration.html](https://helpx.adobe.com/content/help/en/enterprise/global-admin-console/adopt-global-administration.html)
 
 ## Products
 
@@ -70,10 +70,10 @@ To assign a product license to a user or group, select the desired product on th
 
 For more information:
 
-- https://helpx.adobe.com/enterprise/using/manage-products.html
-- https://helpx.adobe.com/enterprise/using/manage-product-profiles.html
-- https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html
-- https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html
+- [https://helpx.adobe.com/enterprise/using/manage-products.html](https://helpx.adobe.com/enterprise/using/manage-products.html)
+- [https://helpx.adobe.com/enterprise/using/manage-product-profiles.html](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html)
+- [https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
+- [https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
 
 ## Users
 
@@ -85,8 +85,8 @@ You can also use the bulk edit workflows to add users or modify user details and
 
 For more information:
 
-- https://helpx.adobe.com/enterprise/using/users.html
-- https://helpx.adobe.com/enterprise/using/user-groups.html
+- [https://helpx.adobe.com/enterprise/using/users.html](https://helpx.adobe.com/enterprise/using/users.html)
+- [https://helpx.adobe.com/enterprise/using/user-groups.html](https://helpx.adobe.com/enterprise/using/user-groups.html)
 
 ## Account
 
@@ -102,7 +102,7 @@ Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
 - Manage payment details, invoices, and renewals.
 - View your Adobe account manager’s contact details.
 
-Learn more: https://helpx.adobe.com/enterprise/using/accounts.html
+Learn more: [https://helpx.adobe.com/enterprise/using/accounts.html](https://helpx.adobe.com/enterprise/using/accounts.html)
 
 ## Insights
 
@@ -114,7 +114,7 @@ Audit log helps ensuring continued compliance, safeguarding against any inapprop
 
 You can search the audit log based on the type of actions, when they occurred, and who made them.
 
-Learn more: https://helpx.adobe.com/enterprise/using/audit-logs.html
+Learn more: [https://helpx.adobe.com/enterprise/using/audit-logs.html](https://helpx.adobe.com/enterprise/using/audit-logs.html)
 
 ### Assignment Reports
 
@@ -122,7 +122,7 @@ Using the License assignment reports, you can track your organization's license 
 
 License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement.
 
-Learn more: https://helpx.adobe.com/enterprise/using/assignment-reports.html
+Learn more: [https://helpx.adobe.com/enterprise/using/assignment-reports.html](https://helpx.adobe.com/enterprise/using/assignment-reports.html)
 
 ## Storage
 
@@ -130,7 +130,7 @@ Learn more: https://helpx.adobe.com/enterprise/using/assignment-reports.html
 
 The Storage page in the Admin Console gives you full control and visibility of storage across your Creative Cloud applications.
 
-Learn more: https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html
+Learn more: [https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)
 
 ## Packages
 
@@ -142,13 +142,13 @@ Use them when you plan to deploy desktop applications to end users in your organ
 
 For more information:
 
-- https://helpx.adobe.com/enterprise/using/package-templates.html
-- https://helpx.adobe.com/enterprise/using/create-nul-packages.html
-- https://helpx.adobe.com/enterprise/using/create-sdl-packages.html
-- https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html
-- https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html
-- https://helpx.adobe.com/enterprise/using/manage-extensions.html
-- https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html
+- [https://helpx.adobe.com/enterprise/using/package-templates.html](https://helpx.adobe.com/enterprise/using/package-templates.html)
+- [https://helpx.adobe.com/enterprise/using/create-nul-packages.html](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)
+- [https://helpx.adobe.com/enterprise/using/create-sdl-packages.html](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)
+- [https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html)
+- [https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html)
+- [https://helpx.adobe.com/enterprise/using/manage-extensions.html](https://helpx.adobe.com/enterprise/using/manage-extensions.html)
+- [https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html)
 
 ## Settings
 
@@ -160,14 +160,14 @@ System administrators can view or modify settings depending on their plan.
 
 For more information:
 
-- https://helpx.adobe.com/enterprise/using/asset-settings.html
-- https://helpx.adobe.com/enterprise/using/content-logs.html
-- https://helpx.adobe.com/enterprise/using/identity.html
-- https://helpx.adobe.com/enterprise/using/security-contacts.html
-- https://helpx.adobe.com/enterprise/using/console-settings.html
-- https://helpx.adobe.com/enterprise/using/authentication-settings.html
-- https://helpx.adobe.com/enterprise/using/encryption.html
-- https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies
+- [https://helpx.adobe.com/enterprise/using/asset-settings.html](https://helpx.adobe.com/enterprise/using/asset-settings.html)
+- [https://helpx.adobe.com/enterprise/using/content-logs.html](https://helpx.adobe.com/enterprise/using/content-logs.html)
+- [https://helpx.adobe.com/enterprise/using/identity.html](https://helpx.adobe.com/enterprise/using/identity.html)
+- [https://helpx.adobe.com/enterprise/using/security-contacts.html](https://helpx.adobe.com/enterprise/using/security-contacts.html)
+- [https://helpx.adobe.com/enterprise/using/console-settings.html](https://helpx.adobe.com/enterprise/using/console-settings.html)
+- [https://helpx.adobe.com/enterprise/using/authentication-settings.html](https://helpx.adobe.com/enterprise/using/authentication-settings.html)
+- [https://helpx.adobe.com/enterprise/using/encryption.html](https://helpx.adobe.com/enterprise/using/encryption.html)
+- [https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies)
 
 ## Support
 
@@ -175,5 +175,6 @@ To contact Adobe Customer Care, navigate to the Support page in the Admin Consol
 
 Learn more:
 
-- https://helpx.adobe.com/enterprise/using/support-and-expert-services.html
-- https://helpx.adobe.com/enterprise/using/restricting-domains.html
+- [https://helpx.adobe.com/enterprise/using/support-and-expert-services.html](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
+- [https://helpx.adobe.com/enterprise/using/restricting-domains.html](https://helpx.adobe.com/enterprise/using/restricting-domains.html)
+``
