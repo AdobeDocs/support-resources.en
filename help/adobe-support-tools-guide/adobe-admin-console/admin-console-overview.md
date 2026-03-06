@@ -177,11 +177,3 @@ Learn more:
 
 - https://helpx.adobe.com/enterprise/using/support-and-expert-services.html
 - https://helpx.adobe.com/enterprise/using/restricting-domains.html
-
-## Legal and Community
-
-- https://helpx.adobe.com/legal/legal-notices.html
-- https://www.adobe.com/privacy.html
-- https://community.adobe.com/t5/enterprise-teams/bd-p/enterprise-and-teams
-- https://experienceleaguecommunities.adobe.com/
-
