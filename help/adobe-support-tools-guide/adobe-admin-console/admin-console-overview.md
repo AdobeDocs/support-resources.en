@@ -133,38 +133,64 @@ Learn more: [https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html]
 
 **Who can view this tab:** System Administrators and Deployment Administrators
 
-The Packages page in the Admin Console provides the following functionality.
-
-Use them when you plan to deploy desktop applications to end users in your organization.
+The Packages page in the Admin Console provides the following functionality. Use them when you plan to deploy desktop applications to end users in your organization.
 
 For more information:
 
-- [https://helpx.adobe.com/enterprise/using/package-templates.html](https://helpx.adobe.com/enterprise/using/package-templates.html)
-- [https://helpx.adobe.com/enterprise/using/create-nul-packages.html](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)
-- [https://helpx.adobe.com/enterprise/using/create-sdl-packages.html](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)
-- [https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html)
-- [https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html)
-- [https://helpx.adobe.com/enterprise/using/manage-extensions.html](https://helpx.adobe.com/enterprise/using/manage-extensions.html)
-- [https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html)
+- Download pre-configured packages by using Adobe Templates.
+- Create customized Named User Licensing or Shared Device Licensing (for educational institutions) packagers with the configuration and applications you want your end users to have.
+- Enable email notifications, so you get notified when new product versions become available.
+- View previous packages you or other administrators in your organization have created. Also, view details of a specific package and track available updates for the apps in the package.
+- Download the IT tools like Remote Update Manager and Adobe Update Server Setup Tool.
+- Download the Adobe Extension Manager command-line tool to install extensions and plug-ins from the ZXP file container format.
 
-## Settings {#packages}
+For more information, see Packaging apps via the Admin Console.
+
+## Settings {#settings}
 
 **Who can view this tab:** System Administrators and Storage Administrators
 
-Storage administrators can access only the asset settings and content logs.
+Storage administrators can access only the asset settings and content logs. System administrators can view or modify settings depending on their plan.
 
-System administrators can view or modify settings depending on their plan.
+[!Note]
+>
+> Adobe does not provide a native capability for top‑level administrators to compare current Admin Console settings against Adobe’s recommended secure defaults. Administrators may refer to Adobe’s recommended configuration guidance and validate compliance using their organization’s identity provider, endpoint management tools, and internal audit processes.
 
-For more information:
+## Privacy and security contacts {privacy-and-security-contacts}
 
-- [https://helpx.adobe.com/enterprise/using/asset-settings.html](https://helpx.adobe.com/enterprise/using/asset-settings.html)
-- [https://helpx.adobe.com/enterprise/using/content-logs.html](https://helpx.adobe.com/enterprise/using/content-logs.html)
-- [https://helpx.adobe.com/enterprise/using/identity.html](https://helpx.adobe.com/enterprise/using/identity.html)
-- [https://helpx.adobe.com/enterprise/using/security-contacts.html](https://helpx.adobe.com/enterprise/using/security-contacts.html)
-- [https://helpx.adobe.com/enterprise/using/console-settings.html](https://helpx.adobe.com/enterprise/using/console-settings.html)
-- [https://helpx.adobe.com/enterprise/using/authentication-settings.html](https://helpx.adobe.com/enterprise/using/authentication-settings.html)
-- [https://helpx.adobe.com/enterprise/using/encryption.html](https://helpx.adobe.com/enterprise/using/encryption.html)
-- [https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies)
+In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. To help ensure prompt notification, as a System admin, you must specify who your security, data protection, and compliance officers are. For details, see Privacy and security contacts.
+
+## Console settings {#console-settings}
+
+In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. To help ensure prompt notification, as a System admin, you must specify who your security, data protection, and compliance officers are. For details, see Privacy and security contacts.
+
+## Content logs {#content-logs}
+
+As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called content logs. 
+
+## Domain Enforcement {#domain-enforcement}
+
+System administrators can restrict organization-owned domains to prevent users from creating and using personal Adobe ID accounts. This limits the use of personal data, enhances security, and allows asset sharing only between organization users. Learn more about Domain Enforcement for restricted authentication.
+
+## Identity {#identity}
+
+Identity types allow the organizations to have different levels of control over user's account and data. It impacts how your organization stores and shares assets.
+
+## Asset settings {asset-settings}
+
+Asset settings give an organization control over how its employees share its assets outside the organization. Asset Settings are used along with other organizational policy enforcement systems (not provided by Adobe) to ensure that assets are only shared with appropriate external individuals and organizations.
+
+## Authentication settings {authentication-settings}
+
+Authentication settings support several password protection levels and policies to ensure safety and security. You can specify a password protection level to apply to all users across your organization.
+
+## Encryption settings {encryption-settings}
+
+Encryption settings generate a dedicated encryption key for extra layers of control and security.
+
+## Project policies {project-policies}
+
+As a system administrator, you can control who has permission to create and manage projects in your organization. By default, all users added to the Admin Console can create and manage projects. Learn more about project policies.
 
 ## Support
 
