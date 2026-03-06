@@ -10,31 +10,25 @@ feature: Admin Console
 
 Applies to enterprise & teams.
 
-The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization.
+The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to easily manage your licenses, users, payments, and more using the Adobe Admin Console.[Sign in to the Admin Console](https://adminconsole.adobe.com/?promoid=12B9DRDF&mv=other). Review the video below to learn more about navigating the Adobe Admin Console.
 
-Page URL: [https://helpx.adobe.com/enterprise/using/admin-console.html](https://helpx.adobe.com/enterprise/using/admin-console.html)
+[!Video](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
 ## Overview
 
-Each tab on the Admin Console enables you to perform various tasks. Select the titles below to know more.
+Each tab on the Admin Console enables you to perform various tasks.
 
-Easily manage your licenses, users, payments, and more using the Adobe Admin Console.
+- Overview: View a summary of the licenses purchased and quick actions to set up your organization.
 
-[Sign in to the Admin Console](https://adminconsole.adobe.com/?promoid=12B9DRDF&mv=other)
+- Products: Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
 
-[https://youtu.be/hDOhQL9xPRY](https://youtu.be/hDOhQL9xPRY) about navigating the Adobe Admin Console.
+- Users: Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
 
-Overview: View a summary of the licenses purchased and quick actions to set up your organization.
+- Packages: Download pre-configured packages or create them for desktop apps that you plan to deploy.
 
-Products: Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
+- Account: Manage your organization's contracts and agreements with Adobe.
 
-Users: Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
-
-Packages: Download pre-configured packages or create them for desktop apps that you plan to deploy.
-
-Account: Manage your organization's contracts and agreements with Adobe.
-
-Storage: Manage individual user folders and shared folders, view storage quota consumed by users.
+- Storage: Manage individual user folders and shared folders, view storage quota consumed by users.
 
 If you are unable to sign in to the Admin Console, see [Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
