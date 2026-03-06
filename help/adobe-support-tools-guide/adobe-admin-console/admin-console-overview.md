@@ -6,7 +6,7 @@ solution: Admin Console
 feature: Admin Console
 ---
 
-# Adobe Admin Console
+# Adobe Admin Console Overview
 
 Applies to enterprise & teams.
 
