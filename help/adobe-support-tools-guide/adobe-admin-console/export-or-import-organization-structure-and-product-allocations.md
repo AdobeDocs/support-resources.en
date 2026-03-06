@@ -16,7 +16,7 @@ Access the **[!UICONTROL Organizations]** tab in the [Global Admin Console](http
 
 ## Export the organization structure
 
-As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can export the organization hierarchy. You can download a JSON, CSV, or XLSX representation of the entire organization hierarchy, or a subset of it. You can then use this data to analyze or make modifications.
+As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can export the organization hierarchy. You can download a JSON, CSV, or XLSX representation of the entire organization hierarchy or a subset of it. You can then use this data for analysis or modification.
 
 The export format chosen impacts the structure of the exported data:
 
