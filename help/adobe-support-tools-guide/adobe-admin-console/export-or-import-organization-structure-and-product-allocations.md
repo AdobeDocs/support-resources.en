@@ -82,7 +82,7 @@ Input records with no or blank operation field are ignored.
       Organization Id.<br><br>
       When adding a new organization, this can be empty or set to a placeholder identifier, for example,
       new_org_1. The placeholder identifier is used in cases where other imported entries need to refer
-      to this organization. After creation, an actual organization id will be assigned and replace all
+      to this organization. After creation, an actual organization id will be assigned and will replace all
       uses of the placeholder organization id.
     </td>
     <td>Can be set to a temporary value when operation=create</td>
