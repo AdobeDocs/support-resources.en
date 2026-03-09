@@ -186,7 +186,7 @@ A separate command appears in the pending change list for each added or removed 
 
     ![global admin console remove admin rights](../assets/global-admin-console-remove-admin-right.png) 
 
-1. Select **[!UICONTROL OK]** in the dialog box that appears.
+1. Select **[!UICONTROL OK]** in the confirmation dialog.
 
 1. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
