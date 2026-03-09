@@ -142,7 +142,7 @@ A global admin can create organizations, distribute resources such as products a
 
     ![global admin console add admin](../assets/global-admin-console-add-admin.png)  
 
-1. In the **[!UICONTROL Add Admin]** dialog box that appears, enter the **[!UICONTROL User Details]** — Email, First Name, Last Name, Account Type, Country Code.
+1. In the **[!UICONTROL Add Admin]** dialog box, enter the **[!UICONTROL User Details]**: Email, First Name, Last Name, Account Type, and Country Code.
 
    If you are trying to add an existing user as an admin, choose the same account type as the existing user, otherwise the add operation will fail.
 
