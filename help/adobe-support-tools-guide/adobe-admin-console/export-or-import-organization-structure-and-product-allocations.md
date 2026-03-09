@@ -200,7 +200,7 @@ Input records with no or blank operation field are ignored.
 - Country code should be valid.
 - orgId for *Update* and *Delete* operation should already be present in the organization hierarchy.
 - orgId marked as *Delete* should not be selected as a parentOrgId for organizations with *Update* or *Create* operation.
-- Child organizations at same level and of the same parent should not have same orgNames.
+- Child organizations at the same level and of the same parent should not have the same orgNames.
 - For creating an organization or updating an organization name, the organization's name must not match the name of an existing child of the same parent.
 
 ### Admins
