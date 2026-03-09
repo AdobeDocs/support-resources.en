@@ -627,7 +627,7 @@ You can export data, modify it, and then import the modified file. To import the
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/) and navigate to the **[!UICONTROL Product Allocation]** tab.
 2. Select the **[!UICONTROL More Options]** ⋮ icon and select **[!UICONTROL Import]**.
 3. Select a JSON or CSV file to upload.
-4. Select **[!UICONTROL Review Pending Changes]**. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
+4. Select **[!UICONTROL Review Pending Changes]**. After reviewing the changes, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 ## Export and import formats for product allocation
 
