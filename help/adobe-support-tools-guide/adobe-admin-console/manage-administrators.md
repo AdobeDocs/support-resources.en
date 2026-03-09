@@ -172,7 +172,7 @@ After the administrator is added, they receive an email message inviting them to
 
     ![global admin console edit admin rights](../assets/global-admin-console-edit-admin-right.png) 
 
-1. Update the admin details and select **[!UICONTROL Save]**.
+1. Update the admin details, then select **[!UICONTROL Save]**.
 
 1. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations.
 
