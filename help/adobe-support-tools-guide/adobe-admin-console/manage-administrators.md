@@ -190,5 +190,5 @@ A separate command appears in the pending change list for each added or removed 
 
 1. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
-After you delete an admin, the admin receives an email notification informing them of the loss of access to the admin console for that organization.
+After you delete an admin, the user receives an email notification informing them of the loss of access to the admin console for that organization.
 
