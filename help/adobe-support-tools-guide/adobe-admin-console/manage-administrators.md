@@ -182,7 +182,7 @@ A separate command appears in the pending change list for each added or removed 
 
 1. Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
-1. Select the **[!UICONTROL More Options]** ⋮ icon for the relevant admin, and select **[!UICONTROL Remove Admin Rights]**.
+1. Select the **[!UICONTROL More Options]** (⋮) icon for the relevant admin, then select **[!UICONTROL Remove Admin Rights]**.
 
     ![global admin console remove admin rights](../assets/global-admin-console-remove-admin-right.png) 
 
