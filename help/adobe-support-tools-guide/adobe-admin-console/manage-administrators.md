@@ -152,7 +152,7 @@ A global admin can create organizations, distribute resources such as products a
 
 1. Select one or more admin roles from the **[!UICONTROL Admin Rights]** section.
 
-   For admin types like product administrator, product profile administrator, and user group administrator, select the specific products, profiles, and groups respectively. 
+   For roles such as product administrator, product profile administrator, and user group administrator, select the specific products, profiles, and groups respectively. 
 
    ![global admin console add admin](../assets/global-admin-console-add-admin-detail.png)
 
