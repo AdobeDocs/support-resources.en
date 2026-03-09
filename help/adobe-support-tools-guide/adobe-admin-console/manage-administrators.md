@@ -17,7 +17,7 @@ In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-co
 
 The Global Admin Console introduces a role called the [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html). This role is distinct from a system administrator and allows you to do the following:
 
-- View the global landscape of their total Adobe investment across those Admin Consoles added to the Global Admin Console hierarchy.
+- View the global landscape of your total Adobe investment across all Admin Consoles added to the Global Admin Console hierarchy.
 - Monitor their Adobe license & resource assignments and usage across multiple Admin Consoles.
 - Create Admin Consoles or organizations.
 - Allocate product licenses from a root or parent Admin Console to child Admin Consoles sitting below within the hierarchy.
