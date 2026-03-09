@@ -618,7 +618,7 @@ As a [Global Administrator](https://helpx.adobe.com/enterprise/global-admin-cons
 To export the product allocation model, do the following:
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/) and navigate to the **[!UICONTROL Product Allocation]** tab.
-2. Select the **[!UICONTROL More Options]** ⋮ icon and select **[!UICONTROL Export CSV]** or **[!UICONTROL Export JSON]**. Your file is downloaded. [Learn more](#export-and-import-formats-for-product-allocation) about the export formats.
+2. Select the **[!UICONTROL More Options]** ⋮ icon, and then select **[!UICONTROL Export CSV]** or **[!UICONTROL Export JSON]**. Your file is downloaded. [Learn more](#export-and-import-formats-for-product-allocation) about the export formats.
 
 ## Import the product allocation model
 
