@@ -158,7 +158,7 @@ A global admin can create organizations, distribute resources such as products a
 
 1. Select **[!UICONTROL Save]**.
 
-1. After editing the organizations, select **[!UICONTROL Review Pending Changes]**. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
+1. After editing organizations, select **[!UICONTROL Review Pending Changes]**, then select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) the changes.
 
 When an admin role is added, the user receives an email notification informing them of the change in their role.
 
