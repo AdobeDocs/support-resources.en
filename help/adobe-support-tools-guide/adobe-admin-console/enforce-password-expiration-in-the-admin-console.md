@@ -9,8 +9,6 @@ feature: Admin Console
 # Enforce password expiration in the Admin Console
 
 > **Applies to:** Enterprise & Teams
->   
-> **Last updated:** Dec 16, 2024
 
 Organization system admins can follow the process to set a password expiration time-limit for their users.
 
