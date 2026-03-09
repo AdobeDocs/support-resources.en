@@ -643,7 +643,7 @@ If no operation is given, then no changes occur when data is imported for that r
 
 In the exported file, there is one row or record for each product resource. Some products have more than one resource.
 
-If a product has more than one resource, Update operations can apply to independent resources, a Delete operation deletes the product including all resources from an organization, and a Create operation needs a record for each of the resources in the import file so that the proper quantity of each of them can be specified. The allowOverAllocation field is product wide and it does not matter which resource an update to this field is in.
+If a product has more than one resource, Update operations can apply to independent resources, a Delete operation deletes the product including all resources from an organization, and a Create operation needs a record for each of the resources in the import file so that the proper quantity of each of them can be specified. The allowOverAllocation field is product-wide and it does not matter which resource an update to this field is in.
 
 ### Description of headers
 
