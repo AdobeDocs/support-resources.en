@@ -631,7 +631,7 @@ You can export data, modify it, and then import the modified file. To import the
 
 ## Export and import formats for product allocation
 
-The export and import formats are the same. While importing in CSV format, the fields can appear in any order but must always match their header row. While importing in JSON format, the fields can appear in any order.
+The export and import formats are the same. While importing in CSV format, the fields can appear in any order, but they must match the header row. While importing in JSON format, the fields can appear in any order.
 
 You must specify the operation while importing product allocation data. The operation can be one of the following:
 
