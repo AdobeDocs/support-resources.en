@@ -4,8 +4,8 @@ description: Learn how organization system admins can set a password expiration 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
 ---
-
 # Enforce password expiration in the Admin Console
 
 > **Applies to:** Enterprise & Teams

@@ -4,8 +4,8 @@ description: Learn how global administrators export and import organization hier
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
 ---
-
 # Export or import organization structure and product allocations
 
 **Applies to:** Enterprise
@@ -695,4 +695,3 @@ If a product has more than one resource, Update operations can apply to independ
 - Organization associated with the new product must exist.
 - The product being created must not exist (product with same licenseId).
 - The resources associated with a product being created must have a corresponding productId that matches that product.
-
