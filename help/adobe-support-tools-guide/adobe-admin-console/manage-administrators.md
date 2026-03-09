@@ -132,7 +132,7 @@ The following are the capabilities of the Global Viewer role:
 
 By managing administrators, a Global Admin can delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization. The admin added to an organization by a global administrator is given the flexibility to manage the organization without having any visibility into the administration of other orgs. So, the global admin can delegate administration of resources and users keeping the data on those resources and users isolated.
 
-A global admin can create organizations, distribute resources such as products and storage to those organizations, manage identity setup, and create and apply organization policy templates. A system admin added to an organization by a global admin can as products to users, onboard users, create and manage product profiles, and perform other administrative tasks within that organization.
+A global admin can create organizations, distribute resources such as products and storage to those organizations, manage identity setup, and create and apply organization policy templates. A system admin added to an organization by a global admin can assign products to users, onboard users, create and manage product profiles, and perform other administrative tasks within that organization.
 
 ## Add an admin
 
