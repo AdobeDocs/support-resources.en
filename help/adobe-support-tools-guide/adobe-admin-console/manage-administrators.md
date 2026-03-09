@@ -21,7 +21,7 @@ The Global Admin Console introduces a role called the [global administrator](htt
 - Monitor Adobe license and resource assignments and usage across multiple Admin Consoles.
 - Create Admin Consoles or organizations.
 - Allocate product licenses from a root or parent Admin Console to child Admin Consoles sitting below within the hierarchy.
-- Maintain their current day-to-day operations; the system admins can continue to manage their Admin Consoles. As an example, a global admin can allocate a product to a child Admin Console but not assign it to its users. The system admin will receive the seats within their Admin Console and will assign the products to their users.
+- Maintain day-to-day operations while system administrators continue managing their own Admin Consoles. For example, a global admin can allocate a product to a child Admin Console but cannot assign it to users. The system admin will receive the seats within their Admin Console and will assign the products to their users.
 - Optionally apply organizational policies to any Admin Consoles in the hierarchy.
 
 ## Fundamental administrative tasks
