@@ -318,7 +318,7 @@ Exports and imports of product profiles consist of two parts: the product profil
     <td>productProfileId</td>
     <td>
      <br><br>
-      Identifier of product profile
+      Identifier of the product profile
 Placeholder value can be used on create so that other objects can reference the new profile.
     </td>
     <td>Can be set to temporary value when operation=create</td>
