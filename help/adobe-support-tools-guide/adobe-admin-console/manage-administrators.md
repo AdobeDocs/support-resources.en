@@ -111,7 +111,7 @@ The Global Admin Console is designed to work across multiple organizations and A
 
 ## Manage administrators
 
-You can create a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage. Like in the Adobe Admin Console, the Global Admin Console allows you to add system admins, product admins, product profile admins, user group admins, deployment admins, support admins, and storage admins. These admins can perform their respective administrative tasks in the organizations they are the admin of. Apart from these roles, there are two new roles for the global administration: global admin and global viewer.
+You can create a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage. Similar to the Adobe Admin Console, the Global Admin Console allows you to add system admins, product admins, product profile admins, user group admins, deployment admins, support admins, and storage admins. These admins can perform their respective administrative tasks in the organizations they are the admin of. Apart from these roles, there are two new roles for the global administration: global admin and global viewer.
 
 Global admin is a transitive role. Making a user the global admin of an organization automatically makes that user a global admin of all children of that organization, directly or indirectly. Also, if a new organization is created in the organization hierarchy, all global admins of any parents of that organization will immediately become global admins of the newly created organization.
 
