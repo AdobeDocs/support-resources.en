@@ -18,6 +18,8 @@ role: User, Admin
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Create license assignment reports for multiple organizations and products](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
+  - [Export or import organization structure and product allocations](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
+  - [Enforce password expiration in the Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
