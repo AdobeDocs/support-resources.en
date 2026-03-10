@@ -8,7 +8,7 @@ feature: Admin Console
 
 # Accessibility in Adobe Admin Console
 
-Learn about accessibility support in the [!DNL Adobe Admin Console] that provides a central location for managing your Adobe entitlements across your entire organization.
+Learn about accessibility support in the [!DNL Adobe Admin Console] which provides a central location for managing your Adobe entitlements across your entire organization.
 
 ## Operating system accessibility support
 
