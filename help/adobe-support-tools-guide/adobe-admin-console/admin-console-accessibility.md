@@ -20,7 +20,7 @@ Most of the interactive content on the [!DNL Admin Console] can be navigated and
 
 ## Assistive technology support
 
-The [!DNL Admin Console] offers some support for assistive technologies (which includes screen readers and screen magnifiers). For more information, see [Accessibility conformance report](https://www.adobe.com/accessibility/compliance/adobe-admin-console-03-2020-acr.html).
+The [!DNL Admin Console] offers some support for assistive technologies (which includes screen readers and screen magnifiers). For more information, see [Accessibility conformance report](https://www.adobe.com/accessibility/compliance.html).
 
 ## What accessibility features are supported in Admin Console?
 
