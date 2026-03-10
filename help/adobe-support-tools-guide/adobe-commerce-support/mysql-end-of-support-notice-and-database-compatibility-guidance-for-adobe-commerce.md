@@ -8,6 +8,7 @@ solution: Commerce
 
 This article provides important information about MySQL end of support (EOS) and database compatibility for supported Adobe Commerce versions.
 Adobe strongly recommends that merchants review this announcement and take action to maintain platform stability and remain in compliance with support requirements.
+ Learn more in the [Upgrade Prerequisites for MariaDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) and [System Requirements](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements).
 
 ## MySQL 8.0 End of Support (EOS)
 
