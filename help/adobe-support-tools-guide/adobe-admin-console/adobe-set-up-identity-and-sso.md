@@ -6,6 +6,8 @@ solution: Admin Console
 feature: Admin Console
 ---
 
+# Set up identity and Single Sign-On
+
 **Applies to:** Enterprise
 
 Learn how to set up identity in the Adobe Admin Console. Compare Adobe ID, Enterprise ID, and Federated ID, and configure Single Sign-On (SSO) for secure access to Adobe apps.
