@@ -4,8 +4,8 @@ description: How Adobe customers can set up and manage administrators in the Glo
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
 ---
-
 # Manage administrators  
 
 *Applies to enterprise.*
@@ -191,4 +191,3 @@ A separate command appears in the pending change list for each added or removed 
 1. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 After you delete an admin, the user receives an email notification informing them of the loss of access to the admin console for that organization.
-
