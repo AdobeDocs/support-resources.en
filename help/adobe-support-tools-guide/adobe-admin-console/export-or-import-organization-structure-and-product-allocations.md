@@ -37,9 +37,9 @@ The export format chosen impacts the structure of the exported data:
 
 4. Select **[!UICONTROL Export]**. The export file can take several minutes to generate. Once complete, to download the report, navigate to **[!UICONTROL Global Admin Console]** > **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-> [!NOTE]
+>[!NOTE]
 >
-> JSON files are exported in a zip format. You can open them using a zip utility or the operating system's zip features.
+>JSON files are exported in a zip format. You can open them using a zip utility or the operating system's zip features.
 
 After downloading the file, you can manipulate the data and then import it back. The updates imported appear in the Global Admin Console as though you have manually edited the data.
 
@@ -393,7 +393,6 @@ If the product profile has more than one resource, there will be multiple rows p
 
 ### Resources in product profiles
 
-
 <table>
   <tr>
     <th>Field Name</th>
@@ -403,20 +402,14 @@ If the product profile has more than one resource, there will be multiple rows p
 
   <tr>
     <td>resourceName</td>
-    <td>
-     Name of the resource
-    </td>
+    <td>Name of the resource</td>
     <td>Read only</td>
   </tr>
 
   <tr>
     <td>resourceId</td>
-    <td>
-   Identifier of the resource
-    </td>
-    <td>
-   Read only
-    </td>
+    <td>Identifier of the resource</td>
+    <td>Read only</td>
   </tr>
 
   <tr>
@@ -428,33 +421,48 @@ If the product profile has more than one resource, there will be multiple rows p
   <tr>
     <td>icon</td>
     <td>URL to image for resource</td>
-    <td> Read only</td>
+    <td>Read only</td>
   </tr>
 
   <tr>
     <td>selected</td>
-    <td>For a configuration entry, whether the feature is enabled. This field is present in JSON only.</td>
-    <td rowspan ="2">Can be set or updated when operation=create or operation=update, respectively.</td>
+    <td>
+      For a configuration entry, whether the feature is enabled.
+      This field is present in JSON only.
+    </td>
+    <td rowspan="2">
+      Can be set or updated when operation=create or operation=update, respectively.
+    </td>
   </tr>
 
   <tr>
     <td>quota</td>
-    <td>Quantity of primary resource that can be given out to users via this product profile. This field is present in JSON only.</td>
-    <td></td>
+    <td>
+      Quantity of primary resource that can be given out to users via this product profile.
+      This field is present in JSON only.
+    </td>
   </tr>
+
 
   <tr>
     <td>resourceType</td>
-    <td> If present, value is SERVICE. It indicates this resource represents a service that can be enabled or disabled based on the value of the selected field. This field is present in JSON only.</td>
+    <td>
+      If present, value is SERVICE. It indicates this resource represents a service that can be
+      enabled or disabled based on the value of the selected field.
+      This field is present in JSON only.
+    </td>
     <td>Read only</td>
   </tr>
 
   <tr>
     <td>operation</td>
-    <td>One of blank, Create, Update or Delete. Action to take when data is imported.</td>  
+    <td>
+      One of blank, Create, Update or Delete. Action to take when data is imported.
+    </td>
     <td></td>
   </tr>
 </table>
+
 
 **Import requirements:**
 
@@ -475,22 +483,23 @@ If the product profile has more than one resource, there will be multiple rows p
   <tr>
     <td>userGroupId</td>
     <td>
-Identifier of user group
-Placeholder value can be used on create so that other objects can reference the new user group.
+      Identifier of user group. Placeholder value can be used on create so that
+      other objects can reference the new user group.
     </td>
     <td>Can be set to temporary value when operation=create</td>
   </tr>
 
   <tr>
     <td>userGroupName</td>
-    <td> Name of user group</td>
-    <td rowspan="2"> Can be set or updated when operation=create or operation=update, respectively</td>
+    <td>Name of user group</td>
+    <td rowspan="2">
+      Can be set or updated when operation=create or operation=update, respectively.
+    </td>
   </tr>
 
   <tr>
     <td>userGroupDescription</td>
     <td>Text description of user group</td>
-    <td></td>
   </tr>
 
   <tr>
@@ -501,26 +510,30 @@ Placeholder value can be used on create so that other objects can reference the 
 
   <tr>
     <td>profiles</td>
-    <td>Array of product profile ids that the user group is associated with.
-XLSX has one row per value with same values for other fields.</td>
-    <td>Can be set or updated when operation=create or operation=update, respectively</td>
+    <td>
+      Array of product profile ids that the user group is associated with.
+      XLSX has one row per value with same values for other fields.
+    </td>
+    <td>
+      Can be set or updated when operation=create or operation=update, respectively.
+    </td>
   </tr>
 
   <tr>
     <td>orgId</td>
-    <td>Organization that contains the user group.</td>
-    <td>Used as a reference to find containing or associated object.</td>
+    <td>Organization that contains the user group</td>
+    <td>Used as a reference to find containing or associated object</td>
   </tr>
 
   <tr>
     <td>operation</td>
-    <td>One of blank, Create, Update or Delete. Action to take when data is imported.</td>
+    <td>
+      One of blank, Create, Update or Delete. Action to take when data is imported.
+    </td>
     <td></td>
   </tr>
 </table>
-                                                                           
-
-
+                                                             
 **Import requirements:**
 
 - orgId must refer to an existing organization or an organization being created in the same import.
