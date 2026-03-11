@@ -21,6 +21,7 @@ role: User, Admin
   - [Manage administrators](adobe-admin-console/manage-administrators.md)
   - [Export or import organization structure and product allocations](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
   - [Enforce password expiration in the Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+  - [Adobe Admin Console users](adobe-admin-console/adobe-admin-console-users.md)
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
