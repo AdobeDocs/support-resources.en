@@ -72,7 +72,7 @@ Allocation from a parent organization to a child organization is limited in thes
 
 As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins) you can allow overallocation of resources.
 
-An allocation policy associated with the product and organization indicates whether overallocation is allowed.
+An allocation [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#update-policies) associated with the product and organization indicates whether overallocation is allowed.
 
 Overallocation allows granting more product resources to a child organization than are available in the parent organization. It is useful when allocations are approximate, and the administrator does not want to be burdened with keeping the resource allocations adding up.
 If overallocation is disabled for a product resource in an organization, then the sum of child grants cannot exceed the parent grant. Requests to overallocate a resource marked with overallocation disabled are not executed.
