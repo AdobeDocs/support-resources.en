@@ -4,6 +4,7 @@ description: Learn how global administrators can manage the organization’s hie
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
+exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
 ---
 # Manage organization hierarchy
 
