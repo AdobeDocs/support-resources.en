@@ -4,8 +4,8 @@ description: Learn how to choose an organization for editing within the Global A
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
+exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
 ---
-
 # Select an organization in the Global Admin Console
 
 Learn how to choose an organization for editing within the Global Admin Console.

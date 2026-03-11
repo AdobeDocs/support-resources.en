@@ -4,6 +4,7 @@ description: Generate, view, and download license assignment reports across mult
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
+exl-id: e3380a89-8529-473f-bd17-efb05466eab9
 ---
 # Create license assignment reports for multiple organizations and products
 
