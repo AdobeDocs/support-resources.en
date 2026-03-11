@@ -79,8 +79,3 @@ The report you download contains the following information for each event:
 | Total license qty                | Total number of licenses at the parent org level         |
 | Child licenses                   | License count that's allocated to the child org          |
 | Monthly/yearly peak assigned qty | Aggregate value of license provisioning (monthly/yearly) |
-
-## Related reading
-
-- [Legal Notices](https://helpx.adobe.com/legal/legal-notices.html)
-- [Online Privacy Policy](https://www.adobe.com/privacy.html)
