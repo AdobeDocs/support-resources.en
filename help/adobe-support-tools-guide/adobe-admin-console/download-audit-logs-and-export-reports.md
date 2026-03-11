@@ -1,6 +1,6 @@
  ---
 title: Download audit logs and export reports
-description: Learn how organization system admins can set a password expiration time-limit for their users in the Adobe Admin Console.
+description: Learn how to download logs and export reports in the Adobe Admin Console.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
