@@ -5,8 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 ---
-
-Applies to enterprise.
+# Applies to enterprise.
 
 Learn how global administrators can manage the organization’s hierarchy in the Global Admin Console.
 
