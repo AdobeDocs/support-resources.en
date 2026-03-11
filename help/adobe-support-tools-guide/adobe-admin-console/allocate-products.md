@@ -36,7 +36,7 @@ The **[!UICONTROL Product Allocation]** tab in the [!DNL Global Admin Console] s
 
 To allocate products to an organization, follow these steps:
 
-1. Sign in to the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com)] and go to **[!UICONTROL Product Allocation]**.
+1. Sign in to the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com) and go to **[!UICONTROL Product Allocation]**.
 1. Select a product from the drop-down list to see how it is allocated to different organizations.  
    If an organization does not currently have the product, the **Add +** icon appears.
 
