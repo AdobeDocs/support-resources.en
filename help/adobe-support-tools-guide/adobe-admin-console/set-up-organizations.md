@@ -68,7 +68,9 @@ As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-cons
    ![Rename organization](/help/adobe-support-tools-guide/assets/rename-organization.png)
 1. Update your organization name and select **[!UICONTROL Save]**.
 
-**Tip**  
+>[!TIP]
+>
+>Use a clear, recognizable organization name up to 255 characters to help users select the correct profile. Avoid using special characters, and consider including region, department, or entitlement. Also, avoid uncommon acronyms and vague or similar names across your organization hierarchy.
 Use a clear, recognizable organization name up to 255 characters to help users select the correct profile. Avoid using special characters, and consider including region, department, or entitlement. Also, avoid uncommon acronyms and vague or similar names across your organization hierarchy.
 
 Changes are logged in the audit log, all users are notified by email, and the name cannot be updated again for 24 hours. [Learn how to view and download audit logs](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
