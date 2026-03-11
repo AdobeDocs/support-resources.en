@@ -105,7 +105,9 @@ You can also add team organizations to the org hierarchy. Team orgs don't partic
 
 Learn more about the [limitations on product allocation](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limitations).
 
-**Caution**  
+>[!WARNING]
+>
+> You can only add child organizations to root organizations that are based on the same storage model. So, child organizations based on the user storage model can only be added to root organizations based on the user storage model. And, child organizations based on the enterprise storage model can only be added to root organizations based on the enterprise storage model.
 You can only add child organizations to root organizations that are based on the same storage model. So, child organizations based on the user storage model can only be added to root organizations based on the user storage model. And, child organizations based on the enterprise storage model can only be added to root organizations based on the enterprise storage model.
 
 The **[!UICONTROL Organization Mapper]** tab shows the following:
