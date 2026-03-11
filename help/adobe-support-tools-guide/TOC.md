@@ -7,6 +7,9 @@ type: Documentation
 index: yes
 role: User, Admin
 ---
+Applies to enterprise.
+
+Learn how global administrators can manage the organization’s hierarchy in the Global Admin Console.
 
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
