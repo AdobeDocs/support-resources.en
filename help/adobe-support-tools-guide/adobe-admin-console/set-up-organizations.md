@@ -5,11 +5,11 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 ---
-# Applies to enterprise.
+# Manage organization hierarchy
+
+Applies to enterprise.
 
 Learn how global administrators can manage the organization’s hierarchy in the Global Admin Console.
-
-# Manage organization hierarchy
 
 After you gain [access to the [!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access), you can create new organizations, add existing organizations to the hierarchy, delete organizations, and change a parent organization.
 [Sign in to the Global Admin Console](https://global-admin-console.adobe.com/)
