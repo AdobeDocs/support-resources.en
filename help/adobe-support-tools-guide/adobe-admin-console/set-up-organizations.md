@@ -46,7 +46,9 @@ An organization can be deleted only if the following criteria are met:
 - There are no instantiated products in the organization.
 - There are no Experience Cloud products that can include instantiations in the organization.
 
-**Caution**:Deleting an organization impacts your users. Ensure that there is no access or information that will be lost when an organization is deleted.
+>[!WARNING]
+>
+>Deleting an organization impacts your users. Ensure that there is no access or information that will be lost when an organization is deleted.
 
 1. Sign in to the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/). Go to the **[!UICONTROL Organizations]** tab and select the organization you want to delete.
 1. Select the **[!UICONTROL Delete]** icon.
