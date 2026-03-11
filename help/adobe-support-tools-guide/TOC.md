@@ -7,7 +7,6 @@ type: Documentation
 index: yes
 role: User, Admin
 ---
-
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
 - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
@@ -18,6 +17,7 @@ role: User, Admin
 - [Admin Roles](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+  - [Manage organization hierarchy](adobe-admin-console/set-up-organizations.md)
   - [Create license assignment reports for multiple organizations and products](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
   - [Select an organization in the Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
   - [Manage administrators](adobe-admin-console/manage-administrators.md)
