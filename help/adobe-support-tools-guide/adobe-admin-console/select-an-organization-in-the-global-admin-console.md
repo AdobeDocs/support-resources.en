@@ -73,11 +73,6 @@ Any admins added to or removed from an org will receive an email notification. C
 
 - The organization pathname is unique, but the simple name is only unique among its siblings. There may be organizations with the same simple name elsewhere in the org hierarchy.
 
-- You can only view the list of domains linked to the selected organization using the Global Admin console. If you are a system administrator of the selected organization, select the **Open in Admin Console** to [manage domains](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). To understand the information displayed in the Domains tab, see [export and import schemas](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- You can only view the list of domains linked to the selected organization using the Global Admin console. If you are a system administrator of the selected organization, select the **[!UICONTROL Open in Admin Console]** to [manage domains](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). To understand the information displayed in the Domains tab, see [export and import schemas](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
 
 - IE 11 isn't supported for global administration access. Use a different browser or a newer version of IE browser.
-
-## Related reading
-
-- [Legal Notices](https://helpx.adobe.com/legal/legal-notices.html)
-- [Online Privacy Policy](https://www.adobe.com/privacy.html)
