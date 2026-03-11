@@ -87,7 +87,9 @@ Changing the parent of an organization has the following impact:
 - Reparenting also affects the available products in the moved organizations. When possible, [product allocations](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) are updated so they come via the new parent location.
 - If product allocations cannot be updated to come from the new parent, the products are removed along with the product profiles of those products. Users can lose access as a result of this operation. For the product to be available in the new location, the closest common ancestor of the old and new locations must have the product available.
 
-**Caution**: If products are removed as a result of reparenting, users lose access to those products.
+>[!WARNING]
+>
+>If products are removed as a result of reparenting, users lose access to those products.
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). In the **[!UICONTROL Organizations]** tab, select **[!UICONTROL Change hierarchy]** to enable reparenting the organizations.
 2. Select **[!UICONTROL  OK]** in the pop-up screen that appears.
