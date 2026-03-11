@@ -12,7 +12,7 @@ Learn how to choose an organization for editing within the Global Admin Console.
 
 >[!NOTE]
 >
->After you have access to the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access), you can start by selecting an organization to view and manage the organization's name, user groups, product profiles, administrators, and organization policies. To sign in to the Alobal Admin Console, [click here](https://global-admin-console.adobe.com/).
+>After you have access to the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access), you can start by selecting an organization to view and manage the organization's name, user groups, product profiles, administrators, and organization policies. To sign in to the Global Admin Console, [click here](https://global-admin-console.adobe.com/).
 
 The Global Admin Console acts as an organization's central management hub for Adobe resources. Global administrators can:
 
@@ -20,7 +20,9 @@ The Global Admin Console acts as an organization's central management hub for Ad
 - Assign System administrators to manage them
 - Distribute resources to child organizations for management and assignment to users in those organizations
 
-**Note:** Users and administrators in an organization don't have visibility to users, storage, or other resources outside their organization.
+>[!NOTE]
+>
+> Users and administrators in an organization don't have visibility to users, storage, or other resources outside their organization.
 
 ## Select your organization
 
