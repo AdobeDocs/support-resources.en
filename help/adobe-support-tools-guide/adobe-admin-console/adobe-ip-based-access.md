@@ -30,7 +30,7 @@ You can add trusted public IPs to the **Allowed IP addresses** list to stop user
 
 ### Important considerations
 
->[!NOTE]
+>[!Important considerations]
 >
 >- Admins must start by adding their own public IP address and only then add other IP ranges. You might face an error otherwise.
 >- IP-based access doesn't apply to private IP addresses.
