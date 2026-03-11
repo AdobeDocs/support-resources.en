@@ -18,7 +18,7 @@ As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-cons
 
 When a new child organization is created, the following are automatically inherited from the immediate parent:
 
-- Organization's policy settings (including locks if present).
+- Organization's [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) settings (including locks if present).
 - The list of system administrators (controlled by the **[!UICONTROL Inherit System Admins on creation]** [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)). 
 The following can prevent system administrators from being inherited:
   - Lack of [domain trust](https://helpx.adobe.com/enterprise/using/directory-trust.html).
