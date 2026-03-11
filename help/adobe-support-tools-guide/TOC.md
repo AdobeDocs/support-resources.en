@@ -10,6 +10,7 @@ role: User, Admin
 
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
+- [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Adobe Support and Tools Guide overview](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe customer support experience](adobe-customer-support-experience.md)
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
@@ -18,6 +19,9 @@ role: User, Admin
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Select an organization in the Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
+  - [Manage administrators](adobe-admin-console/manage-administrators.md)
+  - [Export or import organization structure and product allocations](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
+  - [Enforce password expiration in the Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
