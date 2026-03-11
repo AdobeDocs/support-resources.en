@@ -1,6 +1,6 @@
 ---
 title: Download audit logs and export reports
-description: Learn how to download logs and export reports in the Adobe Admin Console.
+description: Learn how global administrators view, filter, and export audit logs and reports in the Adobe Global Admin Console.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
