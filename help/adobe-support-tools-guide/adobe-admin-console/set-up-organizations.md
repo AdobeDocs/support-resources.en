@@ -115,7 +115,7 @@ When an organization is added to global administration, products in the organiza
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), and navigate to **[!UICONTROL Organization Mapper]**.
 2. Select a parent organization from the drop-down list.  
-   These are the organizations for which you are directly added as a global administrator. In the drop-down list, if you don't see an organization you want to use as the parent, select one higher up in the hierarchy. Once the Organization mapper operation is complete, you can use Change hierarchy to move the new organization down in the tree to have the parent you want to use.
+   These are the organizations for which you are directly added as a global administrator. In the drop-down list, if you don't see an organization you want to use as the parent, select one higher up in the hierarchy. Once the Organization mapper operation is complete, you can use [Change hierarchy](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#change-the-parent-of-an-organization) to move the new organization down in the tree to have the parent you want to use.
 3. Select the organizations to be added as children of the organization selected in the previous step.
 4. Select **[!UICONTROL Review Pending Changes]**. Then, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 5. After executing the changes, you can repeat the above steps to add additional child organizations to your organization hierarchy.
