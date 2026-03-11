@@ -13,7 +13,9 @@ In the [!DNL Global Admin Console], go to the **[!UICONTROL Product Allocation]*
 
 Sign in to the [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html)
 
->**Note:** Product allocation is available only for **ETLA** (Enterprise Term License Agreement) contracts.
+>[!NOTE]
+>
+>Product allocation is available only for Enterprise Term License Agreement (ETLA) contracts.
 
 Part of distributing and administering Adobe products across organizations is partitioning purchased resources into resource allocations across the organizations to be managed. You can distribute administration of product resources to other organizations by giving all or some of the resource. Not all resources of all products can be allocated; some products are not distributable to other organizations. Such products appear in the **[!UICONTROL Product Allocation]** tab but have no controls to add them to other organizations.
 
