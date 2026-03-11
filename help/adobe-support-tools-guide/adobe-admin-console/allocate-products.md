@@ -24,7 +24,7 @@ Part of distributing and administering Adobe products across organizations is pa
 We are in the process of migrating customers to the [pooled storage model](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html). Once your organization is migrated, you will see the following changes:
 
 - Global administrators gain access to storage quota and usage across the hierarchy and can allocate storage to organizations using the **[!UICONTROL Product Allocation]** tab in the [[!DNL Global Admin Console]](https://adminconsole.adobe.com/).
-- System administrators and storage administrators have full control and visibility of storage across the organization. They can track and manage storage using the **Storage** tab in the [Adobe Admin Console](https://adminconsole.adobe.com/).
+- System administrators and storage administrators have full control and visibility of storage across the organization. They can track and manage storage using the **[!UICONTROL Storage]** tab in the [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 With the updates to Adobe Creative Cloud storage, storage quotas are flexible for end users, up to the amount of storage purchased by the organization. [Learn more](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html).
 
