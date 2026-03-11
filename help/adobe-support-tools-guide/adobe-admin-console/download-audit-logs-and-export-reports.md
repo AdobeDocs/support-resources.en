@@ -1,4 +1,4 @@
- ---
+---
 title: Download audit logs and export reports
 description: Learn how to download logs and export reports in the Adobe Admin Console.
 feature-set: Experience Cloud Services
@@ -11,8 +11,7 @@ feature: Admin Console
 - Learn how global administrators can view, search, and export audit logs.
 - Download organization data exported by any global administrator.
 
-Sign in to the Global Admin Console:  
-https://global-admin-console.adobe.com/
+Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/).
 
 Under the **[!UICONTROL Insights]** tab, select **[!UICONTROL Audit Logs]** to track changes made across organizations.
 
@@ -21,7 +20,7 @@ Under the **[!UICONTROL Insights]** tab, select **[!UICONTROL Audit Logs]** to t
 - As a global administrator, you have full visibility into changes made in the Global Admin Console.
 - You can search audit logs across all organizations for actions taken in the last 90 days, including when they occurred and who performed them.
 - Audit logs help ensure continued compliance by safeguarding against inappropriate system access and auditing suspicious behavior within your organization.
-- The logs available in the Global Admin Console include only events that a global administrator has access to. They do not include user assignments or user events. / about the different capabilities each console offers.
+- The logs available in the Global Admin Console include only events that a global administrator has access to. They do not include user assignments or user events. [Learn more about the different capabilities each console offers](https://helpx.adobe.com/enterprise/using/admin-console.html).
 - The logs cover events for all organizations in the hierarchy, allowing you to search audit logs across all organizations at once.
 
 >[!NOTE]
@@ -52,7 +51,7 @@ The audit logs display the following information for filtered events:
 | Organization | Name of the organization affected by the event |
 
 >[!NOTE]
-> 
+>
 > Actions performed by system administrators in child organizations of the selected organization are also included in the audit logs.
 
 ## Filter audit logs
@@ -72,7 +71,7 @@ You can combine filters to narrow results, such as viewing events from the last 
 - Results are downloaded in CSV format.
 - Exported audit log reports are retained for 90 days after generation.
 
-For details about the fields included in the export, see Log Schema.
+For details about the fields included in the export, see [Log Schema](https://helpx.adobe.com/enterprise/global-admin-console/log-schema.html).
 
 ## Understand your audit log report
 
