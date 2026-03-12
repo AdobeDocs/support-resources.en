@@ -10,13 +10,9 @@ feature: Admin Console
 
 Applies to enterprise.
 
-Global administrators can use the Global Admin Console to access and manage audit information across the organization.
+Learn how global administrators view, filter, and export audit logs and reports in the Adobe Global Admin Console.
 
-- View, search, and export audit logs to track changes made by administrators.
-- Download organization data that has been exported by any global administrator.
-- Learn about the benefits of the Global Admin Console and how to gain [access](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html).
-
-To get started, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). Then, open the **[!UICONTROL Insights]** tab, select **[!UICONTROL Audit Logs]** to review activity across your organization.
+To get started, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). Then go to **[!UICONTROL Insights]** and select **[!UICONTROL Audit Logs]** to track all changes made across organizations.
 
 ## View and download audit logs
 
@@ -29,24 +25,22 @@ As a global administrator, you have full visibility into changes made in the Glo
 >
 > As a system administrator in an [Adobe Admin Console](https://adminconsole.adobe.com/904D53815F608E410A495FD4@AdobeOrg/overview) organization, you can use the [Audit Log](https://helpx.adobe.com/enterprise/using/audit-logs.html) to review user assignments and user events.
 
-## Access audit logs
-
 To view or download audit logs for your organization:
 
-1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights).
+1. As a global administrator, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights).
 2. Select **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**.
 The audit logs display the following information for filtered events:
 
       | Field | Description |
-      |------|-------------|
-      | Date | Date and time of the event, shown in the local time zone |
-      | Event Name | Description of the action performed |
-      | Event Detail | Additional event details, if available |
-      | Object Name | Product, product profile, or user group involved in the event |
-      | Affected User | Email address of the affected user, if applicable |
-      | Admin | Email address of the admin who performed the action. System is displayed if the action was performed by an Adobe backend system |
+      |------ |-------------|
+      | Date | Date and time of the event, shown in the local time zone. |
+      | Event Name | Description of the action performed. |
+      | Event Detail | Additional event details, if available. |
+      | Object Name | The name of the product, product profile, or user group that is involved in the event, as applicable. |
+      | Affected User | Email address of the affected user, if applicable. |
+      | Admin | Email address of the admin who performed the action. System is displayed if the action was performed by an Adobe backend system. |
       | IP Address | IP address of the machine where the action was taken. Usually reflects the physical location, but could be a proxy server or VPN address. |
-      | Organization | Name of the organization affected by the event |
+      | Organization | Name of the organization affected by the event. |
 
   >[!NOTE]
   >
