@@ -25,6 +25,7 @@ role: User, Admin
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
+  - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [How to obtain and apply security patches](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
   - [How to request temporary Adobe Commerce on cloud infrastructure upsize](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
@@ -38,4 +39,3 @@ role: User, Admin
   - [How to include a team member in Support notifications](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
   - [Partner Adobe Commerce on cloud infrastructure sandbox requests](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
   - [Unable to add user to Adobe Commerce cloud project](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
-  - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
