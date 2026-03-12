@@ -5,17 +5,27 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 ---
-# Introduction
+# Adopt global administration
+Applies to enterprise.
 
-The [!DNL Global Admin Console] supports organizations that manage multiple Adobe Admin Consoles or require a single Admin Console to be divided into multiple, independently administered consoles. It is intended for organizations with complex structures.
+Learn about the benefits of using the Global Admin Console and find out how to get access.
+
+Create a support case in the Adobe Admin Console to request access to a Global Admin Console.
+Sign in to the [[!DNL Global Admin Console]](https://adminconsole.adobe.com/support)
+
+## Introduction
+
+The [[!DNL Global Admin Console]](https://adminconsole.adobe.com/support) supports organizations that manage multiple Adobe Admin Consoles or require a single Admin Console to be divided into multiple, independently administered consoles. It is intended for organizations with complex structures.
 
 It organizes existing Admin Consoles into a hierarchical structure with a single root organization and one or more child organizations. It does not replace or change the functionality of existing Admin Consoles; each console continues to operate independently. Adobe applies specific eligibility criteria when determining which Admin Console can serve as the root organization.
 
-For more information about supported functionality, see the [!DNL Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) white paper.
+For more information about supported functionality, see the [[!DNL Global Admin Console] white paper](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625).
 
 [!VIDEO](https://youtu.be/FLBWR78wpok)
 
-> **Note:** The content and voice-over for this video is currently available in English only.
+>[!NOTE]
+>
+>The content and voice-over for this video is currently available in English only.
 
 ## Key advantages
 
@@ -46,11 +56,13 @@ Adobe recommends global administration if your organization meets one or more of
 
 ## Request access to the [!DNL Global Admin Console]
 
-To request access to the [!DNL Global Admin Console], follow the steps below after consulting your Adobe representative.
+To request access to the [[!DNL Global Admin Console]](https://adminconsole.adobe.com/support/), follow the steps below after consulting your Adobe representative.
 
 1. In the Admin Console, navigate to **[!UICONTROL Support]** > **[!UICONTROL Support Summary]**.
-
-   **Note:** Submit the support case through the main organization, which serves as the root organization in the Global Admin hierarchy.
+   
+  >[!NOTE]
+  >
+  > Submit the support case through the main organization, which serves as the root organization in the Global Admin hierarchy.
 
 1. Select **[!UICONTROL Create Case]** to open the **[!UICONTROL Create Case]** window.
 
@@ -70,12 +82,12 @@ To request access to the [!DNL Global Admin Console], follow the steps below aft
    ![Issue description](/help/adobe-support-tools-guide/assets/describe.png)
 
 1. Select **[!UICONTROL Next]**, and provide the following information:
-
-| Details to fill in | Description |
-| ------------------ | ----------- |
-| **List people you want to notify** | Add up to ten email addresses to receive case updates from Adobe Customer Care. |
-| **Time zone** | Adobe Customer Care uses your time zone if a call is required. This field is populated automatically based on your system settings. |
-| **Working hours** | Adobe Customer Care considers your working hours and their normal business hours if a call is required. Use the time slider to specify the best time to reach you. |
-| **Phone number** | Provide a contact number so an Adobe Customer Care agent can contact you for troubleshooting or clarification. |
+    
+      | Details to fill in | Description |
+      | ------------------ | ----------- |
+      | **List people you want to notify** | Add up to ten email addresses to receive case updates from Adobe Customer Care. |
+      | **Time zone** | Adobe Customer Care uses your time zone if a call is required. This field is populated automatically based on your system settings. |
+      | **Working hours** | Adobe Customer Care considers your working hours and their normal business hours if a call is required. Use the time slider to specify the best time to reach you. |
+      | **Phone number** | Provide a contact number so an Adobe Customer Care agent can contact you for troubleshooting or clarification. |
 
 1. Select **[!UICONTROL Submit]**.
