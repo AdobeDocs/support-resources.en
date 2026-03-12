@@ -105,16 +105,16 @@ To download an export report:
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights) and navigate to **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-The reports generated in the last 90 days are displayed. Once 90 days are complete, you can generate the report again. Learn how you can generate reports for [Organization structure](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   The reports generated in the last 90 days are displayed. Once 90 days are complete, you can generate the report again. Learn how you can generate reports for [Organization structure](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
-  | Field | Description |
- |------|------------|
-  | Report | Date and time the report was generated (local time zone) |
-  | Format | File format (CSV, JSON, XLSX) |
-  | Size | File size |
-  | Created By | Email address of the admin who generated the report |
-  | Action | Link to download the report |
+   | Field | Description |
+   |------|------------|
+   | Report | Date and time the report was generated (local time zone) |
+   | Format | File format (CSV, JSON, XLSX) |
+   | Size | File size |
+   | Created By | Email address of the admin who generated the report |
+   | Action | Link to download the report |
 
 1. To download a report, select **[!UICCONTROL Download]**.
 
