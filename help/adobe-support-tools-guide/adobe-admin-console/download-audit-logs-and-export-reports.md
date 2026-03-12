@@ -118,7 +118,7 @@ To download an export report:
 
 1. To download a report, select **[!UICCONTROL Download]**.
 
-If the report you just generated isn't appearing on the list, select **[!UICONTROL Refresh]**.
+   If the report you just generated isn't appearing on the list, select **[!UICONTROL Refresh]**.
 
 ![export-reports](../assets/export-reports.png)
 
