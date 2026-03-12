@@ -63,7 +63,11 @@ You can filter audit logs using the following options:
 - Define a date range.
 - Filter by event name.
 
+![audit-logs](../assets/audit-logs.png)
+
 You can combine filters to narrow results, such as viewing events from the last seven days for a specific organization.
+
+![select-organization](../assets/select-organization.png)
 
 ## Export audit logs
 
@@ -119,3 +123,5 @@ If a newly generated report does not appear, select **[!UICONTROL Refresh]**.
 | Size | File size |
 | Created By | Email address of the admin who generated the report |
 | Action | Link to download the report |
+
+![export-reports](../assets/export-reports.png)
