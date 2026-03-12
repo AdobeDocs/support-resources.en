@@ -8,26 +8,26 @@ feature: Admin Console
 
 # Download audit logs and export reports
 
-Applies to enterprise
+Applies to enterprise.
 
-- Learn how global administrators can view, search, and export audit logs.
-- Download organization data exported by any global administrator.
+Global administrators can use the Global Admin Console to access and manage audit information across the organization.
 
-Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/).
+- View, search, and export audit logs to track changes made by administrators.
+- Download organization data that has been exported by any global administrator.
+- Learn about the benefits of the Global Admin Console and how to gain [access](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html).
 
-Under the **[!UICONTROL Insights]** tab, select **[!UICONTROL Audit Logs]** to track changes made across organizations.
+To get started, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). Then, open the **[!UICONTROL Insights]** tab, select **[!UICONTROL Audit Logs]** to review activity across your organization.
 
 ## View and download audit logs
 
-- As a global administrator, you have full visibility into changes made in the Global Admin Console.
-- You can search audit logs across all organizations for actions taken in the last 90 days, including when they occurred and who performed them.
+As a global administrator, you have full visibility into changes made in the Global Admin Console. You can search audit logs across all organizations for actions taken in the last 90 days, including when they occurred and who performed them.
 - Audit logs help ensure continued compliance by safeguarding against inappropriate system access and auditing suspicious behavior within your organization.
-- The logs available in the Global Admin Console include only events that a global administrator has access to. They do not include user assignments or user events. [Learn more about the different capabilities each console offers](https://helpx.adobe.com/enterprise/using/admin-console.html).
+- The logs available in the Global Admin Console include only events that a global administrator has access to. They do not include user assignments or user events. [Learn more](https://helpx.adobe.com/enterprise/using/admin-console.html) about the different capabilities each console offers.
 - The logs cover events for all organizations in the hierarchy, allowing you to search audit logs across all organizations at once.
 
 >[!NOTE]
 >
-> As a system administrator in an Adobe Admin Console organization, you can use the Audit Log to review user assignments and user events.
+> As a system administrator in an [Adobe Admin Console](https://adminconsole.adobe.com/904D53815F608E410A495FD4@AdobeOrg/overview) organization, you can use the [Audit Log](https://helpx.adobe.com/enterprise/using/audit-logs.html) to review user assignments and user events.
 
 ## Access audit logs
 
