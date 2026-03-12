@@ -109,7 +109,7 @@ Changes in the projected user group's name or associated users in the source use
 
 
 
-## Edit User Groups
+## Edit user groups
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), select an organization, and navigate to the **[!UICONTROL User Groups]** tab.
 
