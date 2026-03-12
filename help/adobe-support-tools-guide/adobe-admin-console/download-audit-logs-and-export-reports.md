@@ -12,7 +12,7 @@ Applies to enterprise.
 
 Learn how global administrators view, filter, and export audit logs and reports in the Adobe Global Admin Console.
 
-To get started, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). Then go to **[!UICONTROL Insights]** and select **[!UICONTROL Audit Logs]** to track all changes made across organizations.
+To get started, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). Then go to the **[!UICONTROL Insights]** tab and select **[!UICONTROL Audit Logs]** to track all changes made across organizations.
 
 ## View and download audit logs
 
@@ -28,7 +28,7 @@ As a global administrator, you have full visibility into changes made in the Glo
 To view or download audit logs for your organization:
 
 1. As a global administrator, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights).
-2. Select **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**.
+1. Select **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**.
 The audit logs display the following information for filtered events:
 
       | Field | Description |
@@ -42,34 +42,38 @@ The audit logs display the following information for filtered events:
       | IP Address | IP address of the machine where the action was taken. Usually reflects the physical location, but could be a proxy server or VPN address. |
       | Organization | Name of the organization affected by the event. |
 
-  >[!NOTE]
-  >
-  > Actions performed by system administrators in child organizations of the selected organization are also included in the audit logs. Learn more about how system administrators can [track changes](https://helpx.adobe.com/enterprise/using/audit-logs.html) made in the Admin Console.
 
-3. You can filter audit logs using the following options:
-
-- Search by affected user or admin.
-- Select one or more organizations.
-- Define a date range.
-- Filter by event name.
-- You can combine filters to narrow results, such as viewing events from the last seven days for a specific organization.
-
-  ![audit-logs](../assets/audit-logs.png)
+   >[!NOTE]
+   >
+   > Actions performed by system administrators in child organizations of the selected organization are also included in the audit logs. Learn more about how system administrators can [track changes](https://helpx.adobe.com/enterprise/using/audit-logs.html) made in the Admin Console.
 
 
+1. You can filter audit logs using the following options:
 
-  ![select-organization](../assets/select-organization.png)
+      - Search by affected user or admin.
+      - Select one or more organizations.
+      - Define a date range.
+      - Filter by event name.
+      - You can combine filters to narrow results, such as viewing events from the last seven days for a specific organization.
 
-4. To export audit logs, select **[!UICONTROL Export CSV]** to export filtered results. The results are downloaded in CSV format.
+     ![audit-logs](../assets/audit-logs.png)
 
-For details about the fields included in the export, see [Log Schema](https://helpx.adobe.com/enterprise/global-admin-console/log-schema.html).
+     *Filter the audit logs based on the event name, affected organization, or date range.*
 
-  >[!NOTE]
-  >
-  >Exported audit log reports are retained for 90 days after generation.
+     ![select-organization](../assets/select-organization.png)
+  
+     *Select organizations to filter the audit logs.*
+
+1. To export audit logs, select **[!UICONTROL Export CSV]** to export filtered results. The results are downloaded in CSV format.
+
+For details about the fields included in the export, see [Log Schema](#log-schema).
+
+>[!NOTE]
+>
+>Exported audit log reports are retained for 90 days after generation.
 
 
-## Understand your audit log report
+## Understand your audit log report {#log-schema}
 
 The exported audit log report includes the following fields for each organization:
 
@@ -79,7 +83,7 @@ The exported audit log report includes the following fields for each organizatio
 | eventTime | Date and time of the event (local time zone) |
 | eventType | Name of the event |
 | eventSubType | Additional event details, if available |
-| actorEmail | Email of the admin who performed the event, or System |
+| actorEmail | Email address of the admin who performed the event. *System* is displayed if the event was performed by an Adobe back-end system. |
 | targetUserEmail | Email of the affected user, if applicable |
 | targetGroupName | Affected user group, if applicable |
 | targetProductName | Affected product, if applicable |
@@ -90,30 +94,32 @@ The exported audit log report includes the following fields for each organizatio
 ## Download export reports
 
 When any global administrator exports organization data from the [Global Admin Console](https://global-admin-console.adobe.com/insights), the report is processed and made available under the **[!UICONTROL Insights]** tab in **[!UICONTROL Export Reports]**.
-- All export reports generated by any global administrator are stored in one centralized location.
-- Reports are retained for 90 days and can be downloaded at any time during that period.
-- This capability is especially useful when managing large organizational hierarchies, reusing reports generated by other admins, or comparing reports without storing them locally.
 
-## Download an export report
+All reports generated by any global admin are available in one place. The export reports capability is helpful in the following scenarios:
+
+- If you have a huge hierarchy with a large number of organizations, you no longer have to wait for the export file to be processed. You can use the reports generated by your fellow admins.
+- You no longer need to keep or save these reports to compare later. The reports are retained for 90 days, you can download these anytime and compare the reports.
+
 
 To download an export report:
 
-1. Sign in to the Global Admin Console.
-2. Select the **[!UICONTROL Insights]** tab.
-3. Select **[!UICONTROL Export Reports]**.
-4. Locate a report generated within the last 90 days.
-5. Select **[!UICONTROL Download]**.
+1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights) and navigate to **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-If a newly generated report does not appear, select **[!UICONTROL Refresh]**.
+The reports generated in the last 90 days are displayed. Once 90 days are complete, you can generate the report again. Learn how you can generate reports for [Organization structure](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
-## Export report fields
 
-| Field | Description |
-|------|------------|
-| Report | Date and time the report was generated (local time zone) |
-| Format | File format (CSV, JSON, XLSX) |
-| Size | File size |
-| Created By | Email address of the admin who generated the report |
-| Action | Link to download the report |
+  | Field | Description |
+ |------|------------|
+  | Report | Date and time the report was generated (local time zone) |
+  | Format | File format (CSV, JSON, XLSX) |
+  | Size | File size |
+  | Created By | Email address of the admin who generated the report |
+  | Action | Link to download the report |
+
+1. To download a report, select **[!UICCONTROL Download]**.
+
+If the report you just generated isn't appearing on the list, select **[!UICONTROL Refresh]**.
 
 ![export-reports](../assets/export-reports.png)
+
+*Download any report generated in the last 90 days.*
