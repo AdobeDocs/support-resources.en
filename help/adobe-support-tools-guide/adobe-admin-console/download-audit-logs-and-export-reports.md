@@ -8,6 +8,8 @@ feature: Admin Console
 
 # Download audit logs and export reports
 
+Applies to enterprise
+
 - Learn how global administrators can view, search, and export audit logs.
 - Download organization data exported by any global administrator.
 
