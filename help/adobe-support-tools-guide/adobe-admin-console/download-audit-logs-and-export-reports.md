@@ -23,7 +23,7 @@ As a global administrator, you have full visibility into changes made in the Glo
 
 >[!NOTE]
 >
-> As a system administrator in an [Adobe Admin Console](https://adminconsole.adobe.com/904D53815F608E410A495FD4@AdobeOrg/overview) organization, you can use the [Audit Log](https://helpx.adobe.com/enterprise/using/audit-logs.html) to review user assignments and user events.
+> As a system administrator in an [Adobe Admin Console](https://adminconsole.adobe.com) organization, you can use the [Audit Log](https://helpx.adobe.com/enterprise/using/audit-logs.html) to review user assignments and user events.
 
 To view or download audit logs for your organization:
 
