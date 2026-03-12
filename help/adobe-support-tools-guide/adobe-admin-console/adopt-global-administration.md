@@ -6,6 +6,7 @@ Solution: Admin Console
 Feature: Admin Console
 ---
 # Adopt global administration
+
 Applies to enterprise.
 
 Learn about the benefits of using the Global Admin Console and find out how to get access.
