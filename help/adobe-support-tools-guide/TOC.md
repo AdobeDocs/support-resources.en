@@ -9,7 +9,6 @@ role: User, Admin
 ---
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
-- [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Adobe Support and Tools Guide overview](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe customer support experience](adobe-customer-support-experience.md)
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
@@ -39,3 +38,4 @@ role: User, Admin
   - [How to include a team member in Support notifications](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
   - [Partner Adobe Commerce on cloud infrastructure sandbox requests](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
   - [Unable to add user to Adobe Commerce cloud project](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
+  - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
