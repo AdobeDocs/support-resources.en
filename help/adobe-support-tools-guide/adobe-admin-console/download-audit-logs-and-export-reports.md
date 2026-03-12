@@ -6,7 +6,7 @@ solution: Admin Console
 feature: Admin Console
 ---
 
-## Applies to: Enterprise
+# Download audit logs and export reports
 
 - Learn how global administrators can view, search, and export audit logs.
 - Download organization data exported by any global administrator.
