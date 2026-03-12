@@ -165,9 +165,7 @@ Adobe is updating all teams and enterprise customers to use Adobe's Enterprise s
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud for enterprise &amp; Document Cloud for enterprise</strong></th>
-<tdpe="row"><strong>Creative Cloud for teams &amp; Document Cloud for teams</strong></th>
 <td>Supported</td>
-
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
