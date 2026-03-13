@@ -113,7 +113,7 @@ Changes in the projected user group's name or associated users in the source use
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), select an organization, and navigate to the **[!UICONTROL User Groups]** tab.
 
-2. Select the **[!UICONTROL More Options]** icon for the relevant user group, and select **[!UICONTROL Edit User Group]**.
+2. Select the **[!UICONTROL More Options]** <img src="assets/icon-more-options.png" alt="More Options icon" width="14" height="14" style="vertical-align:middle"> icon for the relevant user group, and select **[!UICONTROL Edit User Group]**.
 
    >[!NOTE]
    >
