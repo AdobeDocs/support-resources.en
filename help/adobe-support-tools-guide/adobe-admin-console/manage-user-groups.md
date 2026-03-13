@@ -100,7 +100,7 @@ Changes in the projected user group's name or associated users in the source use
 4. Select **[!UICONTROL Revoke access]**.
 
 5. While revoking access, you can choose to either delete the user group and users or leave a copy in the target organizations:
-   - On deleting, the user group is removed from the target organizations. Users who are not members of other shared groups are also removed, losing access to all products, services, and assets.
+   - On deleting, the user group is removed from the target organizations. Users who are not members of other shared groups are removed from the target organizations and lose access to all products, services, and assets.
    - On leaving a copy, the user group and users remain in the target organizations keeping all assignments intact. However, the user group will no longer be synced and can be managed by the administrators of the target organizations.
 
 6. Select **[!UICONTROL Revoke access]**.
