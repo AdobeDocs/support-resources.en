@@ -117,7 +117,7 @@ Then, view and download these reports for further analysis. Learn more: [Use aud
 
 Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments. License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. [CHECK WITH JERZEE ABOUT MENTIONS OF CREATIVE CLOUD] 
 
-Learn more: [License assignment reports for enterprise products](https://helpx.adobe.com/enterprise/using/assignment-reports.htm).
+Learn more: [License assignment reports for enterprise products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 ## **[!UICONTROL Storage]** {#storage}
 
