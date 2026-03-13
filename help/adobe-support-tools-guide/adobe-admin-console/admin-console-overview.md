@@ -148,7 +148,7 @@ Storage administrators can access only the [asset settings](https://helpx.adobe.
 >
 > Adobe does not provide a native capability for top‑level administrators to compare current Admin Console settings against Adobe’s recommended secure defaults. Administrators may refer to Adobe’s recommended configuration guidance and validate compliance using their organization’s identity provider, endpoint management tools, and internal audit processes.
 
-## Privacy and security contacts {privacy-and-security-contacts}
+## Privacy and security contacts {#privacy-and-security-contacts}
 
 In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. To help ensure prompt notification, as a System admin, you must specify who your security, data protection, and compliance officers are. For details, see [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html).
 
@@ -170,19 +170,19 @@ System administrators can restrict organization-owned domains to prevent users f
 
 [Identity types](https://helpx.adobe.com/enterprise/using/identity.html) allow the organizations to have different levels of control over user's account and data. It impacts how your organization stores and shares assets.
 
-## Asset settings {asset-settings}
+## Asset settings {#asset-settings}
 
 [Asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) give an organization control over how its employees share its assets outside the organization. Asset Settings are used along with other organizational policy enforcement systems (not provided by Adobe) to ensure that assets are only shared with appropriate external individuals and organizations.
 
-## Authentication settings {authentication-settings}
+## Authentication settings {#authentication-settings}
 
 [Authentication settings](https://helpx.adobe.com/enterprise/using/authentication-settings.html) support several password protection levels and policies to ensure safety and security. You can specify a password protection level to apply to all users across your organization.
 
-## Encryption settings {encryption-settings}
+## Encryption settings {#encryption-settings}
 
 [Encryption settings](https://helpx.adobe.com/enterprise/using/encryption.html) generate a dedicated encryption key for extra layers of control and security.
 
-## Project policies {project-policies}
+## Project policies {#project-policies}
 
 As a system administrator, you can control who has permission to create and manage projects in your organization. By default, all users added to the Admin Console can create and manage projects. Learn more about [project policies](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies).
 
