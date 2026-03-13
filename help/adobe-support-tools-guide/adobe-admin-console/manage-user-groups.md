@@ -16,7 +16,7 @@ In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-co
 
 
 
-## Create User Groups
+## Create user groups
 
 You can either [create user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) individually, in bulk, or [directly sync them from an established Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) to a federated directory in the [!DNL Adobe Admin Console]. In the [!DNL Global Admin Console], you can define user groups with relevant product profiles assigned, to which the user group admins can later add users using the [!DNL Admin Console].
 
