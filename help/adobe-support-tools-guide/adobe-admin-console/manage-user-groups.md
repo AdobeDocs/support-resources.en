@@ -6,7 +6,7 @@ solution: Admin Console
 feature: Admin Console
 ---
 
-# Manage User Groups in the Global Admin Console
+# Manage user groups in the Global Admin Console
 
 Create, manage, and share user groups in the [!DNL Global Admin Console] to streamline user management by grouping users with the same permissions, saving time, and ensuring consistency.
 
