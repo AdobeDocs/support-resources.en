@@ -52,8 +52,7 @@ Who can view this tab: System Administrators, Product Administrators, and Produc
 
 Enterprise
 
-The Products page in the [Admin Console](https://adminconsole.adobe.com) provides the options to manage your products and product profiles. Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated 
-with a given product or plan. You can then assign administrators, called Product Administrators, to the product profiles. These administrators add end users to the product profiles that they manage.
+The Products page in the [Admin Console](https://adminconsole.adobe.com) provides the options to manage your products and product profiles. Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated with a given product or plan. You can then assign administrators, called Product Administrators, to the product profiles. These administrators add end users to the product profiles that they manage.
 
 For more information, see:
 
@@ -62,9 +61,9 @@ For more information, see:
 
 Teams {#teams}
 
-The Products page in the [Admin Console](https://adminconsole.adobe.com) lets you assign product licenses to users. To assign a product license to a user or group, select the desired product on the Products page, and click Add User.
+The Products page in the [Admin Console](https://adminconsole.adobe.com) lets you assign product licenses to users. To assign a product license to a user or group, select the desired product on the Products page, and click **[!UICONTROL Add User]**.
 
-Enter the name or email address of the user. You can search for existing users or add a user by specifying a valid email address and filling in the information on the screen. Click Save. An email is sent to the user or group confirming access to the application. [GOT TP HERE IN TERMS OF LINKS)
+Enter the name or email address of the user. You can search for existing users or add a user by specifying a valid email address and filling in the information on the screen. Click **[!UICONTROL Save]**. An email is sent to the user or group confirming access to the application. 
 
 For more information, see:
 
@@ -75,16 +74,16 @@ For more information, see:
 
 The Users page in the [Admin Console](https://adminconsole.adobe.com) lets you create, search, update, and remove user accounts. These user accounts entitle the end users in your organization to Adobe products and services. You can also use the bulk edit workflows to add users or modify user details and license assignments.
 
-For more information:
+For more information, see:
 
 - [Manage users](https://helpx.adobe.com/enterprise/using/users.html)
 - [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html)
 
 ## Account {#account}
 
-**Who can view this tab:** System Administrators and Contract Administrators
+Who can view this tab: System Administrators and Contract Administrators
 
-System and contract admins can manage their organization’s Adobe contracts from the **Account** tab in the Admin Console.
+System and contract admins can manage their organization’s Adobe contracts from the **[!UICONTROL Account]** tab in the Admin Console.
 
 Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
 
@@ -106,35 +105,28 @@ Audit log helps ensuring continued compliance, safeguarding against any inapprop
 
 As a system administrator, you have full visibility of the changes made in the [Admin Console](https://adminconsole.adobe.com/). You can search the audit log based on the type of actions, when they occurred, and who made them.
 
-Then, view and download these reports for further analysis.
-
-[Learn more]( [https://helpx.adobe.com/enterprise/using/audit-logs.html](https://helpx.adobe.com/enterprise/using/audit-logs.html).
+Then, view and download these reports for further analysis. [Learn more](https://helpx.adobe.com/enterprise/using/audit-logs.html](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
 ### Assignment Reports {#assignment-reports}
 
-Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments. License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. [CHECK WITH JERZEE ABOUT MENTIONS OF CREATIVE CLOUD]
-
-Learn more: [https://helpx.adobe.com/enterprise/using/assignment-reports.html](https://helpx.adobe.com/enterprise/using/assignment-reports.html)
+Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments. License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. [CHECK WITH JERZEE ABOUT MENTIONS OF CREATIVE CLOUD] Learn more: [https://helpx.adobe.com/enterprise/using/assignment-reports.html](https://helpx.adobe.com/enterprise/using/assignment-reports.html)
 
 ## Storage {#storage}
 
-**Who can view this tab:** System Administrators and Storage Administrators (only for customers migrated to the [pooled storage model](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html))
+Who can view this tab: System Administrators and Storage Administrators (only for customers migrated to the [pooled storage model](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html))
 
-The Storage page in the Admin Console gives you full control and visibility of storage across your Creative Cloud applications. [CHECK WITH JERZEE ABOUT THIS MENTION OF CC]
+The Storage page in the [Admin Console](https://adminconsole.adobe.com) gives you full control and visibility of storage across your Creative Cloud applications. [CHECK WITH JERZEE ABOUT THIS MENTION OF CC]
 
 The storage quotas are flexible for end users up to the amount of storage purchased by the organization.
 
 You can also view how much quota is used by individual users and the overall quota consumed by all the users
-
 Learn more: [https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)
 
 ## Packages {#packages}
 
-**Who can view this tab:** System Administrators and Deployment Administrators
+Who can view this tab: System Administrators and Deployment Administrators
 
 The Packages page in the [Admin Console](https://adminconsole.adobe.com/enterprise) provides the following functionality. Use them when you plan to deploy desktop applications to end users in your organization.
-
-For more information:
 
 - Download pre-configured packages by using [Adobe Templates](https://helpx.adobe.com/enterprise/using/package-templates.html).
 - Create customized [Named User Licensing](https://helpx.adobe.com/enterprise/using/create-nul-packages.html) or [Shared Device](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html) Licensing (for educational institutions) packagers with the configuration and applications you want your end users to have.
@@ -143,11 +135,11 @@ For more information:
 - Download the IT tools like [Remote Update Manager](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html) and [Adobe Update Server Setup Tool](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html).
 - Download the Adobe Extension Manager command-line tool to [install extensions and plug-ins](https://helpx.adobe.com/enterprise/using/manage-extensions.html) from the ZXP file container format.
 
-For more information, see Packaging apps via the Admin Console.
+For more information, see [Packaging apps via the Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
 
 ## Settings {#settings}
 
-**Who can view this tab:** System Administrators and Storage Administrators
+Who can view this tab: System Administrators and Storage Administrators
 
 Storage administrators can access only the [asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) and [content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). System administrators can view or modify settings depending on their plan.
 
