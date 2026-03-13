@@ -93,7 +93,7 @@ Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
 - Manage payment details, invoices, and renewals.
 - View your Adobe account manager’s contact details.
 
-[Learn more about managing your account](https://helpx.adobe.com/enterprise/using/accounts.html](https://helpx.adobe.com/enterprise/using/accounts.html).
+[Learn more about managing your account](https://helpx.adobe.com/enterprise/using/accounts.html).
 
 ## Insights {#insights}
 
@@ -119,7 +119,8 @@ The Storage page in the [Admin Console](https://adminconsole.adobe.com) gives yo
 
 The storage quotas are flexible for end users up to the amount of storage purchased by the organization.
 
-You can also view how much quota is used by individual users and the overall quota consumed by all the users
+You can also view how much quota is used by individual users and the overall quota consumed by all the users.
+
 Learn more: [https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)
 
 ## Packages {#packages}
