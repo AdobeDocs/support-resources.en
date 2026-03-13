@@ -105,7 +105,7 @@ Audit log helps ensuring continued compliance, safeguarding against any inapprop
 
 As a system administrator, you have full visibility of the changes made in the [Admin Console](https://adminconsole.adobe.com/). You can search the audit log based on the type of actions, when they occurred, and who made them.
 
-Then, view and download these reports for further analysis. [Learn more](https://helpx.adobe.com/enterprise/using/audit-logs.html](https://helpx.adobe.com/enterprise/using/audit-logs.html).
+Then, view and download these reports for further analysis. [Learn more](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
 ### Assignment Reports {#assignment-reports}
 
