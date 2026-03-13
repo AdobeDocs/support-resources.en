@@ -99,7 +99,7 @@ Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
 - Manage payment details, invoices, and renewals.
 - View your Adobe account manager’s contact details.
 
-[Learn more about managing your account](https://helpx.adobe.com/enterprise/using/accounts.html).
+Learn more: [Managing your account](https://helpx.adobe.com/enterprise/using/accounts.html).
 
 ## **[!UICONTROL Insights]** {#insights}
 
@@ -115,7 +115,9 @@ Then, view and download these reports for further analysis. [Learn more](https:/
 
 ### **[!UICONTROL Assignment Reports]** {#assignment-reports}
 
-Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments. License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. [CHECK WITH JERZEE ABOUT MENTIONS OF CREATIVE CLOUD] Learn more: [https://helpx.adobe.com/enterprise/using/assignment-reports.html](https://helpx.adobe.com/enterprise/using/assignment-reports.html)
+Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments. License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. [CHECK WITH JERZEE ABOUT MENTIONS OF CREATIVE CLOUD] 
+
+Learn more: [License assignment reports for enterprise products](https://helpx.adobe.com/enterprise/using/assignment-reports.htm).
 
 ## **[!UICONTROL Storage]** {#storage}
 
@@ -127,7 +129,7 @@ The storage quotas are flexible for end users up to the amount of storage purcha
 
 You can also view how much quota is used by individual users and the overall quota consumed by all the users.
 
-Learn more: [https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)
+Learn more: [Manage Adobe storage](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
 
 ## **[!UICONTROL Packages]** {#packages}
 
@@ -158,15 +160,15 @@ Storage administrators can access only the [asset settings](https://helpx.adobe.
 
 In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. To help ensure prompt notification, as a System admin, you must specify who your security, data protection, and compliance officers are. For details, see [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html).
 
-## Console settings {#console-settings}
+##  **[!UICONTROL Console settings]** {#console-settings}
 
-Using [console settings](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
+Using [[!UICONTROL console settings]](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
 
 Choose a default email language for your organization, to receive emails about the account statuses, such as subscription changes or credit card expiration. If you have a teams membership purchased directly from Adobe, you can change your team name from the Console Settings.
 
-## Content logs {#content-logs}
+## **[!UICONTROL  Content logs]** {#content-logs}
 
-As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called [content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). 
+As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called [[!UICONTROL content logs]](https://helpx.adobe.com/enterprise/using/content-logs.html). 
 
 ## Domain Enforcement {#domain-enforcement}
 
@@ -176,7 +178,7 @@ System administrators can restrict organization-owned domains to prevent users f
 
 [Identity types](https://helpx.adobe.com/enterprise/using/identity.html) allow the organizations to have different levels of control over user's account and data. It impacts how your organization stores and shares assets.
 
-## Asset settings {#asset-settings}
+## **[!UICONTROL Asset settings]** {#asset-settings}
 
 [Asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) give an organization control over how its employees share its assets outside the organization. Asset Settings are used along with other organizational policy enforcement systems (not provided by Adobe) to ensure that assets are only shared with appropriate external individuals and organizations.
 
