@@ -1,22 +1,20 @@
 ---
-title: Admin Console Overview
+title: Admin Console overview
 description: How Adobe customers can use the Adobe Admin Console to manage licenses, users, storage, packages, settings, and organizational access across their enterprise.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 ---
 
-# Adobe Admin Console Overview
+# Adobe Admin Console overview
 
 Applies to enterprise & teams.
 
-The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, payments, and more using the Adobe Admin Console.[Sign in to the Admin Console](https://adminconsole.adobe.com/?promoid=12B9DRDF&mv=other). Review the video below to learn more about navigating the Adobe Admin Console.
+The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, payments, and more using the Adobe Admin Console.[Sign in to the Admin Console](https://adminconsole.adobe.com). Review the video below to learn more about navigating the Adobe Admin Console.
 
 [!Video](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
-## Overview
-
-Each tab on the Admin Console enables you to perform various tasks.
+Each tab on the Admin Console enables you to perform various tasks. Select the titles below to know more.
 
 - [Overview](#overview): View a summary of the licenses purchased and quick actions to set up your organization.
 
@@ -26,9 +24,11 @@ Each tab on the Admin Console enables you to perform various tasks.
 
 - [Packages](#packages): Download pre-configured packages or create them for desktop apps that you plan to deploy.
 
-- [Account](#accounts): Manage your organization's contracts and agreements with Adobe.
+- [Account](#account): Manage your organization's contracts and agreements with Adobe.
 
 - [Storage](#storage): Manage individual user folders and shared folders, view storage quota consumed by users.
+
+- [Settings](#settings): Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
 
 If you are unable to sign in to the Admin Console, see [Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
@@ -42,7 +42,7 @@ An administrator can belong to multiple organizations. If a company has multiple
 
 If you're an administrator for multiple organizations, you can switch between organizations using the organization selector. The selected organization shows a green check mark next to the organization's name.
 
-If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of the organization Athletic Shoe Division and this organization's Global Admin Console path is [placeholder] > [placeholder], where [placeholder] is a child of the organization [placeholder].
+If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of the organization [Example Organization] and this organization's Global Admin Console path is [placeholder] > [placeholder], where [placeholder] is a child of the organization [placeholder].
 
 If you have a complex organizational structure that has many Admin Consoles or if you want to break up your main Admin Console into multiple consoles, you can [adopt the Global Admin Console](https://helpx.adobe.com/conetnt/help/en/enterprise/global-admin-console/adopt-global-administration.html). For example, multinational corporations, education consortiums, large school districts, and large government agencies. The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
 
