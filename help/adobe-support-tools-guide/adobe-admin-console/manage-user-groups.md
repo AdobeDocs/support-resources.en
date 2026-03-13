@@ -1,5 +1,5 @@
 ---
-title: Manage User Groups in the Global Admin Console
+title: Manage user groups in the Global Admin Console
 description: Learn how to create, share, edit, and delete user groups in the Global Admin Console to streamline user management across organizations.
 feature-set: Experience Cloud Services
 solution: Admin Console
