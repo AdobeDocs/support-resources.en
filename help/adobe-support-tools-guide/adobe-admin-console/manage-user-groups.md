@@ -45,7 +45,7 @@ You can either [create user groups](https://helpx.adobe.com/enterprise/using/use
 
 
 
-## Share User Groups
+## Share user groups
 
 Group projection allows you to sync user groups and their associated users from a single management source to multiple [!DNL Admin Consoles]. Global administrators can share user groups with hierarchical descendants of the source organization, working downward, not upward or side-to-side.
 
