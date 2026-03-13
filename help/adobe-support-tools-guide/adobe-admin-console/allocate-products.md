@@ -1,19 +1,19 @@
 ---
-title: Allocate products to child organizations using the [!DNL Global Admin Console]
+title: Allocate products to child organizations using the Global Admin Console
 description: Learn how global administrators can distribute resources to child organizations, enabling effective resource management and user assignment within each organization.
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 ---
-# Allocate products to child organizations using the [!DNL Global Admin Console]
+# Allocate products to child organizations using the Global Admin Console
 
 Applies to enterprise.
 
 Learn how global administrators can distribute resources to child organizations, enabling effective resource management and user assignment within each organization.
 
-In the [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), go to the **[!UICONTROL Product Allocation]** tab and select a product to allocate to child organizations.
+In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), go to the **[!UICONTROL Product Allocation]** tab and select a product to allocate to child organizations.
 
-Sign in to the [[!DNL Global Admin Console]](https://adminconsole.adobe.com/support)
+Sign in to the [Global Admin Console](https://adminconsole.adobe.com/support)
 
 >[!NOTE]
 >
@@ -29,18 +29,18 @@ Part of distributing and administering Adobe products across organizations is pa
 
 We are in the process of migrating customers to the [pooled storage model](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html). Once your organization is migrated, you will see the following changes:
 
-- Global administrators gain access to storage quota and usage across the hierarchy and can allocate storage to organizations using the **[!UICONTROL Product Allocation]** tab in the [[!DNL Global Admin Console]](https://adminconsole.adobe.com/).
+- Global administrators gain access to storage quota and usage across the hierarchy and can allocate storage to organizations using the **[!UICONTROL Product Allocation]** tab in the [Global Admin Console](https://adminconsole.adobe.com/).
 - System administrators and storage administrators have full control and visibility of storage across the organization. They can track and manage storage using the **[!UICONTROL Storage]** tab in the [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 With the updates to Adobe Creative Cloud storage, storage quotas are flexible for end users, up to the amount of storage purchased by the organization. [Learn more](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
 
 ## Allocate products
 
-The **[!UICONTROL Product Allocation]** tab in the [!DNL Global Admin Console] shows allocation units for products purchased across the organization hierarchy. As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), you can allocate these product resources to another organization in the organization tree and specify the quantity to allocate. As a [global viewer](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), you can view and export the data but cannot make any updates.
+The **[!UICONTROL Product Allocation]** tab in the Global Admin Console shows allocation units for products purchased across the organization hierarchy. As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), you can allocate these product resources to another organization in the organization tree and specify the quantity to allocate. As a [global viewer](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), you can view and export the data but cannot make any updates.
 
 To allocate products to an organization, follow these steps:
 
-1. Sign in to the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com) and go to **[!UICONTROL Product Allocation]**.
+1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com) and go to **[!UICONTROL Product Allocation]**.
 1. Select a product from the drop-down list to see how it is allocated to different organizations.  
    If an organization does not currently have the product, the **Add +** icon appears.
 
@@ -59,7 +59,7 @@ To allocate products to an organization, follow these steps:
 
 ## Allocate and distribute Adobe Acrobat Sign user licenses or transactions
 
-The [!DNL Global Admin Console] lets you allocate and distribute Acrobat Sign user licenses or transactions across the organizational hierarchy. Each organization in the hierarchy that has Acrobat Sign licenses or transactions allocated to it creates its own separate Acrobat Sign account.
+The Global Admin Console lets you allocate and distribute Acrobat Sign user licenses or transactions across the organizational hierarchy. Each organization in the hierarchy that has Acrobat Sign licenses or transactions allocated to it creates its own separate Acrobat Sign account.
 
 - Each Acrobat Sign account created is independent and siloed in terms of administration and content.
 - Each Acrobat Sign account is unaware of other Acrobat Sign accounts (for example, in parent or sister organizations).
@@ -74,7 +74,7 @@ To manage authentication add-ons such as Knowledge-based Authentication (KBA) an
 Allocation from a parent organization to a child organization is limited in these cases:
 
 - If both organizations have different contracts and the product you are trying to allocate exists in both, mixing the same offer between contracts is not allowed.
-- If both organizations have the same contract, you can request permission to allocate the product by contacting your Adobe representative or by [submitting a support](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html) case specifying that Product Allocation in [!DNL Global Admin Console] is blocked.
+- If both organizations have the same contract, you can request permission to allocate the product by contacting your Adobe representative or by [submitting a support](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html) case specifying that Product Allocation in Global Admin Console is blocked.
 
 ## Overallocation
 
