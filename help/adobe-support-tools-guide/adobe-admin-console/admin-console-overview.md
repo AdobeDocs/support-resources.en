@@ -111,7 +111,7 @@ Who can view this tab: System Administrators.
 
 As a system administrator, you have full visibility of the changes made in the [Admin Console](https://adminconsole.adobe.com/). You can search the audit log based on the type of actions, when they occurred, and who made them.
 
-Then, view and download these reports for further analysis. [Learn more](https://helpx.adobe.com/enterprise/using/audit-logs.html).
+Then, view and download these reports for further analysis. Learn more: [Use audit log to track user assignments and events](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
 ### **[!UICONTROL Assignment Reports]** {#assignment-reports}
 
@@ -172,7 +172,9 @@ As an administrator, you can download detailed reports on how end users are work
 
 ## Domain Enforcement {#domain-enforcement}
 
-System administrators can restrict organization-owned domains to prevent users from creating and using personal Adobe ID accounts. This limits the use of personal data, enhances security, and allows asset sharing only between organization users. Learn more about [Domain Enforcement for restricted authentication](https://helpx.adobe.com/enterprise/using/restricting-domains.html).
+System administrators can restrict organization-owned domains to prevent users from creating and using personal Adobe ID accounts. This limits the use of personal data, enhances security, and allows asset sharing only between organization users. 
+
+Learn more: [Domain Enforcement for restricted authentication](https://helpx.adobe.com/enterprise/using/restricting-domains.html).
 
 ## Identity {#identity}
 
@@ -192,7 +194,9 @@ System administrators can restrict organization-owned domains to prevent users f
 
 ## Project policies {#project-policies}
 
-As a system administrator, you can control who has permission to create and manage projects in your organization. By default, all users added to the Admin Console can create and manage projects. Learn more about [project policies](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies).
+As a system administrator, you can control who has permission to create and manage projects in your organization. By default, all users added to the Admin Console can create and manage projects. 
+
+Learn more: [Project policies](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies).
 
 ## Support
 
