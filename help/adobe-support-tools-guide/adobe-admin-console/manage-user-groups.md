@@ -8,7 +8,7 @@ feature: Admin Console
 
 # Manage user groups in the Global Admin Console
 
-Create, manage, and share user groups in the [!DNL Global Admin Console] to streamline user management by grouping users with the same permissions, saving time, and ensuring consistency.
+Create, manage, and share user groups in the Global Admin Console to streamline user management by grouping users with the same permissions, saving time, and ensuring consistency.
 
 In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), select an organization, and navigate to **[!UICONTROL User Groups]**. Share groups across multiple organizations using a single user management source to sync users and groups.
 
@@ -18,7 +18,7 @@ In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-co
 
 ## Create user groups
 
-You can either [create user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) individually, in bulk, or [directly sync them from an established Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) to a federated directory in the [!DNL Adobe Admin Console]. In the [!DNL Global Admin Console], you can define user groups with relevant product profiles assigned, to which the user group admins can later add users using the [!DNL Admin Console].
+You can either [create user groups](https://helpx.adobe.com/enterprise/using/user-groups.html) individually, in bulk, or [directly sync them from an established Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) to a federated directory in the Adobe Admin Console. In the Global Admin Console, you can define user groups with relevant product profiles assigned, to which the user group admins can later add users using the Admin Console.
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), select an organization to edit, and then navigate to the **[!UICONTROL User Groups]** tab.
 
@@ -33,7 +33,7 @@ You can either [create user groups](https://helpx.adobe.com/enterprise/using/use
    - **[!UICONTROL Product Profiles]**: If you want to grant product access to the current or future members in the user group, click the drop-down arrow to select a Product Profile from the list, or enter the Product Profile name and select it from the drop-down list that displays. If you want to add a product profile that hasn't already been created, you must first do that using the [Product Profiles](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles) tab.
    - **[!UICONTROL Admins]**: Click the drop-down arrow to select an admin from the list, or enter the admin's email address and select it from the drop-down list that displays. If you want to add a new admin that hasn't already been created, you must first create that admin using the [Admins](#share-user-groups) tab.
 
-   The product profiles you specify are assigned to the User Group, and the admins you specify become the user group admins for the group. The user group admins can use the [!DNL Adobe Admin Console] for the relevant organization to manage the group.
+   The product profiles you specify are assigned to the User Group, and the admins you specify become the user group admins for the group. The user group admins can use the Adobe Admin Console for the relevant organization to manage the group.
 
 4. Select **[!UICONTROL Save]**.
 
@@ -41,13 +41,13 @@ You can either [create user groups](https://helpx.adobe.com/enterprise/using/use
 
 >[!NOTE]
 >
->Global admins can [assign product profiles and user group admins](#review-user-groups) to the user groups using the [!DNL Global Admin Console]. Using the [!DNL Adobe Admin Console], system admins and user group admins can [add users and assign admins and product profiles](https://helpx.adobe.com/enterprise/using/user-groups.html) to the user group.
+>Global admins can [assign product profiles and user group admins](#review-user-groups) to the user groups using the Global Admin Console. Using the Adobe Admin Console, system admins and user group admins can [add users and assign admins and product profiles](https://helpx.adobe.com/enterprise/using/user-groups.html) to the user group.
 
 
 
 ## Share user groups
 
-Group projection allows you to sync user groups and their associated users from a single management source to multiple [!DNL Admin Consoles]. Global administrators can share user groups with hierarchical descendants of the source organization, working downward, not upward or side-to-side.
+Group projection allows you to sync user groups and their associated users from a single management source to multiple Admin Consoles. Global administrators can share user groups with hierarchical descendants of the source organization, working downward, not upward or side-to-side.
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), select an organization, and navigate to the **[!UICONTROL User Groups]** tab.
 
@@ -61,7 +61,7 @@ Group projection allows you to sync user groups and their associated users from 
 
 3. Select **[!UICONTROL Share user group]**.
 
-4. <a id="review-user-groups"></a>Review the user groups to share with other organizations. If you are also a system admin in the selected organization, select the **[!UICONTROL Open in Admin Console]** <img src="assets/icon-open-in-admin-console.png" alt="Open in Admin Console icon" width="14" height="14"> icon to review the list of the user group members in the [!DNL Adobe Admin Console].
+4. <a id="review-user-groups"></a>Review the user groups to share with other organizations. If you are also a system admin in the selected organization, select the **[!UICONTROL Open in Admin Console]** <img src="assets/icon-open-in-admin-console.png" alt="Open in Admin Console icon" width="14" height="14"> icon to review the list of the user group members in the Adobe Admin Console.
 
    >[!NOTE]
    >
