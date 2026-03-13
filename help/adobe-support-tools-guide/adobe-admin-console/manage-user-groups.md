@@ -31,7 +31,7 @@ You can either [create user groups](https://helpx.adobe.com/enterprise/using/use
 3. Enter the following in the **[!UICONTROL Add User Group]** dialog box that appears:
    - **[!UICONTROL Name]**: Specify a name for the user group.
    - **[!UICONTROL Product Profiles]**: If you want to grant product access to the current or future members in the user group, click the drop-down arrow to select a Product Profile from the list, or enter the Product Profile name and select it from the drop-down list that displays. If you want to add a product profile that hasn't already been created, you must first do that using the [Product Profiles](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles) tab.
-   - **[!UICONTROL Admins]**: Click the drop-down arrow to select an admin from the list, or enter the admin's email address and select it from the drop-down list that displays. If you want to add a new admin that hasn't already been created, you must first do that using the [Admins](#share-user-groups) tab.
+   - **[!UICONTROL Admins]**: Click the drop-down arrow to select an admin from the list, or enter the admin's email address and select it from the drop-down list that displays. If you want to add a new admin that hasn't already been created, you must first create that admin using the [Admins](#share-user-groups) tab.
 
    The product profiles you specify are assigned to the User Group, and the admins you specify become the user group admins for the group. The user group admins can use the [!DNL Adobe Admin Console] for the relevant organization to manage the group.
 
