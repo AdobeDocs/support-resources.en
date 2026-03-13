@@ -160,7 +160,7 @@ Storage administrators can access only the [asset settings](https://helpx.adobe.
 
 In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. To help ensure prompt notification, as a System admin, you must specify who your security, data protection, and compliance officers are. For details, see [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html).
 
-##  **[!UICONTROL Console settings]** {#console-settings}
+## **[!UICONTROL Console settings]** {#console-settings}
 
 Using [[!UICONTROL console settings]](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
 
