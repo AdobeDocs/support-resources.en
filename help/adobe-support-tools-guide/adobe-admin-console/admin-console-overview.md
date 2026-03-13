@@ -10,7 +10,7 @@ feature: Admin Console
 
 Applies to enterprise & teams.
 
-The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, payments, and more using the Adobe Admin Console.[Sign in to the Admin Console](https://adminconsole.adobe.com). Review the video below to learn more about navigating the Adobe Admin Console.
+The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, payments, and more using the Adobe Admin Console. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). Review the video below to learn more about navigating the Adobe Admin Console.
 
 [!Video](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
@@ -27,6 +27,8 @@ Each tab on the Admin Console enables you to perform various tasks. Select the t
 - [Account](#account): Manage your organization's contracts and agreements with Adobe.
 
 - [Storage](#storage): Manage individual user folders and shared folders, view storage quota consumed by users.
+
+- [Insights](#insights): View, create, and download license assignment reports and track changes made in the Admin Console.
 
 - [Settings](#settings): Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
 
