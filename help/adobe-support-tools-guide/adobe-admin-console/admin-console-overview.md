@@ -42,7 +42,7 @@ An administrator can belong to multiple organizations. If a company has multiple
 
 If you're an administrator for multiple organizations, you can switch between organizations using the organization selector. The selected organization shows a green check mark next to the organization's name.
 
-If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of the organization [Example Organization] and this organization's Global Admin Console path is [placeholder] > [placeholder], where [placeholder] is a child of the organization [placeholder].
+If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of organization B and this organization's Global Admin Console path is A > B where B is a child of the organization A.
 
 If you have a complex organizational structure that has many Admin Consoles or if you want to break up your main Admin Console into multiple consoles, you can [adopt the Global Admin Console](https://helpx.adobe.com/conetnt/help/en/enterprise/global-admin-console/adopt-global-administration.html). For example, multinational corporations, education consortiums, large school districts, and large government agencies. The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
 
