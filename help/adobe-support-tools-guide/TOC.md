@@ -17,7 +17,7 @@ role: User, Admin
 - [Admin Roles](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
-  - [Admin Console overview](admin-console-overview.md)
+  - [Admin Console overview](adobe-admin-console/admin-console-overview.md)
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
