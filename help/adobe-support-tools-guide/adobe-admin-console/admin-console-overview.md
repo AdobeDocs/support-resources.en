@@ -123,9 +123,7 @@ Learn more: [License assignment reports for enterprise products](https://helpx.a
 
 Who can view this tab: System Administrators and Storage Administrators (only for customers migrated to the [pooled storage model](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
 
-The **[!UICONTROL Storage page]** in the [Admin Console](https://adminconsole.adobe.com) gives you full control and visibility of storage across your Creative Cloud applications. [CHECK WITH JERZEE ABOUT THIS MENTION OF CC]
-
-The storage quotas are flexible for end users up to the amount of storage purchased by the organization.
+The **[!UICONTROL Storage page]** in the [Admin Console](https://adminconsole.adobe.com) gives you full control and visibility of storage across your Creative Cloud applications. [CHECK WITH JERZEE ABOUT THIS MENTION OF CC]. The storage quotas are flexible for end users up to the amount of storage purchased by the organization.
 
 You can also view how much quota is used by individual users and the overall quota consumed by all the users.
 
