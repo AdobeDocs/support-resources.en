@@ -111,7 +111,7 @@ To download an export report:
    | Created By | Email address of the admin who generated the report |
    | Action | Link to download the report |
 
-1. To download a report, select **[!UICCONTROL Download]**.
+1. To download a report, select **[!UICONTROL Download]**.
 
    If the report you just generated isn't appearing on the list, select **[!UICONTROL Refresh]**.
 
