@@ -23,7 +23,7 @@ As a global administrator, you have full visibility into changes made in the Glo
 
 >[!NOTE]
 >
-> As a system administrator in an [Adobe Admin Console](https://adminconsole.adobe.com) organization, you can use the [Audit Log](https://helpx.adobe.com/enterprise/using/audit-logs.html) to review user assignments and user events.
+> As a system administrator in an [Adobe Admin Console](https://adminconsole.adobe.com) organization, you can use the [Audit Log](https://helpx.adobe.com/enterprise/using/audit-logs.html) to review user assignments and user events. Actions performed by system administrators in child organizations of the selected organization are also included in the audit logs. Learn more about how system administrators can [track changes](https://helpx.adobe.com/enterprise/using/audit-logs.html) made in the Admin Console.
 
 To view or download audit logs for your organization:
 
@@ -41,11 +41,6 @@ The audit logs display the following information for filtered events:
       | Admin | Email address of the admin who performed the action. System is displayed if the action was performed by an Adobe backend system. |
       | IP Address | IP address of the machine where the action was taken. Usually reflects the physical location, but could be a proxy server or VPN address. |
       | Organization | Name of the organization affected by the event. |
-
-
-   >[!NOTE]
-   >
-   > Actions performed by system administrators in child organizations of the selected organization are also included in the audit logs. Learn more about how system administrators can [track changes](https://helpx.adobe.com/enterprise/using/audit-logs.html) made in the Admin Console.
 
 
 1. You can filter audit logs using the following options:
