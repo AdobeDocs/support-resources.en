@@ -65,7 +65,7 @@ For details about the fields included in the export, see [Log Schema](#log-schem
 
 >[!NOTE]
 >
->Exported audit log reports are retained for 90 days after generation.
+>Exported audit log reports are retained for 90 days after they are generated.
 
 
 ## Understand your audit log report {#log-schema}
