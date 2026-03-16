@@ -4,6 +4,7 @@ description: Learn what the Global Admin Console is and how to request access.
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
+exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
 ---
 # Adopt global administration
 
