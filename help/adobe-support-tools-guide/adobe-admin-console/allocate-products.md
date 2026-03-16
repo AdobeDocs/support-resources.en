@@ -17,7 +17,7 @@ Sign in to the [Global Admin Console](https://adminconsole.adobe.com/support).
 
 >[!NOTE]
 >
->Product allocation is available only for Enterprise Term License Agreement (ETLA) contracts.
+>**[!UICONTROL Product Allocation]** is available only for Enterprise Term License Agreement (ETLA) contracts.
 
 Part of distributing and administering Adobe products across organizations is partitioning purchased resources into resource allocations across the organizations to be managed. You can distribute administration of product resources to other organizations by giving all or some of the resource. Not all resources of all products can be allocated; some products are not distributable to other organizations. Such products appear in the **[!UICONTROL Product Allocation]** tab but have no controls to add them to other organizations.
 
@@ -74,7 +74,7 @@ To manage authentication add-ons such as Knowledge-based Authentication (KBA) an
 Allocation from a parent organization to a child organization is limited in these cases:
 
 - If both organizations have different contracts and the product you are trying to allocate exists in both, mixing the same offer between contracts is not allowed.
-- If both organizations have the same contract, you can request permission to allocate the product by contacting your Adobe representative or by [submitting a support](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html) case specifying that Product Allocation in Global Admin Console is blocked.
+- If both organizations have the same contract, you can request permission to allocate the product by contacting your Adobe representative or by [submitting a support](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html) case specifying that **[!UICONTROL Product Allocation]** in Global Admin Console is blocked.
 
 ## Overallocation
 
@@ -90,7 +90,7 @@ When the overallocation toggle is switched from enabled to disabled, the grant v
 
 ## Expired contracts in the hierarchy
 
-You cannot allocate products to a child organization from an ETLA contract that has expired. In‑app banners and notifications, such as the following, on the Overview and Product Allocation pages clearly indicate when the contract on one or more child organizations is going to expire, has expired, or is inactive.
+You cannot allocate products to a child organization from an ETLA contract that has expired. In‑app banners and notifications, such as the following, on the **[!UICONTROL Overview]** and **[!UICONTROL Product Allocation]** pages clearly indicate when the contract on one or more child organizations is going to expire, has expired, or is inactive.
 
 ![Product allocation](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
