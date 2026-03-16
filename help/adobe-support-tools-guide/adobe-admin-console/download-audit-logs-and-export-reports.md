@@ -10,7 +10,7 @@ feature: Admin Console
 
 Applies to enterprise.
 
-Learn how global administrators view, filter, and export audit logs and reports in the Adobe Global Admin Console.
+Learn how global administrators view, filter, and export audit logs and reports using the Adobe Global Admin Console.
 
 To get started, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). Then go to the **[!UICONTROL Insights]** tab and select **[!UICONTROL Audit Logs]** to track all changes made across organizations.
 
