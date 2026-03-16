@@ -63,9 +63,9 @@ Group projection allows you to sync user groups and their associated users from 
 
 4. <a id="review-user-groups"></a>Review the user groups to share with other organizations. If you are also a system admin in the selected organization, select the **[!UICONTROL Open in Admin Console]** <img src="assets/icon-open-in-admin-console.png" alt="Open in Admin Console icon" width="14" height="14"> icon to review the list of the user group members in the Adobe Admin Console.
 
-   >[!NOTE]
-   >
-   >To prevent conflicts, ensure that the organizations with which you plan to share user groups don't already have groups with the same name.
+  >[!NOTE]
+  >
+  >To prevent conflicts, ensure that the organizations with which you plan to share user groups don't already have groups with the same name.
 
 5. Select **[!UICONTROL Next]**.
 
@@ -115,9 +115,9 @@ Changes in the projected user group's name or associated users in the source use
 
 2. Select the **[!UICONTROL More Options]** <img src="assets/icon-more-options.png" alt="More Options icon" width="14" height="14" style="vertical-align:middle"> icon for the relevant user group, and select **[!UICONTROL Edit User Group]**.
 
-   >[!NOTE]
-   >
-   >You can't edit user groups that the selected organization doesn't own.
+  >[!NOTE]
+  >
+  >You can't edit user groups that the selected organization doesn't own.
 
    ![An organization selected with the edit user group option highlighted under user groups tab.](assets/edit-user-group.png "Edit user group")
 
@@ -125,9 +125,9 @@ Changes in the projected user group's name or associated users in the source use
 
 3. Update the user group name, product profiles, or admins. Then, select **[!UICONTROL Save]**.
 
-   >[!NOTE]
-   >
-   >In the **[!UICONTROL Edit User Group]** wizard, you can assign admin roles only to users who already have an admin role assigned in this organization. Learn how to [add new administrators](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
+  >[!NOTE]
+  >
+  >In the **[!UICONTROL Edit User Group]** wizard, you can assign admin roles only to users who already have an admin role assigned in this organization. Learn how to [add new administrators](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
 
 4. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) them.
 
@@ -143,14 +143,14 @@ Changes in the projected user group's name or associated users in the source use
 
 2. Select the **[!UICONTROL More Options]** <img src="assets/icon-more-options.png" alt="More Options icon" width="14" height="14" style="vertical-align:middle"> icon for the relevant user group, and select **[!UICONTROL Delete User Group]**.
 
-   >[!NOTE]
-   >
-   >You can't delete user groups that the selected organization doesn't own.
+  >[!NOTE]
+  >
+  >You can't delete user groups that the selected organization doesn't own.
 
 3. Select **[!UICONTROL Ok]** in the dialog box that appears.
 
-   >[!CAUTION]
-   >
-   >Deleting a user group can impact your users. Ensure that there is no access or information that will be lost when the user group is deleted.
+  >[!CAUTION]
+  >
+  >Deleting a user group can impact your users. Ensure that there is no access or information that will be lost when the user group is deleted.
 
 4. After you have edited the organizations, select **[!UICONTROL Review pending changes]** to review them. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) them.
