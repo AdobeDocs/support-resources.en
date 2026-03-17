@@ -4,8 +4,8 @@ description: Learn about accessibility support in the Adobe Admin Console, inclu
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
 ---
-
 # Accessibility in Adobe Admin Console
 
 Applies to enterprise & teams.

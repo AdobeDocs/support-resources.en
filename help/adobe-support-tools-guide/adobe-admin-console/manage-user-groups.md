@@ -4,8 +4,8 @@ description: Learn how to create, share, edit, and delete user groups in the Glo
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
 ---
-
 # Manage user groups in the Global Admin Console
 
 Create, manage, and share user groups in the Global Admin Console to streamline user management by grouping users with the same permissions, saving time, and ensuring consistency.
