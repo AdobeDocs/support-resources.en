@@ -4,6 +4,7 @@ description: Learn how global administrators can distribute resources to child o
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
+exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
 ---
 # Allocate products to child organizations using the Global Admin Console
 
