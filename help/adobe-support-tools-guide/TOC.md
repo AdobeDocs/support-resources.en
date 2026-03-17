@@ -16,6 +16,7 @@ role: User, Admin
 - [Admin Roles](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+  - [Accessibility in Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
   - [Allocate products to child organizations using the Global Admin Console](adobe-admin-console/allocate-products.md)
   - [Adopt global administration](adobe-admin-console/adopt-global-administration.md)
   - [Manage organization hierarchy](adobe-admin-console/set-up-organizations.md)
