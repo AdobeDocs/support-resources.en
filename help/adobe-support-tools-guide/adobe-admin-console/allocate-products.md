@@ -49,7 +49,7 @@ To allocate products to an organization, follow these steps:
    >If the child organization already has a purchase contract, product allocation from the parent to that child organization may be limited. [Learn more](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
 1. To allocate the product, select the **[!UICONTROL Add +]** icon for the relevant organization.  
-   Some products include more than one allocatable resource; in that case, several resources are listed in the dialog box, and you must provide values for each. For example, [!DNL Adobe Stock] can include [!DNL Adobe Stock Image] credits and premium credits.
+   Some products include more than one allocatable resource; in that case, several resources are listed in the dialog box, and you must provide values for each. For example, Adobe Stock can include Adobe Stock Image credits and premium credits.
    ![Adobe Stock Images](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. In the dialog box that appears, specify the product quantity.
 1. Select **[!UICONTROL Save]**.
