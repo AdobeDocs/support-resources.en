@@ -4,8 +4,8 @@ description: Learn how global administrators view, filter, and export audit logs
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
 ---
-
 # Download audit logs and export reports
 
 Applies to enterprise.
