@@ -4,7 +4,7 @@ user-guide-description: Detailed guidance and updates about Adobe support and to
 feature-set: Experience Cloud
 feature: Support
 type: Documentation
-index: yes
+index: true
 role: User, Admin
 ---
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
