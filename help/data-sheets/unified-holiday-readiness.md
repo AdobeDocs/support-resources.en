@@ -254,7 +254,7 @@ This ensures stability during high-traffic periods. For full release schedules a
 
 AEM customers leveraging Adobe Managed Services can work proactively with their CSEs to plan for the holidays' coverage needs.
 
-++++
++++
 
 ## Adobe Marketo holiday readiness guide {#marketo}
 
