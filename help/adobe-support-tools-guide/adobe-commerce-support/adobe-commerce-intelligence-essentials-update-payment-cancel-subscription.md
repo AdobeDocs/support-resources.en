@@ -2,6 +2,7 @@
 title: 'Adobe Commerce Intelligence Essentials: update payment method or cancel subscription'
 description: How eligible Commerce Intelligence Essentials customers (standalone, month-to-month, billing via account.magento.com) can update payment method or cancel. Does not apply to Pro, Cloud, or contract-based or invoiced subscriptions.
 solution: Commerce Intelligence
+exl-id: a176f4d6-819f-4328-b6bf-ea7373fcc7e9
 ---
 # Adobe Commerce Intelligence Essentials: update payment method or cancel subscription
 
