@@ -168,7 +168,7 @@ After the administrator is added, they receive an email message inviting them to
 
 1. Select an organization to edit and navigate to the **[!UICONTROL Admins]** tab.
 
-1. Select the **[!UICONTROL More Options]** (⋮) icon for the relevant admin, then select **[!UICONTROL Edit Admin]**.
+1. Select the ![icon](assets/one-console-ellipses.png) for the relevant admin, then select **[!UICONTROL Edit Admin]**.
 
     ![Global Admin Console edit admin rights](../assets/global-admin-console-edit-admin-right.png) 
 
