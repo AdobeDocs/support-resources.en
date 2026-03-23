@@ -115,6 +115,6 @@ To download an export report:
 
    If the report you just generated isn't appearing on the list, select **[!UICONTROL Refresh]**.
 
-![export-reports](assets/export-reports.png)
+   ![export-reports](assets/export-reports.png)
 
 *Download any report generated in the last 90 days.*
