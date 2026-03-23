@@ -127,7 +127,7 @@ Changes in the projected user group's name or associated users in the source use
 
    >[!NOTE]
    >
-   >In the **[!UICONTROL Edit User Group]** wizard, you can assign admin roles only to users who already have an admin role assigned in this organization. Learn how to [add new administrators](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html).
+   >In the **[!UICONTROL Edit User Group]** wizard, you can assign admin roles only to users who already have an admin role assigned in this organization. Learn how to [add new administrators](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
 
 4. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) them.
 
