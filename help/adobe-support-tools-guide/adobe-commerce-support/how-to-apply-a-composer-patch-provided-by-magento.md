@@ -33,7 +33,7 @@ This article instructs how to apply a composer patch for Adobe Commerce on-premi
 
 For additional information about applying patches to Cloud projects, see [Apply patches](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches) in our developer documentation.
 
-### How to apply a composer patch for Adobe Commerce on-premises and Magento Open Source {#commerce}
+## How to apply a composer patch for Adobe Commerce on-premises and Magento Open Source {#commerce}
 
 1. Upload the patch to your Adobe Commerce on-premises or Magento Open Source root directory.
 1. Run the following SSH command:
