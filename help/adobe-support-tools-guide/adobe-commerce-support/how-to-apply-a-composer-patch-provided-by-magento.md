@@ -4,6 +4,7 @@ description: This article instructs how to apply a composer patch for Adobe Comm
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
+exl-id: 66d8df60-4c4a-49ef-8107-986e10d6e289
 ---
 # How to apply a composer patch provided by Adobe
 
