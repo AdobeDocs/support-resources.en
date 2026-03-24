@@ -4,6 +4,7 @@ description: Guidance for organizations that use Adobe subscription licenses and
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
 ---
 # Migrate existing users to the Adobe Admin Console
 
@@ -139,5 +140,3 @@ You receive an email when users are added to the VIP organization.
 Download the [results report](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) to validate assignments. Schedule onboarding with an Adobe Onboarding Specialist for [administrative roles](https://helpx.adobe.com/enterprise/using/admin-roles.html) and [identity](https://helpx.adobe.com/enterprise/using/identity.html).
 
 For bulk upload issues, see [Troubleshoot bulk user upload](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
-
-
