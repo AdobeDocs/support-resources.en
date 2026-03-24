@@ -16,7 +16,7 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 
 *March 30, 2026*  
 
-![New](../adobe-support-tools-guide/assets/new.svg) The case form is organized into a guided flow, helping users understand what information is required at each stage:
+![New](../adobe-support-tools-guide/assets/new.svg) The case form is organized into a guided flow that helps users understand what information is required at each stage:
 
 - [!UICONTROL Product Selection]  
 - [!UICONTROL Problem Description]  
@@ -27,9 +27,9 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 
 ![New](../adobe-support-tools-guide/assets/new.svg) Added automatic title generation based on the **[!UICONTROL Issue Description]**, allowing the title to be generated automatically while still giving users the option to edit it before submitting the case.
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added an **[!UICONTROL "Is the issue reproducible?"]** option to help improve troubleshooting. If users select *Yes*, they are prompted to provide the steps taken to reproduce the issue. If *No* is selected, users can proceed with the case submission.
+![New](../adobe-support-tools-guide/assets/new.svg) Added an **[!UICONTROL "Is the issue reproducible?"]** option to help improve troubleshooting. If users select **[!UICONTROL Yes]**, they are prompted to provide the steps taken to reproduce the issue. If *No* is selected, users can proceed with the case submission.
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added an option to indicate whether any recent changes were made to the environment or instance. If *Yes* is selected, users are prompted to provide additional details about the changes.
+![New](../adobe-support-tools-guide/assets/new.svg) Added an option to indicate whether any recent changes were made to the environment or instance. If **[!UICONTROL Yes]** is selected, users are prompted to provide additional details about the changes.
 
 ![New](../adobe-support-tools-guide/assets/new.svg) Added **Additional [!UICONTROL Environment Context] Fields** for entitled products to capture critical details:
 
