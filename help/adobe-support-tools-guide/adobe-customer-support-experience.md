@@ -100,16 +100,16 @@ Follow these steps to create a support ticket:
 
 1. Click the product name to select the affected product, and then click **[!UICONTROL Next]**.
 
-   ![Experience league select a product](./assets/select-product.png)
+   ![Experience league select a product](./assets/product-selection.png)
 
 1. In the **[!UICONTROL Problem Description]** section, enter a description of the issue. The case title is automatically generated based on the issue description. You can edit the title if needed. Confirm whether the issue can be reproduced. Select **Yes** if the issue is reproducible. A text box appears where you can describe the steps required to reproduce the issue. Select **No** if the issue cannot be consistently reproduced.
 
-   ![Experience league issue details](./assets/issue-details.png)
+   ![Experience league Problem Description](./assets/problem-description.png)
 
    Include details such as:
 
-   * What you’re you are trying to do
-   * What isn’t is not working as expected
+   * What you’re trying to do
+   * What isn’t working as expected
    * Steps you have already taken
    * Whether the issue is reproducible
 
@@ -119,13 +119,19 @@ Follow these steps to create a support ticket:
    * Help you confirm if the issue is already addressed
    * Reduce the need to submit a case for common issues
 
-   The panel appears without interrupting the case creation process. You can review the recommendations anytime and continue submitting the case if needed. To generate recommendations, the **issue description must contain at least 50 characters**. A real-time character counter helps you track the minimum requirement.
+   The panel appears without interrupting the case creation process. You can review the recommendations anytime and continue submitting the case if needed.
+
+   >[!NOTE]
+   >
+   >To generate recommendations, the **issue description must contain at least 50 characters**. A real-time character counter helps you track the minimum requirement.
 
    ![Experience league issue details](./assets/ai-recommendations.png)
 
 1. Click **[!UICONTROL Next]**.
 
-1. In the **[!UICONTROL System Information]** section, provide the issue reason and Indicate whether **any recent changes were made to the environment or instance**. Select **Yes** to provide additional details about the changes. Select **No** if no changes were made and click **[!UICONTROL Next]**.
+   ![Click next option](./assets/click-next.png)
+
+1. In the **[!UICONTROL System Information]** section, provide the **[!UICONTROL Product Version]**, **[!UICONTROL Environment]**, **[!UICONTROL Product Offering]**, and indicate whether any recent changes were made to the environment or instance. Select **Yes** to provide additional details about the changes. Select **No** if no changes were made and click **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
@@ -133,23 +139,21 @@ Follow these steps to create a support ticket:
 
    ![Experience league system information](./assets/system-information.png)
 
-1. In the **[!UICONTROL Impact]** section, select the below:
+1. In the **[!UICONTROL Priority & Business Impact]** section, select the following:
    * Case Priority (P4 - Minor, P3 - Important, P2 - Urgent, P1 - Critical)
-   * Provide the Business Impact details when the selected Priority is P1 – Critical.
+   * Provide the Business Impact details when the selected Priority is P1 – Critical, and then click **[!UICONTROL Next]**.
 
-   ![Experience league impact details](./assets/impact.png)
+   ![Experience league Priority & Business Impact](./assets/priority-business-impact.png)
 
    For details on how Case Priority and Business Impact affect support response times, see [Targeted Initial Response Times for Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in the Success Plans Resources documentation.
 
-1. Click **[!UICONTROL Next]**.
-
-1. In the **[!UICONTROL Contact Information]** section, select the timezone, enter your phone number, add watchers, attach any files if needed, and then click **[!UICONTROL Next]**.
+1. In the **[!UICONTROL Contact Information & Watchers List]** section, select the time zone, enter your phone number, add watchers, attach any files if needed, and then click **[!UICONTROL Next]**.
 
    ![Experience league contact information](./assets/contact-information.png)
 
-1. In the **[!UICONTROL Review & Submit]** section, review your case details and click **[!UICONTROL Submit]**.
+1. In the **[!UICONTROL Review & Submit]** section, review your case details and click **[!UICONTROL Approve & Submit Case]**.
 
-   ![Experience league review and submit](./assets/review-and-submit.png)
+   ![Experience league review and submit](./assets/submit-case.png)
 
    The **[!UICONTROL Review & Submit]** step summarizes all the entered information and allows you to:
 
