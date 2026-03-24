@@ -1,10 +1,10 @@
 ---
-title: New EXL Case Form Release Notes
-description: The latest release information for the EXL Case Form.
+title: New EXL case form release notes
+description: The latest release information for the EXL case form.
 feature: Release Notes
 ---
 
-# New EXL Case Form Release Notes
+# New EXL case form release notes
 
 The new Case Creation experience introduces a refreshed form designed to streamline issue resolution and includes:
 
