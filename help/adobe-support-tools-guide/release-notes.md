@@ -68,4 +68,5 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as mandatory field indicators to ensure completeness and reduce submission errors.
 
 ## March 16, 2026 - Request a callback update
+
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added the **[!UICONTROL Request for callback]** feature for Adobe Experience Manager product users.
