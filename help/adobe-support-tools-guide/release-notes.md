@@ -1,10 +1,10 @@
 ---
-title: New EXL case form release notes
+title: Case Form release notes
 description: The latest release information for the EXL case form.
 feature: Release Notes
 ---
 
-# New EXL case form release notes
+# Case Form Release Notes
 
 The new Case Creation experience introduces a refreshed form designed to streamline issue resolution and includes:
 
@@ -12,9 +12,7 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) - Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) - Known issues
 
-## Release 1.0 – Enhanced Case Creation Form
-
-*March 30, 2026*  
+## March 30, 2026 – Enhanced Case Form
 
 ![New](../adobe-support-tools-guide/assets/new.svg) The case form is organized into a guided flow that helps users understand what information is required at each stage:
 
@@ -68,3 +66,6 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Renamed Case Description field to *[!UICONTROL "Please describe the issue"]* for improved clarity.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as mandatory field indicators to ensure completeness and reduce submission errors.
+
+## March 16, 2026 - Request a callback update
+![Fix](../adobe-support-tools-guide/assets/fix.svg) Added the **[!UICONTROL Request for callback]** feature for Adobe Experience Manager product users.
