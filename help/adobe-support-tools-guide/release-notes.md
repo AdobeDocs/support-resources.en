@@ -43,15 +43,19 @@ The new Case Creation experience introduces a refreshed form designed to streaml
     - Site URL (Tags Property Name) / HAR or Assurance log / cURL / Debug Log  
     - Workspace shortlink  
 - **Adobe Journey Optimizer (AJO)**  
-    - Journey ID or Journey URL  
-    - Example profile  
+    - Journey ID or URL/Campaign ID or URL/Channel ID or URL/Offer Decisioning ID or URL  
+    - Example profile
+    - HAR file/Assurance logs
+    - Sandbox Name
 - **Real-Time Customer Data Platform (RTCDP)**  
-    - Affected Component ID (Destination ID, Profile ID, Audience ID, Dataset ID, or Dataflow ID)  
-    - HAR file / Assurance logs  
+    - Affected Component ID (Destination ID/Audience ID/Dataset ID/Dataflow ID/Merge Policy ID/Schema ID/Source ID/Batch ID)
+    - Example profile 
+    - HAR file / Assurance logs
+    - Sandbox Name 
 - **Customer Journey Analytics (CJA)**  
-    - Workspace project  
-    - Tags Property Name  
-
+    - Workspace project URL 
+    - Connection ID / Error message / Code
+    - Data View ID
 
 ![New](../adobe-support-tools-guide/assets/new.svg) Added an **AI-Driven [!UICONTROL Recommendations Panel]** to display helpful guidance without interrupting the case creation flow.
 
