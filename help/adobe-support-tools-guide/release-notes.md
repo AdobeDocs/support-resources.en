@@ -33,27 +33,27 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 
 ![New](../adobe-support-tools-guide/assets/new.svg) Added **Additional [!UICONTROL Environment Context] Fields** for entitled products to capture critical details:
 
-- **Marketo**  
-    - Munchkin ID  
-- **Adobe Target**  
-    - Activity Name  
-    - Site URL (Tags Property Name) / HAR or Assurance log  
-- **Adobe Analytics**  
-    - RSID  
-    - Site URL (Tags Property Name) / HAR or Assurance log / cURL / Debug Log  
-    - Workspace shortlink  
-- **Adobe Journey Optimizer (AJO)**  
-    - Journey ID or URL/Campaign ID or URL/Channel ID or URL/Offer Decisioning ID or URL  
+- **Marketo**
+    - Munchkin ID
+- **Adobe Target**
+    - Activity Name
+    - Site URL (Tags Property Name) / HAR or Assurance log
+- **Adobe Analytics**
+    - RSID
+    - Site URL (Tags Property Name) / HAR or Assurance log / cURL / Debug Log
+    - Workspace shortlink
+- **Adobe Journey Optimizer (AJO)**
+    - Journey ID or URL/Campaign ID or URL/Channel ID or URL/Offer Decisioning ID or URL
     - Example profile
     - HAR file/Assurance logs
     - Sandbox Name
-- **Real-Time Customer Data Platform (RTCDP)**  
+- **Real-Time Customer Data Platform (RTCDP)**
     - Affected Component ID (Destination ID/Audience ID/Dataset ID/Dataflow ID/Merge Policy ID/Schema ID/Source ID/Batch ID)
-    - Example profile 
+    - Example profile
     - HAR file / Assurance logs
-    - Sandbox Name 
-- **Customer Journey Analytics (CJA)**  
-    - Workspace project URL 
+    - Sandbox Name
+- **Customer Journey Analytics (CJA)**
+    - Workspace project URL
     - Connection ID / Error message / Code
     - Data View ID
 
