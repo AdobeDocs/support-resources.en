@@ -1,16 +1,16 @@
 ---
-title: Case Form release notes
-description: The latest release information for the EXL case form.
+title: Experience League support release notes
+description: The latest release information on the Experience League support.
 feature: Release Notes
 ---
 
-# Case Form Release Notes
+# Experience League support release notes
 
-The new Case Creation experience introduces a refreshed form designed to streamline issue resolution and includes:
+These release notes contain updates to the Experience League support and includes:
 
-![New](../adobe-support-tools-guide/assets/new.svg) - New features
-![Fix](../adobe-support-tools-guide/assets/fix.svg) - Fixes and improvements
-![Bug](../adobe-support-tools-guide/assets/bug.svg) - Known issues
+![New](../adobe-support-tools-guide/assets/new.svg) New features
+![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
+![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
 ## March 30, 2026 – Enhanced Case Form
 
@@ -67,6 +67,6 @@ The new Case Creation experience introduces a refreshed form designed to streaml
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as mandatory field indicators to ensure completeness and reduce submission errors.
 
-## March 16, 2026 - Request a callback update
+## March 18, 2026 - Expansion of Request for Callback
 
-![Fix](../adobe-support-tools-guide/assets/fix.svg) Added the **[!UICONTROL Request for callback]** feature for Adobe Experience Manager product users.
+![Fix](../adobe-support-tools-guide/assets/fix.svg) The **[!UICONTROL Request for callback]** option is now available for Adobe Experience Manager product users.
