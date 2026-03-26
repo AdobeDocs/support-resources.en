@@ -248,14 +248,14 @@ Country or region code where user operates. Only applies to Federated and Enterp
 
   <tr>
     <td>userType</td>
-    <td>One of "Adobe ID", "Enterprise ID", or "Federated ID".</td>
+    <td>One of Adobe ID, Enterprise ID, or Federated ID.</td>
     <td>Read only</td>
   </tr>
 
   <tr>
     <td>adminType</td>
-    <td>One of "GLOBAL ADMIN", "GLOBAL VIEWER", "SYSTEM ADMIN", "USER GROUP ADMIN", "PRODUCT ADMIN", "PRODUCT PROFILE ADMIN", "DEPLOYMENT ADMIN", and "STORAGE_ADMIN".</td>
-    <td rowspan="4">Can be set when operation=Create</td>
+    <td>One of GLOBAL ADMIN, GLOBAL VIEWER, SYSTEM ADMIN, USER GROUP ADMIN, PRODUCT ADMIN, PRODUCT PROFILE ADMIN, DEPLOYMENT ADMIN, and STORAGE_ADMIN.</td>
+    <td rowspan="5">Can be set when operation=Create</td>
   </tr>
 
   <tr>
@@ -279,7 +279,6 @@ Country or region code where user operates. Only applies to Federated and Enterp
   <tr>
     <td>userName</td>
     <td>User name of user if not using email address</td>
-    <td></td>
   </tr>
 
   <tr>
@@ -303,7 +302,7 @@ Exports and imports of product profiles consist of two parts: the product profil
 
 - The resource objects are nested within the product profile in JSON format.
 - When using CSV or XLSX with product profiles, the profiles and resources are combined into one table. There will be multiple entries for the product profile, one for each resource.
-- The "selected" field in the resource controls whether the service is enabled.
+- The selected field in the resource controls whether the service is enabled.
 - When importing product profiles, there must be a Create or Update operation on the product profile itself and on any resource objects that are to be updated or created.
 
 
@@ -362,7 +361,7 @@ Organization that contains the user group
   <tr>
     <td>resources</td>
     <td> Array of resources associated with this product profile.
-The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with the following additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. For details on these fields, see [Products and resources](#products-and-resources).
+The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with the following additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. For details on these fields, see the section titled *Products and resources*.
 If the product profile has more than one resource, there will be multiple rows present, one for each resource. The other fields will have the same values for each resource. </td>
     <td></td>
   </tr>
@@ -380,7 +379,7 @@ If the product profile has more than one resource, there will be multiple rows p
 
 - productProfileId, licenseId and orgId must have valid values.
 - When creating a product profile, the productProfileName must be a valid name and must not duplicate another product profile name or user group name in the same organization.
-- The quota field must have a valid value for the unit type. This is numeric or "unlimited" when resourceType=QUOTA or blank otherwise.
+- The quota field must have a valid value for the unit type. This is numeric or unlimited when resourceType=QUOTA or blank otherwise.
 - The notification field must be true or false.
 - For CSV and XLSX imports, validate productProfileId; all its entries must have the same orgId, licenseId, and productProfileName.
 - Validate duplicate productProfileName in the input file and the organization.
@@ -558,7 +557,7 @@ The domain information provides read-only information about domains available in
 | domainName    | Name of the domain (for example, adobe.com).                                              | Read only                                                     |
 | directoryName | Name of the directory in which the domain is listed                                       | Read only                                                     |
 | directoryType | One of Federated ID or Enterprise ID.                                                     | Read only                                                     |
-| domainStatus  | One of "ACTIVE", "RESERVED", "UNCLAIMED", "CLAIMED", "VALIDATED", "WITHDRAWN", "EXPIRED". | Read only                                                     |
+| domainStatus  | One of ACTIVE, RESERVED, UNCLAIMED, CLAIMED, VALIDATED, WITHDRAWN, EXPIRED. | Read only                                                     |
 
 
 ### Products and resources {#products-and-resources} 

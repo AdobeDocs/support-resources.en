@@ -27,6 +27,7 @@ role: User, Admin
   - [Export or import organization structure and product allocations](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
   - [Enforce password expiration in the Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
   - [Download audit logs and export reports](adobe-admin-console/download-audit-logs-and-export-reports.md)
+  - [Migrate existing users to the Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
@@ -45,3 +46,4 @@ role: User, Admin
   - [How to include a team member in Support notifications](/help/adobe-support-tools-guide/adobe-commerce-support/how-to-include-a-team-member-in-support-notifications.md)
   - [Partner Adobe Commerce on cloud infrastructure sandbox requests](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
   - [Unable to add user to Adobe Commerce cloud project](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
+  - [How to apply a composer patch provided by Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
