@@ -76,6 +76,8 @@ Experience League is a self-service support portal designed to provide personali
 
 1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a Callback]**, or access additional learning resources.
 
+    Schedule a call with Adobe experts about your current case using the **[!UICONTROL Request a Callback]** option.
+
    ![Experience league home menu](./assets/home-menu.png)
 
 1. To submit a case, select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROL Open Ticket]** in the sidebar menu.
