@@ -361,7 +361,7 @@ Organization that contains the user group
   <tr>
     <td>resources</td>
     <td> Array of resources associated with this product profile.
-The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with the following additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. For details on these fields, see the section titled *Products and resources*.
+The resources field is only present for JSON format. For CSV and XLSX format, resources are represented with the following additional fields: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. For details on these fields, see the section titled Products and resources.
 If the product profile has more than one resource, there will be multiple rows present, one for each resource. The other fields will have the same values for each resource. </td>
     <td></td>
   </tr>
