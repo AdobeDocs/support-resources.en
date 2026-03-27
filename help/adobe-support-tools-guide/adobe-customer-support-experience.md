@@ -76,7 +76,7 @@ Experience League is a self-service support portal designed to provide personali
 
 1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a Callback]**, or access additional learning resources.
 
-    Schedule a call with Adobe experts about your current case using the **[!UICONTROL Request a Callback]** option.
+    The **[!UICONTROL Request a Callback]** option allows you to schedule web meetings with screen sharing, enabling faster and more efficient issue resolution. It is available for Adobe Experience Manager, Campaign, and Workfront. Meetings can be scheduled at the customer’s convenience, and instant invites are provided. For Adobe Experience Manager P1 cases, immediate callbacks are ensured to enable rapid engagement during critical issues, helping minimize downtime and business impact.
 
    ![Experience league home menu](./assets/home-menu.png)
 
