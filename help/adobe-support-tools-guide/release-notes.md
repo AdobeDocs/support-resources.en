@@ -35,21 +35,23 @@ These release notes contain updates to the Experience League support and include
     - Munchkin ID
 - **Adobe Target**
     - Activity Name
-    - Site URL (Tags Property Name) / HAR or Assurance log
+    - Site URL(Tags Property Name)
 - **Adobe Analytics**
     - RSID
-    - Site URL (Tags Property Name) / HAR or Assurance log / cURL / Debug Log
-    - Workspace shortlink
+    - Site URL(Tags Property Name) / cURL
+    - Workspace Shortlink
 - **Adobe Journey Optimizer (AJO)**
     - Journey ID or URL/Campaign ID or URL/Channel ID or URL/Offer Decisioning ID or URL
     - Example profile
-    - HAR file/Assurance logs
     - Sandbox Name
 - **Real-Time Customer Data Platform (RTCDP)**
     - Affected Component ID (Destination ID/Audience ID/Dataset ID/Dataflow ID/Merge Policy ID/Schema ID/Source ID/Batch ID)
     - Example profile
-    - HAR file / Assurance logs
     - Sandbox Name
+- **Adobe Experience Platform (AEP)**
+    - Affected Component ID (Destination ID/Audience ID/Dataset ID/Dataflow ID/Merge Policy ID/Schema ID/Source ID/Batch ID)
+    - Example profile
+    - Sandbox Name       
 - **Customer Journey Analytics (CJA)**
     - Workspace project URL
     - Connection ID / Error message / Code
@@ -67,6 +69,9 @@ These release notes contain updates to the Experience League support and include
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as mandatory field indicators to ensure completeness and reduce submission errors.
 
-## March 18, 2026 - Expansion of Request for Callback
+## March 18, 2026 - Expansion of Request for Callback feature
 
-![Fix](../adobe-support-tools-guide/assets/fix.svg) The **[!UICONTROL Request for callback]** option is now available for Adobe Experience Manager product users.
+Experience League now offers a Request for Callback option, enabling self-service web meeting scheduling with screen sharing capabilities for faster issue resolution.
+- This feature is available for Adobe Experience Manager, Campaign, and Workfront. 
+- Customers can schedule meetings at their convenience and receive instant invites. 
+- For Adobe Experience Manager P1 cases, immediate callbacks ensure faster engagement during critical issues, helping minimize downtime and business impact.
