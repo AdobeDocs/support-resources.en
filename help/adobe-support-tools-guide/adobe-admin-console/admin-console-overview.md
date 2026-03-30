@@ -8,7 +8,7 @@ feature: Admin Console
 
 # Adobe Admin Console overview
 
-Applies to enterprise & teams.
+Applies to Enterprise & Teams.
 
 The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, and payments. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). Review the video below to learn more about navigating the Adobe Admin Console.
 
@@ -18,7 +18,7 @@ Each tab on the Admin Console enables you to perform various tasks. Select the t
 
 - **[!UICONTROL Overview]**(#overview): View a summary of the licenses purchased and quick actions to set up your organization.
 
-- **[!UICONTROL Products]**(#products): Assign licenses to users and groups. As an enterprise customer, you can manage product profiles.
+- **[!UICONTROL Products]**(#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
 
 - **[!UICONTROL Users]**(#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
 
@@ -118,7 +118,7 @@ Then, view and download these reports for further analysis. Learn more: [Use aud
 
 Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments. License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. 
 
-Learn more: [License assignment reports for enterprise products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+Learn more: [License assignment reports for Enterprise products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 ## **[!UICONTROL Storage]** {#storage}
 
@@ -201,8 +201,8 @@ Learn more: [Project policies](https://helpx.adobe.com/enterprise/using/projects
 
 To contact Adobe Customer Care, navigate to the Support page in the [Admin Console](https://adminconsole.adobe.com/) which allows you to do the following:
 
-- Manage your support cases (enterprise only)
-- Create cases (enterprise only)
+- Manage your support cases (Enterprise only)
+- Create cases (Enterprise only)
 - Connect with Adobe Customer Care representatives  
 - Schedule Expert Sessions
 - Browse popular Help Topics and forums
