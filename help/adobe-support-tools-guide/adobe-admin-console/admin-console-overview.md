@@ -201,8 +201,8 @@ Learn more: [Project policies](https://helpx.adobe.com/enterprise/using/projects
 
 To contact Adobe Customer Care, navigate to the Support page in the [Admin Console](https://adminconsole.adobe.com/) which allows you to do the following:
 
-- Manage your support cases (Enterprise only)
-- Create cases (Enterprise only)
+- Manage your support cases (enterprise only)
+- Create cases (enterprise only)
 - Connect with Adobe Customer Care representatives  
 - Schedule Expert Sessions
 - Browse popular Help Topics and forums
