@@ -189,7 +189,7 @@ Learn more: [Domain Enforcement for restricted authentication](https://helpx.ado
 
 ## Encryption settings {#encryption-settings}
 
-[Encryption settings](https://helpx.adobe.com/enterprise/using/encryption.html) generate a dedicated encryption key for extra layers of control and security.
+[Encryption settings](https://helpx.adobe.com/enterprise/using/encryption.html) generate dedicated encryption keys for extra layers of control and security.
 
 ## Project policies {#project-policies}
 
