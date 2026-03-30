@@ -2,8 +2,8 @@
 title: Experience League support release notes
 description: The latest release information on the Experience League support.
 feature: Release Notes
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 ---
-
 # Experience League support release notes
 
 These release notes contain updates to the Experience League support and includes:
