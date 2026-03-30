@@ -59,7 +59,7 @@ Who can view this tab: System Administrators, Product Administrators, and Produc
 Enterprise {#enterprise}
 
 
-The **[!UICONTROL Products]** page in the [Admin Console](https://adminconsole.adobe.com) provides the options to manage your products and product profiles. Product profiles let you enable all or a subset of Adobe applications and services available in a plan and customize settings associated with a given product or plan. You can then assign administrators, called Product Administrators, to the product profiles. These administrators add end users to the product profiles that they manage.
+The **[!UICONTROL Products]** page in the [Admin Console](https://adminconsole.adobe.com) provides options to manage your products and product profiles. Product profiles let you enable all or a subset of Adobe applications and services available in the plan and customize settings associated with a given product or plan. You can then assign administrators, called Product Administrators, to the product profiles. These administrators add end users to the product profiles they manage.
 
 For more information, see:
 
