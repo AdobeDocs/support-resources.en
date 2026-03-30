@@ -26,7 +26,7 @@ Each tab on the Admin Console enables you to perform various tasks. Select the t
 
 - **[!UICONTROL Account]**(#account): Manage your organization's contracts and agreements with Adobe.
 
-- **[!UICONTROL Storage]**(#storage): Manage individual user folders and shared folders, view storage quota consumed by users.
+- **[!UICONTROL Storage]**(#storage): Manage individual user folders and shared folders, and view storage quota consumed by users.
 
 - **[!UICONTROL Insights]**(#insights): View, create, and download license assignment reports and track changes made in the Admin Console.
 
