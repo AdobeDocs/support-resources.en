@@ -46,7 +46,7 @@ If you're an administrator for multiple organizations, you can switch between or
 
 ![Admin console Select your org](../assets/admin-console-select-your-org.png "Organization Selector")
 
-If the organization is a part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You will also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of organization B and this organization's Global Admin Console path is A > B where B is a child of the organization A.
+If the organization is part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of organization B, and this organization's Global Admin Console path is A > B, where B is a child of the organization A.
 
 ![admin console select your child org](../assets/admin-console-select-your-child-org.png "Organization placement in hierarchy of a Global Admin Console")
 
