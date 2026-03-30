@@ -177,7 +177,7 @@ Learn more: [Domain Enforcement for restricted authentication](https://helpx.ado
 
 ## Identity {#identity}
 
-[Identity types](https://helpx.adobe.com/enterprise/using/identity.html) allow the organizations to have different levels of control over user's account and data. It impacts how your organization stores and shares assets.
+[Identity types](https://helpx.adobe.com/enterprise/using/identity.html) allow organizations to have different levels of control over users' account and data. It impacts how your organization stores and shares assets.
 
 ## **[!UICONTROL Asset settings]** {#asset-settings}
 
