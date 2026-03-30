@@ -68,7 +68,7 @@ For more information, see:
 
 Teams {#teams}
 
-The **[!UICONTROL Products]** page in the [Admin Console](https://adminconsole.adobe.com) lets you assign product licenses to users. To assign a product license to a user or group, select the desired product on the **[!UICONTROL Products]** page, and click **[!UICONTROL Add User]**.
+The **[!UICONTROL Products]** page in the [Admin Console](https://adminconsole.adobe.com) lets you assign product licenses to users. To assign a product license to a user or group, select the desired product on the **[!UICONTROL Products]** page and click **[!UICONTROL Add User]**.
 
 Enter the name or email address of the user. You can search for existing users or add a user by specifying a valid email address and filling in the information on the screen. Click **[!UICONTROL Save]**. An email is sent to the user or group confirming access to the application. 
 
