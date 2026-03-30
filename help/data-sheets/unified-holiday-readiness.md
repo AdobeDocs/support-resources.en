@@ -5,7 +5,7 @@ feature-set: Experience Cloud
 feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
 role: Developer, Admin, Leader, User
-index: yes
+index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
 ---
 # Adobe DX Solutions Unified Holiday Readiness Guide
@@ -254,7 +254,7 @@ This ensures stability during high-traffic periods. For full release schedules a
 
 AEM customers leveraging Adobe Managed Services can work proactively with their CSEs to plan for the holidays' coverage needs.
 
-++++
++++
 
 ## Adobe Marketo holiday readiness guide {#marketo}
 
