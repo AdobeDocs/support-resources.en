@@ -18,7 +18,7 @@ Each tab on the Admin Console enables you to perform various tasks. Select the t
 
 - **[!UICONTROL Overview]**(#overview): View a summary of the licenses purchased and quick actions to set up your organization.
 
-- **[!UICONTROL Products]**(#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
+- **[!UICONTROL Products]**(#products): Assign licenses to users and groups. As an enterprise customer, you can manage product profiles.
 
 - **[!UICONTROL Users]**(#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
 
