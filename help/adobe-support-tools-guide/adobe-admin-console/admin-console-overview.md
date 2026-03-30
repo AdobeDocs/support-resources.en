@@ -79,7 +79,7 @@ For more information, see:
 
 ## **[!UICONTROL Users]** {#users}
 
-The **[!UICONTROL Users]** page in the [Admin Console](https://adminconsole.adobe.com) lets you create, search, update, and remove user accounts. These user accounts entitle the end users in your organization to Adobe products and services. You can also use the bulk edit workflows to add users or modify user details and license assignments.
+The **[!UICONTROL Users]** page in the [Admin Console](https://adminconsole.adobe.com) lets you create, search, update, and remove user accounts. These user accounts entitle the end users in your organization to Adobe products and services. You can also use bulk edit workflows to add users or modify user details and license assignments.
 
 For more information, see:
 
