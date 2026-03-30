@@ -110,7 +110,7 @@ Who can view this tab: System Administrators.
 
 **[!UICONTROL Audit Log]** helps ensure continued compliance, safeguarding against any inappropriate system access, and auditing suspicious behavior within your organization.
 
-As a system administrator, you have full visibility of the changes made in the [Admin Console](https://adminconsole.adobe.com/). You can search the audit log based on the type of actions, when they occurred, and who made them.
+As a System Administrator, you have full visibility of the changes made in the [Admin Console](https://adminconsole.adobe.com/). You can search the audit log based on the type of actions, when they occurred, and who made them.
 
 Then, view and download these reports for further analysis. Learn more: [Use audit log to track user assignments and events](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
@@ -149,7 +149,7 @@ For more information, see [Packaging apps via the Admin Console](https://helpx.a
 
 Who can view this tab: System Administrators and Storage Administrators.
 
-Storage administrators can access only the [asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) and [content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). System administrators can view or modify settings depending on their plan.
+Storage administrators can access only the [asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) and [content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). System Administrators can view or modify settings depending on their plan.
 
 [!Note]
 >
@@ -193,7 +193,7 @@ Learn more: [Domain Enforcement for restricted authentication](https://helpx.ado
 
 ## Project policies {#project-policies}
 
-As a system administrator, you can control who has permission to create and manage projects in your organization. By default, all users added to the Admin Console can create and manage projects. 
+As a System Administrator, you can control who has permission to create and manage projects in your organization. By default, all users added to the Admin Console can create and manage projects. 
 
 Learn more: [Project policies](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies).
 
