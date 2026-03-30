@@ -181,7 +181,7 @@ Learn more: [Domain Enforcement for restricted authentication](https://helpx.ado
 
 ## **[!UICONTROL Asset settings]** {#asset-settings}
 
-[Asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) give an organization control over how its employees share its assets outside the organization. Asset Settings are used along with other organizational policy enforcement systems (not provided by Adobe) to ensure that assets are only shared with appropriate external individuals and organizations.
+[Asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) give an organization control over how its employees share its assets outside the organization. Asset settings are used along with other organizational policy enforcement systems (not provided by Adobe) to ensure that assets are only shared with appropriate external individuals and organizations.
 
 ## Authentication settings {#authentication-settings}
 
