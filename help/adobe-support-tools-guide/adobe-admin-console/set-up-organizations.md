@@ -1,6 +1,6 @@
 ---
 title: Manage organization hierarchy
-description: Learn how global administrators can manage the organization’s hierarchy in the Global Admin Console.
+description: Learn how global administrators can manage the organization's hierarchy in the Global Admin Console.
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
@@ -10,7 +10,7 @@ exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
 
 Applies to enterprise.
 
-Learn how global administrators can manage the organization’s hierarchy in the Global Admin Console.
+Learn how global administrators can manage the organization's hierarchy in the Global Admin Console.
 
 After you gain [access to the [!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access), you can create new organizations, add existing organizations to the hierarchy, delete organizations, and change a parent organization.
 [Sign in to the Global Admin Console](https://global-admin-console.adobe.com/)
@@ -36,7 +36,7 @@ The following can prevent system administrators from being inherited:
    ![Add Organization](/help/adobe-support-tools-guide/assets/add-an-organization-1.png)
 3. Specify a **name** and the **country** of the organization.  
    The organization's simple name must be between 4 and 100 characters; maximum length for pathname is 255 characters.
-   ![Add child Organization](/help/adobe-support-tools-guide/assets/add-an-child-organization.png)
+   ![Add child Organization](/help/adobe-support-tools-guide/assets/add-a-child-organization.png)
 4. Select **[!UICONTROL Save]**.
 5. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
@@ -75,7 +75,6 @@ As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-cons
 >[!TIP]
 >
 >Use a clear, recognizable organization name up to 255 characters to help users select the correct profile. Avoid using special characters, and consider including region, department, or entitlement. Also, avoid uncommon acronyms and vague or similar names across your organization hierarchy.
-Use a clear, recognizable organization name up to 255 characters to help users select the correct profile. Avoid using special characters, and consider including region, department, or entitlement. Also, avoid uncommon acronyms and vague or similar names across your organization hierarchy.
 
 Changes are logged in the audit log, all users are notified by email, and the name cannot be updated again for 24 hours. [Learn how to view and download audit logs](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
@@ -96,7 +95,7 @@ Changing the parent of an organization has the following impact:
 >If products are removed as a result of reparenting, users lose access to those products.
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). In the **[!UICONTROL Organizations]** tab, select **[!UICONTROL Change hierarchy]** to enable reparenting the organizations.
-2. Select **[!UICONTROL  OK]** in the pop-up screen that appears.
+2. Select **[!UICONTROL OK]** in the pop-up screen that appears.
 3. To reparent, drag the child organization on top of the desired organization.
 4. Select **[!UICONTROL Save]** when you are done reparenting your organizations.
 5. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
@@ -114,7 +113,6 @@ Learn more about the [limitations on product allocation](https://helpx.adobe.com
 >[!WARNING]
 >
 > You can only add child organizations to root organizations that are based on the same storage model. So, child organizations based on the user storage model can only be added to root organizations based on the user storage model. And, child organizations based on the enterprise storage model can only be added to root organizations based on the enterprise storage model.
-You can only add child organizations to root organizations that are based on the same storage model. So, child organizations based on the user storage model can only be added to root organizations based on the user storage model. And, child organizations based on the enterprise storage model can only be added to root organizations based on the enterprise storage model.
 
 The **[!UICONTROL Organization Mapper]** tab shows the following:
 

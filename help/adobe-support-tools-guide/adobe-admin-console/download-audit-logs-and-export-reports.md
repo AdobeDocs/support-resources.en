@@ -28,36 +28,34 @@ As a global administrator, you have full visibility into changes made in the Glo
 To view or download audit logs for your organization:
 
 1. As a global administrator, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights).
-1. Select **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**.
-The audit logs display the following information for filtered events:
+1. Select **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**. The audit logs display the following information for filtered events:
 
-      | Field | Description |
-      |------ |-------------|
-      | Date | Date and time of the event, shown in the local time zone. |
-      | Event Name | Description of the action performed. |
-      | Event Detail | Additional event details, if available. |
-      | Object Name | The name of the product, product profile, or user group that is involved in the event, as applicable. |
-      | Affected User | Email address of the affected user, if applicable. |
-      | Admin | Email address of the admin who performed the action. *System* is displayed if the action was performed by an Adobe backend system. |
-      | IP Address | IP address of the machine where the action was taken. Usually reflects the physical location, but could be a proxy server or VPN address. |
-      | Organization | Name of the organization affected by the event. |
-
+   | Field | Description |
+   |------ |-------------|
+   | Date | Date and time of the event, shown in the local time zone. |
+   | Event Name | Description of the action performed. |
+   | Event Detail | Additional event details, if available. |
+   | Object Name | The name of the product, product profile, or user group that is involved in the event, as applicable. |
+   | Affected User | Email address of the affected user, if applicable. |
+   | Admin | Email address of the admin who performed the action. *System* is displayed if the action was performed by an Adobe backend system. |
+   | IP Address | IP address of the machine where the action was taken. Usually reflects the physical location, but could be a proxy server or VPN address. |
+   | Organization | Name of the organization affected by the event. |
 
 1. You can filter audit logs using the following options:
 
-      - Search by affected user or admin.
-      - Select one or more organizations.
-      - Define a date range.
-      - Filter by event name.
-      - You can combine filters to narrow results, such as viewing events from the last seven days for a specific organization.
+   - Search by affected user or admin.
+   - Select one or more organizations.
+   - Define a date range.
+   - Filter by event name.
+   - You can combine filters to narrow results, such as viewing events from the last seven days for a specific organization.
 
-     ![audit-logs](assets/audit-logs.png)
+   ![audit-logs](assets/audit-logs.png)
 
-     *Filter the audit logs based on the event name, affected organization, or date range.*
+   *Filter the audit logs based on the event name, affected organization, or date range.*
 
-     ![select-organization](assets/select-organizations.png)
-  
-     *Select organizations to filter the audit logs.*
+   ![select-organization](assets/select-organizations.png)
+
+   *Select organizations to filter the audit logs.*
 
 1. To export audit logs, select **[!UICONTROL Export CSV]** to export filtered results. The results are downloaded in CSV format.
 

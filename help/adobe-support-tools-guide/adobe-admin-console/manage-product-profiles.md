@@ -17,7 +17,7 @@ exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
 ---
 # Manage Product Profiles in the Global Admin Console
 
-> **Applies to:** Enterprise
+**Applies to:** Enterprise
 
 
 ## Overview
