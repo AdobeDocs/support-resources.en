@@ -4,8 +4,8 @@ description: How Adobe customers can use the Adobe Admin Console to manage licen
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 34be803e-da0f-4968-bb54-171be200a875
 ---
-
 # Adobe Admin Console overview
 
 Applies to Enterprise & Teams.
@@ -208,4 +208,3 @@ To contact Adobe Customer Care, navigate to the Support page in the [Admin Conso
 - Browse popular Help Topics and forums
 
 To learn more about Support options, see [Support and Expert Sessions](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html).
-  
