@@ -20,9 +20,7 @@ The [Global Admin Console](https://adminconsole.adobe.com/support) is for custom
 
 The Global Admin Console does not replace or change the functionality of the existing Admin Consoles. It works as a hierarchy with a root organization at the top and all the consoles nested under that root organization. There is a selection criterion focused on purchasing and creating a hierarchy structure in which an Admin Console operates as the root console.
 
-To learn more about the functionality and benefits of the Global Admin Console, see the [white paper on the Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) and watch this video:
-
->[!VIDEO](https://youtu.be/FLBWR78wpok)
+To learn more about the functionality and benefits of the Global Admin Console, see the [white paper on the Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) and watch the following [video](https://youtu.be/FLBWR78wpok).
 
 The content and voice-over for this video is currently available in English only.
 
