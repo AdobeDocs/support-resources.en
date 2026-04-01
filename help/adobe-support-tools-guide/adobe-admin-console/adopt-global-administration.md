@@ -10,10 +10,9 @@ exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
 
 Applies to enterprise.
 
-Learn about the benefits of using the Global Admin Console and find out how to get access. [Learn more](#request-access-to-the-global-admin-console)
+Learn about the benefits of using the Global Admin Console and find out how to get access. [Learn more](#request-access-to-the-global-admin-console).
 
-Create a support case in the Adobe Admin Console to request access to a Global Admin Console.
-Sign in to the [Global Admin Console](https://adminconsole.adobe.com/support).
+Create a support case in the Adobe Admin Console to request access to a Global Admin Console. Sign in to the [Global Admin Console](https://adminconsole.adobe.com/support).
 
 ## Introduction
 
@@ -21,9 +20,7 @@ The [Global Admin Console](https://adminconsole.adobe.com/support) is for custom
 
 The Global Admin Console does not replace or change the functionality of the existing Admin Consoles. It works as a hierarchy with a root organization at the top and all the consoles nested under that root organization. There is a selection criterion focused on purchasing and creating a hierarchy structure in which an Admin Console operates as the root console.
 
-To learn more about the functionality and benefits of the Global Admin Console, see the [white paper on the Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625).
-
-[!VIDEO](https://youtu.be/FLBWR78wpok)
+To learn more about the functionality and benefits of the Global Admin Console, see the [white paper on the Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) and watch the following [video](https://youtu.be/FLBWR78wpok).
 
 The content and voice-over for this video is currently available in English only.
 
@@ -35,7 +32,7 @@ The following are some key advantages of the [!DNL Global Admin Console]:
 - Create organizations for each entity and manage them in a hierarchical structure. Organizations can also be deleted.
 - Distribute resources and product licenses across organizations.
 - Restrict visibility between organizations so administrators can view only users and resources within their assigned scope.
-- Manage the Admin Console organizational structure in a self‑service manner that aligns with your organization’s directory structure.
+- Manage the Admin Console organizational structure in a self‑service manner that aligns with your organization's directory structure.
 - Create centers of administration by assigning designated administrators to manage Adobe resources for specific organizations or projects.
 - Define and apply policies at the organization level.
 - Create, edit, and delete product profiles and user groups.
@@ -70,7 +67,7 @@ To request access to the [Global Admin Console](https://adminconsole.adobe.com/s
 
    - Priority of the issue: P4 – Minor
    - Impact of the issue: Medium
-   - Issue summary: <Your organization’s name> is requesting access to the Global Admin Console
+   - Issue summary: <Your organization's name> is requesting access to the Global Admin Console
 
 1. In **[!UICONTROL Describe the nature of the issue you're facing]**, state that your organization is requesting access to the Global Admin Console, and include the following details:
 

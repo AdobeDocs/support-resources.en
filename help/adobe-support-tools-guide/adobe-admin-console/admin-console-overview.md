@@ -10,31 +10,29 @@ exl-id: 34be803e-da0f-4968-bb54-171be200a875
 
 Applies to Enterprise & Teams.
 
-The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, and payments. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). Review the video below to learn more about navigating the Adobe Admin Console.
-
-[!Video](https://helpx.adobe.com/enterprise/using/admin-console.html)
+The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, and payments. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). To learn more refer to the following [video](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 Each tab on the Admin Console enables you to perform various tasks. Select the titles below to know more.
 
-- **[!UICONTROL Overview]**(#overview): View a summary of the licenses purchased and quick actions to set up your organization.
+- [!UICONTROL Overview] {#overview}: View a summary of the licenses purchased and quick actions to set up your organization.
 
-- **[!UICONTROL Products]**(#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
+- [!UICONTROL Products] {#products}: Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
 
-- **[!UICONTROL Users]**(#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
+- [!UICONTROL Users] {#users}: Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
 
-- **[!UICONTROL Packages]**(#packages): Download pre-configured packages or create them for desktop apps that you plan to deploy.
+- [!UICONTROL Packages] {#packages}: Download pre-configured packages or create them for desktop apps that you plan to deploy.
 
-- **[!UICONTROL Account]**(#account): Manage your organization's contracts and agreements with Adobe.
+- [!UICONTROL Account] {#account}: Manage your organization's contracts and agreements with Adobe.
 
-- **[!UICONTROL Storage]**(#storage): Manage individual user folders and shared folders, and view storage quota consumed by users.
+- [!UICONTROL Storage] {#storage}: Manage individual user folders and shared folders, and view storage quota consumed by users.
 
-- **[!UICONTROL Insights]**(#insights): View, create, and download license assignment reports and track changes made in the Admin Console.
+- [!UICONTROL Insights] {#insights}: View, create, and download license assignment reports and track changes made in the Admin Console.
 
-- **[!UICONTROL Settings]**(#settings): Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
+- [!UICONTROL Settings] {#settings}: Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
 
 If you are unable to sign in to the Admin Console, see [Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
-## **[!UICONTROL Overview]** {#overview}
+## [!UICONTROL Overview] {#overview}
 
 The **[!UICONTROL Overview]** tab efficiently displays a wealth of information about product licenses. It shows the status of licenses in your plan—the number of licenses assigned out of the total available ones. There are also some quick links available to add users and admins.
 
@@ -48,11 +46,11 @@ If you're an administrator for multiple organizations, you can switch between or
 
 If the organization is part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of organization B, and this organization's Global Admin Console path is A > B, where B is a child of the organization A.
 
-![admin console select your child org](assets/admin-console-select-your-org-hierachy.png "Organization placement in hierarchy of a Global Admin Console")
+![admin console select your child org](assets/admin-console-select-your-org-hierarchy.png "Organization placement in hierarchy of a Global Admin Console")
 
 If you have a complex organizational structure that has many Admin Consoles or if you want to break up your main Admin Console into multiple consoles, you can [adopt the Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). For example, multinational corporations, education consortiums, large school districts, and large government agencies. The Global Admin Console nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
 
-## **[!UICONTROL Products]** {#products}
+## [!UICONTROL Products] {#products}
 
 Who can view this tab: System Administrators, Product Administrators, and Product Profile Administrators.
 
@@ -77,7 +75,7 @@ For more information, see:
 - [Assign or unassign licenses](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
 - [Add or remove products or licenses](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
 
-## **[!UICONTROL Users]** {#users}
+## [!UICONTROL Users] {#users}
 
 The **[!UICONTROL Users]** page in the [Admin Console](https://adminconsole.adobe.com) lets you create, search, update, and remove user accounts. These user accounts entitle the end users in your organization to Adobe products and services. You can also use bulk edit workflows to add users or modify user details and license assignments.
 
@@ -86,7 +84,7 @@ For more information, see:
 - [Manage users](https://helpx.adobe.com/enterprise/using/users.html)
 - [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html)
 
-## **[!UICONTROL Account]** {#account}
+## [!UICONTROL Account] {#account}
 
 Who can view this tab: System Administrators and Contract Administrators.
 
@@ -102,11 +100,11 @@ Depending on your plan—Enterprise, VIP, VIP Marketplace, or Teams—you can:
 
 Learn more: [Managing your account](https://helpx.adobe.com/enterprise/using/accounts.html).
 
-## **[!UICONTROL Insights]** {#insights}
+## [!UICONTROL Insights] {#insights}
 
 Who can view this tab: System Administrators.
 
-### **[!UICONTROL Audit Log]** {#audit-log}
+### [!UICONTROL Audit Log] {#audit-log}
 
 **[!UICONTROL Audit Log]** helps ensure continued compliance, safeguarding against any inappropriate system access, and auditing suspicious behavior within your organization.
 
@@ -114,13 +112,13 @@ As a System Administrator, you have full visibility of the changes made in the [
 
 Then, view and download these reports for further analysis. Learn more: [Use audit log to track user assignments and events](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
-### **[!UICONTROL Assignment Reports]** {#assignment-reports}
+### [!UICONTROL Assignment Reports] {#assignment-reports}
 
 Using the License assignment reports, you can track your organization's license assignment data and plan your users' license deployments. License assignment data only supports named user licenses for Creative Cloud and Document Cloud products purchased under the Enterprise Term License Agreement. 
 
 Learn more: [License assignment reports for Enterprise products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
-## **[!UICONTROL Storage]** {#storage}
+## [!UICONTROL Storage] {#storage}
 
 Who can view this tab: System Administrators and Storage Administrators (only for customers migrated to the [pooled storage model](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
 
@@ -130,7 +128,7 @@ You can also view how much quota is used by individual users and the overall quo
 
 Learn more: [Manage Adobe storage](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
 
-## **[!UICONTROL Packages]** {#packages}
+## [!UICONTROL Packages] {#packages}
 
 Who can view this tab: System Administrators and Deployment Administrators.
 
@@ -145,13 +143,13 @@ The **[!UICONTROL Packages]** page in the [Admin Console](https://adminconsole.a
 
 For more information, see [Packaging apps via the Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
 
-## **[!UICONTROL Settings]** {#settings}
+## [!UICONTROL Settings] {#settings}
 
 Who can view this tab: System Administrators and Storage Administrators.
 
 Storage administrators can access only the [asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) and [content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). System Administrators can view or modify settings depending on their plan.
 
-[!Note]
+>[!NOTE]
 >
 > Adobe does not provide a native capability for top‑level administrators to compare current Admin Console settings against Adobe's recommended secure defaults. Administrators may refer to Adobe's recommended configuration guidance and validate compliance using their organization's identity provider, endpoint management tools, and internal audit processes.
 
@@ -159,13 +157,13 @@ Storage administrators can access only the [asset settings](https://helpx.adobe.
 
 In the event of a security incident involving our software solutions, notifications are sent to the appropriate compliance officers. To help ensure prompt notification, as a System admin, you must specify who your security, data protection, and compliance officers are. For details, see [Privacy and security contacts](https://helpx.adobe.com/enterprise/using/security-contacts.html).
 
-## **[!UICONTROL Console settings]** {#console-settings}
+## [!UICONTROL Console settings] {#console-settings}
 
 Using [[!UICONTROL Console settings]](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
 
 Choose a default email language for your organization, to receive emails about the account statuses, such as subscription changes or credit card expiration. If you have a teams membership purchased directly from Adobe, you can change your team name from the **[!UICONTROL Console settings]**.
 
-## **[!UICONTROL  Content logs]** {#content-logs}
+## [!UICONTROL  Content logs] {#content-logs}
 
 As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called [[!UICONTROL content logs]](https://helpx.adobe.com/enterprise/using/content-logs.html). 
 
@@ -179,7 +177,7 @@ Learn more: [Domain Enforcement for restricted authentication](https://helpx.ado
 
 [Identity types](https://helpx.adobe.com/enterprise/using/identity.html) allow organizations to have different levels of control over users' account and data. It impacts how your organization stores and shares assets.
 
-## **[!UICONTROL Asset settings]** {#asset-settings}
+## [!UICONTROL Asset settings] {#asset-settings}
 
 [Asset settings](https://helpx.adobe.com/enterprise/using/asset-settings.html) give an organization control over how its employees share its assets outside the organization. Asset settings are used along with other organizational policy enforcement systems (not provided by Adobe) to ensure that assets are only shared with appropriate external individuals and organizations.
 
