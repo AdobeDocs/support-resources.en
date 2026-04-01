@@ -158,13 +158,13 @@ In the event of a security incident involving our software solutions, notificati
 
 ## [!UICONTROL Console settings]
 
-Using [[!UICONTROL Console settings]](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
+Using [!UICONTROL Console settings](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
 
 Choose a default email language for your organization, to receive emails about the account statuses, such as subscription changes or credit card expiration. If you have a teams membership purchased directly from Adobe, you can change your team name from the **[!UICONTROL Console settings]**.
 
 ## [!UICONTROL Content logs]
 
-As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called [[!UICONTROL content logs]](https://helpx.adobe.com/enterprise/using/content-logs.html). 
+As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called [!UICONTROL content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). 
 
 ## Domain enforcement
 
