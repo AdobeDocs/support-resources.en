@@ -49,7 +49,7 @@ The audit logs display the following information for filtered events:
    - Select one or more organizations.
    - Define a date range.
    - Filter by event name.
-   - You can combine filters to narrow results, such as viewing events from the last seven days for a specific organization.
+   - Combine filters to narrow results, such as viewing events from the last seven days for a specific organization.
 
    ![audit-logs](assets/audit-logs.png)
 
