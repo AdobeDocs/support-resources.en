@@ -17,7 +17,7 @@ role: User, Admin
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Admin Console overview](adobe-admin-console/admin-console-overview.md)
-  - [Admin Roles](adobe-admin-console/admin-roles.md)
+  - [Admin roles](adobe-admin-console/admin-roles.md)
   - [Manage user groups in the Global Admin Console](adobe-admin-console/manage-user-groups.md)
   - [Accessibility in Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
   - [Allocate products to child organizations using the Global Admin Console](adobe-admin-console/allocate-products.md)
