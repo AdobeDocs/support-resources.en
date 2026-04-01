@@ -28,7 +28,9 @@ As a global administrator, you have full visibility into changes made in the Glo
 To view or download audit logs for your organization:
 
 1. As a global administrator, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights).
-1. Select **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**. The audit logs display the following information for filtered events:
+1. Select **[!UICONTROL Insights]** > **[!UICONTROL Audit Logs]**. 
+
+The audit logs display the following information for filtered events:
 
    | Field | Description |
    |------ |-------------|
