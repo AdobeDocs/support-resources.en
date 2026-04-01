@@ -14,10 +14,10 @@ role: User, Admin
 - [Adobe customer support experience](adobe-customer-support-experience.md)
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
-- [Admin Roles](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Admin Console overview](adobe-admin-console/admin-console-overview.md)
+  - [Admin Roles](adobe-admin-console/admin-roles.md)
   - [Manage user groups in the Global Admin Console](adobe-admin-console/manage-user-groups.md)
   - [Accessibility in Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
   - [Allocate products to child organizations using the Global Admin Console](adobe-admin-console/allocate-products.md)
