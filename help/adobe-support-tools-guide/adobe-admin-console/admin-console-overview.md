@@ -14,21 +14,21 @@ The Adobe Admin Console is a central location for managing the Adobe entitlement
 
 Each tab on the Admin Console enables you to perform various tasks. Select the linked tab name (the first word of each item) to jump to that section.
 
-- [[!UICONTROL Overview]](#overview): View a summary of the licenses purchased and quick actions to set up your organization.
+- [!UICONTROL Overview](#overview): View a summary of the licenses purchased and quick actions to set up your organization.
 
-- [[!UICONTROL Products]](#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
+- [!UICONTROL Products](#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
 
-- [[!UICONTROL Users]](#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
+- [!UICONTROL Users](#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
 
-- [[!UICONTROL Packages]](#packages): Download pre-configured packages or create them for desktop apps that you plan to deploy.
+- [!UICONTROL Packages](#packages): Download pre-configured packages or create them for desktop apps that you plan to deploy.
 
-- [[!UICONTROL Account]](#account): Manage your organization's contracts and agreements with Adobe.
+- [!UICONTROL Account](#account): Manage your organization's contracts and agreements with Adobe.
 
-- [[!UICONTROL Storage]](#storage): Manage individual user folders and shared folders, and view storage quota consumed by users.
+- [!UICONTROL Storage](#storage): Manage individual user folders and shared folders, and view storage quota consumed by users.
 
-- [[!UICONTROL Insights]](#insights): View, create, and download license assignment reports and track changes made in the Admin Console.
+- [!UICONTROL Insights](#insights): View, create, and download license assignment reports and track changes made in the Admin Console.
 
-- [[!UICONTROL Settings]](#settings): Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
+- [!UICONTROL Settings](#settings): Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
 
 If you are unable to sign in to the Admin Console, see [Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
