@@ -10,7 +10,7 @@ exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
 
 **Applies to:** Enterprise & Teams
 
-Organization system admins can follow the process to set a password expiration time-limit for their users. Sign in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
+Organization system admins can follow the process to set a password expiration time limit for their users. Sign in to the [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 ## Steps
 
