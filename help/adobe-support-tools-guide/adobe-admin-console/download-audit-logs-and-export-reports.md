@@ -37,7 +37,7 @@ The audit logs display the following information for filtered events:
    | Date | Date and time of the event, shown in the local time zone. |
    | Event Name | Description of the action performed. |
    | Event Detail | Additional event details, if available. |
-   | Object Name | The name of the product, product profile, or user group that is involved in the event, as applicable. |
+   | Object Name | Name of the product, product profile, or user group involved in the event, as applicable. |
    | Affected User | Email address of the affected user, if applicable. |
    | Admin | Email address of the admin who performed the action. *System* is displayed if the action was performed by an Adobe backend system. |
    | IP Address | IP address of the machine where the action was taken. Usually reflects the physical location, but could be a proxy server or VPN address. |
