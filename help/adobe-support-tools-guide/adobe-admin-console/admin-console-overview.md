@@ -10,9 +10,7 @@ exl-id: 34be803e-da0f-4968-bb54-171be200a875
 
 Applies to Enterprise & Teams.
 
-The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, and payments. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). 
-
->[!VIDEO](https://helpx.adobe.com/enterprise/using/admin-console.html) 
+The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, and payments. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). To learn more refer to the following [video](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 Each tab on the Admin Console enables you to perform various tasks. Select the titles below to know more.
 
