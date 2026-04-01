@@ -12,7 +12,7 @@ Learn how to choose an organization for editing within the Global Admin Console.
 
 >[!NOTE]
 >
->After you have access to the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access), you can start by selecting an organization to view and manage the organization's name, user groups, product profiles, administrators, and organization policies. To sign in to the Global Admin Console, [click here](https://global-admin-console.adobe.com/).
+>After you have access to the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), you can start by selecting an organization to view and manage the organization's name, user groups, product profiles, administrators, and organization policies. To sign in to the Global Admin Console, [click here](https://global-admin-console.adobe.com/).
 
 The Global Admin Console acts as an organization's central management hub for Adobe resources. Global administrators can:
 
@@ -73,6 +73,6 @@ Any admins added to or removed from an org will receive an email notification. C
 
 - The organization pathname is unique, but the simple name is only unique among its siblings. There may be organizations with the same simple name elsewhere in the org hierarchy.
 
-- You can only view the list of domains linked to the selected organization using the Global Admin console. If you are a system administrator of the selected organization, select the **[!UICONTROL Open in Admin Console]** to [manage domains](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). To understand the information displayed in the Domains tab, see [export and import schemas](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- You can only view the list of domains linked to the selected organization using the Global Admin console. If you are a system administrator of the selected organization, select the **[!UICONTROL Open in Admin Console]** to [manage domains](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). To understand the information displayed in the Domains tab, see [export and import schemas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
 
 - IE 11 isn't supported for global administration access. Use a different browser or a newer version of IE browser.

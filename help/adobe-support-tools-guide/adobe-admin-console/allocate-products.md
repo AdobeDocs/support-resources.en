@@ -12,9 +12,9 @@ Applies to enterprise.
 
 Learn how global administrators can distribute resources to child organizations, enabling effective resource management and user assignment within each organization.
 
-In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), go to the **[!UICONTROL Product Allocation]** tab and select a product to allocate to child organizations.
+In the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), go to the **[!UICONTROL Product Allocation]** tab and select a product to allocate to child organizations.
 
-Sign in to the [Global Admin Console](https://adminconsole.adobe.com/support).
+Sign in to the [Global Admin Console](https://global-admin-console.adobe.com).
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ With the updates to Adobe Creative Cloud storage, storage quotas are flexible fo
 
 ## Allocate products
 
-The **[!UICONTROL Product Allocation]** tab in the Global Admin Console shows allocation units for products purchased across the organization hierarchy. As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), you can allocate these product resources to another organization in the organization tree and specify the quantity to allocate. As a [global viewer](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins), you can view and export the data but cannot make any updates.
+The **[!UICONTROL Product Allocation]** tab in the Global Admin Console shows allocation units for products purchased across the organization hierarchy. As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins), you can allocate these product resources to another organization in the organization tree and specify the quantity to allocate. As a [global viewer](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins), you can view and export the data but cannot make any updates.
 
 To allocate products to an organization, follow these steps:
 
@@ -79,7 +79,7 @@ Allocation from a parent organization to a child organization is limited in thes
 
 ## Overallocation
 
-As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html#admins) you can allow overallocation of resources.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins) you can allow overallocation of resources.
 
 An allocation [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#update-policies) associated with the product and organization indicates whether overallocation is allowed.
 

@@ -12,7 +12,7 @@ exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
 
 Explore global administrator capabilities and learn how to delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization.
 
-In the Global Admin Console you can select an organization and navigate to the **[!UICONTROL Admins]** tab to add, edit, or remove admin rights. To learn more, refer to [Adopt global administration](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). 
+In the Global Admin Console you can select an organization and navigate to the **[!UICONTROL Admins]** tab to add, edit, or remove admin rights. To learn more, refer to [Adopt global administration](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). 
 
 
 The Global Admin Console introduces a role called the global administrator. This role is distinct from a system administrator and allows you to do the following:

@@ -10,9 +10,7 @@ exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
 
 Create, manage, and share user groups in the Global Admin Console to streamline user management by grouping users with the same permissions, saving time, and ensuring consistency.
 
-In the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), select an organization, and navigate to **[!UICONTROL User Groups]**. Share groups across multiple organizations using a single user management source to sync users and groups.
-
-[Sign in to the Global Admin Console](https://global-admin-console.adobe.com)
+In the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), select an organization, and navigate to **[!UICONTROL User Groups]**. Share groups across multiple organizations using a single user management source to sync users and groups. Go here to [sign in to the Global Admin Console](https://global-admin-console.adobe.com).
 
 
 
@@ -37,7 +35,7 @@ You can either [create user groups](https://helpx.adobe.com/enterprise/using/use
 
 4. Select **[!UICONTROL Save]**.
 
-5. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) them.
+5. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
 
    >[!NOTE]
    >
@@ -78,9 +76,9 @@ Group projection allows you to sync user groups and their associated users from 
    - **[!UICONTROL Add only]**: Merge the user groups by adding new users to the existing user groups without removing any users.
    - **[!UICONTROL Mirror group]**: Adjust the target organization's groups to match the shared group by adding or removing users.
 
-8. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) them.
+8. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
 
-   Group projection events are logged for your reference. Learn to [view and download audit logs](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
+   Group projection events are logged for your reference. Learn to [view and download audit logs](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports).
 
 
 When you share a user group, the group and its users are added to the target organization. However, the *source user group controls* the shared user groups and their users. Admin and product profile assignments are *not* synchronized between organizations.
@@ -105,7 +103,7 @@ Changes in the projected user group's name or associated users in the source use
 
 6. Select **[!UICONTROL Revoke access]**.
 
-7. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) them.
+7. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
 
 
 
@@ -129,7 +127,7 @@ Changes in the projected user group's name or associated users in the source use
    >
    >In the **[!UICONTROL Edit User Group]** wizard, you can assign admin roles only to users who already have an admin role assigned in this organization. Learn how to [add new administrators](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
 
-4. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) them.
+4. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
 
    >[!NOTE]
    >
@@ -153,4 +151,4 @@ Changes in the projected user group's name or associated users in the source use
    >
    >Deleting a user group can impact your users. Ensure that there is no access or information that will be lost when the user group is deleted.
 
-4. After you have edited the organizations, select **[!UICONTROL Review pending changes]** to review them. Then, select **[!UICONTROL Submit changes]** to [execute](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) them.
+4. After you have edited the organizations, select **[!UICONTROL Review pending changes]** to review them. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
