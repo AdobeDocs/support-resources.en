@@ -45,7 +45,7 @@ After downloading the file, you can manipulate the data and then import it back.
 
 ## Import the organization structure
 
-As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can import potentially modified data. When uploaded, the new data is compared with the current data and any changes are applied to the organization hierarchy. All import operations are performed on the updated copy of the organization hierarchy. If you have any pending changes, the import changes will be added on top of the pending changes in the hierarchy.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can import potentially modified data. When uploaded, the new data is compared with the current data and any changes are applied to the organization hierarchy. All import operations are performed on the updated copy of the organization hierarchy. If you have any pending changes, imported changes are added on top of the existing pending changes in the hierarchy.
 
 ### Steps to import
 
