@@ -12,7 +12,7 @@ Applies to enterprise.
 
 Learn how global administrators can distribute resources to child organizations, enabling effective resource management and user assignment within each organization.
 
-In the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), go to the **[!UICONTROL Product Allocation]** tab and select a product to allocate to child organizations.
+In the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), go to the **[!UICONTROL Product Allocation]** tab, and then select a product to allocate to child organizations.
 
 Sign in to the [Global Admin Console](https://global-admin-console.adobe.com).
 
