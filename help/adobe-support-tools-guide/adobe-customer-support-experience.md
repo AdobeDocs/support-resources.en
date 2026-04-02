@@ -125,7 +125,11 @@ Follow these steps to create a support ticket:
 
    >[!NOTE]
    >
-   >To generate recommendations, the **issue description must contain at least 50 characters**. A real-time character counter helps you track the minimum requirement.
+   >The recommendation panel adapts to the level of detail in the issue description. When the description exceeds 50 characters, the system generates AI-powered recommendations tailored to the issue. When the description contains fewer than 50 characters, the system displays recommended articles for guidance. A built-in character counter tracks the minimum requirement in real time.
+
+   >[!NOTE]
+   >
+   >AI-powered recommendations do not appear for the Adobe Admin Console product.
 
    ![Experience league issue details](./assets/ai-recommendations.png)
 
