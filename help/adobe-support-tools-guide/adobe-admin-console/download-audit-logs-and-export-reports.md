@@ -100,7 +100,7 @@ To download an export report:
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights) and navigate to **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-   The reports generated in the last 90 days are displayed. Once 90 days are complete, you can generate the report again. Learn how you can generate reports for [Organization structure](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
+   Reports generated within the last 90 days are displayed. After 90 days, you can generate the report again. Learn how you can generate reports for [Organization structure](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
 
 
    | Field | Description |
