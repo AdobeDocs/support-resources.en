@@ -37,7 +37,7 @@ With the updates to Adobe Creative Cloud storage, storage quotas are flexible fo
 
 ## Allocate products
 
-The **[!UICONTROL Product Allocation]** tab in the Global Admin Console shows allocation units for products purchased across the organization hierarchy. As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins), you can allocate these product resources to another organization in the organization tree and specify the quantity to allocate. As a [global viewer](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins), you can view and export the data but cannot make any updates.
+The **[!UICONTROL Product Allocation]** tab in the Global Admin Console shows allocation units for products purchased across the organization hierarchy. As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins), you can allocate these product resources to another organization in the organization tree and specify the allocation quantity. As a [global viewer](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins), you can view and export the data but cannot make any updates.
 
 To allocate products to an organization, follow these steps:
 
