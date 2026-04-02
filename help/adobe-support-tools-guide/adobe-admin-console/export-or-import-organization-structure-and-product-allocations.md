@@ -622,7 +622,7 @@ Operation field on resources is ignored when the product to which they belong ha
 
 ## Import and export product allocation data
 
-As a [Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can export the product allocation data as a JSON or CSV file. You can then manipulate this data and upload it back to import the changes. When the potentially modified data is uploaded, the new data is compared with current data and any changes are applied to the product allocation data. You can then review and submit the pending changes for them to take effect.
+As a [Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can export the product allocation data as a JSON or CSV file. You can then modify this data and upload it to import the changes. When the potentially modified data is uploaded, the new data is compared with current data and any changes are applied to the product allocation data. You can then review and submit the pending changes for them to take effect.
 
 ## Export the product allocation model
 
