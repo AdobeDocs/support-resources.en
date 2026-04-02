@@ -37,7 +37,7 @@ You can add trusted public IPs to the **Allowed IP addresses** list to stop user
 
 You can add up to 150 different public IP ranges in CIDR format only.
 
-Follow the steps to enable IP-based access in your Adobe Admin Console:
+Follow these steps to enable IP-based access in your Adobe Admin Console:
 
 1. Go to the **[!UICONTROL Adobe Admin Console Settings](https://adminconsole.adobe.com/settings/identity)** section.
 2. Select and expand **[!UICONTROL Privacy and security]** in the selection menu, then select **[!UICONTROL Authentication settings]**.
