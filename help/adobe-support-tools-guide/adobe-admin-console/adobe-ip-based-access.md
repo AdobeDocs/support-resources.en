@@ -4,8 +4,8 @@ description: Use IP-based access to control user access to Adobe products and re
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: e4595040-3930-48af-9888-cf1349596c77
 ---
-
 # Limit product access by IP addresses
 
 Applies to enterprise.
