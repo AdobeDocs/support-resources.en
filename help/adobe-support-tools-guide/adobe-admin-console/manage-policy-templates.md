@@ -13,6 +13,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
+exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
 ---
 # Manage policy templates in the Global Admin Console
 
