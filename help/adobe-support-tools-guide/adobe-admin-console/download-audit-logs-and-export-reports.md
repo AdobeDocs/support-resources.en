@@ -18,7 +18,7 @@ To get started, sign in to the [Global Admin Console](https://global-admin-conso
 
 As a global administrator, you have full visibility into changes made in the Global Admin Console. You can search audit logs across all organizations for actions taken in the last 90 days, including when they occurred and who performed them.
 - Audit logs help ensure continued compliance by safeguarding against inappropriate system access and by auditing suspicious behavior within your organization.
-- The logs available in the Global Admin Console include only events that a global administrator has access to. They do not include user assignments or user events. [Learn more](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) about the different capabilities each console offers.
+- The logs available in the Global Admin Console include only events that a global administrator can access. They do not include user assignments or user events. [Learn more](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) about the different capabilities each console offers.
 - The logs cover events for all organizations in the hierarchy, allowing you to search audit logs across all organizations at once.
 
 >[!NOTE]
