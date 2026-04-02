@@ -19,6 +19,8 @@ exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
 ---
 # Update organization policies in the Global Admin Console
 
+**Applies to:** Enterprise
+
 Learn how a global administrator can set and modify policies for an organization and its children in the Global Admin Console.
 
 >[!NOTE]
