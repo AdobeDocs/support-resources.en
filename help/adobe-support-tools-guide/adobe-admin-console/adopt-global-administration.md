@@ -1,9 +1,9 @@
 ---
 title: Adopt global administration
 description: Learn what the Global Admin Console is and how to request access.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
 ---
 # Adopt global administration
@@ -26,7 +26,7 @@ The content and voice-over for this video is currently available in English only
 
 ## Key advantages
 
-The following are some key advantages of the [!DNL Global Admin Console]:
+The following are some key advantages of the Global Admin Console:
 
 - Delegate administration of Adobe product usage and cloud storage to divisions, departments, or field offices, reducing the need for centralized administration.
 - Create organizations for each entity and manage them in a hierarchical structure. Organizations can also be deleted.
@@ -53,7 +53,7 @@ Adobe recommends global administration if your organization meets one or more of
 
 ## Request access to the Global Admin Console
 
-To request access to the [Global Admin Console](https://adminconsole.adobe.com/support/), follow the steps below after consulting your Adobe representative.
+To request access to the [Global Admin Console](https://global-admin-console.adobe.com), follow the steps below after consulting your Adobe representative.
 
 1. In the [Admin Console](https://adminconsole.adobe.com/support/), navigate to **[!UICONTROL Support]** > **[!UICONTROL Support Summary]**.
    
