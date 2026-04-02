@@ -18,6 +18,8 @@ topic_v2:
 ---
 # Update organization policies in the Global Admin Console
 
+**Applies to:** Enterprise
+
 Learn how a global administrator can set and modify policies for an organization and its children in the Global Admin Console.
 
 >[!NOTE]
