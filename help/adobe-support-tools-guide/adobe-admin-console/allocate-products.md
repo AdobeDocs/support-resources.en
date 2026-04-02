@@ -79,7 +79,7 @@ Allocation from a parent organization to a child organization is limited in thes
 
 ## Overallocation
 
-As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins) you can allow overallocation of resources.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators#admins), you can allow overallocation of resources.
 
 An allocation [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#update-policies) associated with the product and organization indicates whether overallocation is allowed.
 
