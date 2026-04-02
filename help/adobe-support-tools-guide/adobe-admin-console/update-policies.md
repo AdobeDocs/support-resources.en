@@ -26,16 +26,17 @@ Learn how a global administrator can set and modify policies for an organization
 >
 > [Sign in to the Global Admin Console](https://global-admin-console.adobe.com/)
 
-Policies are associated with an organization and restrict operations that can be performed on that organization. When a policy value is set, it restricts or enables actions from that point forward. For example, if the *Claim Domains* policy is set to *not allowed*, no additional domains can be claimed — but any domains claimed before setting the policy value aren't affected.
+Policies are associated with an organization and restrict operations that can be performed on that organization. When a policy value is set, it restricts or enables actions from that point forward.
+For example, if the **Claim Domains** policy is set to *not allowed*, no additional domains can be claimed, but any domains claimed before setting the policy value aren't affected.
 
 ## Configure Policies
 
 To modify the policies of an organization, do the following:
 
-1. In the Global Admin Console, [select an organization](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) to edit, then navigate to the **Policies** tab.
-2. Select the toggle for the relevant policy to allow or disallow it. You can also lock a policy so no one except a global administrator of the [selected organization](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) or its parent organization can change or unlock it.
-3. To lock a policy, select the **Lock** icon. Hovering on the lock displays the name of the selected organization. Learn more about [policy locks](#policy-locks).
-4. Select **Review Pending Changes** after you are done editing the organizations. After reviewing, select **Submit Changes** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
+1. In the Global Admin Console, [select an organization](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) to edit, then navigate to the **[!UICONTROL Policies]** tab.
+1. Select the toggle for the relevant policy to allow or disallow it. You can also lock a policy so no one except a global administrator of the [selected organization](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) or its parent organization can change or unlock it.
+1. To lock a policy, select the **[!UICONTROL Lock]** ![Lock](./assets/lock.png) icon. Hovering on the lock displays the name of the selected organization. Learn more about [policy locks](#policy-locks).
+1. Select **[!UICONTROL Review Pending Changes]** after you're done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 ## Policy Locks {#policy-locks}
 
@@ -45,7 +46,7 @@ To create a locked-down environment, set desired policy values on your child org
 
 ### Example: Locked-Down Environment
 
-If Elissa, the global administrator of *Acme Division*, creates child orgs *Marketing* and *Engineering*, then adds Robert as a global admin of *Marketing* and Sarah as global admin of *Engineering*. Next, she sets several policies to **Not Allowed** and **locks** them. Elissa can later unlock and change the policy values when she chooses *Acme Division* as the selected organization, but Robert and Sarah can't unlock the policies on the organizations they are global admins of because the policies are locked by the organization *Acme Division*.
+If Elissa, the global administrator of *Acme Division*, creates child orgs *Marketing* and *Engineering*, then adds Robert as a global admin of *Marketing* and Sarah as global admin of *Engineering*. Next, she sets several policies to *Not Allowed* and *locks* them. Elissa can later unlock and change the policy values when she chooses *Acme Division* as the selected organization, but Robert and Sarah can't unlock the policies on the organizations they're global admins of because the policies are locked by the organization *Acme Division*.
 
 ## Policy Details
 
@@ -53,7 +54,7 @@ If Elissa, the global administrator of *Acme Division*, creates child orgs *Mark
 
 | Policy Name | Description |
 | --- | --- |
-| **Create Child Orgs** | Allows global admin(s) to create child orgs. If off, no child orgs can be created. |
+| **Create Child Orgs** | Allows global admin(s) to create child orgs. If *off*, no child orgs can be created. |
 | **Rename Org** | If allowed, a global or system admin can rename the org. It also controls changing the country/region of the org. The pathname of an organization can also be changed independently of this policy setting if a parent organization is renamed, or the organization or an ancestor of the organization is reparented. |
 | **Delete Orgs** | Allows global admin(s) to delete child organizations. This becomes more important when organizations with Enterprise Storage are enabled due to the risk of deleting user assets. |
 
@@ -61,16 +62,16 @@ If Elissa, the global administrator of *Acme Division*, creates child orgs *Mark
 
 | Policy Name | Description |
 | --- | --- |
-| **Add or Delete Admins** | Allows global admin(s) to add new admins to an organization. If off, new admins can't be added. |
-| **Inherit System Admins from Parent when Child Org is Created** | When global admin(s) create new child organizations, system admins of the parent become system admins of the new organization automatically. This policy is off by default. |
+| **Add or Delete Admins** | Allows global admin(s) to add new admins to an organization. If *off*, new admins can't be added. |
+| **Inherit System Admins from Parent when Child Org is Created** | When global admin(s) create new child organizations, system admins of the parent become system admins of the new organization automatically. This policy is *off* by default. |
 | **Manage Admins** | Allows global admin(s) to change or remove/edit admin permissions. |
 
 ### User Management
 
 | Policy Name | Description |
 | --- | --- |
-| **Inherit Users from Directories Managed by the Parent Org** | This policy must be toggled on and active prior to creating the new child org. When a child organization is created, users in the parent organization are made available as users in the child org. In other words, this policy automatically sets up a trust relationship between the parent and the child when the new child is created within GAC. For existing orgs, any trust relationships prior to being added to GAC will remain once brought into GAC. If there were no trust relationships in place, the usual trust request process must be followed. For this policy to be successful, the global admin who creates the new organization must also be a system admin of the parent organization with the claimed domain. If not, the domain trust relationship won't be inherited into the newly created org. |
-| **Add Adobe ID Users** | If set, the organization can't add Adobe ID type users via the Admin Console, User Management API (UMAPI), or sync mechanism. |
+| **Inherit Users from Directories Managed by the Parent Org** | This policy must be toggled *on* and active prior to creating the new child org. When a child organization is created, users in the parent organization are made available as users in the child org. In other words, this policy automatically sets up a trust relationship between the parent and the child when the new child is created within the GAC. For existing orgs, any trust relationships prior to being added to the GAC will remain once brought into the GAC. If there were no trust relationships in place, the usual trust request process must be followed. For this policy to be successful, the global admin who creates the new organization must also be a system admin of the parent organization with the claimed domain. If not, the domain trust relationship won't be inherited into the newly created org. |
+| **Add Adobe ID Users** | If set, the organization can't add Adobe ID type users via the Admin Console, User Management API (UMAPI), nor sync mechanism. |
 | **Manage User Groups** | If allowed, Global, System, and user group admins can create, edit, and delete User Groups. |
 
 ### Directory and Domain Enforcement
