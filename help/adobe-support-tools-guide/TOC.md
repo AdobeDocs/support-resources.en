@@ -27,6 +27,7 @@ role: User, Admin
   - [Select an organization in the Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
   - [Manage administrators](adobe-admin-console/manage-administrators.md)
   - [Manage Product Profiles in the Global Admin Console](adobe-admin-console/manage-product-profiles.md)
+  - [Update organization policies in the Global Admin Console](adobe-admin-console/update-policies.md)
   - [Export or import organization structure and product allocations](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
   - [Enforce password expiration in the Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
   - [Download audit logs and export reports](adobe-admin-console/download-audit-logs-and-export-reports.md)
