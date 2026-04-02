@@ -12,11 +12,11 @@ Applies to enterprise.
 
 Learn about the benefits of using the Global Admin Console and find out how to get access. [Learn more](#request-access-to-the-global-admin-console).
 
-Create a support case in the Adobe Admin Console to request access to a Global Admin Console. Sign in to the [Global Admin Console](https://adminconsole.adobe.com/support).
+Create a support case in the Adobe Admin Console to request access to a Global Admin Console. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Introduction
 
-The [Global Admin Console](https://adminconsole.adobe.com/support) is for customers with complex organizational structures that either have many Admin Consoles or want to break up their main Admin Console into multiple consoles. For example, multinational corporations, education consortiums, large school districts, and large government agencies. It nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
+The [Global Admin Console](https://global-admin-console.adobe.com) is for customers with complex organizational structures that either have many Admin Consoles or want to break up their main Admin Console into multiple consoles. For example, multinational corporations, education consortiums, large school districts, and large government agencies. It nests existing Admin Consoles into a hierarchical structure, like an organization chart, to provide transparency across a distributed enterprise.
 
 The Global Admin Console does not replace or change the functionality of the existing Admin Consoles. It works as a hierarchy with a root organization at the top and all the consoles nested under that root organization. There is a selection criterion focused on purchasing and creating a hierarchy structure in which an Admin Console operates as the root console.
 

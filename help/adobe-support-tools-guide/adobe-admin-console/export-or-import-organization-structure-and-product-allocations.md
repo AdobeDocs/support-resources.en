@@ -12,12 +12,11 @@ exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
 
 Learn how global administrators can streamline organization and product management with export and import features in the Global Admin Console.
 
-Access the **[!UICONTROL Organizations]** tab in the [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) to export or import the organization structure. Go to the **[!UICONTROL Product Allocation]** tab to view allocation data. Select the **[!UICONTROL More Options]** (⋮) icon, and then choose **[!UICONTROL Export]** or **[!UICONTROL Import]**. 
-Go here to [sign in to the Global Admin Console](https://global-admin-console.adobe.com). 
+Access the **[!UICONTROL Organizations]** tab in the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) to export or import the organization structure. Go to the **[!UICONTROL Product Allocation]** tab to view allocation data. Select the **[!UICONTROL More Options]** (⋮) icon, and then choose **[!UICONTROL Export]** or **[!UICONTROL Import]**. Go here to [sign in to the Global Admin Console](https://global-admin-console.adobe.com). 
 
 ## Export the organization structure
 
-As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can export the organization hierarchy. You can download a JSON, CSV, or XLSX representation of the entire organization hierarchy or a subset of it. You can then use this data for analysis or modification.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can export the organization hierarchy. You can download a JSON, CSV, or XLSX representation of the entire organization hierarchy or a subset of it. You can then use this data for analysis or modification.
 
 The export format chosen impacts the structure of the exported data:
 
@@ -46,7 +45,7 @@ After downloading the file, you can manipulate the data and then import it back.
 
 ## Import the organization structure
 
-As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can import potentially modified data. When uploaded, the new data is compared with the current data and any changes are applied to the organization hierarchy. All import operations are performed on the updated copy of the organization hierarchy. If you have any pending changes, the import changes will be added on top of the pending changes in the hierarchy.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can import potentially modified data. When uploaded, the new data is compared with the current data and any changes are applied to the organization hierarchy. All import operations are performed on the updated copy of the organization hierarchy. If you have any pending changes, imported changes are added on top of the existing pending changes in the hierarchy.
 
 ### Steps to import
 
@@ -119,7 +118,7 @@ Input records with no or blank operation field are ignored.
     <td>parentOrgId</td>
     <td>
       Parent organization id. Blank for root organization.
-      When updating, significant restrictions apply including that new parent be in same hierarchy and
+      When updating, significant restrictions apply including that the new parent is in the same hierarchy and
       have the products that are present in the organization.
     </td>
     <td>
@@ -297,7 +296,7 @@ Country or region code where user operates. Only applies to Federated and Enterp
 - If the user already exists and is being updated, the userType must match the user.
 - Check for duplicate email addresses in the organization.
 
-### Product Profiles
+### Product profiles
 
 Exports and imports of product profiles consist of two parts: the product profile details, and a set of resources associated with the product profile. These resources identify services which can be configured, usually just to enable or disable them.
 
@@ -305,7 +304,6 @@ Exports and imports of product profiles consist of two parts: the product profil
 - When using CSV or XLSX with product profiles, the profiles and resources are combined into one table. There will be multiple entries for the product profile, one for each resource.
 - The selected field in the resource controls whether the service is enabled.
 - When importing product profiles, there must be a Create or Update operation on the product profile itself and on any resource objects that are to be updated or created.
-
 
 <table>
   <tr>
@@ -471,7 +469,7 @@ If the product profile has more than one resource, there will be multiple rows p
 - For product profiles to be created, the number of resources should match the source product profile's number of resources.
 - For resources with *Update* operation, the resource must be present in the product profile.
 
-### User Groups 
+### User groups 
 
 <table>
   <tr>
@@ -561,7 +559,7 @@ The domain information provides read-only information about domains available in
 | domainStatus  | One of ACTIVE, RESERVED, UNCLAIMED, CLAIMED, VALIDATED, WITHDRAWN, EXPIRED. | Read only                                                     |
 
 
-### Products and resources {#products-and-resources} 
+### Products and resources {#products-and-resources}
 
 In XLSX files, there are two sheets—one for products and one for the resources. In JSON, resource objects are nested in the product object.
 
@@ -624,7 +622,7 @@ Operation field on resources is ignored when the product to which they belong ha
 
 ## Import and export product allocation data
 
-As a [Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can export the product allocation data as a JSON or CSV file. You can then manipulate this data and upload it back to import the changes. When the potentially modified data is uploaded, the new data is compared with current data and any changes are applied to the product allocation data. You can then review and submit the pending changes for them to take effect.
+As a [Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can export the product allocation data as a JSON or CSV file. You can then modify this data and upload it to import the changes. When the potentially modified data is uploaded, the new data is compared with current data and any changes are applied to the product allocation data. You can then review and submit the pending changes for them to take effect.
 
 ## Export the product allocation model
 

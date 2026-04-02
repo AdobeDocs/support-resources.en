@@ -18,7 +18,7 @@ To get started, sign in to the [Global Admin Console](https://global-admin-conso
 
 As a global administrator, you have full visibility into changes made in the Global Admin Console. You can search audit logs across all organizations for actions taken in the last 90 days, including when they occurred and who performed them.
 - Audit logs help ensure continued compliance by safeguarding against inappropriate system access and by auditing suspicious behavior within your organization.
-- The logs available in the Global Admin Console include only events that a global administrator has access to. They do not include user assignments or user events. [Learn more](https://helpx.adobe.com/enterprise/using/admin-console.html) about the different capabilities each console offers.
+- The logs available in the Global Admin Console include only events that a global administrator can access. They do not include user assignments or user events. [Learn more](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) about the different capabilities each console offers.
 - The logs cover events for all organizations in the hierarchy, allowing you to search audit logs across all organizations at once.
 
 >[!NOTE]
@@ -100,7 +100,7 @@ To download an export report:
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/insights) and navigate to **[!UICONTROL Insights]** > **[!UICONTROL Export Reports]**.
 
-   The reports generated in the last 90 days are displayed. Once 90 days are complete, you can generate the report again. Learn how you can generate reports for [Organization structure](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Reports generated within the last 90 days are displayed. After 90 days, you can generate the report again. Learn how you can generate reports for [Organization structure](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
 
 
    | Field | Description |
