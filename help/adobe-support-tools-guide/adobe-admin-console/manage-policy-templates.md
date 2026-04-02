@@ -26,7 +26,7 @@ Learn how global administrators can apply policy templates to any child organiza
 >
 > [Sign in to the Global Admin Console](https://global-admin-console.adobe.com/)
 
-### How policy templates work
+## How policy templates work
 
 Policy Templates are stored with an organization and are visible to all global administrators of that organization. Once applied, the entries from the policy template are individually set in each organization. When a policy template is applied to an organization, each of the entries in the policy template are applied to the organization's policies, replacing existing policy values.
 
