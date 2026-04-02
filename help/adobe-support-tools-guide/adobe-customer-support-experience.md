@@ -121,17 +121,17 @@ Follow these steps to create a support ticket:
    * Help you confirm if the issue is already addressed
    * Reduce the need to submit a case for common issues
 
-   The panel appears without interrupting the case creation process. You can review the recommendations anytime and continue submitting the case if needed.
-
-   >[!NOTE]
-   >
-   >The recommendation panel adapts to the level of detail in the issue description. When the description exceeds 50 characters, the system generates AI-powered recommendations tailored to the issue. When the description contains fewer than 50 characters, the system displays recommended articles for guidance. A built-in character counter tracks the minimum requirement in real time.
+   The recommendation panel adapts to the level of detail in the issue description and appears without interrupting case creation. You can review recommendations at any time and continue submitting the case. When the issue description **exceeds 50 characters**, the system generates AI-powered recommendations tailored to the issue.
 
    >[!NOTE]
    >
    >AI-powered recommendations do not appear for the Adobe Admin Console product.
 
    ![Experience league issue details](./assets/ai-recommendations.png)
+
+   When the description contains **fewer than 50 characters**, the system displays recommended articles for guidance. A built-in character counter tracks the minimum requirement in real time.
+
+   ![Experience league issue details](./assets/related-recommendations.png) 
 
 1. Click **[!UICONTROL Next]**.
 
