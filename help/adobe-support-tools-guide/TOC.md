@@ -37,6 +37,7 @@ role: User, Admin
 - Adobe Workfront Support {#workfront}
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
+  - [Adobe Commerce support overview](adobe-commerce-support/adobe-commerce-support-overview.md)
   - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [How to obtain and apply security patches](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
   - [How to request temporary Adobe Commerce on cloud infrastructure upsize](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
