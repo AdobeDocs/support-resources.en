@@ -31,6 +31,7 @@ role: User, Admin
   - [Manage policy templates in the Global Admin Console](adobe-admin-console/manage-policy-templates.md)
   - [Export or import organization structure and product allocations](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
   - [Enforce password expiration in the Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+  - [Limit product access by IP addresses](adobe-admin-console/adobe-ip-based-access.md)
   - [Download audit logs and export reports](adobe-admin-console/download-audit-logs-and-export-reports.md)
   - [Migrate existing users to the Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
 - Adobe Workfront Support {#workfront}
