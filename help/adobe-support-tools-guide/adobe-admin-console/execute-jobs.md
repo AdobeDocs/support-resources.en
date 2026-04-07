@@ -27,6 +27,7 @@ This feature applies to Enterprise organizations using the [[!DNL Global Admin C
     - Are cleared when the session ends, such as when the browser tab or window is closed.
 
 > [!NOTE]
+>
 > Execute important changes promptly to ensure they are applied successfully.
 
 ### Multiple administrators and conflicts
@@ -62,6 +63,7 @@ After you submit the job:
 - Adobe recommends executing only one job at a time for predictability and easier troubleshooting.
 
 > [!IMPORTANT]
+>
 > If an error occurs during execution, any changes that were not successfully applied must be reentered and resubmitted.
 
 ### Long-running allocations
@@ -90,6 +92,7 @@ You can cancel a job that is currently executing from the [[!UICONTROL Job Execu
 4. During this time, the job may stay in a [[!UICONTROL Canceling]] state.
 
 > [!NOTE]
+>
 > Plan cancellations with the understanding that completion of the current step may significantly delay when the job stops.
 
 ## View job history
@@ -106,4 +109,5 @@ You can cancel a job that is currently executing from the [[!UICONTROL Job Execu
     - **Errors** and **warnings** associated with execution.
 
 > [!NOTE]
+>
 > Subsequent renames or deletions of related objects **do not affect** how commands are displayed in the job history. The history reflects the state at submission time.
