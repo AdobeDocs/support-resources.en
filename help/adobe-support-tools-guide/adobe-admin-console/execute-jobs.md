@@ -12,9 +12,9 @@ This feature applies to Enterprise organizations using the [[!DNL Global Admin C
     1. **Edit phase**: Make changes to organizations or allocate products.
     2. **Execution phase**: Review and execute pending changes so they take effect.
 
-- To ensure that all changes made in the [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) are implemented and take effect, select the [[!UICONTROL Job Execution]] tab and proceed with executing the pending changes.
+- To ensure that all changes made in the [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) are implemented and take effect, select the **[!UICONTROL Job Execution]** tab and proceed with executing the pending changes.
 
-  Sign in to the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)
+  Sign in to the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
 ## Persistence and visibility of changes
 
@@ -46,19 +46,19 @@ Conflicts are reported:
 
 ## Executing pending changes
 
-As a global administrator, you can review and execute pending changes from the [[!UICONTROL Job Execution]] tab.
+As a global administrator, you can review and execute pending changes from the **[!UICONTROL Job Execution]** tab.
 
 ### Steps to execute changes
 
-1. Sign in to the [[!DNL Global Admin Console]].
-2. Select the [[!UICONTROL Job Execution]] tab from the left navigation panel.
+1. Sign in to the [!DNL Global Admin Console].
+2. Select the **[!UICONTROL Job Execution]** tab from the left navigation panel.
 3. Review the pending changes.
-4. Select [[!UICONTROL Submit Changes]] to execute them.
+4. Select **[!UICONTROL Submit Changes]** to execute them.
 
 After you submit the job:
 
 - The job enters the execution queue.
-- The status is [[!UICONTROL Pending]] while the job runs.
+- The status is **[!UICONTROL Pending]** while the job runs.
 - Adobe recommends executing only one job at a time for predictability and easier troubleshooting.
 
 > [!IMPORTANT]
@@ -68,20 +68,20 @@ After you submit the job:
 ### Long-running allocations
 
 If a product allocation takes longer than 12 hours:
-- The job is marked as [[!UICONTROL Failed]].
+- The job is marked as **[!UICONTROL Failed]**.
 - Any subsequent pending tasks in that job are not executed.
 
 ![pending-jobs](assets/pending-jobs.png)
 
 ## Cancel a running job
 
-You can cancel a job that is currently executing from the [[!UICONTROL Job Execution]] tab.
+You can cancel a job that is currently executing from the **[!UICONTROL Job Execution]** tab.
 
 ### Steps to cancel a running job
 
-1. Sign in to the [[!DNL Global Admin Console]].
-2. Select [[!UICONTROL Job Execution]].
-3. Select [[!UICONTROL Cancel Running Job]].
+1. Sign in to the [!DNL Global Admin Console].
+2. Select **[!UICONTROL Job Execution]**.
+3. Select **[!UICONTROL Cancel Running Job]**.
 
 ### Cancellation behavior
 
@@ -98,10 +98,10 @@ You can cancel a job that is currently executing from the [[!UICONTROL Job Execu
 
 - To view jobs executed in the last 30 days:
 
-    1. Sign in to the [[!DNL Global Admin Console]].
-    2. Select [[!UICONTROL Job Execution]].
+    1. Sign in to the [!DNL Global Admin Console].
+    2. Select **[!UICONTROL Job Execution]**.
     3. Scroll to the bottom of the page.
-    4. Select [[!UICONTROL Recent Jobs]].
+    4. Select **[!UICONTROL Recent Jobs]**.
 
 - Recent jobs display:
     - Submitted **job commands**.
