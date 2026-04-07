@@ -1,9 +1,8 @@
 ---
 title: Execute pending jobs
 description: Learn how to execute pending jobs in the Adobe Admin Console to ensure that all changes are applied to your organization.
-exl-id: 9b8c1a2e-5f3d-4c6a-9b7e-1a2b3c4d5e6f
+exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
 ---
-
 # Execute pending jobs
 
 This feature applies to Enterprise organizations using the [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
