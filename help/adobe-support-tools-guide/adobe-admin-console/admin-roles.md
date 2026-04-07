@@ -48,7 +48,7 @@ As an admin, you can assign an admin role to other users, giving them the same p
 
 To add or invite an admin:
 
-1. In the **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
+1. In the **[Adobe Admin Console](https://adminconsole.adobe.com/)**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
  
    Alternatively, go to the relevant Product, Product Profile, or User Group and navigate to the **[!UICONTROL Admins]** tab.
 
@@ -70,7 +70,7 @@ To add or invite an admin:
 
     ![add admin](../assets/add-admin.png)
 
-1. Review the admin roles assigned to the user and click **Save**.
+1. Review the admin roles assigned to the user and click **[!UICONTROL Save]**.
 
 The user receives an email invitation regarding the new administrative privileges from `message@adobe.com`.
 
@@ -96,7 +96,7 @@ To add or invite a System admin:
 
    The **[!UICONTROL Add an Administrator]** screen displays.
 
-1. Enter a name or email address. You can search for existing users or add a new user by specifying a valid email address, and filling the information on the screen.
+1. Enter a name or email address. You can search for existing users or add a new user by specifying a valid email address, and filling in the information on the screen.
 
    By default, System Administrator is selected. 
 
@@ -105,7 +105,7 @@ To add or invite a System admin:
 ![teams admin image](../assets/teams-admin.png)
 
 Since all users in a teams organization are Business ID users, they receive an email invitation regarding the new administrative privileges from `message@adobe.com`.
-Users must click Get started in the email to join the organization.
+Users must click **[!UICONTROL Get started]** in the email to join the organization.
 
 As part of the sign-in process, users may be asked to set up an Adobe profile if they do not have one already. If users have multiple profiles associated with their email address, users must choose "Join Team" (if prompted) and then select the profile associated with the new organization.
 
@@ -115,7 +115,7 @@ As part of the sign-in process, users may be asked to set up an Adobe profile if
 
 Applies to: Adobe enterprise customers.
 
-As an admin, you can edit the admin role to other admin that are below you in the Administrative hierarchy. For example, you can remove admin privileges of other admins.
+As an admin, you can edit the admin role for another admin who is below you in the administrative hierarchy. For example, you can remove admin privileges of other admins.
 
 To edit admin roles:
 
