@@ -10,7 +10,7 @@ exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
 
 This FAQ article contains links to useful resources for Adobe Commerce on cloud infrastructure sandbox Requests.
 
-# How do I upgrade the services on my Adobe Commerce on cloud infrastructure sandbox? {#how-do-i-upgrade-services-cloud-sandbox}
+## How do I upgrade the services on my Adobe Commerce on cloud infrastructure sandbox? {#how-do-i-upgrade-services-cloud-sandbox}
 
 Most Sandbox projects are set up like [Cloud Starter projects](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/starter-develop-deploy-workflow) rather than [Cloud Pro](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/pro-architecture#staging-environment).
 
