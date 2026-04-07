@@ -16,7 +16,7 @@ Most Sandbox projects are set up like [Cloud Starter projects](https://experienc
 
 For these Starter-style Sandbox projects, you’ll need to upgrade any services yourself as needed. 
 
-If you have a Pro-style Sandbox project, you'll need to 
+If you have a Pro-style Sandbox project, you'll need to submit sandbox-related support requests by emailing [SPPHelp@adobe.com](mailto:SPPHelp@adobe.com). These requests will be routed to the Partner Technical Support team.
 
 ## How do I refresh my Adobe Commerce on cloud infrastructure sandbox? {#how-do-i-refresh-my-cloud-sandbox}
 
