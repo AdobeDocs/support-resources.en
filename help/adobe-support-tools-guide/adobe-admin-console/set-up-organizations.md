@@ -1,24 +1,24 @@
 ---
 title: Manage organization hierarchy
-description: Learn how global administrators can manage the organization’s hierarchy in the Global Admin Console.
+description: Learn how global administrators can manage the organization's hierarchy in the Global Admin Console.
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
+exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
 ---
 # Manage organization hierarchy
 
 Applies to enterprise.
 
-Learn how global administrators can manage the organization’s hierarchy in the Global Admin Console.
+Learn how global administrators can manage the organization's hierarchy in the Global Admin Console.
 
-After you gain [access to the [!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access), you can create new organizations, add existing organizations to the hierarchy, delete organizations, and change a parent organization.
-[Sign in to the Global Admin Console](https://global-admin-console.adobe.com/)
+After you gain [access to the [!DNL Global Admin Console]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), you can create new organizations, add existing organizations to the hierarchy, delete organizations, and change a parent organization. Go here to [sign in to the Global Admin Console](https://global-admin-console.adobe.com/)
 
-An organization is a structure used to manage Adobe products and users. The [[!DNL Adobe Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html) lets administrators manage the deployment and configuration of products and users in their organization. The [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) lets global administrators create, manage, and delete multiple orgs.
+An organization is a structure used to manage Adobe products and users. The [[!DNL Adobe Admin Console]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) lets administrators manage the deployment and configuration of products and users in their organization. The [[!DNL Global Admin Console]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) lets global administrators create, manage, and delete multiple orgs.
 
 ## Create a child organization
 
-As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can create child organizations of any organization in the hierarchy and set the name, country, user groups, products, product profiles, administrators, and policies.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can create child organizations of any organization in the hierarchy and set the name, country, user groups, products, product profiles, administrators, and policies.
 
 When a new child organization is created, the following are automatically inherited from the immediate parent:
 
@@ -26,7 +26,7 @@ When a new child organization is created, the following are automatically inheri
 - The list of system administrators (controlled by the **[!UICONTROL Inherit System Admins on creation]** [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)). 
 The following can prevent system administrators from being inherited:
   - Lack of [domain trust](https://helpx.adobe.com/enterprise/using/directory-trust.html).
-  - User type restrictions (Add Adobe ID/ Enterprise ID/ Federated ID users policies). Learn about the [policy details](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
+  - User type restrictions (Add Adobe ID / Enterprise ID / Federated ID users policies). Learn about the [policy details](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
 - Access to [[!DNL Federated ID]] or [[!DNL Enterprise ID]] users from domains to which the parent org has access. This makes the domain users in the parent available in the child org. Inheritance of user access is controlled by **Inherit users from directories managed by the parent organization** [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
 - Sharing policy, password policy, and security contacts (controlled by **Inherit asset sharing settings when child organization is created** [policy](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
 
@@ -35,13 +35,13 @@ The following can prevent system administrators from being inherited:
    ![Add Organization](/help/adobe-support-tools-guide/assets/add-an-organization-1.png)
 3. Specify a **name** and the **country** of the organization.  
    The organization's simple name must be between 4 and 100 characters; maximum length for pathname is 255 characters.
-   ![Add child Organization](/help/adobe-support-tools-guide/assets/add-an-child-organization.png)
+   ![Add child Organization](/help/adobe-support-tools-guide/assets/add-a-child-organization.png)
 4. Select **[!UICONTROL Save]**.
 5. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
 ## Delete a child organization
 
-As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can delete child organizations. The delete operation cannot be undone, and the root organization cannot be deleted. The resources allocated to the deleted organization are returned to its parent organization. Before an organization is deleted, its parent automatically becomes the parent of any of its child organizations.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can delete child organizations. The delete operation cannot be undone, and the root organization cannot be deleted. The resources allocated to the deleted organization are returned to its parent organization. Before an organization is deleted, its parent automatically becomes the parent of any of its child organizations.
 
 An organization can be deleted only if the following criteria are met:
 
@@ -64,7 +64,7 @@ An organization can be deleted only if the following criteria are met:
 
 The organization name is the official name of your company or institution, set during purchase. Users see this name when selecting a profile during sign-in, especially if they have access to Adobe products from multiple organizations or need to choose between a business and personal profile.
 
-As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can edit the name of any parent or child organization to help users identify the correct profile when signing in to [[!DNL Creative Cloud]] products and services.
+As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can edit the name of any parent or child organization to help users identify the correct profile when signing in to [[!DNL Creative Cloud]] products and services.
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). In the **[!UICONTROL Organizations]** tab, select the organization you want to rename.
 1. Select the **[!UICONTROL Edit]** icon.
@@ -74,13 +74,12 @@ As a [global administrator](https://helpx.adobe.com/enterprise/global-admin-cons
 >[!TIP]
 >
 >Use a clear, recognizable organization name up to 255 characters to help users select the correct profile. Avoid using special characters, and consider including region, department, or entitlement. Also, avoid uncommon acronyms and vague or similar names across your organization hierarchy.
-Use a clear, recognizable organization name up to 255 characters to help users select the correct profile. Avoid using special characters, and consider including region, department, or entitlement. Also, avoid uncommon acronyms and vague or similar names across your organization hierarchy.
 
-Changes are logged in the audit log, all users are notified by email, and the name cannot be updated again for 24 hours. [Learn how to view and download audit logs](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
+Changes are logged in the audit log, all users are notified by email, and the name cannot be updated again for 24 hours. [Learn how to view and download audit logs](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports).
 
 ## Change the parent of an organization
 
-As a [!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can reparent an organization in the organization hierarchy using the **[!UICONTROL Change hierarchy]** button.
+As a [!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can reparent an organization in the organization hierarchy using the **[!UICONTROL Change hierarchy]** button.
 
 Changing the parent of an organization has the following impact:
 
@@ -95,7 +94,7 @@ Changing the parent of an organization has the following impact:
 >If products are removed as a result of reparenting, users lose access to those products.
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/). In the **[!UICONTROL Organizations]** tab, select **[!UICONTROL Change hierarchy]** to enable reparenting the organizations.
-2. Select **[!UICONTROL  OK]** in the pop-up screen that appears.
+2. Select **[!UICONTROL OK]** in the pop-up screen that appears.
 3. To reparent, drag the child organization on top of the desired organization.
 4. Select **[!UICONTROL Save]** when you are done reparenting your organizations.
 5. Select **[!UICONTROL Review Pending Changes]** after you are done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
@@ -104,7 +103,7 @@ Once the job is complete, you can navigate to Product Allocation and [change the
 
 ## Add existing organizations using the Organization Mapper
 
-As a [Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), you can add existing organizations that are not currently part of your Global Admin Console hierarchy to the organization hierarchy.
+As a [Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can add existing organizations that are not currently part of your Global Admin Console hierarchy to the organization hierarchy.
 
 You can also add team organizations to the org hierarchy. Team orgs don't participate in product allocation or product usage rollup, and management of team organizations in the Global Admin Console is limited. You can add them to the org hierarchy to keep track of them and have visibility into the products they purchase. Team organizations cannot have child organizations under them and don't have many of the features of enterprise organizations.
 
@@ -113,7 +112,6 @@ Learn more about the [limitations on product allocation](https://helpx.adobe.com
 >[!WARNING]
 >
 > You can only add child organizations to root organizations that are based on the same storage model. So, child organizations based on the user storage model can only be added to root organizations based on the user storage model. And, child organizations based on the enterprise storage model can only be added to root organizations based on the enterprise storage model.
-You can only add child organizations to root organizations that are based on the same storage model. So, child organizations based on the user storage model can only be added to root organizations based on the user storage model. And, child organizations based on the enterprise storage model can only be added to root organizations based on the enterprise storage model.
 
 The **[!UICONTROL Organization Mapper]** tab shows the following:
 
@@ -124,7 +122,7 @@ When an organization is added to global administration, products in the organiza
 
 1. Sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), and navigate to **[!UICONTROL Organization Mapper]**.
 2. Select a parent organization from the drop-down list.  
-   These are the organizations for which you are directly added as a global administrator. In the drop-down list, if you don't see an organization you want to use as the parent, select one higher up in the hierarchy. Once the Organization mapper operation is complete, you can use [Change hierarchy](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#change-the-parent-of-an-organization) to move the new organization down in the tree to have the parent you want to use.
+   These are the organizations for which you are directly added as a global administrator. In the drop-down list, if you don't see an organization you want to use as the parent, select one higher up in the hierarchy. Once the Organization mapper operation is complete, you can use [Change hierarchy](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations#change-the-parent-of-an-organization) to move the new organization down in the tree to have the parent you want to use.
 3. Select the organizations to be added as children of the organization selected in the previous step.
 4. Select **[!UICONTROL Review Pending Changes]**. Then, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 5. After executing the changes, you can repeat the above steps to add additional child organizations to your organization hierarchy.

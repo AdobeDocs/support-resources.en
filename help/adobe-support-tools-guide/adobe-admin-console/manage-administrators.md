@@ -12,7 +12,7 @@ exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
 
 Explore global administrator capabilities and learn how to delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization.
 
-In the Global Admin Console you can select an organization and navigate to the **[!UICONTROL Admins]** tab to add, edit, or remove admin rights. To learn more, refer to [Adopt global administration](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). Go to the [Global Admin Console](https://global-admin-console.adobe.com/) to sign in.
+In the Global Admin Console, you can select an organization and navigate to the **[!UICONTROL Admins]** tab to add, edit, or remove admin rights. To learn more, refer to [Adopt global administration](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). 
 
 
 The Global Admin Console introduces a role called the global administrator. This role is distinct from a system administrator and allows you to do the following:
@@ -21,7 +21,7 @@ The Global Admin Console introduces a role called the global administrator. This
 - Monitor Adobe license and resource assignments and usage across multiple Admin Consoles.
 - Create Admin Consoles or organizations.
 - Allocate product licenses from a root or parent Admin Console to child Admin Consoles sitting below within the hierarchy.
-- Maintain day-to-day operations while system administrators continue managing their own Admin Consoles. For example, a global admin can allocate a product to a child Admin Console but cannot assign it to users. The system admin will receive the seats within their Admin Console and will assign the products to their users.
+- Maintain day-to-day operations while system administrators continue managing their own Admin Consoles. For example, a Global Admin can allocate a product to a child Admin Console but cannot assign it to users. The system admin will receive the seats within their Admin Console and will assign the products to their users.
 - Optionally apply organizational policies to any Admin Consoles in the hierarchy.
 
 ## Fundamental administrative tasks
@@ -111,9 +111,9 @@ The Global Admin Console is designed to work across multiple organizations and A
 
 ## Manage administrators
 
-You can create a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage. Similar to the Adobe Admin Console, the Global Admin Console allows you to add system admins, product admins, product profile admins, user group admins, deployment admins, support admins, and storage admins. These admins can perform their respective administrative tasks in the organizations they are the admin of. Apart from these roles, there are two new roles for the global administration: global admin and global viewer.
+You can create a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage. Similar to the Adobe Admin Console, the Global Admin Console allows you to add system admins, product admins, product profile admins, user group admins, deployment admins, support admins, and storage admins. These admins can perform their respective administrative tasks in the organizations they are the admin of. Apart from these roles, there are two new roles for the global administration: Global Admin and Global Viewer.
 
-Global admin is a transitive role. Making a user the global admin of an organization automatically makes that user a global admin of all children of that organization, directly or indirectly. Also, if a new organization is created in the organization hierarchy, all global admins of any parents of that organization will immediately become global admins of the newly created organization.
+Global Admin is a transitive role. Making a user the Global Admin of an organization automatically makes that user a Global Admin of all children of that organization, directly or indirectly. Also, if a new organization is created in the organization hierarchy, all global admins of any parents of that organization will immediately become global admins of the newly created organization.
 
 The following are the capabilities of the Global Admin role:
 
@@ -130,9 +130,9 @@ The following are the capabilities of the Global Viewer role:
 
 ## Distributed administration
 
-By managing administrators, a Global Admin can delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization. The admin added to an organization by a global administrator is given the flexibility to manage the organization without having any visibility into the administration of other orgs. So, the global admin can delegate administration of resources and users keeping the data on those resources and users isolated.
+By managing administrators, a Global Admin can delegate and distribute the administration of users, product licenses, and groups to admins for each individual organization. The admin added to an organization by a global administrator is given the flexibility to manage the organization without having any visibility into the administration of other orgs. So, the Global Admin can delegate administration of resources and users keeping the data on those resources and users isolated.
 
-A global admin can create organizations, distribute resources such as products and storage to those organizations, manage identity setup, and create and apply organization policy templates. A system admin added to an organization by a global admin can assign products to users, onboard users, create and manage product profiles, and perform other administrative tasks within that organization.
+A Global Admin can create organizations, distribute resources such as products and storage to those organizations, manage identity setup, and create and apply organization policy templates. A system admin added to an organization by a Global Admin can assign products to users, onboard users, create and manage product profiles, and perform other administrative tasks within that organization.
 
 ## Add an admin
 
@@ -140,21 +140,21 @@ A global admin can create organizations, distribute resources such as products a
 
 1. Select **[!UICONTROL Add Admin]**.
 
-    ![global admin console add admin](../assets/global-admin-console-add-admin.png)  
+    ![Global Admin Console add admin](../assets/global-admin-console-add-admin.png)  
 
 1. In the **[!UICONTROL Add Admin]** dialog box, enter the **[!UICONTROL User Details]**: Email, First Name, Last Name, Account Type, and Country Code.
 
    If you are trying to add an existing user as an admin, choose the same account type as the existing user, otherwise the add operation will fail.
 
-   > [!Note]
-   > 
-   > Organizations can have restrictions on which Account Types can be added. These may be based on [policies](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) or on other configuration parameters for an organization. Organizations do not allow adding both AdobeID users and BusinessID users at the same time. In general, there should not be users of both types in an organization but depending on the order in which rules are set there may be some users of a particular Account Type that pre-date the application of policies or rules.
+    >[!NOTE]
+    >
+    > Organizations can have restrictions on which Account Types can be added. These may be based on [policies](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) or on other configuration parameters for an organization. Organizations do not allow adding both AdobeID users and BusinessID users at the same time. In general, there should not be users of both types in an organization but depending on the order in which rules are set there may be some users of a particular Account Type that pre-date the application of policies or rules.
 
 1. Select one or more admin roles from the **[!UICONTROL Admin Rights]** section.
 
    For roles such as product administrator, product profile administrator, and user group administrator, select the specific products, profiles, and groups respectively. 
 
-   ![global admin console add admin](../assets/global-admin-console-add-admin-detail.png)
+   ![Global Admin Console add admin](../assets/global-admin-console-add-admin-detail.png)
 
 1. Select **[!UICONTROL Save]**.
 
@@ -162,7 +162,7 @@ A global admin can create organizations, distribute resources such as products a
 
 When an admin role is added, the user receives an email notification informing them of the change in their role.
 
-After the administrator is added, they receive an email message inviting them to accept their role and giving them a link to the Admin Console. If they are added as both a global administrator and some other role, they will receive two invitations, one to the Global Admin console and one to the Admin Console.
+After the administrator is added, they receive an email message inviting them to accept their role and giving them a link to the Admin Console. If they are added as both a global administrator and some other role, they will receive two invitations, one to the Global Admin Console and one to the Admin Console.
 
 ## Edit an admin
 
@@ -170,7 +170,7 @@ After the administrator is added, they receive an email message inviting them to
 
 1. Select the **[!UICONTROL More Options]** (⋮) icon for the relevant admin, then select **[!UICONTROL Edit Admin]**.
 
-    ![global admin console edit admin rights](../assets/global-admin-console-edit-admin-right.png) 
+    ![Global Admin Console edit admin rights](../assets/global-admin-console-edit-admin-right.png) 
 
 1. Update the admin details, then select **[!UICONTROL Save]**.
 
@@ -184,7 +184,7 @@ A separate command appears in the pending change list for each added or removed 
 
 1. Select the **[!UICONTROL More Options]** (⋮) icon for the relevant admin, then select **[!UICONTROL Remove Admin Rights]**.
 
-    ![global admin console remove admin rights](../assets/global-admin-console-remove-admin-right.png) 
+    ![Global Admin Console remove admin rights](../assets/global-admin-console-remove-admin-right.png) 
 
 1. Select **[!UICONTROL OK]** in the confirmation dialog.
 

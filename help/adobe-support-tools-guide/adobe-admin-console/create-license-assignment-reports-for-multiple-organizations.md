@@ -10,33 +10,37 @@ exl-id: e3380a89-8529-473f-bd17-efb05466eab9
 
 Learn how global administrators can generate and download detailed license reports for multiple organizations and products for specific date ranges to facilitate precise tracking of license provisioning.
 
-> [!NOTE]
+>[!NOTE]
 >
-> To create, view, and export a license assignment report, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), and go to **[!UICONTROL Insights]** > **[!UICONTROL Reports]** > **[!UICONTROL License assignment]**.
+>To create, view, and export a license assignment report, sign in to the [Global Admin Console](https://global-admin-console.adobe.com/), and go to **[!UICONTROL Insights]** > **[!UICONTROL Reports]** > **[!UICONTROL License assignment]**.
 
 ## Create a report
 
 License assignment reports help you proactively monitor license provisioning and reduce manual tracking. Global admins can create a license assignment report for select products for any number of child organizations to monitor software license provisioning data across all departments.
 
 1. Go to the **[[!UICONTROL Insights]](https://global-admin-console.adobe.com/insights)** tab in the Global Admin Console.
-2. On the **[!UICONTROL License Assignment]** page, select **[!UICONTROL Create report]**.
-3. Select the organizations and select **[!UICONTROL Next]**. You can individually pick each organization or select all child orgs within a parent using the **[!UICONTROL Select all]** button.
-    > [!NOTE]
-    >
-    >**Know why you can't select certain organizations**:
-    >If a child org doesn't have a contract or has a separate enterprise contract with the same product as that of the parent org, it is disabled from creating a license assignment report. For example, if the parent org's contract has Adobe Acrobat, and the child org has the same as part of another contract, the product is limited for allocation. As a result of this, it's also limited for report creation in the Global Admin Console. [Learn how to track provisioning for such orgs using their respective Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
-    >
-    > [!NOTE]
-    >
-    > You can create assignment reports only for organizations with an active contract.
-4. Select the products to include in the report and select **[!UICONTROL Next]**.
-    > [!NOTE]
-    >
-    >**Know why you can't select certain products**:
-    >Products that aren't allocatable in the Global Admin Console are not included for report creation. This currently includes some Digital Experience products like [!DNL Workfront], [!DNL Adobe Experience Manager], and [!DNL Adobe Experience Platform], and also products like [!DNL Adobe Firefly Services], [!DNL Acrobat Sign], and [!DNL Adobe Stock]. [You use the Adobe Admin Console to find the license provisioning data for these products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
-5. Select whether to aggregate the report by month or year.
-6. Select a custom date range or choose from preset options. You can pick any start date from June 18, 2020, up to the previous day, as long as it does not precede your contract start date.
-7. Select **[!UICONTROL Download]** to export the report as a CSV file.
+1. On the **[!UICONTROL License Assignment]** page, select **[!UICONTROL Create report]**.
+1. Select the organizations and select **[!UICONTROL Next]**. You can individually pick each organization or select all child orgs within a parent using the **[!UICONTROL Select all]** button.
+
+   >[!NOTE]
+   >
+   >**Know why you can't select certain organizations**:
+   >If a child org doesn't have a contract or has a separate enterprise contract with the same product as that of the parent org, it is disabled from creating a license assignment report. For example, if the parent org's contract has Adobe Acrobat, and the child org has the same as part of another contract, the product is limited for allocation. As a result of this, it's also limited for report creation in the Global Admin Console. [Learn how to track provisioning for such orgs using their respective Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   
+   >[!NOTE]
+   >
+   >You can create assignment reports only for organizations with an active contract.
+
+1. Select the products to include in the report and select **[!UICONTROL Next]**.
+
+   >[!NOTE]
+   >
+   >**Know why you can't select certain products**:
+   >Products that aren't allocatable in the Global Admin Console are not included for report creation. This currently includes some Digital Experience products like [!DNL Workfront], [!DNL Adobe Experience Manager], and [!DNL Adobe Experience Platform], and also products like [!DNL Adobe Firefly Services], [!DNL Acrobat Sign], and [!DNL Adobe Stock]. [You use the Adobe Admin Console to find the license provisioning data for these products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+
+1. Select whether to aggregate the report by month or year.
+1. Select a custom date range or choose from preset options. You can pick any start date from June 18, 2020, up to the previous day, as long as it does not precede your contract start date.
+1. Select **[!UICONTROL Download]** to export the report as a CSV file.
 
   The report begins processing and appears on the **[!UICONTROL License Assignment]** page with details such as name, creator, creation time, date range, and status. Once ready, you receive an email notification and the report downloads automatically.
 
