@@ -1,14 +1,14 @@
 ---
-title: Administrative Roles
+title: Administrative roles
 description: Using the Adobe Admin Console, organizations can define a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage.
 solution: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
 ---
-# Administrative Roles
+# Administrative roles
 
 Using the Adobe Admin Console, organizations can define a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage. One or more System admins, provisioned during the enterprise onboarding process, sit at the top of the hierarchy. These System admins can delegate responsibilities to other admins, while still retaining overall control.
 
-Administrative Roles provide the following key benefits to enterprises:
+Administrative roles provide the following key benefits to enterprises:
 
 * Controlled decentralization of administrative responsibilities
 * Quick view of product assignments—by user and by product
@@ -24,7 +24,7 @@ The administrative hierarchy can be used to suit the unique requirements of your
 >
 >The administrative hierarchy doesn't apply to teams customers. Teams customers have a single **System admin** role. The contract owner (_previously referred to as **Primary admin**_) is the system administrator with access to the contract details and the billing history. If you are the current contract owner, you can nominate an existing system administrator (_previously referred to as **secondary admin**_) as the contract owner.
 
-![admin image](assets/storage_admin.png)
+![admin image](../assets/storage_admin.png)
 
 _Admin roles hierarchy_
 
@@ -48,12 +48,12 @@ As an admin, you can assign an admin role to other users, giving them the same p
 
 To add or invite an admin:
 
-1. In the **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
+1. In the **[Adobe Admin Console](https://adminconsole.adobe.com/)**, choose **[!UICONTROL Users]** > **[!UICONTROL Administrators]**.
  
    Alternatively, go to the relevant Product, Product Profile, or User Group and navigate to the **[!UICONTROL Admins]** tab.
 
 1. Click **[!UICONTROL Add Admin]**.
-1. Enter a name or email address. You can search for existing users or add a new user by specifying a valid email address, and filling the information on the screen.
+1. Enter a name or email address. You can search for existing users or add a new user by specifying a valid email address, and filling in the information on the screen.
 1. Click **[!UICONTROL Next]**. A list of admin roles appears.
 
     >[!NOTE]
@@ -68,17 +68,17 @@ To add or invite an admin:
     >
     >For a Product Profile Administrator, you can include profiles for more than one product.
 
-    ![add admin](assets/add-admin.png)
+    ![add admin](../assets/add-admin.png)
 
-1. Review the admin roles assign to the user and click **Save**.
+1. Review the admin roles assigned to the user and click **[!UICONTROL Save]**.
 
 The user receives an email invitation regarding the new administrative privileges from `message@adobe.com`.
 
-Users must click **[!UICONTROL Get started]** in the email to join the organization. If new admins don't use the **[!UICONTROL Get started]** link in the email invitation, they would not be able to sign into the Admin Console. 
+Users must click **[!UICONTROL Get started]** in the email to join the organization. If new admins don't use the **[!UICONTROL Get started]** link in the email invitation, they would not be able to sign in to the Admin Console. 
 
 As part of the sign-in process, users may be asked to set up an Adobe profile if they do not have one already. If users have multiple profiles associated with their email address, users must choose "Join Team" (if prompted) and then select the profile associated with the new organization.
 
-![admin rights image](assets/admin-get-started-email.png)
+![admin rights image](../assets/admin-get-started-email.png)
 
 ## Add a teams admin {#add-admin-teams}
 
@@ -96,26 +96,26 @@ To add or invite a System admin:
 
    The **[!UICONTROL Add an Administrator]** screen displays.
 
-1. Enter a name or email address. You can search for existing users or add a new user by specifying a valid email address, and filling the information on the screen.
+1. Enter a name or email address. You can search for existing users or add a new user by specifying a valid email address, and filling in the information on the screen.
 
    By default, System Administrator is selected. 
 
 1. Click **[!UICONTROL Save]**.
 
-![teams admin image](assets/teams-admin.png)
+![teams admin image](../assets/teams-admin.png)
 
-Since all users in a teams organization are Business ID users, they receive an email invitation regarding the new adminstrative privileges from `message@adobe.com`.
-Users must click Get started in the email to join the organization.
+Since all users in a teams organization are Business ID users, they receive an email invitation regarding the new administrative privileges from `message@adobe.com`.
+Users must click **[!UICONTROL Get started]** in the email to join the organization.
 
 As part of the sign-in process, users may be asked to set up an Adobe profile if they do not have one already. If users have multiple profiles associated with their email address, users must choose "Join Team" (if prompted) and then select the profile associated with the new organization.
 
-![admin rights image](assets/admin-get-started-email.png)
+![admin rights image](../assets/admin-get-started-email.png)
 
 ## Edit enterprise admin role
 
 Applies to: Adobe enterprise customers.
 
-As an admin, you can edit the admin role to other admin that are below you in the Administrative hierarchy. For example, you can remove admin privileges of other admins.
+As an admin, you can edit the admin role for another admin who is below you in the administrative hierarchy. For example, you can remove admin privileges of other admins.
 
 To edit admin roles:
 
@@ -124,9 +124,9 @@ To edit admin roles:
    Alternatively, go to the relevant Product, Product Profile, or User Group and navigate to the **[!UICONTROL Admins]** tab.
 
 1. Click the name of the admin to edit.
-1. In the **[!UICONTROL User Details]**, click ![icon](assets/one-console-ellipses.png) for the **Administrative Rights** section and choose **[!UICONTROL Edit admin rights]**.
+1. In the **[!UICONTROL User Details]**, click ![icon](../assets/one-console-ellipses.png) for the **Administrative Rights** section and choose **[!UICONTROL Edit admin rights]**.
 
-   ![edit admin rights](assets/admin-rights-section.png)
+   ![edit admin rights](../assets/admin-rights-section.png)
 
 1. Edit the administrative rights and save your changes.
 
@@ -142,9 +142,9 @@ To revoke System admin privileges:
 
    The list of existing admins displays.
 
-1. In the **[!UICONTROL User Details]**, click ![icon](assets/one-console-ellipses.png) to the right of the **[!UICONTROL Administrative Rights]** section and choose **[!UICONTROL Edit admin rights]**.
+1. In the **[!UICONTROL User Details]**, click ![icon](../assets/one-console-ellipses.png) to the right of the **[!UICONTROL Administrative Rights]** section and choose **[!UICONTROL Edit admin rights]**.
 
-   ![edit admin rights](assets/admin-rights-section.png)
+   ![edit admin rights](../assets/admin-rights-section.png)
 
 1. Edit the administrative rights and save your changes.
 
@@ -154,7 +154,7 @@ Applies to: Adobe teams enterprise customers.
 
 To revoke admin permissions, select a user and then click **[!UICONTROL Remove Admin]**.
 
-![remove admin image](assets/remove-admin.png)
+![remove admin image](../assets/remove-admin.png)
 
 >[!NOTE]
 >
