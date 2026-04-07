@@ -1,9 +1,9 @@
 ---
 title: Create license assignment reports for multiple organizations and products
 description: Generate, view, and download license assignment reports across multiple organizations and products from the Global Admin Console.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
 ---
 # Create license assignment reports for multiple organizations and products
@@ -36,7 +36,7 @@ License assignment reports help you proactively monitor license provisioning and
    >[!NOTE]
    >
    >**Know why you can't select certain products**:
-   >Products that aren't allocatable in the Global Admin Console are not included for report creation. This currently includes some Digital Experience products like [!DNL Workfront], [!DNL Adobe Experience Manager], and [!DNL Adobe Experience Platform], and also products like [!DNL Adobe Firefly Services], [!DNL Acrobat Sign], and [!DNL Adobe Stock]. [You use the Adobe Admin Console to find the license provisioning data for these products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Products that aren't allocatable in the Global Admin Console are not included for report creation. This currently includes some Digital Experience products like Workfront, Adobe Experience Manager, and Adobe Experience Platform, and also products like Adobe Firefly Services, Acrobat Sign, and Adobe Stock. [You use the Adobe Admin Console to find the license provisioning data for these products](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Select whether to aggregate the report by month or year.
 1. Select a custom date range or choose from preset options. You can pick any start date from June 18, 2020, up to the previous day, as long as it does not precede your contract start date.

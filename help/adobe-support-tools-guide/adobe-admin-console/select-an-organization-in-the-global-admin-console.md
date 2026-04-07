@@ -1,9 +1,9 @@
 ---
 title: Select an organization in the Global Admin Console
 description: Learn how to choose an organization for editing within the Global Admin Console.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
 ---
 # Select an organization in the Global Admin Console
@@ -12,7 +12,7 @@ Learn how to choose an organization for editing within the Global Admin Console.
 
 >[!NOTE]
 >
->After you have access to the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), you can start by selecting an organization to view and manage the organization's name, user groups, product profiles, administrators, and organization policies. To sign in to the Global Admin Console, [click here](https://global-admin-console.adobe.com/).
+>After you have access to the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), you can start by selecting an organization to view and manage the organization's name, user groups, product profiles, administrators, and organization policies. To sign in, go to the [Global Admin Console](https://global-admin-console.adobe.com/).
 
 The Global Admin Console acts as an organization's central management hub for Adobe resources. Global administrators can:
 
@@ -63,7 +63,7 @@ To view or edit products, user groups, administrators, domains, policies, or pol
 
 ![Edit an organization](/help/adobe-support-tools-guide/assets/edit-an-organization.png)
 
-Any admins added to or removed from an org will receive an email notification. Certain policy changes to an org result in a notification in that organization's [!DNL Admin Console].
+Any admins added to or removed from an org will receive an email notification. Certain policy changes to an org result in a notification in that organization's Admin Console.
 
 ## Learn about the constraints and necessary conditions
 
