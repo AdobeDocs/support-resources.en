@@ -4,6 +4,7 @@ description: Adobe Commerce support in Experience League—cases, policies, clou
 feature-set: Commerce
 solution: Commerce
 feature: Support
+exl-id: 7f04dc03-33a5-4c8f-b67e-fbb179c44fe9
 ---
 # Adobe Commerce support overview
 
