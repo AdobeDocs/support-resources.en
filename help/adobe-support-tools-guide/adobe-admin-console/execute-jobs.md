@@ -88,7 +88,7 @@ You can cancel a job that is currently executing from the **[!UICONTROL Job Exec
 1. The job is stopped at the end of the current step.
 2. The job does not stop in the middle of a step.
 3. Some steps may take minutes or hours to complete.
-4. During this time, the job may stay in a [[!UICONTROL Canceling]] state.
+4. During this time, the job may stay in a **[!UICONTROL Canceling]** state.
 
 > [!NOTE]
 >
