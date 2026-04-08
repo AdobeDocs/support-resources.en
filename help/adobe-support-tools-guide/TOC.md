@@ -42,6 +42,7 @@ role: User, Admin
   - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [How to obtain and apply security patches](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
   - [How to request temporary Adobe Commerce on cloud infrastructure upsize](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
+  - [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
   - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
   - [Adobe Commerce Intelligence Essentials: update payment method or cancel subscription](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
   - [Adobe support customer data access and privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
