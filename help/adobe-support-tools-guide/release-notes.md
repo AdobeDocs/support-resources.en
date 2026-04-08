@@ -12,7 +12,7 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
-## April 9, 2026 - Expansion of Request for Callback feature 
+## April 8, 2026 - Expansion of Request for Callback feature 
 
 The Request for Callback feature is now available for Marketo product users.
 
