@@ -35,7 +35,7 @@ You can either [create user groups](https://helpx.adobe.com/enterprise/using/use
 
 4. Select **[!UICONTROL Save]**.
 
-5. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
+5. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs) them.
 
    >[!NOTE]
    >
@@ -76,7 +76,7 @@ Group projection allows you to sync user groups and their associated users from 
    - **[!UICONTROL Add only]**: Merge the user groups by adding new users to the existing user groups without removing any users.
    - **[!UICONTROL Mirror group]**: Adjust the target organization's groups to match the shared group by adding or removing users.
 
-8. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
+8. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs) them.
 
    Group projection events are logged for your reference. Learn to [view and download audit logs](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports).
 
@@ -103,7 +103,7 @@ Changes in the projected user group's name or associated users in the source use
 
 6. Select **[!UICONTROL Revoke access]**.
 
-7. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
+7. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs) them.
 
 
 
@@ -127,7 +127,7 @@ Changes in the projected user group's name or associated users in the source use
    >
    >In the **[!UICONTROL Edit User Group]** wizard, you can assign admin roles only to users who already have an admin role assigned in this organization. Learn how to [add new administrators](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
 
-4. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
+4. Select **[!UICONTROL Review pending changes]** to review the updates. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs) them.
 
    >[!NOTE]
    >
@@ -151,4 +151,4 @@ Changes in the projected user group's name or associated users in the source use
    >
    >Deleting a user group can impact your users. Ensure that there is no access or information that will be lost when the user group is deleted.
 
-4. After you have edited the organizations, select **[!UICONTROL Review pending changes]** to review them. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations) them.
+4. After you have edited the organizations, select **[!UICONTROL Review pending changes]** to review them. Then, select **[!UICONTROL Submit changes]** to [execute](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs) them.

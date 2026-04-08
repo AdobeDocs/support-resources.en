@@ -1,6 +1,9 @@
 ---
 title: Execute pending jobs
 description: Learn how to execute pending jobs in the Adobe Admin Console to ensure that all changes are applied to your organization.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
 ---
 # Execute pending jobs
