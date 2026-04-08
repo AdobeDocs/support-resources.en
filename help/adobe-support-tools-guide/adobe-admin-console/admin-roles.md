@@ -1,7 +1,9 @@
 ---
 title: Administrative roles
 description: Using the Adobe Admin Console, organizations can define a flexible administrative hierarchy that enables fine-grained management of Adobe product access and usage.
+feature-set: Experience Cloud Services
 solution: Admin Console
+feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
 ---
 # Administrative roles
