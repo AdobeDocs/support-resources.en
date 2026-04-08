@@ -4,6 +4,7 @@ description: During the peak holiday sales season (approximately Mid-November th
 feature: Support
 feature-set: Commerce
 role: Admin
+exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
 ---
 # Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure
 
