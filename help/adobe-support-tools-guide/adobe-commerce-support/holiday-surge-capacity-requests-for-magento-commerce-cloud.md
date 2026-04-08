@@ -29,7 +29,7 @@ The following information is available for each resize request:
 
  **Requesting Surge Capacity**
 
-Adobe Commerce merchants on our cloud infrastructure that anticipate a need for additional capacity during the holiday season should [submit a Surge Capacity Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize.html) via our [Help Center](/help/overview.md), indicating the dates and expected capacity needs within the ticket. Please note that increased capacity will require usage of your licensed overage capacity.
+Adobe Commerce merchants on our cloud infrastructure that anticipate a need for additional capacity during the holiday season should [submit a Surge Capacity Support Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize.html) via our Help Center, indicating the dates and expected capacity needs within the ticket. Please note that increased capacity will require usage of your licensed overage capacity.
 
 **We recommend submitting these tickets at least 48 business hours in advance of when the capacity is needed; and additionally recommend that requests for the Black Friday / Cyber Monday period be placed as far in advance as possible, as capacity during this period is limited.**
 
