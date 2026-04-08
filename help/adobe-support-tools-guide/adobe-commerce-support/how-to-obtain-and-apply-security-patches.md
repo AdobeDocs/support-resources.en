@@ -17,14 +17,20 @@ Adobe Commerce on-premise and cloud infrastructure - all supported versions
 
 ## Cause
 
-Most [!UICONTROL security patches] are released without any isolated patch or hotfix to apply and will require upgrading to the [!UICONTROL security patch] release. 
+Most [!UICONTROL security patches] are released without any isolated patch or hotfix to apply and will require upgrading to the [!UICONTROL security patch] release.
+
+For Adobe Commerce security bulletins, Adobe only provides a separate physical patch/hotfix file when it is explicitly published/mentioned as part of the bulletin release. If the bulletin does not include (or reference) an isolated patch/hotfix package, we're not able to generate and provide one after the fact.
+
+This is because the security fixes are developed, tested, and shipped together as part of the supported security release (e.g., a patch release), and they are not designed to be cleanly separated/decoupled into individual CVE patch files without risking incomplete coverage or regressions.
+
+The supported remediation path remains applying the official security update for your version line (or upgrading to a version that includes the fixes).
 
 ## Solution
 
 
 ### Case I:
 
-* If an isolated patch file/hotfix is mentioned in the [Release Notes](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite), download the file from the download section of [https://account.magento.com](https://account.magento.com/downloads/view/). Shared access users must first be given download privileges by the account owner/license holder.
+* If an isolated patch file/hotfix is mentioned in the [Release Notes](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite), download the file from the download section of [https://account.magento.com](https://account.magento.com/downloads/view/). Shared access users must first be given download privileges by the account owner/license holder.
 
 **Caveats:**
 
