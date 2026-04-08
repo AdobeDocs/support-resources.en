@@ -30,7 +30,7 @@ The supported remediation path remains applying the official security update for
 
 ### Case I:
 
-* If an isolated patch file/hotfix is mentioned in the [Release Notes](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite), download the file from the download section of [https://account.magento.com](https://account.magento.com/downloads/view/). Shared access users must first be given download privileges by the account owner/license holder.
+* If an isolated patch file/hotfix is mentioned in the [Release Notes](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite), download the file from the download section of [https://account.magento.com](https://account.magento.com/downloads/view/). Shared access users must first be given download privileges by the account owner/license holder.
 
 **Caveats:**
 
