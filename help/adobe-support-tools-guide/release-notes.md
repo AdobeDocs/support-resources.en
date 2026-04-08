@@ -12,6 +12,10 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## April 9, 2026 - Expansion of Request for Callback feature 
+
+The Request for Callback feature is now available for Marketo product users.
+
 ## March 30, 2026 – Enhanced Case Form
 
 ![New](../adobe-support-tools-guide/assets/new.svg) The case form is organized into a guided flow that helps users understand what information is required at each stage:
@@ -72,6 +76,7 @@ These release notes contain updates to the Experience League support and include
 ## March 18, 2026 - Expansion of Request for Callback feature
 
 Experience League now offers a Request for Callback option, enabling self-service web meeting scheduling with screen sharing capabilities for faster issue resolution.
+
 - This feature is available for Adobe Experience Manager, Campaign, and Workfront. 
 - Customers can schedule meetings at their convenience and receive instant invites. 
 - For Adobe Experience Manager P1 cases, immediate callbacks ensure faster engagement during critical issues, helping minimize downtime and business impact.
