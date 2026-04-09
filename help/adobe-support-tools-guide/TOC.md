@@ -33,6 +33,8 @@ role: User, Admin
   - [Export or import organization structure and product allocations](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
   - [Enforce password expiration in the Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
   - [Set up identity and Single Sign-On](adobe-admin-console/adobe-set-up-identity-and-sso.md)
+  - [Adobe Admin Console users](adobe-admin-console/adobe-admin-console-users.md)
+  - [Identity overview](adobe-admin-console/adobe-identity-overview.md)
   - [Limit product access by IP addresses](adobe-admin-console/adobe-ip-based-access.md)
   - [Download audit logs and export reports](adobe-admin-console/download-audit-logs-and-export-reports.md)
   - [Migrate existing users to the Adobe Admin Console](adobe-admin-console/migrate-existing-users-to-the-adobe-admin-console.md)
