@@ -1,9 +1,9 @@
 ---
 title: Allocate products to child organizations using the Global Admin Console
 description: Learn how global administrators can distribute resources to child organizations, enabling effective resource management and user assignment within each organization.
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
 ---
 # Allocate products to child organizations using the Global Admin Console

@@ -10,25 +10,18 @@ exl-id: 34be803e-da0f-4968-bb54-171be200a875
 
 Applies to Enterprise & Teams.
 
-The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, and payments. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). To learn more refer to the following [video](https://helpx.adobe.com/enterprise/using/admin-console.html).
+The Adobe Admin Console is a central location for managing the Adobe entitlements across your organization. You can use it to manage your licenses, users, and payments. Go here to [sign in to the Admin Console](https://adminconsole.adobe.com). To learn more, see the following [video](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 Each tab on the Admin Console enables you to perform various tasks. Select the linked tab name (the first word of each item) to jump to that section.
 
-- [!UICONTROL Overview](#overview): View a summary of the licenses purchased and quick actions to set up your organization.
-
-- [!UICONTROL Products](#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
-
-- [!UICONTROL Users](#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
-
-- [!UICONTROL Packages](#packages): Download pre-configured packages or create them for desktop apps that you plan to deploy.
-
-- [!UICONTROL Account](#account): Manage your organization's contracts and agreements with Adobe.
-
-- [!UICONTROL Storage](#storage): Manage individual user folders and shared folders, and view storage quota consumed by users.
-
-- [!UICONTROL Insights](#insights): View, create, and download license assignment reports and track changes made in the Admin Console.
-
-- [!UICONTROL Settings](#settings): Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
+- [Overview](#overview): View a summary of the licenses purchased and quick actions to set up your organization.
+- [Products](#products): Assign licenses to users and groups. As an Enterprise customer, you can manage product profiles.
+- [Users](#users): Create, update, and remove user accounts, which entitle the end users to Adobe products & services.
+- [Packages](#packages): Download pre-configured packages or create them for desktop apps that you plan to deploy.
+- [Account](#account): Manage your organization's contracts and agreements with Adobe.
+- [Storage](#storage): Manage individual user folders and shared folders, and view storage quota consumed by users.
+- [Insights](#insights): View, create, and download license assignment reports and track changes made in the Admin Console.
+- [Settings](#settings): Claim domains, limit access to sharing features, add notes for end users, set password protection levels.
 
 If you are unable to sign in to the Admin Console, see [Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
@@ -36,7 +29,7 @@ If you are unable to sign in to the Admin Console, see [Solve Adobe account sign
 
 The **[!UICONTROL Overview]** tab efficiently displays a wealth of information about product licenses. It shows the status of licenses in your plan—the number of licenses assigned out of the total available ones. There are also some quick links available to add users and admins.
 
-## Select your organization 
+## Select your organization
 
 An administrator can belong to multiple organizations. If a company has multiple subsidiaries that exist as separate organizations, or each subsidiary has a separate license agreement, the same administrator can be assigned to all.
 
@@ -158,13 +151,13 @@ In the event of a security incident involving our software solutions, notificati
 
 ## [!UICONTROL Console settings]
 
-Using [!UICONTROL Console settings](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
+Using [Console settings](https://helpx.adobe.com/enterprise/using/console-settings.html) you can add custom notes for your end users to communicate with them about how to get assistance if they encounter issues or require support.
 
 Choose a default email language for your organization, to receive emails about the account statuses, such as subscription changes or credit card expiration. If you have a teams membership purchased directly from Adobe, you can change your team name from the **[!UICONTROL Console settings]**.
 
 ## [!UICONTROL Content logs]
 
-As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called [!UICONTROL content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). 
+As an administrator, you can download detailed reports on how end users are working with corporate assets, such as folders, files, and libraries. These reports are called [content logs](https://helpx.adobe.com/enterprise/using/content-logs.html). 
 
 ## Domain enforcement
 
