@@ -78,7 +78,7 @@ Schedule a 1:1 onboarding call with an Adobe Onboarding Specialist (if you have 
 
 ## Bulk license assignment (VIP to VIP)
 
-Assign licenses with a bulk operation using a CSV template from the [!DNL Admin Console]. Use this approach when:
+Assign licenses with a bulk operation using a CSV template from the Admin Console. Use this approach when:
 
 * You are a VIP customer who does not meet Quick License Assignment requirements, or
 * You need to assign licenses outside your renewal window.
