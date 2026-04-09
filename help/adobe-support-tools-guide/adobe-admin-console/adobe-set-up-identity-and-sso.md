@@ -4,6 +4,7 @@ description: Learn how organization system admins can set up user identity and S
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
 ---
 # Set up identity and Single Sign-On
 
@@ -154,4 +155,4 @@ To collaborate, ask questions, and chat with other administrators, use the [Ente
 ## Legal and privacy
 
 - [Legal Notices](https://helpx.adobe.com/legal/legal-notices.html)  
-- [Online Privacy Policy](https://www.adobe.com/privacy.html)  
+- [Online Privacy Policy](https://www.adobe.com/privacy.html)
