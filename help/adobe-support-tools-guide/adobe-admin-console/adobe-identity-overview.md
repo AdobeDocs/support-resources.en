@@ -4,8 +4,8 @@ description: Understand and choose identity types (Federated ID, Enterprise ID, 
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
 ---
-
 # Identity overview
 
 Applies to enterprise & teams.
