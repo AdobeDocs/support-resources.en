@@ -18,7 +18,7 @@ The accessibility features of many widely used operating systems can be used on 
 
 ## Keyboard support
 
-Most of the interactive content on the Admin Console can be navigated and operated using keyboard alone. For example, you can use **[!UICONTROL Tab]** or **[!UICONTROL Shift]** + **[!UICONTROL Tab]** for navigation and control. Once you navigate to the correct link or button, press the **[!UICONTROL Enter]** or **[!UICONTROL Return]** key to select it. There may still be some exceptions as outlined in the [Accessibility conformance report](https://www.adobe.com/accessibility/compliance.html) (_English only_).
+Most of the interactive content on the Admin Console can be navigated and operated using keyboard alone. For example, you can use **[!UICONTROL Tab]** or **[!UICONTROL Shift]** + **[!UICONTROL Tab]** for navigation and control. Once you navigate to the correct link or button, press the **[!UICONTROL Enter]** or **[!UICONTROL Return]** key to select it. There may still be some exceptions as outlined in the [Accessibility conformance report](https://www.adobe.com/accessibility/compliance.html) (*English only*).
 
 ## Assistive technology support
 
