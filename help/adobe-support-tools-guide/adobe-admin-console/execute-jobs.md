@@ -113,3 +113,4 @@ You can cancel a job that is currently executing from the **[!UICONTROL Job Exec
 >[!NOTE]
 >
 >Subsequent renames or deletions of related objects **do not affect** how commands are displayed in the job history. The history reflects the state at submission time.
+
