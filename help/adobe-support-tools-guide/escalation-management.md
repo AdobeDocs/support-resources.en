@@ -16,6 +16,8 @@ To access the **[!UICONTROL Case Summary]**, follow the steps below:
 2. Find the case you wish to review from the case list.
 3. In the **[!UICONTROL Case Summary]** column, click **Case Summary** for the case.
 
+![Case Sumamry](/help/adobe-support-tools-guide/assets/case-summary.png)
+
 The Case Summary panel opens and displays the AI-generated summary with the following information:
 
 - Adobe product for which the case is submitted
@@ -24,6 +26,8 @@ The Case Summary panel opens and displays the AI-generated summary with the foll
 - **Next steps** - An outline of the actions taken by the Support or Engineering team and the next steps.
 - **Summary** - Details about the issue, including the problem description and business impact
 - **Key updates** - A chronological list of significant actions and updates for the case to date.
+
+![AI Case Sumamry](/help/adobe-support-tools-guide/assets/ai-case-summary.png)
 
 ## Get Help
 
@@ -40,6 +44,8 @@ To access **[!UICONTROL Get Help]**, follow the steps below:
     - Schedule a Troubleshooting Call
     - Change in Issue Urgency
     - I have an issue not listed
+
+![Get Help](/help/adobe-support-tools-guide/assets/get-help.png)
 
 ### Request immediate call
 
