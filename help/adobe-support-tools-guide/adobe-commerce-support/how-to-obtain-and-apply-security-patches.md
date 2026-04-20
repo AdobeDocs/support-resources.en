@@ -17,13 +17,11 @@ Adobe Commerce on-premise and cloud infrastructure - all supported versions
 
 ## Cause
 
-Most [!UICONTROL security patches] are released without any isolated patch or hotfix to apply and will require upgrading to the [!UICONTROL security patch] release.
+For Adobe Commerce security bulletins, Adobe only provides a separate isolated patch file or hotfix when that artifact is explicitly released as part of the bulletin. If no isolated patch or hotfix is published or referenced in the bulletin materials, Adobe does not create a separate standalone patch afterward.
 
-For Adobe Commerce security bulletins, Adobe only provides a separate physical patch/hotfix file when it is explicitly published/mentioned as part of the bulletin release. If the bulletin does not include (or reference) an isolated patch/hotfix package, we're not able to generate and provide one after the fact.
+This is because the security fixes are engineered, validated, and released together as part of the supported security release for the applicable version line. 
 
-This is because the security fixes are developed, tested, and shipped together as part of the supported security release (e.g., a patch release), and they are not designed to be cleanly separated/decoupled into individual CVE patch files without risking incomplete coverage or regressions.
-
-The supported remediation path remains applying the official security update for your version line (or upgrading to a version that includes the fixes).
+Accordingly, the supported remediation path is to apply the official security update for the affected version line, or upgrade to a version that already contains the fix.
 
 ## Solution
 
