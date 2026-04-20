@@ -32,7 +32,7 @@ These release notes contain updates to the Experience League support and include
 
 1. Get an instant, AI-powered snapshot of your support case including current status, next steps, key updates, and a full case summary without having to read through the entire case history.  
 
-1. A new Get Help option offers a centralized experience for customers to collaborate seamlessly with Support teams—covering troubleshooting, callback requests, self-service issue urgency updates, and requests for management attention. 
+1. A new **[!UICONTROL Get Help]** option offers a centralized experience for customers to collaborate seamlessly with Support teams—covering troubleshooting, callback requests, self-service issue urgency updates, and requests for management attention. 
 
 1. **[!UICONTROL Request Callback]** – For P1 cases, request an immediate callback from a Technical Support Engineer directly from your case list. Simply provide your phone number and a brief description of your issue, and a support engineer will reach out as soon as they are available.
 
