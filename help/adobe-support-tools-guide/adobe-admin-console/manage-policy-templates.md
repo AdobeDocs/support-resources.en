@@ -52,7 +52,7 @@ If the user applying the template has permission to unlock the policy, the polic
 1. In the **[!UICONTROL Create Policy Template]** dialog box, enter the **name** and **description** for the policy template.<br>The name of the policy template can be a maximum of 100 characters.
 1. Select the policies to include in the template.
 1. Set values for the selected policies (see [Setting Policy Values](#setting-policy-values) below).
-1. Select **Save**.
+1. Select **[!UICONTROL Save]**.
 
 ### Setting policy values {#setting-policy-values}
 

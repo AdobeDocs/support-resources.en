@@ -1,6 +1,9 @@
 ---
 title: Navigating the Adobe Admin Console
 description: The Adobe Admin Console is a central location for managing Adobe entitlements across your organization.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 52b498a6-c32c-4249-bd72-2c9448a7dd6f
 ---
 # Navigating the Adobe Admin Console

@@ -32,7 +32,7 @@ Learn how a global administrator can set and modify policies for an organization
 Policies are associated with an organization and restrict operations that can be performed on that organization. When a policy value is set, it restricts or enables actions from that point forward.
 For example, if the **Claim Domains** policy is set to *not allowed*, no additional domains can be claimed, but any domains claimed before setting the policy value aren't affected.
 
-## Configure Policies
+## Configure policies
 
 To modify the policies of an organization, do the following:
 
@@ -41,19 +41,19 @@ To modify the policies of an organization, do the following:
 1. To lock a policy, select the **[!UICONTROL Lock]** ![Lock](./assets/lock.png) icon. Hovering on the lock displays the name of the selected organization. Learn more about [policy locks](#policy-locks).
 1. Select **[!UICONTROL Review Pending Changes]** after you're done editing the organizations. After reviewing, select **[!UICONTROL Submit Changes]** to [execute](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) them.
 
-## Policy Locks {#policy-locks}
+## Policy locks {#policy-locks}
 
 When a policy is locked, its value can't be changed until the policy is unlocked. The Global Admin Console remembers the [selected organization](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) in the organization picker as being the organization from which the policy was locked. Any global administrator of that selected organization or of any organization higher in the tree has the permission to unlock the policy. Global administrators whose scope is lower than that organization don't have the permission to unlock and change policy values.
 
 To create a locked-down environment, set desired policy values on your child organizations and then lock them. Global administrators of those child organizations won't be able to edit the policy values.
 
-### Example: Locked-Down Environment
+### Example: Locked-down environment
 
 If Elissa, the global administrator of *Acme Division*, creates child orgs *Marketing* and *Engineering*, then adds Robert as a global admin of *Marketing* and Sarah as global admin of *Engineering*. Next, she sets several policies to *Not Allowed* and *locks* them. Elissa can later unlock and change the policy values when she chooses *Acme Division* as the selected organization, but Robert and Sarah can't unlock the policies on the organizations they're global admins of because the policies are locked by the organization *Acme Division*.
 
-## Policy Details
+## Policy details
 
-### Organization Management
+### Organization management
 
 | Policy Name | Description |
 | --- | --- |
@@ -61,7 +61,7 @@ If Elissa, the global administrator of *Acme Division*, creates child orgs *Mark
 | **Rename Org** | If allowed, a global or system admin can rename the org. It also controls changing the country/region of the org. The pathname of an organization can also be changed independently of this policy setting if a parent organization is renamed, or the organization or an ancestor of the organization is reparented. |
 | **Delete Orgs** | Allows global admin(s) to delete child organizations. This becomes more important when organizations with Enterprise Storage are enabled due to the risk of deleting user assets. |
 
-### Administrator Management
+### Administrator management
 
 | Policy Name | Description |
 | --- | --- |
@@ -69,7 +69,7 @@ If Elissa, the global administrator of *Acme Division*, creates child orgs *Mark
 | **Inherit System Admins from Parent when Child Org is Created** | When global admin(s) create new child organizations, system admins of the parent become system admins of the new organization automatically. This policy is *off* by default. |
 | **Manage Admins** | Allows global admin(s) to change or remove/edit admin permissions. |
 
-### User Management
+### User management
 
 | Policy Name | Description |
 | --- | --- |
@@ -77,20 +77,20 @@ If Elissa, the global administrator of *Acme Division*, creates child orgs *Mark
 | **Add Adobe ID Users** | If set, the organization can't add Adobe ID type users via the Admin Console, User Management API (UMAPI), nor sync mechanism. |
 | **Manage User Groups** | If allowed, Global, System, and user group admins can create, edit, and delete User Groups. |
 
-### Directory and Domain Enforcement
+### Directory and domain enforcement
 
 | Policy Name | Description |
 | --- | --- |
 | **Claim Domains** | If set, system admins can claim domains on the Admin Console. |
 | **Change Identity Configuration** | If set, system admins can change the setup of user identity configuration on the Admin Console. |
 
-### Product Allocation
+### Product allocation
 
 | Policy Name | Description |
 | --- | --- |
 | **Manage Products** | Allows global admin(s) to add or remove products and change product resource grants. |
 
-### Asset Sharing
+### Asset sharing
 
 | Policy Name | Description |
 | --- | --- |

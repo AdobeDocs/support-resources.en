@@ -76,7 +76,7 @@ Experience League is a self-service support portal designed to provide personali
 
 1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a Callback]**, or access additional learning resources.
 
-    The **[!UICONTROL Request a Callback]** option allows you to schedule web meetings with screen sharing, enabling faster and more efficient issue resolution. It is available for Adobe Experience Manager, Campaign, and Workfront. Meetings can be scheduled at the customer’s convenience, and instant invites are provided. For Adobe Experience Manager P1 cases, immediate callbacks are ensured to enable rapid engagement during critical issues, helping minimize downtime and business impact.
+    The **[!UICONTROL Request a Callback]** option allows you to schedule web meetings with screen sharing, enabling faster and more efficient issue resolution. It is available for Adobe Experience Manager, Campaign, Marketo, and Workfront. Meetings can be scheduled at the customer's convenience, and instant invites are provided. For Adobe Experience Manager P1 cases, immediate callbacks are ensured to enable rapid engagement during critical issues, helping minimize downtime and business impact.
 
    ![Experience league home menu](./assets/home-menu.png)
 
@@ -110,8 +110,8 @@ Follow these steps to create a support ticket:
 
    Include details such as:
 
-   * What you’re trying to do
-   * What isn’t working as expected
+   * What you're trying to do
+   * What isn't working as expected
    * Steps you have already taken
    * Whether the issue is reproducible
 
@@ -175,7 +175,7 @@ After submission:
 
 >[!TIP]
 >
-> If you don’t see the **[!UICONTROL Open Ticket]** option or the **[!UICONTROL Support]** tab, contact your System Administrator to assign the Support admin role.
+> If you don't see the **[!UICONTROL Open Ticket]** option or the **[!UICONTROL Support]** tab, contact your System Administrator to assign the Support admin role.
 
 >[!NOTE]
 >
