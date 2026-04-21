@@ -47,9 +47,9 @@ To view full insight details, select an insight card from the list. The detailed
 - Insight name
 - Adobe product where the insight is flagged
 - Insight type, categorized as:
-  - Functionality
-  - Performance
-  - Security
+  - [UICONTROL Functionality]
+  - [UICONTROL Performance]
+  - [UICONTROL Security]
 - Risk level indicating the severity
 - A detailed explanation of the issue and its potential impact, along with actionable steps to investigate and address the issue. The detailed view also explains the typical causes of this type of issue and includes links to relevant Adobe documentation for additional reference.
 
