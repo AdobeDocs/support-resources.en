@@ -33,7 +33,7 @@ Support Insights are currently available for Adobe Commerce only. These insights
 
 ## Accessing Support Insights
 
-Support Insights appear throughout the case creation workflow. As issue details are entered, the **[!UICONTROL Support Insights]** panel appears on the right side of the screen, below the AI‑powered recommendations section.
+Support Insights appear throughout the case creation workflow. As issue details are entered, the **[!UICONTROL Support Insights]** panel appears on the right side of the screen, below the AI‑powered recommendations section. To learn more about AI‑powered recommendations, see [Fill out the support ticket](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) in the Adobe Customer Support Experience article.
 
 The panel displays a scrollable list of insights scoped to the specific project instance. Scoping is based on the information entered in the **[!UICONTROL Project URL]** field. Enter the **[!UICONTROL Project URL]** accurately to ensure insights reflect the correct environment.
 
