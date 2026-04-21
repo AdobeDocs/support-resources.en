@@ -42,6 +42,8 @@ After the panel loads, it displays a scrollable list of insight cards flagged fo
 - A title that summarizes the issue
 - A brief description of the finding
 
+![Access Support Resources](/help/adobe-support-tools-guide/assets/access-support-resources.png)
+
 To view full insight details, select an insight card from the list. The detailed view provides the following information:
 
 - Insight name
@@ -52,6 +54,8 @@ To view full insight details, select an insight card from the list. The detailed
   - [UICONTROL Security]
 - Risk level indicating the severity
 - A detailed explanation of the issue and its potential impact, along with actionable steps to investigate and address the issue. The detailed view also explains the typical causes of this type of issue and includes links to relevant Adobe documentation for additional reference.
+
+![Click Case Card](/help/adobe-support-tools-guide/assets/click-case-card.png)
 
 Review all insights in the panel before proceeding, as an insight may directly address the issue being experienced.
 
@@ -72,11 +76,17 @@ When this option is selected:
 - A confirmation dialog appears.
 - The dialog indicates that all entered case data will be permanently cleared.
 
+![Action on an insight](/help/adobe-support-tools-guide/assets/issue-resolved.png)
+
 Select **[!UICONTROL Done]** to confirm and return to the **[!UICONTROL My Cases]** page. Select **[!UICONTROL Cancel]** to return to the insight detail view.
+
+![Clear Case Form](/help/adobe-support-tools-guide/assets/clear-case-form.png)
 
 ## Providing feedback on an insight
 
 At the bottom of each insight detail view, feedback can be provided on whether the insight was helpful. This feedback helps Adobe continuously improve the relevance and accuracy of Support Insights.
+
+![Provide feedback](/help/adobe-support-tools-guide/assets/submit-feedback.png)
 
 To provide feedback:
 
