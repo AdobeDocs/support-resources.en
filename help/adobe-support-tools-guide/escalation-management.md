@@ -16,7 +16,7 @@ To access the **[!UICONTROL Case Summary]**, follow the steps below:
 2. Find the case you wish to review from the case list.
 3. In the **[!UICONTROL Case Summary]** column, click **Case Summary** for the case.
 
-![Case Sumamry](/help/adobe-support-tools-guide/assets/case-summary.png)
+![Case Summary](/help/adobe-support-tools-guide/assets/case-summary.png)
 
 The Case Summary panel opens and displays the AI-generated summary with the following information:
 
@@ -27,7 +27,7 @@ The Case Summary panel opens and displays the AI-generated summary with the foll
 - **Summary** - Details about the issue, including the problem description and business impact
 - **Key updates** - A chronological list of significant actions and updates for the case to date.
 
-![AI Case Sumamry](/help/adobe-support-tools-guide/assets/ai-case-summary.png)
+![AI Case Summary](/help/adobe-support-tools-guide/assets/ai-case-summary.png)
 
 ## Get Help
 
@@ -40,7 +40,7 @@ To access **[!UICONTROL Get Help]**, follow the steps below:
 3. In the **[!UICONTROL Additional Help]** column, click **[!UICONTROL Get Help]** for the case.
 4. Review the escalation panel. It displays the selected product, case priority, case ID, and available escalation options. Available options can include:
 
-    - Request immediate call
+    - [!UICONTROL Request immediate call]
     - Schedule a Troubleshooting Call
     - Change in Issue Urgency
     - I have an issue not listed
@@ -57,11 +57,11 @@ Follow the steps outlined below to request a callback:
 1. The callback request form appears, prepopulated with the selected product, priority, and case ID. Complete the required fields in the form.
    - Enter the phone number to receive the callback.
    - Enter a brief description of the issue or the reason for requesting a callback (up to 1,000 characters).
-1. Click **[!UICONTROL Request Callback]** to submit the request, or Click **[!UICONTROL Back]** to return to the previous screen.
+1. Click **[!UICONTROL Request Callback]** to submit the request, or click **[!UICONTROL Back]** to return to the previous screen.
 
 After you submit the request, the confirmation screen displays:
 
-- Adobe ID
+- [!UICONTROL Adobe ID]
 - Phone number
 - Product
 - Case ID
@@ -83,7 +83,7 @@ Follow the steps below to schedule a troubleshooting call:
    - **[!UICONTROL Describe Your Issue]**: Provide a brief description to help the support engineer prepare (up to 1,000 characters).
    - **[!UICONTROL Preferred Date]**: Select a date from the calendar.
    - **[!UICONTROL Select Time Slot]**: Select an available time for the chosen date.
-1. Click **[!UICONTROL Schedule Callback]** to confirm the booking, or Click **[!UICONTROL Back]** to return to the previous screen.
+1. Click **[!UICONTROL Schedule Callback]** to confirm the booking, or click **[!UICONTROL Back]** to return to the previous screen.
 
 After you schedule the meeting, the confirmation screen displays:
 
@@ -94,7 +94,7 @@ After you schedule the meeting, the confirmation screen displays:
 - Time zone
 - Priority
 - Case ID
-- Support engineer
+- Support Engineer
 - Product
 - Case title
 
@@ -108,7 +108,7 @@ Follow the steps below to change an issue urgency:
 
 1. In the **[!UICONTROL Get Help]** panel, select **[!UICONTROL Change in Issue Urgency]**.
 1. An inline text field appears. In the field, clearly describe what changed or why the issue now requires immediate attention.
-1. Click **[!UICONTROL Update Issue Urgency]** to submit the request, or Click **[!UICONTROL Cancel]** to exit without making changes.
+1. Click **[!UICONTROL Update Issue Urgency]** to submit the request, or click **[!UICONTROL Cancel]** to exit without making changes.
 
 After you submit the request, the confirmation screen displays:
 
@@ -129,13 +129,13 @@ Follow the steps below to escalate in case your issues are not listed:
    - **[!UICONTROL Why do you want to escalate this case?]**
    - **[!UICONTROL We can assist you better with detailed information.]**
 1. In the dropdown, select an escalation reason:
-   - Prolonged Time to Resolution
+   - [!UICONTROL Prolonged Time to Resolution]
    - Critical Business Impact
    - Ineffective Resolution
    - Unclear Ownership or Communication
    - Case Reopened Due to Incomplete Resolution
 1. In the free-text field, provide additional context about the escalation.
-1. Click **[!UICONTROL Escalate Case]** to submit the escalation, or Click **[!UICONTROL Cancel]** to exit without submitting.
+1. Click **[!UICONTROL Escalate Case]** to submit the escalation, or click **[!UICONTROL Cancel]** to exit without submitting.
 
 After you submit the escalation, the confirmation screen displays:
 
