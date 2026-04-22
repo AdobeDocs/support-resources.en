@@ -38,7 +38,7 @@ System Insights appear throughout the case creation workflow. As issue details a
 
 The panel displays a scrollable list of insights scoped to the specific project instance. Scoping is based on the information entered in the **[!UICONTROL Project URL]** field. Enter the **[!UICONTROL Project URL]** accurately to ensure insights reflect the correct environment.
 
-After the panel loads, it displays a scrollable list of insight cards flagged for your the environment. Each insight card includes:
+After the panel loads, it displays a scrollable list of insight cards flagged for your environment. Each insight card includes:
 
 - A title that summarizes the issue
 - A brief description of the insight
