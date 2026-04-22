@@ -118,7 +118,7 @@ A Technical Support Engineer is available to assist by screen share at the sched
 
 ### Change in Issue Urgency
 
-The **[!UICONTROL Change in Issue Urgency]** option is available for **P3-Important** and **P4-Minor** cases. Use this option to change the case priority up to P2-Urgent. only after 24 hours.
+The **[!UICONTROL Change in Issue Urgency]** option is available for **P3-Important** and **P4-Minor** cases. Use this option to change the case priority up to **P2-Urgent**.
 
 >[!NOTE]
 >
