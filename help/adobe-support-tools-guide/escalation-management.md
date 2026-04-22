@@ -4,15 +4,15 @@ description: Escalation Management provides self‑service options in Experience
 ---
 # Escalation Management
 
-**Escalation Management** is a self-service feature in Experience League Support. It enables customers to take direct action on support cases, provides real-time case visibility through AI-generated summaries, and offers structured escalation options to support faster resolution of critical issues.
+**Escalation Management** is a self-service feature in Adobe Experience League Support. It enables customers to take direct action on support cases, provides real-time case visibility through AI-generated summaries, and offers structured escalation options to support faster resolution of critical issues.
 
 ## Case Summary
 
-**[!UICONTROL Case Summary]** feature provides an AI-generated overview of a support case. It summarizes comments, actions, and interactions to date so you can review the latest status without reading the full case history.
+The **[!UICONTROL Case Summary]** feature provides an AI-generated overview of a support case. It summarizes comments, actions, and interactions to date so you can review the latest status without reading the full case history.
 
 To access the **[!UICONTROL Case Summary]**, follow the steps below:
 
-1. Navigate to **[!UICONTROL My Cases]** in Experience League Support.
+1. Navigate to **[!UICONTROL My Cases]** in Adobe Experience League Support.
 2. Find the case you wish to review from the case list.
 3. In the **[!UICONTROL Case Summary]** column, click **Case Summary** for the case.
 
@@ -22,38 +22,51 @@ The Case Summary panel opens and displays the AI-generated summary with the foll
 
 - Adobe product for which the case is submitted
 - The number of days the case has been open
-- **Current status** - A concise statement of where the case stands
+- **Current status** - A concise statement of the case's current progress
 - **Next steps** - An outline of the actions taken by the Support or Engineering team and the next steps.
 - **Summary** - Details about the issue, including the problem description and business impact
 - **Key updates** - A chronological list of significant actions and updates for the case to date.
+
+>[!NOTE]
+>
+>The case status indicator displays the current state of the case. If the case is open, it shows the number of days the case has been open (for example, **Open for 6 days**). If the case is closed, it shows **[!UICONTROL Closed]**.
 
 ![AI Case Summary](/help/adobe-support-tools-guide/assets/ai-case-summary.png)
 
 ## Get Help
 
-**[!UICONTROL Get Help]** feature enables customers to raise and manage support escalations directly from the case list, without contacting Support by email or phone. Based on the case priority, Experience League Support displays relevant self-service escalation options.
+The **[!UICONTROL Get Help]** feature enables customers to raise and manage support escalations directly from the case list, without contacting Support by email or phone. Based on the case priority, Adobe Experience League Support displays relevant self-service escalation options.
 
 To access **[!UICONTROL Get Help]**, follow the steps below:
 
-1. Navigate to **[!UICONTROL My Cases]** in Experience League Support.
-2. Find the case you wish to escalate from the case list.
-3. In the **[!UICONTROL Additional Help]** column, click **[!UICONTROL Get Help]** for the case.
-4. Review the escalation panel. It displays the selected product, case priority, case ID, and available escalation options. Available options can include:
+1. Navigate to **[!UICONTROL My Cases]** in Adobe Experience League Support.
+1. Find the case you wish to escalate from the case list.
+1. In the **[!UICONTROL Additional Help]** column, click **[!UICONTROL Get Help]** for the case.
+
+   >[!NOTE]
+   >
+   >The **[!UICONTROL Get help]** option is available only for open cases and does not appear for closed cases.
+
+1. Review the escalation panel. It displays the selected product, case priority, case ID, and available escalation options. Available options can include:
 
     - [!UICONTROL Request immediate call]
-    - Schedule a Troubleshooting Call
-    - Change in Issue Urgency
-    - I have an issue not listed
+    - [!UICONTROL Request a scheduled call]
+    - [!UICONTROL Change in Issue Urgency]
+    - [!UICONTROL I have an issue not listed]
 
 ![Get Help](/help/adobe-support-tools-guide/assets/get-help.png)
 
 ### Request immediate call
 
-**[!UICONTROL Request immediate call]** option is available for **P1 – Critical** cases. Use this option to request an immediate callback from a Technical Support Engineer.
+The **[!UICONTROL Request immediate call]** option is available for **P1–Critical** cases. Use this option to request an immediate callback on your phone from a Technical Support Engineer.
 
-Follow the steps outlined below to request a callback:
+>[!NOTE]
+>
+>You can request only one callback at a time. You can request another callback after the first call is completed.
 
-1. In the **[!UICONTROL Get Help]** panel, select **[!UICONTROL Request Call Back]**, and then click **[!UICONTROL Next]**.
+Follow the steps outlined below to request an immediate callback:
+
+1. In the **[!UICONTROL Get Help]** panel, select **[!UICONTROL Request immediate call]**, and then click **[!UICONTROL Continue]**.
 1. The callback request form appears, prepopulated with the selected product, priority, and case ID. Complete the required fields in the form.
    - Enter the phone number to receive the callback.
    - Enter a brief description of the issue or the reason for requesting a callback (up to 1,000 characters).
@@ -67,23 +80,26 @@ After you submit the request, the confirmation screen displays:
 - Case ID
 - Case title
 - Priority
-- CM queue
 
 A Technical Support Engineer contacts you as soon as they are available. Click **[!UICONTROL Close]** to dismiss the confirmation.
 
-### Schedule a Troubleshooting Call
+### Request a scheduled call
 
-**[!UICONTROL Schedule a Troubleshooting Call]** option is available for **P2** and **P3** cases. Use this option to schedule a screen-sharing web meeting with a Technical Support Engineer at a date and time that works for you.
+The **[!UICONTROL Request a scheduled call]** option is available for **P2-Urgent** and **P3-Important** cases. Use this option to schedule a screen-sharing web meeting with a Technical Support Engineer at a date and time that is convenient for you.
 
-Follow the steps below to schedule a troubleshooting call:
+>[!NOTE]
+>
+>You can schedule only one call at a time. After the current meeting is completed, you can schedule another call.
 
-1. In the **Get Help** panel, select **Schedule a Troubleshooting Call**, and then click **Next**.
+Follow the steps below to request a scheduled call:
+
+1. In the **[!UICONTROL Get Help]** panel, select **[!UICONTROL Request a scheduled call]**, and then click **[!UICONTROL Continue]**.
 1. A scheduling form appears, prepopulated with the selected product, priority, and case ID. Complete the required fields in the form.
-   - **[!UICONTROL Callback Type]**: Web Meeting (Screenshare) is the available meeting format for troubleshooting calls.
-   - **[!UICONTROL Describe Your Issue]**: Provide a brief description to help the support engineer prepare (up to 1,000 characters).
-   - **[!UICONTROL Preferred Date]**: Select a date from the calendar.
-   - **[!UICONTROL Select Time Slot]**: Select an available time for the chosen date.
-1. Click **[!UICONTROL Schedule Callback]** to confirm the booking, or click **[!UICONTROL Back]** to return to the previous screen.
+   - **[!UICONTROL What do you want to discuss?]**: Provide a brief description to help the support engineer prepare (up to 1,000 characters).
+   - **[!UICONTROL Select date]**: Select a date from the calendar.
+   - **[!UICONTROL Select timeslot]**: Select an available time for the chosen date.
+1. Select the acknowledgement checkbox to confirm that personal or sensitive content is closed before screen sharing.
+1. Click **[!UICONTROL Schedule Call]** to confirm the booking, or click **[!UICONTROL Back]** to return to the previous screen.
 
 After you schedule the meeting, the confirmation screen displays:
 
@@ -94,15 +110,19 @@ After you schedule the meeting, the confirmation screen displays:
 - Time zone
 - Priority
 - Case ID
-- Support Engineer
 - Product
+- Support Engineer
 - Case title
 
 A Technical Support Engineer is available to assist by screen share at the scheduled time. The meeting invitation includes a Microsoft Teams link to join. Select **[!UICONTROL Close]** to dismiss the confirmation.
 
 ### Change in Issue Urgency
 
-**[!UICONTROL Change in Issue Urgency]** option is available for **P3** and **P4** cases. Use this option to change the case priority up to **P2**.
+The **[!UICONTROL Change in Issue Urgency]** option is available for **P3-Important** and **P4-Minor** cases. Use this option to change the case priority up to P2-Urgent. only after 24 hours.
+
+>[!NOTE]
+>
+>You can change the priority from **P4-Minor** to **P3-Important** or from **P3-Important** to **P2-Urgent** once in 24 hours.
 
 Follow the steps below to change an issue urgency:
 
@@ -129,11 +149,10 @@ Follow the steps below to escalate in case your issues are not listed:
    - **[!UICONTROL Why do you want to escalate this case?]**
    - **[!UICONTROL We can assist you better with detailed information.]**
 1. In the dropdown, select an escalation reason:
-   - [!UICONTROL Prolonged Time to Resolution]
-   - Critical Business Impact
-   - Ineffective Resolution
-   - Unclear Ownership or Communication
-   - Case Reopened Due to Incomplete Resolution
+   - [UICONTROL Time to Resolution]
+   - [UICONTROL Resolution did not meet expectations]
+   - [UICONTROL Agent Communication Skills]
+   - [UICONTROL Agent Technical Knowledge]
 1. In the free-text field, provide additional context about the escalation.
 1. Click **[!UICONTROL Escalate Case]** to submit the escalation, or click **[!UICONTROL Cancel]** to exit without submitting.
 
