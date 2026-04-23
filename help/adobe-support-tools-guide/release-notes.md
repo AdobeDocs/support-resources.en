@@ -12,6 +12,7 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+
 ## April 27, 2026 – Escalation Management and System Insights Enhancements for Adobe Commerce
 
 ### Escalation Management
@@ -41,6 +42,10 @@ These release notes contain updates to the Experience League support and include
 1. Insights include a detailed description, steps to resolve, root cause analysis, and links to relevant Adobe documentation. 
 
 1. Users can submit feedback on individual insights to help Adobe continuously improve the accuracy and relevance of System Insights.
+
+## April 23, 2026 - Expansion of Request for Callback feature
+
+The Request for Callback feature is now available for Analytics, Admin Console, Audience Manager and Target product users.
 
 ## April 8, 2026 - Expansion of Request for Callback feature 
 
