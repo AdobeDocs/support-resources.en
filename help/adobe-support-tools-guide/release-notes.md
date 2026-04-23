@@ -12,19 +12,7 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
-## April 27, 2026 
-
-### Support Insights in case creation form for Adobe Commerce
-
-1. Support Insights automatically surfaces detected issues in your environment. It includes performance slowdowns, security risks, and misconfigurations using telemetry data from APIs, New Relic, and Splunk. This helps you identify and resolve issues faster.
-
-1. Support Insights are currently available exclusively for Adobe Commerce on Experience League Support during the case creation process. 
-
-1. Insights are scoped to your specific project instance, ensuring the information surfaced is relevant to your environment. 
-
-1. Insights include a detailed description, steps to resolve, root cause analysis, and links to relevant Adobe documentation. 
-
-1. Users can submit feedback on individual insights to help Adobe continuously improve the accuracy and relevance of Support Insights.
+## April 27, 2026 – Escalation Management and System Insights Enhancements for Adobe Commerce
 
 ### Escalation Management
 
@@ -34,13 +22,25 @@ These release notes contain updates to the Experience League support and include
 
 1. A new **[!UICONTROL Get Help]** option offers a centralized experience for customers to collaborate seamlessly with Support teams—covering troubleshooting, callback requests, self-service issue urgency updates, and requests for management attention. 
 
-1. **[!UICONTROL Request Callback]** – For P1 cases, request an immediate callback from a Technical Support Engineer directly from your case list. Simply provide your phone number and a brief description of your issue, and a support engineer will reach out as soon as they are available.
+1. **[!UICONTROL Request Immediate Call]** – For P1 cases, request an immediate callback from a Technical Support Engineer directly from your case list. Simply provide your phone number and a brief description of your issue, and a support engineer will reach out as soon as they are available.
 
-1. **[!UICONTROL Schedule a Troubleshooting Call]** – For P2 and P3 cases, schedule a web meeting with a Technical Support Engineer at a date and time that works for you. A Microsoft Teams screen share session will be confirmed with all meeting details upon booking. 
+1. **[!UICONTROL Request a Scheduled Call]** – For P2 and P3 cases, schedule a web meeting with a Technical Support Engineer at a date and time that works for you. A Microsoft Teams screen share session will be confirmed with all meeting details upon booking. 
 
-1. **[!UICONTROL Change in Issue Urgency]** - For P3 and P4 cases, self-service escalate your case priority from P4 up to P2 by providing a brief justification. Your case will be immediately reassigned for priority handling upon submission. 
+1. **[!UICONTROL Change in Issue Urgency]** - For P3 and P4 cases, self-service escalate your case priority from P4 up to P2 by providing a brief justification. Your case will be immediately reassigned to the appropriate team for priority handling.
 
-1. **[!UICONTROL I Have an Issue Not Listed]** – For all priorities, raise an escalation for any scenario not covered by the above options such as prolonged time to resolution, critical business impact, or unclear case ownership and have it routed directly to a support engineer. 
+1. **[!UICONTROL I Have an Issue Not Listed]** – For all priorities, raise an escalation for any scenario not covered by the above options such as **[!UICONTROL Time to Resolution]**, **[!UICONTROL Resolution did not meet expectations]**, **[!UICONTROL Agent Communication Skills]**, or **[!UICONTROL Agent Technical Knowledge]**. 
+
+### System Insights in case creation form for Adobe Commerce
+
+1. System Insights automatically surfaces detected issues in your environment. It includes performance slowdowns, security risks, and misconfigurations using telemetry data from APIs, New Relic, and Splunk. This helps you identify and resolve issues faster.
+
+1. System Insights are currently available exclusively for Adobe Commerce on Experience League Support during the case creation process. 
+
+1. Insights are scoped to your specific project instance, ensuring the information surfaced is relevant to your environment. 
+
+1. Insights include a detailed description, steps to resolve, root cause analysis, and links to relevant Adobe documentation. 
+
+1. Users can submit feedback on individual insights to help Adobe continuously improve the accuracy and relevance of System Insights.
 
 ## April 8, 2026 - Expansion of Request for Callback feature 
 
