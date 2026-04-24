@@ -2,6 +2,13 @@
 title: Business Support
 description: Adobe Experience Cloud Business Support Services provide complete access to Adobe's technical support teams and to an Account Support Lead for account management.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
+TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Business Support
 

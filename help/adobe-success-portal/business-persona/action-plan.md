@@ -1,7 +1,16 @@
 ---
-title: '[!UICONTROL Action Plan]'
+title: "[!UICONTROL Action Plan]"
 description: /[!UICONTROL Action Plan/] offers a structured view of how your KBOs are being executed. It includes associated accelerators and activities that the Adobe team has planned, completed, or is actively working on to help you achieve your goals.
 exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
+TQID: https://experienceleague.adobe.com/Hoc6wzygdoIm5nhLxkz5vp1xCyG-v-N2WwXtHQ68ou4
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # [!UICONTROL Action Plan]
 

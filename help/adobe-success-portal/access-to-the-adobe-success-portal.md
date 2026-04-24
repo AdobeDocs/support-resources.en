@@ -2,6 +2,20 @@
 title: Access the [!DNL Adobe Success] portal
 description: Learn how to manage cases in the [!DNL Adobe Success] portal.
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+TQID: https://experienceleague.adobe.com/l1FEv9wdhBq6ouA-PMu-VUMKiKvI8P4vvnxPS282BRE
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Access the [!DNL Adobe Success] portal 
 

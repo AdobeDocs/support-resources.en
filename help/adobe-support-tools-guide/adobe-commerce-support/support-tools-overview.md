@@ -2,6 +2,15 @@
 title: Adobe Commerce support tools at a glance
 description: Adobe Commerce offers a variety of support tools that help and empower you to improve the e-commerce store experience.
 exl-id: 4a532f12-265e-4f0e-a296-e50b3e817de4
+TQID: https://experienceleague.adobe.com/faLeIPeiNe2Z9N9XmDsIK3Kh-HWfEo5k4z-9y-Rzdo0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Adobe Commerce support tools at a glance
 
