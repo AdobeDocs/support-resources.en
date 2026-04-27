@@ -138,13 +138,13 @@ Follow the steps below to change an issue urgency:
 1. An inline text field appears. In the field, clearly describe what changed or why the issue now requires immediate attention.
 1. Click **[!UICONTROL Update Issue Urgency]** to submit the request, or click **[!UICONTROL Cancel]** to exit without making changes.
 
-After you submit the request, the confirmation screen displays:
+   After you submit the request, the confirmation screen displays:
 
-- Selected product
-- Priority
-- Case ID
+   - Selected product
+   - Priority
+   - Case ID
 
-Click **[!UICONTROL Return to Form]** to go back to the case.
+1. Click **[!UICONTROL Return to Form]** to go back to the case.
 
 ### I have an issue not listed
 
@@ -157,17 +157,17 @@ Follow the steps below to escalate in case your issues are not listed:
    - **[!UICONTROL Why do you want to escalate this case?]**
    - **[!UICONTROL We can assist you better with detailed information.]**
 1. In the dropdown, select an escalation reason:
-   - [UICONTROL Time to Resolution]
-   - [UICONTROL Resolution did not meet expectations]
-   - [UICONTROL Agent Communication Skills]
-   - [UICONTROL Agent Technical Knowledge]
+   - [!UICONTROL Time to Resolution]
+   - [!UICONTROL Resolution did not meet expectations]
+   - [!UICONTROL Agent Communication Skills]
+   - [!UICONTROL Agent Technical Knowledge]
 1. In the free-text field, provide additional context about the escalation.
 1. Click **[!UICONTROL Escalate Case]** to submit the escalation, or click **[!UICONTROL Cancel]** to exit without submitting.
 
-After you submit the escalation, the confirmation screen displays:
+   After you submit the escalation, the confirmation screen displays:
 
-- Selected product
-- Priority
-- Case ID
+   - Selected product
+   - Priority
+   - Case ID
 
-Click **[!UICONTROL Return to Form]** to go back to the case.
+1. Click **[!UICONTROL Return to Form]** to go back to the case.
