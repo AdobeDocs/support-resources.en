@@ -27,7 +27,7 @@ These release notes contain updates to the Experience League support and include
 
 1. **[!UICONTROL Request a Scheduled Call]** – For P2 and P3 cases, schedule a web meeting with a Technical Support Engineer at a date and time that works for you. A Microsoft Teams screen share session will be confirmed with all meeting details upon booking. 
 
-1. **[!UICONTROL Change in Issue Urgency]** - For P3 and P4 cases, self-service escalate your case priority from P4 up to P2 by providing a brief justification. Your case will be immediately reassigned to the appropriate team for priority handling.
+1. **[!UICONTROL Change in Issue Urgency]** - For P3 and P4 cases, self-service escalate your case priority from P4 up to P2 by providing a brief justification. A change in priority request can happen without the ticket resulting in reassignment.
 
 1. **[!UICONTROL I Have an Issue Not Listed]** – For all priorities, raise an escalation for any scenario not covered by the above options such as **[!UICONTROL Time to Resolution]**, **[!UICONTROL Resolution did not meet expectations]**, **[!UICONTROL Agent Communication Skills]**, or **[!UICONTROL Agent Technical Knowledge]**. 
 
