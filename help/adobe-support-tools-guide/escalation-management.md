@@ -64,6 +64,10 @@ The **[!UICONTROL Request immediate call]** option is available for **P1–Criti
 >
 >You can request only one callback at a time. You can request another callback after the first call is completed.
 
+>[!NOTE]
+>
+>This option is available for all solutions except [!DNL Commerce], [!DNL GeoStudio], and Adobe Experience Platform (AEP) products.
+
 Follow the steps outlined below to request an immediate callback:
 
 1. In the **[!UICONTROL Get Help]** panel, select **[!UICONTROL Request immediate call]**, and then click **[!UICONTROL Continue]**.
@@ -90,6 +94,10 @@ The **[!UICONTROL Request a scheduled call]** option is available for **P2-Urgen
 >[!NOTE]
 >
 >You can schedule only one call at a time. After the current meeting is completed, you can schedule another call.
+
+>[!NOTE]
+>
+>This option is available for all solutions except [!DNL Commerce], [!DNL GeoStudio], and Adobe Experience Platform (AEP) products.
 
 Follow the steps below to request a scheduled call:
 
