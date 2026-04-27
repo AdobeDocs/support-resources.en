@@ -33,7 +33,7 @@ These release notes contain updates to the Experience League support and include
 
 ### System Insights in case creation form for Adobe Commerce
 
-1. System Insights automatically surfaces detected issues in your environment. It includes performance slowdowns, security risks, and misconfigurations using telemetry data from APIs, New Relic, and Splunk. This helps you identify and resolve issues faster.
+1. System Insights automatically surfaces detected issues in your environment. It includes performance slowdowns, security risks, and misconfigurations using telemetry data from APIs, New Relic, and [!DNL Splunk]. This helps you identify and resolve issues faster.
 
 1. System Insights are currently available exclusively for Adobe Commerce on Experience League Support during the case creation process. 
 
