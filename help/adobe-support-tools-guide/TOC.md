@@ -10,7 +10,7 @@ role: User, Admin
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
 - [Adobe Support and Tools Guide overview](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League support release notes](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Experience League support release notes](/help/adobe-support-tools-guide/release-notes.md)
 - [Adobe customer support experience](adobe-customer-support-experience.md)
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
