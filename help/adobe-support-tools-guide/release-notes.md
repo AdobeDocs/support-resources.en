@@ -23,11 +23,11 @@ These release notes contain updates to the Experience League support and include
 
 1. A new **[!UICONTROL Get Help]** option offers a centralized experience for customers to collaborate seamlessly with Support teams—covering troubleshooting, callback requests, self-service issue urgency updates, and requests for management attention. 
 
-1. **[!UICONTROL Request Immediate Call]** – For P1 cases, request an immediate callback from a Technical Support Engineer directly from your case list. Simply provide your phone number and a brief description of your issue, and a support engineer will reach out as soon as they are available.
+1. **[!UICONTROL Request Immediate Call]** – For P1-Critical cases, request an immediate callback from a Technical Support Engineer directly from your case list. Simply provide your phone number and a brief description of your issue, and a support engineer will reach out as soon as they are available.
 
-1. **[!UICONTROL Request a Scheduled Call]** – For P2 and P3 cases, schedule a web meeting with a Technical Support Engineer at a date and time that works for you. A Microsoft Teams screen share session will be confirmed with all meeting details upon booking. 
+1. **[!UICONTROL Request a Scheduled Call]** – For P2-Urgent and P3-Important cases, schedule a web meeting with a Technical Support Engineer at a date and time that works for you. A Microsoft Teams screen share session will be confirmed with all meeting details upon booking.
 
-1. **[!UICONTROL Change in Issue Urgency]** - For P3 and P4 cases, self-service escalate your case priority from P4 up to P2 by providing a brief justification. A change in priority request can happen without the ticket resulting in reassignment.
+1. **[!UICONTROL Change in Issue Urgency]** - For P3-Important and P4-Minor cases, self-service escalate your case priority from P4-Minor up to P2-Urgent by providing a brief justification. A change in priority request can happen without the ticket resulting in reassignment.
 
 1. **[!UICONTROL I Have an Issue Not Listed]** – For all priorities, raise an escalation for any scenario not covered by the above options such as **[!UICONTROL Time to Resolution]**, **[!UICONTROL Resolution did not meet expectations]**, **[!UICONTROL Agent Communication Skills]**, or **[!UICONTROL Agent Technical Knowledge]**. 
 
