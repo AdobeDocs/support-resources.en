@@ -10,10 +10,12 @@ role: User, Admin
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
 - [Adobe Support and Tools Guide overview](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League support release notes](/help/adobe-support-tools-guide/release-notes.md)
+- [Experience League support release notes](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Adobe customer support experience](adobe-customer-support-experience.md)
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
+- [Escalation Management](/help/adobe-support-tools-guide/escalation-management.md)
+- [System Insights](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Execute pending Jobs](adobe-admin-console/execute-jobs.md)
