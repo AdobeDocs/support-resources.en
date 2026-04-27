@@ -66,7 +66,7 @@ The **[!UICONTROL Request immediate call]** option is available for **P1–Criti
 
 >[!NOTE]
 >
->This option is available for all solutions except [!DNL Commerce], [!DNL GeoStudio], and Adobe Experience Platform (AEP) products.
+>This option is available for all products except Adobe Experience Platform (AEP), [!DNL Commerce], and [!DNL GenStudio].
 
 Follow the steps outlined below to request an immediate callback:
 
