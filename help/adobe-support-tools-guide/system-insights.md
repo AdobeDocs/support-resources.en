@@ -1,6 +1,7 @@
 ---
 title: System Insights
 description: System Insights proactively identify potential issues in Adobe Commerce environments. Reviewing insights during case creation reduces resolution time, helps prevent outages, and supports a stable and secure deployment.
+hide: true
 ---
 # System Insights
 
