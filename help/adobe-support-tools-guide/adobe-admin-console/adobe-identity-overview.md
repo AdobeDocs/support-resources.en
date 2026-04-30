@@ -200,6 +200,6 @@ Adobe is updating all teams and enterprise customers to use Adobe's Enterprise s
 
 - [Set up identity](https://helpx.adobe.com/enterprise/using/set-up-identity.html)
 - [Switch user identity](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)
-- [Admin Console overview](https://helpx.adobe.com/enterprise/using/admin-console.html)
+- [Admin Console overview](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
 - [Education FAQ](https://helpx.adobe.com/x-productkb/policy-pricing/education-faq.html)
 - [Add and manage users](https://helpx.adobe.com/enterprise/using/users.html)
