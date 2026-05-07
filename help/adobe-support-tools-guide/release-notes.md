@@ -1,4 +1,4 @@
----
+<img width="1195" height="248" alt="image" src="https://github.com/user-attachments/assets/5fd35914-6ef6-48e7-b7c0-3f637e74cbc3" />---
 title: Experience League support release notes
 description: The latest release information on the Experience League support.
 feature: Release Notes
@@ -14,7 +14,7 @@ These release notes contain updates to the Experience League support and include
 
 ## May 7, 2026 - Expansion of Request for Callback feature
 
-The Request for Callback feature is now available for Commerce and GenStudio product users.
+The Request a Callback feature is now available for Adobe Commerce and Adobe GenStudio users. Adobe Commerce supports only the Scheduled Callback option, while Adobe GenStudio supports both Immediate and Scheduled Callback options.
 
 ## April 27, 2026 – Escalation Management and System Insights Enhancements for Adobe Commerce
 
