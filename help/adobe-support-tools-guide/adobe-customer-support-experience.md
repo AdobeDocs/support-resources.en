@@ -76,7 +76,7 @@ Experience League is a self-service support portal designed to provide personali
 
 1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a Callback]**, or access additional learning resources.
 
-The **[!UICONTROL Request a Callback]** option allows you to schedule web meetings with screen sharing for P2 and P3 cases, enabling faster and more efficient issue resolution. It is available for Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target, and Workfront. Meetings can be scheduled at the customer’s preference convenience, and instant invites are provided. It also provides immediate phone callbacks for P1 cases across all products, except Adobe Commerce.
+The **[!UICONTROL Request a Callback]** option allows you to schedule web meetings with screen sharing for P2 and P3 cases, enabling faster and more efficient issue resolution. It is available for Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target, and Workfront. Meetings can be scheduled at the customer’s convenience. It also provides immediate phone callbacks for P1 cases across all products mentioned above, except Adobe Commerce.
 
    ![Experience league home menu](./assets/home-menu.png)
 
