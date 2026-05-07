@@ -12,6 +12,9 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## May 7, 2026 - Expansion of Request for Callback feature
+
+The Request a Callback feature is now available for both Adobe Commerce and Adobe GenStudio. Adobe Commerce customers can conveniently schedule a callback at a time that works best for them, while Adobe GenStudio customers have the option to request either an immediate or a scheduled callback.
 
 ## April 27, 2026 – Escalation Management and System Insights Enhancements for Adobe Commerce
 
