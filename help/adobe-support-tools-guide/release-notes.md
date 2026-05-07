@@ -1,4 +1,4 @@
-<img width="1195" height="248" alt="image" src="https://github.com/user-attachments/assets/5fd35914-6ef6-48e7-b7c0-3f637e74cbc3" />---
+---
 title: Experience League support release notes
 description: The latest release information on the Experience League support.
 feature: Release Notes
