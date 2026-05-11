@@ -6,11 +6,49 @@ exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 ---
 # Experience League support release notes
 
-These release notes contain updates to the Experience League support and includes:
+These release notes contain updates to the Experience League support and include:
 
 ![New](../adobe-support-tools-guide/assets/new.svg) New features
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
+
+## May 7, 2026 - Expansion of Request for Callback feature
+
+The Request a Callback feature is now available for both Adobe Commerce and Adobe GenStudio. Adobe Commerce customers can conveniently schedule a callback at a time that works best for them, while Adobe GenStudio customers have the option to request either an immediate or a scheduled callback.
+
+## April 27, 2026 – Escalation Management and System Insights Enhancements for Adobe Commerce
+
+### Escalation Management
+
+1. Escalation Management on Experience League Support provides a new set of self-service capabilities to give you greater visibility into your support cases with a streamlined, system-driven workflow built around your needs. 
+
+1. Get an instant, AI-powered snapshot of your support case including current status, next steps, key updates, and a full case summary without having to read through the entire case history.  
+
+1. A new **[!UICONTROL Get Help]** option offers a centralized experience for customers to collaborate seamlessly with Support teams—covering troubleshooting, callback requests, self-service issue urgency updates, and requests for management attention. 
+
+1. **[!UICONTROL Request Immediate Call]** – For P1-Critical cases, request an immediate callback from a Technical Support Engineer directly from your case list. Simply provide your phone number and a brief description of your issue, and a support engineer will reach out as soon as they are available.
+
+1. **[!UICONTROL Request a Scheduled Call]** – For P2-Urgent and P3-Important cases, schedule a web meeting with a Technical Support Engineer at a date and time that works for you. A Microsoft Teams screen share session will be confirmed with all meeting details upon booking.
+
+1. **[!UICONTROL Change in Issue Urgency]** - For P3-Important and P4-Minor cases, self-service escalate your case priority from P4-Minor up to P2-Urgent by providing a brief justification. A change in priority request can happen without the ticket resulting in reassignment.
+
+1. **[!UICONTROL I Have an Issue Not Listed]** – For all priorities, raise an escalation for any scenario not covered by the above options such as **[!UICONTROL Time to Resolution]**, **[!UICONTROL Resolution did not meet expectations]**, **[!UICONTROL Agent Communication Skills]**, or **[!UICONTROL Agent Technical Knowledge]**. 
+
+### System Insights in case creation form for Adobe Commerce
+
+1. System Insights automatically surfaces detected issues in your environment. It includes performance slowdowns, security risks, and misconfigurations using telemetry data from APIs, New Relic, and [!DNL Splunk]. This helps you identify and resolve issues faster.
+
+1. System Insights are currently available exclusively for Adobe Commerce on Experience League Support during the case creation process. 
+
+1. Insights are scoped to your specific project instance, ensuring the information surfaced is relevant to your environment. 
+
+1. Insights include a detailed description, steps to resolve, root cause analysis, and links to relevant Adobe documentation. 
+
+1. Users can submit feedback on individual insights to help Adobe continuously improve the accuracy and relevance of System Insights.
+
+## April 23, 2026 - Expansion of Request for Callback feature
+
+The Request for Callback feature is now available for Analytics, Admin Console, Audience Manager and Target product users.
 
 ## April 8, 2026 - Expansion of Request for Callback feature 
 
@@ -71,7 +109,7 @@ The Request for Callback feature is now available for Marketo product users.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Renamed Case Description field to *[!UICONTROL "Please describe the issue"]* for improved clarity.
 
-![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as mandatory field indicators to ensure completeness and reduce submission errors.
+![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisks (*) as mandatory field indicators to ensure completeness and reduce submission errors.
 
 ## March 18, 2026 - Expansion of Request for Callback feature
 
