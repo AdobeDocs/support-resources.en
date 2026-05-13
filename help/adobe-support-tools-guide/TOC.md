@@ -14,6 +14,7 @@ role: User, Admin
 - [Adobe customer support experience](adobe-customer-support-experience.md)
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
+- [Escalation Management](/help/adobe-support-tools-guide/escalation-management.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Execute pending Jobs](adobe-admin-console/execute-jobs.md)
@@ -59,3 +60,4 @@ role: User, Admin
   - [Partner Adobe Commerce on cloud infrastructure sandbox requests](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
   - [Unable to add user to Adobe Commerce cloud project](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [How to apply a composer patch provided by Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+  - [Support Tools overview](adobe-commerce-support/overview.md)
