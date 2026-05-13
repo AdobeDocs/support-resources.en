@@ -2,6 +2,28 @@
 title: Elite Support
 description: Adobe Experience Cloud Elite Support Services offer best-in-class Service Level Targets (SLTs), proactive support and partnership with a Technical Account Manager and a Named Support Engineer.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
+TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Elite Support
 

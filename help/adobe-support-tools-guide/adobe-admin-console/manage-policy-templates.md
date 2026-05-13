@@ -14,6 +14,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
+TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
 ---
 # Manage policy templates in the Global Admin Console
 

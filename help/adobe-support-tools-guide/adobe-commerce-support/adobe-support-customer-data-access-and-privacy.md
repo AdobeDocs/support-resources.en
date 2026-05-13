@@ -3,6 +3,18 @@ title: Adobe support customer data access and privacy
 description: Adobe technical support may require access to your Adobe Commerce-related data in order to provide support. Authorization can only be provided by the primary Adobe Commerce account holder in their Adobe Commerce account privacy settings if they choose to do so. Allowing this access prior to support request creation will help ensure the issue can be properly investigated and/or help increase the speed of resolution. Please note, the "Project Owner" of an Adobe Commerce Cloud project may not be the primary Adobe Commerce account holder.
 solution: Commerce
 exl-id: ab8f406d-e86c-498c-8cce-0e56c1d26a33
+TQID: https://experienceleague.adobe.com/pXFc4bwBBZtXkcP2DmnK0x2MDxcVlQDrvgPVEgrh4I8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Adobe support customer data access and privacy
 

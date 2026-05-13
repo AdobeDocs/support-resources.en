@@ -14,6 +14,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
+TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
 ---
 # Manage product profiles in the Global Admin Console
 
