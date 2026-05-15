@@ -3,6 +3,15 @@ keywords: FAQ;frequently asked questions
 title: Adobe Business Platform & Admin Console FAQ
 description: Frequently Asked Question for Adobe Workfront
 exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
+TQID: https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # [!DNL Adobe Business Platform] & Admin Console FAQ
 
