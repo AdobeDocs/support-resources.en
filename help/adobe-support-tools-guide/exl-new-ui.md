@@ -34,10 +34,11 @@ Switching organizations updates case data, product status, and support informati
 
 Use the toggle in the portal to switch between the redesigned Experience League Support portal and the current portal.
 
-![New UI interface](/help/adobe-support-tools-guide/assets/new-toggle.png)
-
+![New UI](/help/adobe-support-tools-guide/assets/new-toggle.png)
 
 Both portals remain synchronized, ensuring that case data and support information remain consistent across experiences.
+
+![Old UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
 The Home page includes a personalized welcome banner with a global search bar that enables searching across the Experience League Support portal.
 
@@ -45,9 +46,9 @@ The following quick actions are available at the top of the **[!UICONTROL Home]*
 
 1. **[!UICONTROL Open a support case]** - Redirects to the **[!UICONTROL Open Ticket]** module in the current Experience League Support portal to create a new case. Click **[!UICONTROL Get Started]**.
 
-1. **[!UICONTROL View and manage your cases]** - Redirects to the **[!UICONTROL My Cases]** module in the current Experience League Support portal. Select **[!UICONTROL Go now]** to access.
+2. **[!UICONTROL View and manage your cases]** - Redirects to the **[!UICONTROL My Cases]** module in the current Experience League Support portal. Select **[!UICONTROL Go now]** to access.
 
-1. **[!UICONTROL Request a Callback]** - Schedule a call about the case with an Adobe expert. For P1 (Critical) cases, request an immediate callback. For P2 and P3 cases, schedule a web meeting with a support engineer at a convenient date and time. Select **[!UICONTROL Request now]** to get started.
+3. **[!UICONTROL Request a Callback]** - Schedule a call about the case with an Adobe expert. For P1 (Critical) cases, request an immediate callback. For P2 and P3 cases, schedule a web meeting with a support engineer at a convenient date and time. Select **[!UICONTROL Request now]** to get started.
 
 ## Service Analytics
 
