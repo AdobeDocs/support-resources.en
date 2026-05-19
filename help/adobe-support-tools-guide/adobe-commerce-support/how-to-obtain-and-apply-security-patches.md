@@ -32,26 +32,36 @@ Accordingly, the supported remediation path is to apply the official security up
 
 **Caveats:**
 
-If you are on an older version of Adobe Commerce (2.4.4), you will have automatically received Extended Support. Your version must be one of the following unsupported versions to be able to apply the latest available Security Patches:
+* Adobe Commerce 2.4.6 remains supported under Extended Support through August 30, 2027.
 
-2.4.4 - 2.4.4-p11
+* Adobe Commerce 2.4.5 remains under Extended Support through August 11, 2026. After this date, Adobe provides security fixes only through May 31, 2027.
 
-Unsupported versions (2.3.x, 2.4.0 - 2.4.3) are ineligible for support and you must first upgrade to a supported version to take advantage of the latest security fixes.
+* Adobe Commerce 2.4.4 is no longer under Extended Support. Adobe provides security fixes only through May 31, 2027.
 
-If you don't have Extended Support, you may request Support to share the patches with you, but they won't be able to resolve any issues/errors you may encounter when applying them.
+* For Adobe Commerce 2.4.4 and 2.4.5, Adobe provides security patch files only. These updates do not include:
+
+    * Adobe Commerce Support or engineering assistance
+    * Quality patches
+    * Platform or operating system dependency updates
+
+Unsupported versions (2.3.x and 2.4.0–2.4.3) are not eligible for support. You can upgrade to a supported version to receive the latest security fixes.
 
 ### Case II:
 
-Isolated patches are only provided in exceptional cases, and it isn't the preferred form of implementing security fixes.
+Isolated patches are provided only in exceptional cases and are not the preferred method for implementing security fixes.
 
-If an isolated patch file/hotfix is not mentioned in the Release Notes:
+If an isolated patch file or hotfix is not mentioned in the Release Notes, follow these guidelines:
 
-* **Cloud:**
+>[!IMPORTANT]
+>
+>If an isolated patch file or hotfix is not explicitly released for a security issue, upgrade the full Adobe Commerce application to the latest applicable patch version for the affected release line.
+
+**Cloud:**
 
 1. Some [!UICONTROL security patches] might be included/released in the latest version of Cloud Tools Suite (ECE Tools) under Cloud Patches for Commerce - check the [Release Notes](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite), and if a security fix is mentioned in the release, upgrade the package to that version.
 1. If the Release Notes do not mention a security fix, continue reading.
 
-* **Cloud infrastructure or On-Premise:**
+**Cloud infrastructure or On-Premise:**
 
 * If an isolated patch file/hotfix is not available, [upgrade the Adobe Commerce version on cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X to the latest patch version 2.4.X-pY. 
 * If an isolated patch file/hotfix is not available, [upgrade the Adobe Commerce version On-Premise](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X to the latest patch version 2.4.X-pY.
