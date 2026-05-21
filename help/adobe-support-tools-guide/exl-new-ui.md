@@ -1,6 +1,7 @@
 ---
 title: Experience League support portal - new user interface
 description: Redesigned Experience League Support portal that streamlines support workflows, case insights, and product monitoring with improved navigation, analytics, and quick actions, along with seamless switching to the current portal for case management.
+hold: true
 ---
 # Experience League Support Portal – New User Interface
 
