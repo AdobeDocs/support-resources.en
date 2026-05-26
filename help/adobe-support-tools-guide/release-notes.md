@@ -24,6 +24,24 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## May 26, 2026 - Experience League Support Portal UI Update
+
+1. A new centralized Home page provides an at-a-glance view of support activity, including case counts by priority, cases awaiting your response, real-time product status, and system alerts in a single dashboard. 
+
+1. The **[!UICONTROL Organization Switcher]** in the upper-left corner lets you switch between organizations, and the portal automatically updates case data, product status, and support information for the selected organization. 
+
+1. A portal toggle lets you switch between the redesigned portal and the current Experience League Support portal at any time, with both experiences remaining fully synchronized so your case data stays up to date. 
+
+1. You can monitor live operational status for all Adobe products entitled to your organization and filter system alerts by event type, including Major, Minor, Potential, Maintenance, and Announcements. 
+
+1. Ultimate Success plan customers now have access to a dedicated **[!UICONTROL My Success]** page with details about their Success team and resources to support their engagement with Adobe. 
+
+1. The redesigned Support portal is available for all products except Adobe Commerce. 
+
+>[!NOTE]
+>
+>Updates to the Case Creation, Case Details, and My Cases pages are planned for a future release. Until then, these pages will remain available in the current Experience League Support portal. 
+
 ## May 7, 2026 - Expansion of Request for Callback feature
 
 The Request a Callback feature is now available for both Adobe Commerce and Adobe GenStudio. Adobe Commerce customers can conveniently schedule a callback at a time that works best for them, while Adobe GenStudio customers have the option to request either an immediate or a scheduled callback.
