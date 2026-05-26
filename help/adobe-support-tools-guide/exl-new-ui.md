@@ -6,7 +6,7 @@ description: Redesigned Experience League Support portal that streamlines suppor
 
 ## Overview
 
-The redesigned Experience League Support portal provides a unified and intuitive experience for managing Adobe support activities. It offers faster access to essential features, including tracking support cases, monitoring product status, accessing case insights, and connecting with the Success team..
+The redesigned Experience League Support portal provides a unified and intuitive experience for managing Adobe support activities. It offers faster access to essential features, including tracking support cases, monitoring product status, accessing case insights, and connecting with the Success team.
 
 >[!NOTE]
 >
