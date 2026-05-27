@@ -34,11 +34,11 @@ Switching organizations updates case data, product status, and support informati
 
 Use the toggle in the portal to switch between the redesigned Experience League Support portal and the current portal.
 
-![New UI toggle](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![New UI](/help/adobe-support-tools-guide/assets/new-toggle.png)
 
 Both portals remain synchronized, ensuring that case data and support information remain consistent across experiences.
 
-![Old UI toggle](/help/adobe-support-tools-guide/assets/old-ui.png)
+![Old UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
 The Home page includes a personalized welcome banner with a global search bar that enables searching across the Experience League Support portal.
 
