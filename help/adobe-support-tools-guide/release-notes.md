@@ -24,6 +24,10 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## May 28, 2026 - Expansion of [!UICONTROL Request a Callback] feature
+
+The **[!UICONTROL Request a Callback]** feature is now available for Adobe Journey Optimizer, Customer Journey Analytics and Real-Time Customer Data Platform product users. 
+
 ## May 26, 2026 - Experience League Support Portal UI Update
 
 1. A new centralized Home page provides an at-a-glance view of support activity, including case counts by priority, cases awaiting your response, real-time product status, and system alerts in a single dashboard. 
@@ -42,7 +46,7 @@ These release notes contain updates to the Experience League support and include
 >
 >Updates to the Case Creation, Case Details, and My Cases pages are planned for a future release. Until then, these pages will remain available in the current Experience League Support portal. 
 
-## May 7, 2026 - Expansion of Request for Callback feature
+## May 7, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
 The Request a Callback feature is now available for both Adobe Commerce and Adobe GenStudio. Adobe Commerce customers can conveniently schedule a callback at a time that works best for them, while Adobe GenStudio customers have the option to request either an immediate or a scheduled callback.
 
@@ -76,13 +80,13 @@ The Request a Callback feature is now available for both Adobe Commerce and Adob
 
 1. Users can submit feedback on individual insights to help Adobe continuously improve the accuracy and relevance of System Insights.
 
-## April 23, 2026 - Expansion of Request for Callback feature
+## April 23, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
-The Request for Callback feature is now available for Analytics, Admin Console, Audience Manager and Target product users.
+The **[!UICONTROL Request a Callback]** feature is now available for Analytics, Admin Console, Audience Manager and Target product users.
 
-## April 8, 2026 - Expansion of Request for Callback feature 
+## April 8, 2026 - Expansion of [!UICONTROL Request a Callback] feature 
 
-The Request for Callback feature is now available for Marketo product users.
+The **[!UICONTROL Request a Callback]** feature is now available for Marketo product users.
 
 ## March 30, 2026 – Enhanced Case Form
 
@@ -141,9 +145,9 @@ The Request for Callback feature is now available for Marketo product users.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisks (*) as mandatory field indicators to ensure completeness and reduce submission errors.
 
-## March 18, 2026 - Expansion of Request for Callback feature
+## March 18, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
-Experience League now offers a Request for Callback option, enabling self-service web meeting scheduling with screen sharing capabilities for faster issue resolution.
+Experience League now offers a **[!UICONTROL Request a Callback]** option, enabling self-service web meeting scheduling with screen sharing capabilities for faster issue resolution.
 
 - This feature is available for Adobe Experience Manager, Campaign, and Workfront. 
 - Customers can schedule meetings at their convenience and receive instant invites. 
