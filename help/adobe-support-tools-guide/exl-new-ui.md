@@ -16,7 +16,7 @@ The redesigned Experience League Support portal provides a unified and intuitive
 
 The **[!UICONTROL Home]** page serves as the central hub for support activities. It provides an overview of the support environment and quick access to key features.
 
-![Home page for new EXL UI](/help/adobe-support-tools-guide/assets/home-page-new-ui.png)
+![Home page for new EXL UI](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
 
 The left navigation panel provides access to the following sections:
 
@@ -34,11 +34,11 @@ Switching organizations updates case data, product status, and support informati
 
 Use the toggle in the portal to switch between the redesigned Experience League Support portal and the current portal.
 
-![New UI toggle](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![New UI toggle](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Both portals remain synchronized, ensuring that case data and support information remain consistent across experiences.
 
-![Old UI toggle](/help/adobe-support-tools-guide/assets/old-ui.png)
+![Old UI toggle](/help/adobe-support-tools-guide/assets/old-ui-1.png)
 
 The Home page includes a personalized welcome banner with a global search bar that enables searching across the Experience League Support portal.
 
@@ -54,7 +54,7 @@ The following quick actions are available at the top of the **[!UICONTROL Home]*
 
 The **[!UICONTROL Service Analytics]** section provides a summary of support case activity. Switch between the **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]** views. The **[!UICONTROL My Cases]** view displays case statistics specific to the individual, while the **[!UICONTROL My Org Cases]** view displays case statistics across the organization.
 
-![Service analytics section](/help/adobe-support-tools-guide/assets/service-analytics.png)
+![Service analytics section](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
 The following metrics are available:
 
@@ -65,7 +65,7 @@ The following metrics are available:
 
 This section displays a visual breakdown of support cases by priority level.
 
-![Case count by priority section](/help/adobe-support-tools-guide/assets/case-count-by-priority.png)
+![Case count by priority section](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
 The **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]** selection applies to this chart, enabling viewing at an individual or organizational level.
 
@@ -79,7 +79,7 @@ This section displays the three most recent support cases, including:
 - Submission Date  
 - Status  
 
-![My submitted cases section](/help/adobe-support-tools-guide/assets/my-submitted-case.png)
+![My submitted cases section](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
 Select a **[!UICONTROL Case ID]** to view case details in the current Experience League Support portal. Select **[!UICONTROL View all cases]** to view the complete list of cases.
 
@@ -87,7 +87,7 @@ Select a **[!UICONTROL Case ID]** to view case details in the current Experience
 
 The section displays the current operational status of Adobe products assigned to the organization. A status of **[!UICONTROL Available]** indicates that the product is fully operational with no active outages. If one or more issues exist, the total number of active issues appears on the product card. Select a product card to view additional details on the Adobe [status site](https://status.adobe.com/).
 
-![Products Status Alerts section](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
+![Products Status Alerts section](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 ## Your System Status Alerts
 
@@ -109,7 +109,7 @@ And, Each alert includes:
 
 Select an alert to expand and view additional details.
 
-![Your System Status Alerts section](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
+![Your System Status Alerts section](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
 Select **[!UICONTROL Manage Subscriptions]** to configure notification preferences for your Adobe products on the Adobe [status site](https://status.adobe.com/).
 
@@ -125,7 +125,7 @@ The **[!UICONTROL My Success]** page provides a personalized view of engagement 
 >  
 >This page is available only to customers on the **[!UICONTROL Ultimate Success]** plan.
 
-![My Success page](/help/adobe-support-tools-guide/assets/my-success-page.png)
+![My Success page](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
 The page includes:
 
@@ -142,4 +142,4 @@ It also provides access to learning resources such as Experience League, the Exp
 
 This section displays your dedicated Adobe Success team. Select **[!UICONTROL Contact]** next to a team member to send an email.
 
-![Adobe Success Team section](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Adobe Success Team section](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
