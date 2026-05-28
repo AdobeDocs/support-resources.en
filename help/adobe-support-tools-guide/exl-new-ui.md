@@ -1,6 +1,23 @@
 ---
 title: Experience League support portal - new user interface
 description: Redesigned Experience League Support portal that streamlines support workflows, case insights, and product monitoring with improved navigation, analytics, and quick actions, along with seamless switching to the current portal for case management.
+TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Experience League support portal - new user interface
 
