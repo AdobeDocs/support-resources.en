@@ -22,7 +22,7 @@ The Global Admin Console is for customers with complex organizational structures
 
 A **child Admin Console** (called a *child organization* in the Global Admin Console) is any Adobe Admin Console nested below another console in **your** hierarchy. Only Admin Consoles linked to your Global Admin Console are child consoles in this sense—not every Adobe Admin Console worldwide.
 
-The Global Admin Console does not replace or change day-to-day functionality in those Admin Consoles. It works as a hierarchy with a root organization at the top and all linked consoles nested under that root. There is a selection criterion focused on purchasing and creating a hierarchy structure in which an Admin Console operates as the root console.
+The Global Admin Console does not replace or change day-to-day functionality in existing Admin Consoles. It operates as a hierarchical structure, with a root organization at the top and all linked consoles nested beneath it. The root console is determined based on purchasing and organization setup.
 
 To learn more about the functionality and benefits of the Global Admin Console, see the [white paper on the Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) and watch the following [video](https://youtu.be/FLBWR78wpok).
 
