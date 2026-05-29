@@ -10,9 +10,9 @@ exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
 
 Applies to enterprise.
 
-Learn how global administrators can distribute resources to child organizations, enabling effective resource management and user assignment within each organization.
+Learn how global administrators can distribute resources to child organizations (child Admin Consoles in your hierarchy), enabling system administrators in each console to assign licenses to users.
 
-In the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), go to the **[!UICONTROL Product Allocation]** tab, and then select a product to allocate to child organizations.
+In the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), go to the **[!UICONTROL Product Allocation]** tab, and then select a product to allocate to child organizations. Global administrators allocate products down the hierarchy; they do not assign licenses to end users—that work stays in each child Adobe Admin Console.
 
 Sign in to the [Global Admin Console](https://global-admin-console.adobe.com).
 

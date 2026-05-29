@@ -14,9 +14,13 @@ Learn how global administrators can manage the organization's hierarchy in the G
 
 After you gain [access to the Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), you can create new organizations, add existing organizations to the hierarchy, delete organizations, and change a parent organization. Go here to [sign in to the Global Admin Console](https://global-admin-console.adobe.com/).
 
-An organization is a structure used to manage Adobe products and users. The [Adobe Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) lets administrators manage the deployment and configuration of products and users in their organization. The [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) lets global administrators create, manage, and delete multiple orgs.
+In the Global Admin Console, an organization is an Adobe Admin Console—a structure used to manage Adobe products and users for one entity in your enterprise. The [Adobe Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) lets system administrators manage deployment, users, and licenses within that console. The [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) lets global administrators create, reparent, and delete child Admin Consoles (child organizations) in the hierarchy and allocate products from parent to child consoles.
 
 ## Create a child organization
+
+>[!NOTE]
+>
+> A child organization is a child Adobe Admin Console. Creating one adds a new console to your Global Admin Console hierarchy.
 
 As a [global administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), you can create child organizations of any organization in the hierarchy and set the name, country, user groups, products, product profiles, administrators, and policies.
 
