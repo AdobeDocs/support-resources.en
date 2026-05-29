@@ -37,7 +37,7 @@ If you're an administrator for multiple organizations, you can switch between or
 
 ![Admin console Select your org](assets/admin-console-select-your-org.png "Organization Selector")
 
-If the organization is part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of organization B, and this organization's Global Admin Console path is A > B, where B is a child of organization A. In this context, each organization in the path is an Adobe Admin Console; a child organization is a child Admin Console in your hierarchy.
+If the organization is part of a Global Admin Console, a hierarchy icon appears next to the organization's name. You also see the organization's path and can determine the organization's placement within the hierarchy. For example, in the screenshot, the admin is a member of a top-level organization, and child organizations have a Global Admin Console path such as Parent Organization > Child Organization, where the child organization is nested under the parent. In this context, each organization in the path is an Adobe Admin Console; a child organization is a child Admin Console in your hierarchy.
 
 ![admin console select your child org](assets/admin-console-select-your-org-hierarchy.png "Organization placement in hierarchy of a Global Admin Console")
 
