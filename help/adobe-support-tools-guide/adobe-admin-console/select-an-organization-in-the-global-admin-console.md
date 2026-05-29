@@ -18,7 +18,7 @@ The Global Admin Console groups Adobe Admin Consoles in a hierarchy. Each organi
 
 - Create child Admin Consoles (child organizations) under their organization
 - Assign system administrators to manage each child console
-- Allocate products and licenses to child Admin Consoles for system administrators to assign to users in those consoles
+- Allocate supported product resources/licenses to child Admin Consoles for system administrators to assign to users in those consoles 
 
 >[!NOTE]
 >
