@@ -24,9 +24,25 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## June 16, 2026 - Updates in the redesigned Experience League Support Portal 
+
+1. The redesigned Experience League Support Portal is now available for Adobe Commerce product users.
+
+2. When the **[!UICONTROL My Org Cases]** toggle is selected in Service Analytics, the [!UICONTROL My Submitted Cases] section is updated to display the last three most recently submitted cases across the organization. Upon clicking **[!UICONTROL View all cases]**, users are redirected to the [!UICONTROL My Cases] page on the current Experience League Support Portal with the *[!UICONTROL *My Organization's Cases (All)]** filter pre-selected.
+
+3. The **[!UICONTROL Cases Count by Priority]** chart has been enhanced to provide a more detailed breakdown of cases on hover. When a priority segment is hovered over, a tooltip is displayed showing the total case count for that priority level along with a breakdown of how many cases are open and how many are closed.
+
+4. The **[!UICONTROL Product Status]** widget has been updated to support interactive product filtering. System Status Alerts can now be filtered by one or more specific products directly from the Home page.
+
+    >[!NOTE]
+    >
+    >Clicking on a product in the [!UICONTROL Product Status] widget will no longer navigate users to status.adobe.com.
+
+5. The **[!UICONTROL Product Status]** widget has been updated to display products in a more intuitive order. Products with active issues are now listed first, followed by all remaining products sorted alphabetically, making it easier for users to identify and prioritize products requiring attention.
+
 ## May 28, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
-The **[!UICONTROL Request a Callback]** feature is now available for Adobe Journey Optimizer, Customer Journey Analytics and Real-Time Customer Data Platform product users. 
+The **[!UICONTROL Request a Callback]** feature is now available for Adobe Journey Optimizer, Customer Journey Analytics and Real-Time Customer Data Platform product users.
 
 ## May 26, 2026 - Experience League Support Portal UI Update
 
