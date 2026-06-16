@@ -33,19 +33,15 @@ These release notes contain updates to the Experience League support and include
 
 ## June 16, 2026 - Updates in the redesigned Experience League Support Portal 
 
-1. The redesigned Experience League Support Portal is now available for Adobe Commerce product users.
+1. The redesigned Experience League Support Portal is now available for Adobe Commerce users.
 
-2. When the **[!UICONTROL My Org Cases]** toggle is selected in Service Analytics, the [!UICONTROL My Submitted Cases] section is updated to display the last three most recently submitted cases across the organization. Upon clicking **[!UICONTROL View all cases]**, users are redirected to the [!UICONTROL My Cases] page on the current Experience League Support Portal with the *[!UICONTROL *My Organization's Cases (All)]** filter pre-selected.
+1. When the **[!UICONTROL My Org Cases]** toggle is selected in the **[!UICONTROL Service Analytics]** section, the **[!UICONTROL My Submitted Cases]** section displays the three most recent cases submitted across the organization. Selecting **[!UICONTROL View all cases]** opens the **[!UICONTROL My Org Cases]** page in the Experience League Support Portal with the **[!UICONTROL My Organization's Cases (All)]** filter preselected.
 
-3. The **[!UICONTROL Cases Count by Priority]** chart has been enhanced to provide a more detailed breakdown of cases on hover. When a priority segment is hovered over, a tooltip is displayed showing the total case count for that priority level along with a breakdown of how many cases are open and how many are closed.
+1. The **[!UICONTROL Cases Count by Priority]** chart now provides a more detailed breakdown on hover. Hovering over a priority segment displays a tooltip showing the total number of cases, along with the number of open and closed cases.
 
-4. The **[!UICONTROL Product Status]** widget has been updated to support interactive product filtering. System Status Alerts can now be filtered by one or more specific products directly from the Home page.
+1. The **[!UICONTROL Product Status]** widget now supports interactive product filtering. System status alerts can be filtered by selecting one or more products directly from the Home page. Selecting a product in this widget no longer redirects to [status.adobe.com](http://status.adobe.com).
 
-    >[!NOTE]
-    >
-    >Clicking on a product in the [!UICONTROL Product Status] widget will no longer navigate users to status.adobe.com.
-
-5. The **[!UICONTROL Product Status]** widget has been updated to display products in a more intuitive order. Products with active issues are now listed first, followed by all remaining products sorted alphabetically, making it easier for users to identify and prioritize products requiring attention.
+1. The **[!UICONTROL Product Status]** widget now lists products in a more intuitive order. Products with active issues appear first, followed by the remaining products sorted alphabetically.
 
 ## May 28, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
