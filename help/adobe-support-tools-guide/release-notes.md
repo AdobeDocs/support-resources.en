@@ -31,7 +31,7 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
-## June 16, 2026 - Updates in the redesigned Experience League Support Portal 
+## June 17, 2026 - Updates in the redesigned Experience League Support Portal 
 
 1. The redesigned Experience League Support Portal is now available for Adobe Commerce users.
 
