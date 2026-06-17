@@ -3,19 +3,26 @@ title: Experience League support release notes
 description: The latest release information on the Experience League support.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
+autotag-review: '2026-06-12T20:44:20.941Z'
+TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-    internal-label: Troubleshooting
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
+
 # Experience League support release notes
 
 These release notes contain updates to the Experience League support and include:
@@ -24,9 +31,21 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## June 17, 2026 - Updates in the redesigned Experience League Support Portal 
+
+1. The redesigned Experience League Support Portal is now available for Adobe Commerce users.
+
+1. When the **[!UICONTROL My Org Cases]** toggle is selected in the **[!UICONTROL Service Analytics]** section, the **[!UICONTROL My Submitted Cases]** section displays the three most recent cases submitted across the organization. Selecting **[!UICONTROL View all cases]** opens the **[!UICONTROL My Org Cases]** page in the Experience League Support Portal with the **[!UICONTROL My Organization's Cases (All)]** filter preselected.
+
+1. The **[!UICONTROL Cases Count by Priority]** chart now provides a more detailed breakdown on hover. Hovering over a priority segment displays a tooltip showing the total number of cases, along with the number of open and closed cases.
+
+1. The **[!UICONTROL Product Status]** widget now supports interactive product filtering. System status alerts can be filtered by selecting one or more products directly from the Home page. Selecting a product in this widget no longer redirects to [status.adobe.com](http://status.adobe.com).
+
+1. The **[!UICONTROL Product Status]** widget now lists products in a more intuitive order. Products with active issues appear first, followed by the remaining products sorted alphabetically.
+
 ## May 28, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
-The **[!UICONTROL Request a Callback]** feature is now available for Adobe Journey Optimizer, Customer Journey Analytics and Real-Time Customer Data Platform product users. 
+The **[!UICONTROL Request a Callback]** feature is now available for Adobe Journey Optimizer, Customer Journey Analytics and Real-Time Customer Data Platform product users.
 
 ## May 26, 2026 - Experience League Support Portal UI Update
 
