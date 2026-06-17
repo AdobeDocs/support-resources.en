@@ -69,42 +69,76 @@ The following quick actions are available at the top of the **[!UICONTROL Home]*
 
 ## Service Analytics
 
-The **[!UICONTROL Service Analytics]** section provides a summary of support case activity. Switch between the **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]** views. The **[!UICONTROL My Cases]** view displays case statistics specific to the individual, while the **[!UICONTROL My Org Cases]** view displays case statistics across the organization.
+The **[!UICONTROL Service Analytics]** section displays a summary of support case activity. Use the view selector to switch between **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]**:
 
-![Service analytics section](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL My Cases]** — Displays case statistics specific to the individual.
+- **[!UICONTROL My Org Cases]** — Displays case statistics for the selected organization.
 
-The following metrics are available:
+The selected view applies to all metrics and charts in this section, including [[!UICONTROL Cases Count by Priority]](#cases-count-by-priority) and [[!UICONTROL My submitted Cases]](#my-submitted-cases)sections.
 
-**[!UICONTROL Pending Response Cases]** – Number of cases currently awaiting a response
-**[!UICONTROL Submitted Cases]** – Total number of cases submitted
+![Service analytics](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+The **[!UICONTROL Service Analytics]** section provides the following metrics:
+
+- **[!UICONTROL Pending Response Cases]** — Displays the number of cases that are awaiting a response.
+- **[!UICONTROL Submitted Cases]** — Displays the total number of cases submitted.
 
 ## Cases Count by Priority
 
 This section displays a visual breakdown of support cases by priority level.
 
-![Case count by priority section](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+![Case count by priority](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-The **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]** selection applies to this chart, enabling viewing at an individual or organizational level.
+The **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]** selection in the **[!UICONTROL Service Analytics]** section applies to this chart and enables viewing at an individual or organizational level.
 
-## My Submitted Cases
+Hover over a priority segment to view a tooltip that shows:
 
-This section displays the three most recent support cases, including:
+- Total number of cases for that priority level
+- Number of open cases
+- Number of closed cases
 
-- Case ID  
-- Case Title  
-- Priority  
-- Submission Date  
-- Status  
+## My submitted Cases
 
-![My submitted cases section](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+This section displays the three most recently submitted support cases, including:
 
-Select a **[!UICONTROL Case ID]** to view case details in the current Experience League Support portal. Select **[!UICONTROL View all cases]** to view the complete list of cases.
+- Case ID
+- Case Title
+- Priority
+- Submission Date
+- Status
+
+![My submitted cases](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+
+When **[!UICONTROL My Cases]** is selected, this section displays the three most recently submitted cases. When **[!UICONTROL My Org Cases]** is selected in the **[!UICONTROL Service Analytics]** section, it displays the three most recently submitted cases across the organization.
+
+![My Cases](/help/adobe-support-tools-guide/assets/my-case.png)
+
+Select a **[!UICONTROL Case ID]** to view case details in the current Experience League Support portal.
+
+![Select a case id](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+Select **[!UICONTROL View all cases]** to open the **[!UICONTROL My Cases]** page on the current Experience League Support portal.
+
+![View all cases](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+When **[!UICONTROL My Cases]** is selected in **[!UICONTROL Service Analytics]**, **[!UICONTROL My Cases (All)]** is pre-selected and it opens in the Experience League Support portal. When **[!UICONTROL My Org Cases]** is selected, **[!UICONTROL My Organization's Cases (All)]** is pre-selected in the Experience League Support portal.
 
 ## Product Status Alerts
 
-The section displays the current operational status of Adobe products assigned to the organization. A status of **[!UICONTROL Available]** indicates that the product is fully operational with no active outages. If one or more issues exist, the total number of active issues appears on the product card. Select a product card to view additional details on the Adobe [status site](https://status.adobe.com/).
+This section displays the current operational status of Adobe products assigned to the organization.
 
-![Products Status Alerts section](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![Product status alert](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+A status of **[!UICONTROL Available]** indicates that the product is fully operational with no active outages. If one or more issues exist, the total number of active issues appears on the product card.
+
+Products appear in the following order:
+
+1. Products with active issues
+1. Remaining products, listed in alphabetical order
+
+This prioritization helps quickly identify and prioritize products that require attention. You can select one or more product cards to filter alerts in **[!UICONTROL Your System Status Alerts]** on the **[!UICONTROL Home]** page.
+
+![Alerts filter](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## Your System Status Alerts
 
