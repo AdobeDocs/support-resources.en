@@ -74,7 +74,7 @@ The **[!UICONTROL Service Analytics]** section displays a summary of support cas
 - **[!UICONTROL My Cases]** — Displays case statistics specific to the individual.
 - **[!UICONTROL My Org Cases]** — Displays case statistics for the selected organization.
 
-The selected view applies to all metrics and charts in this section, including [[!UICONTROL Cases Count by Priority]](#cases-count-by-priority) and [[!UICONTROL My submitted Cases]](#my-submitted-cases)sections.
+The selected view applies to all metrics and charts in this section, including [[!UICONTROL Cases Count by Priority]](#cases-count-by-priority) and [[!UICONTROL My submitted Cases]](#my-submitted-cases) sections.
 
 ![Service analytics](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
