@@ -197,7 +197,7 @@ After submission:
 >
 > If the issue causes outages or serious interruptions to a production system, a phone number is provided for immediate assistance.
 
-## AI chat in the case creation experience
+### AI chat in the case creation experience
 
 Experience League Support provides an AI-powered chat interface as an alternative way to create and manage support cases. The AI chat experience is opt-in and does not replace the classic case creation workflow.
 
