@@ -14,11 +14,11 @@ Learn how to choose an organization for editing within the Global Admin Console.
 >
 >After you have access to the [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), you can start by selecting an organization to view and manage the organization's name, user groups, product profiles, administrators, and organization policies. To sign in, go to the [Global Admin Console](https://global-admin-console.adobe.com/).
 
-The Global Admin Console acts as an organization's central management hub for Adobe resources. Global administrators can:
+The Global Admin Console groups Adobe Admin Consoles in a hierarchy. Each organization you select is one Adobe Admin Console. Global administrators can:
 
-- Create child organizations under their organization
-- Assign System administrators to manage them
-- Distribute resources to child organizations for management and assignment to users in those organizations
+- Create child Admin Consoles (child organizations) under their organization
+- Assign system administrators to manage each child console
+- Allocate supported product resources/licenses to child Admin Consoles for system administrators to assign to users in those consoles 
 
 >[!NOTE]
 >

@@ -2,6 +2,13 @@
 title: Business Support for Creative Cloud and Adobe Document Cloud
 description: Adobe provides a comprehensive range of technical resources to help support your business included as part of your Adobe enterprise subscription. This is enhanced with the BUSINESS support plan. BUSINESS support includes priority routing for support cases to ensure faster connection to more senior support resources on submitted cases.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
+TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Business Support for Creative Cloud and Adobe Document Cloud
 

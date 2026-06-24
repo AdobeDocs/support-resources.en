@@ -3,6 +3,28 @@ title: Adobe Success Plans Overview
 description: This article provides a summary of Customer Support options for Adobe Experience Cloud, Adobe Document Cloud, and Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 hide: true
+TQID: https://experienceleague.adobe.com/jyd4rXuRngHrYK9F6QAUMiOT-toNmxV1t-eAMTRwLWA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Adobe Success Plans Overview
 
@@ -13,8 +35,8 @@ Adobe Success plans go above and beyond reactive problem solving to bring you a 
 |  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
 |  | With the Expert Success plan, you can access **24X7 expert care** for technical troubleshooting and guidance on your critical business issues. Or you can find quick resolutions by tapping into our self-guided resources, exclusive best practices, and an online community of Adobe experts & peers. <p> *Included with all Adobe Experience Cloud licenses.* | With the Ultimate Success plan, you will experience **strategic guidance and proactive technical health to deliver high-performing digital experiences**. Your Adobe environment will be supported by a team of experts who are familiar with your business and focused on executing a roadmap aligned with your objectives and priorities for business impact. |
-| **Success team** | Pooled team of support engineers | Includes: <ul><li> Designated Technical Account Manager </li><li> Designated Customer Success Manager </li><li> Designated Support Services Manager</li><li> Pooled team of technical engineers and strategic experts delivering Success Accelerators </li><li> Pooled team of support engineers </li></ul> |
-| **Proactive technical + operational support** | ![not included icon](assets/Cross_red_circle.svg){width="20"} Not included | Includes: <ul><li>Upgrade & migration reviews, release preparation </li><li>Product roadmap reviews</li><li> Aligned technical and strategic roadmaps</li><li>Key event preparation and planning</li><li>Planning for relevant and timely enablement</li><li>Technical best practices and industry guidance</li><li>Advocating/aligning with product teams</li><li>Unified plan to achieving key business objectives - Mutual Action Plan (MAP)</li></ul>|
+| **Success team** | Pooled team of support engineers | Includes: <ul><li> Designated Technical Account Manager </li><li> Designated Customer Success Manager </li><li> Pooled team of Support Service Managers </li><li> Pooled team of technical engineers and strategic experts delivering Success Accelerators </li><li> Pooled team of support engineers </li></ul> |
+| **Proactive technical + operational support** | ![not included icon](assets/Cross_red_circle.svg){width="20"} Not included | Includes: <ul><li>Upgrade & migration reviews, release preparation </li><li>Product roadmap reviews</li><li> Aligned technical and strategic roadmaps</li><li>Key event preparation and planning</li><li>Planning for relevant and timely enablement</li><li>Technical best practices and industry guidance</li><li>Advocating/aligning with product teams</li><li>Unified plan to achieving key business objectives - Mutual Action Plan (MAP)</li><li>AI and Agentic readiness guidance</li></ul>|
 | **Technical support**| Includes: <ul><li>**P1**: 24x7 issue support</li><li>**P2, P3, P4**: business hours support</li><li>Standard outage management</li><li>Pooled escalation management</li></ul>| Includes: <ul><li>**P1**: 24x7 issue support</li><li>**P2/P3**: 24x5 issue support</li><li>**P4**: business hours support</li><li>Prioritized outage management</li><li>Designated expert escalation management</li></ul>|
 | **Success Accelerators** | ![not included icon](assets/Cross_red_circle.svg){width="20"} Not included | Success Accelerators scheduled on a regular basis by the TAM & CSM<p>*(see Success Accelerator Catalog for more information)*|
 | **Support channels** | Online, phone, Experience League, forums | Personalized online portal, prioritized phone, Experience League, forums |
@@ -25,11 +47,9 @@ Adobe Success plans go above and beyond reactive problem solving to bring you a 
 
 | Add-ons  | Expert Success Plan | Ultimate Success Plan |
 |--- |--- |--- |
-|**Event Management add-on**<br>Provides end-to-end leadership and support required to manage the entire lifecycle of key events |![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/Plus_blue.svg){width="20"} Available|
+|**Event Management**<br>Provides end-to-end leadership and support required to manage the entire lifecycle of key events |![not available icon](assets/Cross_red_circle.svg){width="20"} Not available|![not available icon](assets/Cross_red_circle.svg){width="20"} Not available|
 |**Technical Account Director add-on**<br>Your lead technical resource who provides leadership oversight, owns executive engagement, and ensures governance to maximize your business outcomes|![not available icon](assets/Cross_red_circle.svg){width="20"} Not available|![available icon](assets/Plus_blue.svg){width="20"} Available|
 |**Advanced Cloud Support add-on**<br>Top-tier care and value assurance to customers of Adobe Experience Manager as a Cloud Service|![available icon](assets/Plus_blue.svg){width="20"} Available|![available icon](assets/Plus_blue.svg){width="20"} Available|
-|**Mentor Sessions add-on**<br>Provides skill-based learning in a just-in-time training method|![not available icon](assets/Cross_red_circle.svg){width="20"} Not available|![available icon](assets/green_checkmark.svg){width="20"} Included|
-|**Developer Boost add-on**<br>Provides access to field engineering experts that can assist with break-fix work|![not available icon](assets/Cross_red_circle.svg){width="20"} Not available|![included icon](assets/green_checkmark.svg){width="20"} Included|
 |**Priority Queue Bundle add-on**<br>Provides faster response times, a single point of contact for Support activities, and access to Success Accelerators.|![available icon](assets/Plus_blue.svg){width="20"} Available|![included icon](assets/green_checkmark.svg){width="20"} Included|
 
 {style="table-layout:fixed"}
@@ -115,7 +135,7 @@ Standard Support for Adobe Commerce: Managed Services products licensed or renew
 
 {style="table-layout:auto"}
 
-## Launch Advisory Services &ndash; Phased Proactive Activities
+## Success Accelerators &ndash; Phased Proactive Activities
 
 <table>
 <tbody>

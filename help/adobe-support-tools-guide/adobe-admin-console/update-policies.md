@@ -16,6 +16,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
+TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
 ---
 # Update organization policies in the Global Admin Console
 

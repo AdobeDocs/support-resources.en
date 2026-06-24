@@ -15,6 +15,7 @@ role: User, Admin
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
 - [Escalation Management](/help/adobe-support-tools-guide/escalation-management.md)
+- [Experience League support portal - new user interface](/help/adobe-support-tools-guide/exl-new-ui.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Execute pending Jobs](adobe-admin-console/execute-jobs.md)
@@ -49,7 +50,6 @@ role: User, Admin
   - [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
   - [Adobe Commerce P1 notification hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
   - [Adobe Commerce Intelligence Essentials: update payment method or cancel subscription](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
-  - [Adobe support customer data access and privacy](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
   - [Adobe Commerce Support ticket lifecycle policy update](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
   - [Monitoring fact sheet for Adobe Commerce on cloud pro infrastructure](adobe-commerce-support/monitoring-whitepaper.md)
   - [Adobe Commerce Software End of Support FAQ](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
@@ -60,3 +60,4 @@ role: User, Admin
   - [Partner Adobe Commerce on cloud infrastructure sandbox requests](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
   - [Unable to add user to Adobe Commerce cloud project](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [How to apply a composer patch provided by Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+  - [Support Tools overview](adobe-commerce-support/overview.md)

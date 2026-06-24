@@ -3,7 +3,26 @@ title: Experience League support release notes
 description: The latest release information on the Experience League support.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+autotag-review: '2026-06-12T20:44:20.941Z'
+TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
+
 # Experience League support release notes
 
 These release notes contain updates to the Experience League support and include:
@@ -12,6 +31,43 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## June 17, 2026 - Updates in the redesigned Experience League Support Portal 
+
+1. The redesigned Experience League Support Portal is now available for Adobe Commerce users.
+
+1. When the **[!UICONTROL My Org Cases]** toggle is selected in the **[!UICONTROL Service Analytics]** section, the **[!UICONTROL My Submitted Cases]** section displays the three most recent cases submitted across the organization. Selecting **[!UICONTROL View all cases]** opens the **[!UICONTROL My Org Cases]** page in the Experience League Support Portal with the **[!UICONTROL My Organization's Cases (All)]** filter preselected.
+
+1. The **[!UICONTROL Cases Count by Priority]** chart now provides a more detailed breakdown on hover. Hovering over a priority segment displays a tooltip showing the total number of cases, along with the number of open and closed cases.
+
+1. The **[!UICONTROL Product Status]** widget now supports interactive product filtering. System status alerts can be filtered by selecting one or more products directly from the Home page. Selecting a product in this widget no longer redirects to [status.adobe.com](http://status.adobe.com).
+
+1. The **[!UICONTROL Product Status]** widget now lists products in a more intuitive order. Products with active issues appear first, followed by the remaining products sorted alphabetically.
+
+## May 28, 2026 - Expansion of [!UICONTROL Request a Callback] feature
+
+The **[!UICONTROL Request a Callback]** feature is now available for Adobe Journey Optimizer, Customer Journey Analytics and Real-Time Customer Data Platform product users.
+
+## May 26, 2026 - Experience League Support Portal UI Update
+
+1. A new centralized Home page provides an at-a-glance view of support activity, including case counts by priority, cases awaiting your response, real-time product status, and system alerts in a single dashboard. 
+
+1. The **[!UICONTROL Organization Switcher]** in the upper-left corner lets you switch between organizations, and the portal automatically updates case data, product status, and support information for the selected organization. 
+
+1. A portal toggle lets you switch between the redesigned portal and the current Experience League Support portal at any time, with both experiences remaining fully synchronized so your case data stays up to date. 
+
+1. You can monitor live operational status for all Adobe products entitled to your organization and filter system alerts by event type, including Major, Minor, Potential, Maintenance, and Announcements. 
+
+1. Ultimate Success plan customers now have access to a dedicated **[!UICONTROL My Success]** page with details about their Success team and resources to support their engagement with Adobe. 
+
+1. The redesigned Support portal is available for all products except Adobe Commerce. 
+
+>[!NOTE]
+>
+>Updates to the Case Creation, Case Details, and My Cases pages are planned for a future release. Until then, these pages will remain available in the current Experience League Support portal. 
+
+## May 7, 2026 - Expansion of [!UICONTROL Request a Callback] feature
+
+The Request a Callback feature is now available for both Adobe Commerce and Adobe GenStudio. Adobe Commerce customers can conveniently schedule a callback at a time that works best for them, while Adobe GenStudio customers have the option to request either an immediate or a scheduled callback.
 
 ## April 27, 2026 – Escalation Management and System Insights Enhancements for Adobe Commerce
 
@@ -43,13 +99,13 @@ These release notes contain updates to the Experience League support and include
 
 1. Users can submit feedback on individual insights to help Adobe continuously improve the accuracy and relevance of System Insights.
 
-## April 23, 2026 - Expansion of Request for Callback feature
+## April 23, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
-The Request for Callback feature is now available for Analytics, Admin Console, Audience Manager and Target product users.
+The **[!UICONTROL Request a Callback]** feature is now available for Analytics, Admin Console, Audience Manager and Target product users.
 
-## April 8, 2026 - Expansion of Request for Callback feature 
+## April 8, 2026 - Expansion of [!UICONTROL Request a Callback] feature 
 
-The Request for Callback feature is now available for Marketo product users.
+The **[!UICONTROL Request a Callback]** feature is now available for Marketo product users.
 
 ## March 30, 2026 – Enhanced Case Form
 
@@ -108,9 +164,9 @@ The Request for Callback feature is now available for Marketo product users.
 
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisks (*) as mandatory field indicators to ensure completeness and reduce submission errors.
 
-## March 18, 2026 - Expansion of Request for Callback feature
+## March 18, 2026 - Expansion of [!UICONTROL Request a Callback] feature
 
-Experience League now offers a Request for Callback option, enabling self-service web meeting scheduling with screen sharing capabilities for faster issue resolution.
+Experience League now offers a **[!UICONTROL Request a Callback]** option, enabling self-service web meeting scheduling with screen sharing capabilities for faster issue resolution.
 
 - This feature is available for Adobe Experience Manager, Campaign, and Workfront. 
 - Customers can schedule meetings at their convenience and receive instant invites. 

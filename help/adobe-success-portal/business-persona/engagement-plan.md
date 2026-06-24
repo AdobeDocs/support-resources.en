@@ -1,7 +1,16 @@
 ---
-title: '[!UICONTROL Engagement Plan]'
+title: "[!UICONTROL Engagement Plan]"
 description: Discover how [!UICONTROL Engagement Plan] enhances stakeholder visibility and communication by offering a centralized view of your Adobe account team and engagement options.
 exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
+TQID: https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: Experience Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # [!UICONTROL Engagement Plan]
 
