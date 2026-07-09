@@ -196,3 +196,78 @@ After submission:
 >[!NOTE]
 >
 > If the issue causes outages or serious interruptions to a production system, a phone number is provided for immediate assistance.
+
+### AI chat in the case creation experience
+
+Experience League Support provides an AI-powered chat interface as an alternative way to create and manage support cases. The AI chat experience is opt-in and does not replace the classic case creation workflow.
+
+>[!NOTE]
+>
+> AI chat is currently available as a beta feature. The classic case creation form remains fully available and accessible at any time.
+
+To access AI chat, follow the steps below:
+
+1. Navigate to **[!UICONTROL Home]** and select **[!UICONTROL Open a support ticket]**. You can also select the **[!UICONTROL Open Ticket]** in the sidebar menu.
+
+   ![Experience league select a product](./assets/product-selection.png)
+
+1. Click the product name to select the affected product, and then click **[!UICONTROL Next]**.
+1. In the upper-right corner, select **[!UICONTROL AI Chat]**.  
+
+   ![AI chat](./assets/ai-chat.png)
+
+To switch between **[!UICONTROL Classic Form]** and **[!UICONTROL AI Chat]**, use the toggle in the upper-right corner. You will not carry over current progress when switching, but completed cases or actions remain unaffected.
+
+### Get started with AI chat
+
+When you open AI chat, you see the following options:
+
+* **[!UICONTROL Ask a question]**  
+* **[!UICONTROL Work on an existing case]**  
+* **[!UICONTROL Open a new case]**
+
+   ![Chat with us](./assets/chat-with-us.png)
+
+You can describe the issue by typing in the text field or by using speech-to-text.
+
+#### Ask a question
+
+Select **[!UICONTROL Ask a question]** to get instant answers to product, Adobe services, and support-related questions directly within the chat, without the need to open a support case.
+
+The AI draws on the Adobe knowledge base to provide relevant answers, documentation links, and known solutions based on your query.
+
+If the AI is unable to resolve your query directly in the chat, it will guide you toward opening a new support case to connect with the Adobe Support team.
+
+#### Work on an existing case
+
+Select **[!UICONTROL Work on an existing case]** to manage and get updates on your existing support cases directly within the chat.
+
+The AI displays a list of your open cases. You can refer to a case by its position in the list or by its case number to select the case you would like to work on.
+
+Once you select a case, you can:
+
+* Request a summary  
+* Check for updates  
+* Take follow-up actions such as escalating the case or requesting a callback within the same chat experience.
+
+#### Open a new case
+
+Select **[!UICONTROL Open a new case]** to describe your issue in your own words instead of filling out structured form fields.
+
+The AI guides you through the case creation process by asking targeted follow-up questions to gather the required details, dynamically adapting the flow based on your responses.
+
+The AI collects required information such as:
+
+* Product details  
+* Issue type  
+* Reproduction steps  
+
+Optional fields can be skipped if the information is not readily available at the time of submission.
+
+Once sufficient information has been collected, the AI automatically generates a structured case summary based on your conversation, including:
+
+* Case title  
+* Description  
+* Reproduction steps
+
+You can review the draft before submitting to ensure all details are accurate, and you can add attachments, logs, screenshots, and other supplemental details at any point during or after the case creation conversation to provide the support team with the full context they need.
