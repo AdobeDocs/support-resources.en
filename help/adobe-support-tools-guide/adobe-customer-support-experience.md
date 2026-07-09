@@ -92,7 +92,7 @@ Experience League is a self-service support portal designed to provide personali
 
 1. From the **[!UICONTROL Home]** menu, you can **[!UICONTROL Open a support ticket]**, **[!UICONTROL View and manage your cases]**, **[!UICONTROL Request a Callback]**, or access additional learning resources.
 
-   The **[!UICONTROL Request a Callback]** option allows you to schedule web meetings with screen sharing for P2 and P3 cases, enabling faster and more efficient issue resolution. It is available for Adobe Experience Manager, Admin Console, Adobe Journey Optimizer, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, GenStudio, Marketo, Real-Time Customer Data Platform, Target, and Workfront. Meetings can be scheduled at the customer’s convenience. It also provides immediate phone callbacks for P1 cases across all products mentioned above, except Adobe Commerce.
+   The **[!UICONTROL Request a Callback]** option allows you to schedule web meetings with screen sharing for P2 and P3 cases, enabling faster and more efficient issue resolution. It is available for Adobe Experience Manager, Admin Console, Adobe Journey Optimizer, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, GenStudio, Marketo, Real-Time Customer Data Platform, Target, and Workfront. Meetings can be scheduled at the customer's convenience. It also provides immediate phone callbacks for P1 cases across all products mentioned above, except Adobe Commerce.
 
    ![Experience league home menu](./assets/home-menu.png)
 
@@ -270,4 +270,4 @@ Once sufficient information has been collected, the AI automatically generates a
 * Description  
 * Reproduction steps
 
-You can review the draft before submitting to ensure all details are accurate, and you can add attachments, logs, screenshots, and other supplemental details at any point during or after the case creation conversation to provide the support team with the full context they need.
+You can review the draft before submitting to ensure all details are accurate, and you can add attachments, logs, screenshots, and other supplemental details at any point during or after the case creation conversation to provide the support team with the full context they need. 
