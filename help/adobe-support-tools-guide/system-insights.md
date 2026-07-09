@@ -118,3 +118,4 @@ To provide feedback:
    - **Thumbs down** icon if the insight was not helpful
 5. (Optional) Enter additional comments.
 6. Select **[!UICONTROL Submit]** to send feedback, or **[!UICONTROL Dismiss]** to close the feedback section without submitting.
+
