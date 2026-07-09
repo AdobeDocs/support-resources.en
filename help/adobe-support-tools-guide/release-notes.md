@@ -31,6 +31,28 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## July 09, 2026 – Experience League Support AI Chat
+
+1. A new AI Chat interface is now available on Experience League Support as an opt-in alternative to the classic case creation form, allowing customers to describe their issue conversationally instead of filling out structured fields. The classic form remains fully available and is not replaced by this experience.
+
+1. AI Chat supports both typed input and speech-to-text, enabling hands-free interaction for a more accessible and flexible case creation experience.
+
+1. AI Chat guides customers through case creation by asking targeted follow-up questions to gather required details, such as reproduction steps, dynamically adapting the conversation flow based on user responses.
+
+1. Before creating a case, AI Chat proactively surfaces relevant knowledge base articles and known solutions based on the issue description, enabling faster self-service resolution. If no solution is found, AI Chat continues seamlessly toward case creation.
+
+1. Once sufficient information is gathered, AI Chat automatically generates a structured case draft, including the title, description, and reproduction steps, for the customer to review before submission.
+
+1. All cases submitted via AI Chat are processed through the same backend workflows as cases submitted through the classic form, ensuring no changes in how support teams receive or handle cases.
+
+1. Customers can manage existing support cases conversationally, including retrieving case summaries, checking status and priority, viewing open cases grouped by priority level, and requesting follow-up actions such as escalations or callbacks.
+
+1. All support actions available in the classic portal, including escalations and callback requests, are accessible through conversational commands in AI Chat.
+
+>[!NOTE] 
+>
+>This is an early beta version of AI Chat. It is available to everyone, but AI responses and conversational flows may vary slightly between sessions while maintaining consistent data collection goals. Please double-check all AI-generated responses before acting on them.
+
 ## June 17, 2026 - Updates in the redesigned Experience League Support Portal 
 
 1. The redesigned Experience League Support Portal is now available for Adobe Commerce users.
