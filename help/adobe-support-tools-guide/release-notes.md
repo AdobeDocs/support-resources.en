@@ -31,6 +31,14 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## July 23, 2026 – Persistent Portal Preference in the redesigned Experience League Support Portal
+
+1. Portal preference is now saved automatically based on your last **[!UICONTROL Try the New Homepage]** toggle selection.
+
+2. If the toggle was turned on during your last session, you're taken directly to the redesigned portal on your next login, and the legacy portal is not loaded.
+
+3. If the toggle was turned off, you continue to land on the legacy portal as usual.
+
 ## July 09, 2026 – Experience League Support AI Chat
 
 1. A new AI Chat interface is now available on Experience League Support as an opt-in alternative to the classic case creation form, allowing customers to describe their issue conversationally instead of filling out structured fields. The classic form remains fully available and is not replaced by this experience.
@@ -51,7 +59,7 @@ These release notes contain updates to the Experience League support and include
 
 >[!NOTE] 
 >
->This is an early beta version of AI Chat. It is available to everyone, but AI responses and conversational flows may vary slightly between sessions while maintaining consistent data collection goals. Please double-check all AI-generated responses before acting on them.
+>This AI Chat is an early beta version. It is available to everyone, but AI responses and conversational flows may vary slightly between sessions while maintaining consistent data collection goals. Double-check all AI-generated responses before acting on them.
 
 ## June 17, 2026 - Updates in the redesigned Experience League Support Portal 
 
