@@ -142,7 +142,7 @@ To submit a new support case using the start page of Adobe Experience League, re
 >
 >If your organization has entitlements for Adobe Commerce Intelligence / Commerce Reporting (MBI) but you need assistance with Advanced Reporting, don't select **Commerce Reporting** as the product. The Commerce Reporting team doesn't provide support for Advanced Reporting issues.
 >
->If your issue is payment-related, do not automatically select Payment Services. Payment Services refers specifically to the Adobe Payment Services module. Selecting it for payment issues in general can create confusion about the product in scope and the appropriate investigation path.
+>If your issue is payment-related, do not select Payment Services by default. Payment Services refers specifically to the Adobe Payment Services module. Selecting it for payment issues in general can create confusion about the product in scope and the appropriate investigation path.
 >
 >If you are unable to select a different product (for example, the **[!UICONTROL Select a product]** dropdown is empty or not displayed), it is usually due to one of the following reasons:
 >
