@@ -27,7 +27,7 @@ The redesigned Experience League Support portal provides a unified and intuitive
 
 >[!NOTE]
 >
->**[!UICONTROL Case creation]**, **[!UICONTROL My Cases]**, and **[!UICONTROL Case Details]** are not available in the redesigned portal. Switch to the current Experience League Support portal to create and manage cases. Both portals remain synchronized to ensure that case data stays up to date across experiences.
+>To create and manage support cases in the redesigned portal, see [Create and manage support cases](exl-new-ui-support-cases.md).
 
 ## Home Page
 
@@ -38,7 +38,8 @@ The **[!UICONTROL Home]** page serves as the central hub for support activities.
 The left navigation panel provides access to the following sections:
 
 - **[!UICONTROL Home]** opens as the default landing page and displays a centralized view of support activity.  
-- **[!UICONTROL Open Case]** and **[!UICONTROL My Cases]** redirect to the current Experience League Support portal to create and manage cases.  
+- **[!UICONTROL Open Case]** opens the case creation workflow in the redesigned portal. See [Create and manage support cases](exl-new-ui-support-cases.md).
+- **[!UICONTROL My Cases]** opens the cases list in the redesigned portal. See [Create and manage support cases](exl-new-ui-support-cases.md). 
 - **[!UICONTROL My Success]** is available only to Ultimate Success plan customers.
 
 ## Switching Organizations
@@ -61,11 +62,11 @@ The Home page includes a personalized welcome banner with a global search bar th
 
 The following quick actions are available at the top of the **[!UICONTROL Home]** page:
 
-1. **[!UICONTROL Open a support case]** - Redirects to the **[!UICONTROL Open Ticket]** module in the current Experience League Support portal to create a new case. Click **[!UICONTROL Get Started]**.
+1. **[!UICONTROL Open a support case]** — Opens the case creation workflow in the redesigned portal. Select **[!UICONTROL Get Started]**. 
 
-2. **[!UICONTROL View and manage your cases]** - Redirects to the **[!UICONTROL My Cases]** module in the current Experience League Support portal. Select **[!UICONTROL Go now]** to access.
+1. **[!UICONTROL View and manage your cases]** — Opens the **[!UICONTROL My Cases]** page in the redesigned portal. Select **[!UICONTROL Go now]**.
 
-3. **[!UICONTROL Request a Callback]** - Schedule a call about the case with an Adobe expert. For P1 (Critical) cases, request an immediate callback. For P2 and P3 cases, schedule a web meeting with a support engineer at a convenient date and time. Select **[!UICONTROL Request now]** to get started.
+1. **[!UICONTROL Request a Callback]** - Schedule a call about the case with an Adobe expert. For P1 (Critical) cases, request an immediate callback. For P2 and P3 cases, schedule a web meeting with a support engineer at a convenient date and time. Select **[!UICONTROL Request now]** to get started.
 
 ## Service Analytics
 
@@ -109,15 +110,15 @@ This section displays the three most recently submitted support cases, including
 
 ![My submitted cases](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-When **[!UICONTROL My Cases]** is selected, this section displays the three most recently submitted cases. When **[!UICONTROL My Org Cases]** is selected in the **[!UICONTROL Service Analytics]** section, it displays the three most recently submitted cases across the organization.
+When **[!UICONTROL My Cases]** is selected in **[!UICONTROL Service Analytics]**, this section displays the three most recently submitted cases. When **[!UICONTROL My Org Cases]** is selected in the **[!UICONTROL Service Analytics]** section, it displays the three most recently submitted cases across the organization.
 
 ![My Cases](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Select a **[!UICONTROL Case ID]** to view case details in the current Experience League Support portal.
+Select a **[!UICONTROL Case ID]** to view case details in the redesigned Experience League support portal.
 
 ![Select a case id](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Select **[!UICONTROL View all cases]** to open the **[!UICONTROL My Cases]** page on the current Experience League Support portal.
+Select **[!UICONTROL View all cases]** to open the **[!UICONTROL My Cases]** page in the redesigned Experience League support portal.
 
 ![View all cases](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
