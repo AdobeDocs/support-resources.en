@@ -108,9 +108,9 @@ To submit a new support case using the start page of Adobe Experience League, re
 >
 >In addition, if the wrong organization was selected at the time the case was submitted, your team will not be able to view the case under **[!UICONTROL My Cases]** for the appropriate/correct organization. The Adobe Commerce Support team does not have the ability to change the organization associated with the case; to address this, you must close the existing case and submit a new case with the appropriate details provided/selected.
 
-   >[!NOTE]
-   >
-   >If you're submitting a ticket with "**[!DNL Commerce] on cloud infrastructure**" selected as the product, and the organization has multiple projects listed, you'll be prompted to select the appropriate **[!UICONTROL Project ID]**. If you're unable to locate the desired **[!UICONTROL Project ID]**, make sure to add a note on the ticket that you're seeking assistance with a different "project X".<br>If you intend to submit a "**[!DNL Commerce] on Managed Services**" ticket, and are on **[!DNL Commerce] on cloud infrastructure**, but don't see **[!DNL Commerce] on cloud infrastructure** as an available product:<br>1. Enter a subject for your issue in **[!UICONTROL Case title]**.<br>2. Enter a description of your issue in **[!UICONTROL Case description]**.<br>3. After entering both these items, you will be presented with the **[!UICONTROL Cloud Project URL]** field below.
+>[!NOTE]
+>
+>If you're submitting a ticket with "**[!DNL Commerce] on cloud infrastructure**" selected as the product, and the organization has multiple projects listed, you'll be prompted to select the appropriate **[!UICONTROL Project ID]**. If you're unable to locate the desired **[!UICONTROL Project ID]**, make sure to add a note on the ticket that you're seeking assistance with a different "project X".<br>If you intend to submit a "**[!DNL Commerce] on Managed Services**" ticket, and are on **[!DNL Commerce] on cloud infrastructure**, but don't see **[!DNL Commerce] on cloud infrastructure** as an available product:<br>1. Enter a subject for your issue in **[!UICONTROL Case title]**.<br>2. Enter a description of your issue in **[!UICONTROL Case description]**.<br>3. After entering both these items, you will be presented with the **[!UICONTROL Cloud Project URL]** field below.
 
 >[!IMPORTANT]
 >
@@ -141,6 +141,8 @@ To submit a new support case using the start page of Adobe Experience League, re
 > To ensure you receive the fastest, most accurate support, select the correct details when creating support requests. Accurate selection helps route your case directly to the correct team and reduces response times.
 >
 >If your organization has entitlements for Adobe Commerce Intelligence / Commerce Reporting (MBI) but you need assistance with Advanced Reporting, don't select **Commerce Reporting** as the product. The Commerce Reporting team doesn't provide support for Advanced Reporting issues.
+>
+>If your issue is payment-related, do not select Payment Services by default. Payment Services refers specifically to the Adobe Payment Services module. Selecting it for payment issues in general can create confusion about the product in scope and the appropriate investigation path.
 >
 >If you are unable to select a different product (for example, the **[!UICONTROL Select a product]** dropdown is empty or not displayed), it is usually due to one of the following reasons:
 >
