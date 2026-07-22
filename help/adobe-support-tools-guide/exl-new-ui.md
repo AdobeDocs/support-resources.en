@@ -18,6 +18,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
+hold: true
 ---
 # Experience League support portal - new user interface
 
