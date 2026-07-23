@@ -56,7 +56,7 @@ These release notes contain updates to the Experience League support and include
 
 >[!NOTE]
 >
->This is an early beta version of AI Chat within the redesigned Experience League Support Portal. It is available to everyone, but AI responses and conversational flows may vary slightly between sessions while maintaining consistent data collection goals. Double-check all AI-generated responses before acting on them.
+>This is an early beta version of [!UICONTROL AI Chat] within the redesigned Experience League Support Portal. It is available to everyone, but AI responses and conversational flows may vary slightly between sessions while maintaining consistent data collection goals. Double-check all AI-generated responses before acting on them.
 
 >[!NOTE]
 >
