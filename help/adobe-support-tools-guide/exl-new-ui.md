@@ -166,7 +166,7 @@ Select an alert to expand and view additional details.
 
 ### Manage Subscriptions
 
-Use **[UICONTROL Manage Subscriptions]** to configure email notifications for Adobe product and service status events. Subscriptions help you stay informed when Adobe creates, updates, or resolves events for selected products and regions.
+Use **[!UICONTROL Manage Subscriptions]** to configure email notifications for Adobe product and service status events. Subscriptions help you stay informed when Adobe creates, updates, or resolves events for selected products and regions.
 
 1. In the **[!UICONTROL Your System Status Alerts]** section, select **[!UICONTROL Manage Subscriptions]**.
 
