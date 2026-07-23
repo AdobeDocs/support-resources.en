@@ -186,7 +186,7 @@ The page includes:
   - **[!UICONTROL Success Accelerators]**  
   - **[!UICONTROL Mutual Action Plan]**  
 
-It also provides access to learning resources such as Experience League, the Experience League Community, and Premium Learning Subscriptions.
+It also provides access to the learning resources such as Experience League, the Experience League Community, and Premium Learning Subscriptions.
 
 ### Adobe Success Team
 
