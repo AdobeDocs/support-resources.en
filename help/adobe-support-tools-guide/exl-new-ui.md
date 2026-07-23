@@ -58,6 +58,10 @@ Both portals remain synchronized, ensuring that case data and support informatio
 
 ![Old UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>Portal preferences save automatically. The portal that you last used becomes your default portal for future sign-ins. If you last used the redesigned portal, it opens directly without loading the legacy portal. If you last used the legacy portal, the system opens the legacy portal.
+
 The Home page includes a personalized welcome banner with a global search bar that enables searching across the Experience League Support portal.
 
 The following quick actions are available at the top of the **[!UICONTROL Home]** page:
