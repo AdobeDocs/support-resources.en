@@ -25,10 +25,6 @@ topic_v2:
 
 The redesigned Experience League Support portal provides a unified and intuitive experience for managing Adobe support activities. It offers faster access to essential features, including tracking support cases, monitoring product status, accessing case insights, and connecting with the Success team.
 
->[!NOTE]
->
->To create and manage support cases in the redesigned portal, see [Create and manage support cases](exl-new-ui-support-cases.md).
-
 ## Home Page
 
 The **[!UICONTROL Home]** page serves as the central hub for support activities. It provides an overview of the support environment and quick access to key features.
@@ -38,8 +34,8 @@ The **[!UICONTROL Home]** page serves as the central hub for support activities.
 The left navigation panel provides access to the following sections:
 
 - **[!UICONTROL Home]** opens as the default landing page and displays a centralized view of support activity.  
-- **[!UICONTROL Open Case]** opens the case creation workflow in the redesigned portal. See [Create and manage support cases](exl-new-ui-support-cases.md).
-- **[!UICONTROL My Cases]** opens the cases list in the redesigned portal. See [Create and manage support cases](exl-new-ui-support-cases.md). 
+- **[!UICONTROL Open Case]** opens the case creation workflow in the current Experience League support portal.
+- **[!UICONTROL My Cases]** opens the cases list in the current Experience League support portal.
 - **[!UICONTROL My Success]** is available only to Ultimate Success plan customers.
 
 ## Switching Organizations
@@ -66,9 +62,9 @@ The Home page includes a personalized welcome banner with a global search bar th
 
 The following quick actions are available at the top of the **[!UICONTROL Home]** page:
 
-1. **[!UICONTROL Open a support case]** — Opens the case creation workflow in the redesigned portal. Select **[!UICONTROL Get Started]**. 
+1. **[!UICONTROL Open a support case]** — Opens the case creation workflow in the legacy support portal. Select **[!UICONTROL Get Started]**. 
 
-1. **[!UICONTROL View and manage your cases]** — Opens the **[!UICONTROL My Cases]** page in the redesigned portal. Select **[!UICONTROL Go now]**.
+1. **[!UICONTROL View and manage your cases]** — Opens the **[!UICONTROL My Cases]** page in the legacy support portal. Select **[!UICONTROL Go now]**.
 
 1. **[!UICONTROL Request a Callback]** - Schedule a call about the case with an Adobe expert. For P1 (Critical) cases, request an immediate callback. For P2 and P3 cases, schedule a web meeting with a support engineer at a convenient date and time. Select **[!UICONTROL Request now]** to get started.
 
@@ -118,11 +114,11 @@ When **[!UICONTROL My Cases]** is selected in **[!UICONTROL Service Analytics]**
 
 ![My Cases](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Select a **[!UICONTROL Case ID]** to view case details in the redesigned Experience League support portal.
+Select a **[!UICONTROL Case ID]** to view case details in the current Experience League support portal.
 
 ![Select a case id](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Select **[!UICONTROL View all cases]** to open the **[!UICONTROL My Cases]** page in the redesigned Experience League support portal.
+Select **[!UICONTROL View all cases]** to open the **[!UICONTROL My Cases]** page in the current Experience League support portal.
 
 ![View all cases](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -166,55 +162,6 @@ And, Each alert includes:
 Select an alert to expand and view additional details.
 
 ![Your System Status Alerts section](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-### Manage Subscriptions
-
-Use **[!UICONTROL Manage Subscriptions]** to configure email notifications for Adobe product and service status events. Subscriptions help you stay informed when Adobe creates, updates, or resolves events for selected products and regions.
-
-1. In the **[!UICONTROL Your System Status Alerts]** section, select **[!UICONTROL Manage Subscriptions]**.
-
-    ![Manage subscription](assets/manage-subscriptions.png)
-
-1. On the **[!UICONTROL Manage Subscriptions]** page, select **[!UICONTROL Create Subscription]**.
-
-    ![Create subscription](assets/create-subscriptions.png)
-
-1. In **[!UICONTROL Please Select Cloud]**, select the Adobe cloud that contains the product that you want to monitor.
-1. In **[!UICONTROL Please Select Product & Offerings]**, select the product for which you want to receive notifications.
-1. In **[!UICONTROL Please Select Regions]**, select one or more regions to monitor.
-1. In **[!UICONTROL Please Select Event Types]**, select one or more of the following event types:
-
-   * Major Service Issue
-   * Minor Service Issue
-   * Service Maintenance
-   * Announcements
-
-    ![Create subscription page](assets/create-subscription-page.png)
-
-1. Review the default notification settings, including the language and time zone.
-1. Select **[!UICONTROL Continue]**.
-1.  Review the subscription details, including the selected cloud, product, services, regions, and event types.
-1. Select **[!UICONTROL Confirm]** to create the subscription.
-
-    ![Confirm subscription details](assets/confirm-subscription.png)
-
-1. A confirmation message appears and the subscription is created.
-
-After the subscription is created, Adobe sends email notifications when events that match the selected product, region, and event type criteria are created, updated, or resolved.
-
->[!NOTE]
->
->Email is the default communication channel for status notifications. Subscription preferences apply only to the selected product, regions, and event types.
-
-The next time that you open **[!UICONTROL Manage Subscriptions]**, the page displays your current subscription details, including the selected cloud, product, services, regions, and event types.
-
-![Manage existing subscriptions](assets/edit-subscriptions.png)
-
-From this page, you can perform the following actions:
-
-* Select **[!UICONTROL Edit Subscription]** to modify an existing subscription.
-* Select **[!UICONTROL Unsubscribe All]** to remove all subscriptions.
-* Select the delete icon next to a subscription to remove an individual subscription.
 
 ## Your Plan Information
 

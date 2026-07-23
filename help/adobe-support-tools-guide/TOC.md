@@ -15,8 +15,7 @@ role: User, Admin
 - [Adobe customer support entitlement configuration](adobe-customer-support-entitlement-configuration.md)
 - [Support Phone Number update](phone-numbers.md)
 - [Escalation Management](/help/adobe-support-tools-guide/escalation-management.md)
-- Experience League support portal - new user interface {#exl-new-ui}
-  - [Overview](/help/adobe-support-tools-guide/exl-new-ui.md)
+- [Experience League support portal - new user interface](/help/adobe-support-tools-guide/exl-new-ui.md)
 - [System Insights](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
