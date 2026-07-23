@@ -6,7 +6,6 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-hold: true
 ---
 # Adobe Support and Tools Guide {#adobe-support-tools-guide}  
 
