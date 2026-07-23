@@ -138,9 +138,7 @@ Filter options include:
 - **[!UICONTROL Product]** — products assigned to your organization
 - **[!UICONTROL Priority]** — P4 - Minor, P3 - Important, P2 - Urgent, P1 - Critical
 
-The cases table displays Case Open, Case Number, Case Title, Status, Product, Priority, Requestor, Close, Last Update, Case Summary, and Additional Help. Select **[!UICONTROL View]** in the **[!UICONTROL Case Summary]** column to open an AI-generated case summary. Select **[!UICONTROL Get help]** for additional assistance on a case.
-
-Select a **[!UICONTROL Case Number]** to open the case details page. 
+The cases table displays Case Open, Case Number, Case Title, Status, Product, Priority, Requestor, Close, Last Update, Case Summary, and Additional Help. Select **[!UICONTROL View]** in the **[!UICONTROL Case Summary]** column to open an AI-generated case summary. Select **[!UICONTROL Get help]** for additional assistance on a case. You can select a **[!UICONTROL Case Number]** to open the case details page. 
 
 ![Case Summary](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
