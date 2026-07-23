@@ -2,6 +2,7 @@
 title: Experience League support release notes
 description: The latest release information on the Experience League support.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -31,6 +32,36 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## August 19, 2026 - Case Creation, My Cases, and Case Details now available in the redesigned Experience League Support Portal
+
+1. **[!UICONTROL Open Case]** is now available directly within the redesigned Experience League Support Portal. Customers can create and submit cases without leaving the redesigned portal.
+
+2. The case creation experience in the redesigned portal now includes **[!UICONTROL AI Chat]**, allowing customers to describe their issue conversationally and receive guided assistance while creating a case. This AI Chat experience is the same one previously available in the current Experience League Support portal (see the July 09, 2026 entry below).
+
+3. The **[!UICONTROL My Cases]** page has been refreshed with a new interface, distinct from the current Experience League Support portal. Two toggles - **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]** - let you switch between viewing cases you've submitted and all cases submitted across your organization.
+
+4. Multiple new filters are available on the **[!UICONTROL My Cases]** page, an upgrade over the filtering options available in the current portal.
+
+5. By default, the **[!UICONTROL My Cases]** page displays all cases. Use the available filters to narrow down and shortlist cases as needed.
+
+6. The **[!UICONTROL My Cases]** page now offers improved performance, with faster load times.
+
+7. A **[!UICONTROL Time Range]** filter has been added and defaults to the last 3 months to improve page load performance. Adjust the filter to view cases outside this default range.
+
+8. The combined **[!UICONTROL Opened/Closed Date]** column from the current portal has been split into two separate columns - **[!UICONTROL Opened Date]** and **[!UICONTROL Closed Date]** - on the redesigned **[!UICONTROL My Cases]** page.
+
+9. A new **[!UICONTROL Last Update]** column has been added to the **[!UICONTROL My Cases]** page, showing the date of the most recent activity on each case.
+
+10. To keep key updates easily accessible at the top of the case activity feed, you can now pin comments on the **[!UICONTROL Case Details]** page.
+
+>[!NOTE]
+>
+>This is an early beta version of [!UICONTROL AI Chat] within the redesigned Experience League Support Portal. It is available to everyone, but AI responses and conversational flows may vary slightly between sessions while maintaining consistent data collection goals. Double-check all AI-generated responses before acting on them.
+
+>[!NOTE]
+>
+>This update fulfills the plan to bring [!UICONTROL Case Creation], [!UICONTROL My Cases], and [!UICONTROL Case Details] into the redesigned Experience League Support Portal (see the May 26, 2026 entry above). These pages were available only in the current Experience League Support portal.
+
 ## July 23, 2026 – Persistent Portal Preference in the redesigned Experience League Support Portal
 
 1. Portal preference is now saved automatically based on your last **[!UICONTROL Try the New Homepage]** toggle selection.
@@ -41,7 +72,7 @@ These release notes contain updates to the Experience League support and include
 
 ## July 09, 2026 – Experience League Support AI Chat
 
-1. A new AI Chat interface is now available on Experience League Support as an opt-in alternative to the classic case creation form, allowing customers to describe their issue conversationally instead of filling out structured fields. The classic form remains fully available and is not replaced by this experience.
+1. A new AI Chat interface is now available on Experience League Support as an opt-in alternative to the classic case creation form, allowing customers to describe their issue conversationally instead of filling out structured fields. The classic form remains fully available and this experience does not replace it.
 
 1. AI Chat supports both typed input and speech-to-text, enabling hands-free interaction for a more accessible and flexible case creation experience.
 
