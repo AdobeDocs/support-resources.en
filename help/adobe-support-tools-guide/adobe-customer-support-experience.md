@@ -27,7 +27,7 @@ topic_v2:
 
 Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#create-a-support-ticket-with-experience-league).
 
-We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access the Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
+We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
 
 If you are an Adobe Commerce user, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
 
@@ -83,6 +83,10 @@ For more details follow the [edit enterprise admin role](adobe-admin-console/adm
 >[!NOTE]
 >
 > Before you submit a support ticket, check Adobe system performance, availability, and known issues on the [Adobe status](https://status.adobe.com) site.
+
+>[!NOTE]
+>
+>If you use the redesigned Experience League support portal to open a support case, see [Create and manage support cases](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui-support-cases). The steps below describe the current (legacy) portal interface.
 
 Experience League is a self-service support portal designed to provide personalized assistance and an easy-to-use experience for entitled customers.
 

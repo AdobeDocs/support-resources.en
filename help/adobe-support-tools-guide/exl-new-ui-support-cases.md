@@ -6,8 +6,6 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-hold: true
-hide: true
 ---
 # Create and manage support cases
 
@@ -72,6 +70,8 @@ Follow these steps to create a support case in the classic form:
    >[!NOTE]
    >
    >AI-powered recommendations do not appear for the Adobe Admin Console product.
+
+    As you enter issue details, the System Insights panel appears on the right side of the screen, below the AI-powered recommendations section. System Insights are currently available for Adobe Commerce only. For more information, see [System Insights](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Problem description step](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
