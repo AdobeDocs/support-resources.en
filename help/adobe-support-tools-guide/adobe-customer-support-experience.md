@@ -23,6 +23,8 @@ topic_v2:
 ---
 # Adobe Customer Support Experience
 
+This page describes how to create and manage support tickets for Adobe Customer Experience Orchestration (CXO) solutions. To see the support information for the Adobe Creative Cloud solutions, [click here](https://helpx.adobe.com/support.html).
+
 ## Experience League Support Tickets
 
 Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#create-a-support-ticket-with-experience-league).
