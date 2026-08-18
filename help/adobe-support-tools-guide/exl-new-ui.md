@@ -33,7 +33,7 @@ The redesigned Experience League Support portal provides a unified and intuitive
 
 The **[!UICONTROL Home]** page serves as the central hub for support activities. It provides an overview of the support environment and quick access to key features.
 
-![Home page for new EXL UI](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
+![Home page for new EXL UI](/help/adobe-support-tools-guide/assets/home-page-new-ui-2.png)
 
 The left navigation panel provides access to the following sections:
 
@@ -142,7 +142,7 @@ Products appear in the following order:
 
 This prioritization helps quickly identify and prioritize products that require attention. You can select one or more product cards to filter alerts in **[!UICONTROL Your System Status Alerts]** on the **[!UICONTROL Home]** page.
 
-![Alerts filter](/help/adobe-support-tools-guide/assets/select-more-products.png)
+![Alerts filter](/help/adobe-support-tools-guide/assets/select-more-products-1.png)
 
 ## Your System Status Alerts
 
@@ -164,7 +164,7 @@ And, Each alert includes:
 
 Select an alert to expand and view additional details.
 
-![Your System Status Alerts section](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
+![Your System Status Alerts section](/help/adobe-support-tools-guide/assets/system-alerts-updated.png)
 
 ### Manage Subscriptions
 
