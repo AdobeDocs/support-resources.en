@@ -17,7 +17,7 @@ role: User, Admin
 - [Escalation Management](/help/adobe-support-tools-guide/escalation-management.md)
 - [System Insights](/help/adobe-support-tools-guide/system-insights.md)
 - Experience League support portal - new user interface {#exl-new-ui}
-  - [Overview](/help/adobe-support-tools-guide/exl-new-ui.md)
+  - [Overview](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [Create and manage support cases](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
