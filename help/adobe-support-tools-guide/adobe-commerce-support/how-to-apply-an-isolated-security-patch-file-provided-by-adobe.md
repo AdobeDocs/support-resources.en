@@ -26,7 +26,7 @@ This article instructs how to apply a Isolated patch for Adobe Commerce on-premi
 ## How to apply a Isolated patch for Adobe Commerce on Cloud infrastructure {#cloud}
 
 1. If you don't have a directory named `m2-hotfixes` in the project root, please create one.
-1. Copy the `%patch_name%.isolated.patch` file(s) to the `m2-hotfixes` directory.
+1. Copy the `%patch_name%.patch` file(s) to the `m2-hotfixes` directory.
 1. Add, commit, and push your code changes:
 
     ```git
