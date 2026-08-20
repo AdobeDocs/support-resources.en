@@ -2,6 +2,7 @@
 title: Experience League support release notes
 description: The latest release information on the Experience League support.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -30,6 +31,16 @@ These release notes contain updates to the Experience League support and include
 ![New](../adobe-support-tools-guide/assets/new.svg) New features
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
+
+## August 26, 2026 - Updates in the redesigned Experience League Support Portal
+
+1. The case creation interface now remembers your last selected experience - **[!UICONTROL Classic Form]** or **[!UICONTROL AI Chat]**. If **[!UICONTROL AI Chat]** was used most recently, it is automatically selected the next time you create a case, so you do not need to switch manually on each visit.
+
+2. Attachments can now be deleted directly from the **[!UICONTROL Case Details]** page using the delete icon shown on each attachment. This capability is not available for closed cases or for Workfront organizations.
+
+3. Sorting is now supported on all columns on the **[!UICONTROL My Cases]** page.
+
+4. **[!UICONTROL AI Recommendations]** are now available when **[!UICONTROL Admin Console]** is selected as the product during case creation.
 
 ## August 19, 2026 - Case Creation, My Cases, and Case Details now available in the redesigned Experience League Support Portal
 
