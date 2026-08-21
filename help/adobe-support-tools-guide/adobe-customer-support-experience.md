@@ -147,10 +147,6 @@ Follow these steps to create a support ticket:
 
    The recommendation panel adapts to the level of detail in the issue description and appears without interrupting case creation. You can review recommendations at any time and continue submitting the case. When the issue description **exceeds 50 characters**, the system generates AI-powered recommendations tailored to the issue.
 
-   >[!NOTE]
-   >
-   >AI-powered recommendations do not appear for the Adobe Admin Console product.
-
    ![Experience league issue details](./assets/ai-recommendations.png)
 
    When the description contains **fewer than 50 characters**, the system displays recommended articles for guidance. A built-in character counter tracks the minimum requirement in real time.
@@ -208,6 +204,10 @@ After submission:
 ### AI chat in the case creation experience
 
 Experience League Support provides an AI-powered chat interface as an alternative way to create and manage support cases. The AI chat experience is opt-in and does not replace the classic case creation workflow.
+
+[!NOTE]
+>
+>The portal now saves your **[!UICONTROL AI Chat]** selection as your preferred case creation experience and remembers it for your next visit.
 
 >[!NOTE]
 >

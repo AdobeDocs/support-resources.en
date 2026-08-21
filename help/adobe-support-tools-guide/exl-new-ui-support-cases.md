@@ -67,10 +67,6 @@ Follow these steps to create a support case in the classic form:
    
    When the description contains fewer than 50 characters, the system displays recommended articles for guidance. A built-in character counter tracks the minimum requirement in real time.
 
-   >[!NOTE]
-   >
-   >AI-powered recommendations do not appear for the Adobe Admin Console product.
-
     As you enter issue details, the System Insights panel appears on the right side of the screen, below the AI-powered recommendations section. System Insights are currently available for Adobe Commerce only. For more information, see [System Insights](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Problem description step](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
@@ -143,6 +139,6 @@ The cases table displays Case Open, Case Number, Case Title, Status, Product, Pr
 
 ![Case Summary](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-The case details page displays the case title, Case ID, status, last updated date, case description, and reproducibility. The details panel includes the Adobe Support Agent, Requestor, Product, Priority, Time Zone, Watchers, and Case Attachments. To add a comment, enter your message in the comment editor and select **[!UICONTROL Send Message]**. You can attach files using the attachment icon. Select the pin icon on a comment to pin it to the case. You can pin and unpin multiple comments.
+The case details page displays the case title, Case ID, status, last updated date, case description, and reproducibility. The details panel includes the Adobe Support Agent, Requestor, Product, Priority, Time Zone, Watchers, and Case Attachments. To add a comment, enter your message in the comment editor and select **[!UICONTROL Send Message]**. You can attach files using the attachment icon and delete attachments in the portal. Select the pin icon on a comment to pin it to the case. You can pin and unpin multiple comments.
 
 ![Case details](/help/adobe-support-tools-guide/assets/case-details.png)
