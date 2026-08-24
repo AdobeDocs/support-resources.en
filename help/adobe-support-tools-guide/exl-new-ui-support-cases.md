@@ -143,3 +143,4 @@ The cases table displays Case Open, Case Number, Case Title, Status, Product, Pr
 The case details page displays the case title, Case ID, status, last updated date, case description, and reproducibility. The details panel includes the Adobe Support Agent, Requestor, Product, Priority, Time Zone, Watchers, and Case Attachments. To add a comment, enter your message in the comment editor and select **[!UICONTROL Send Message]**. You can attach files using the attachment icon and delete attachments in the portal. Select the pin icon on a comment to pin it to the case. You can pin and unpin multiple comments.
 
 ![Case details](/help/adobe-support-tools-guide/assets/case-details.png)
+
