@@ -12,14 +12,14 @@ index: true
 + [Adobe DX Solutions Unified Holiday Readiness Guide](unified-holiday-readiness.md) 
 + The Crux Podcast{#crux-podcast}
   + [Ep.1 - Billy Georgaros](episode1.md)
-    [Ep.2 - Karrie Benjamin](episode2.md)
-    [Ep.3 - George Kotsinis](episode3.md)
-    [Ep.4 - Jessica Ouellette](episode4.md)
-    [Ep.5 - Corey Blackburn](episode5.md)
-    [Ep.6 - Kelly Oja](episode6.md)
-    [Ep.7 - Chris Diaz](episode7.md)
-    [Ep.8 - Vincent Lee](episode8.md)
-    [Ep.9 - Ren Wightman](episode9.md)
+  + [Ep.2 - Karrie Benjamin](episode2.md)
+  + [Ep.3 - George Kotsinis](episode3.md)
+  + [Ep.4 - Jessica Ouellette](episode4.md)
+  + [Ep.5 - Corey Blackburn](episode5.md)
+  + [Ep.6 - Kelly Oja](episode6.md)
+  + [Ep.7 - Chris Diaz](episode7.md)
+  + [Ep.8 - Vincent Lee](episode8.md)
+  + [Ep.9 - Ren Wightman](episode9.md)
 + Adobe Support Plans prior to June 16, 2022{#prior-plans}
   + [Overview of Prior Adobe Support Plans](overview-prior-plans.md)
   + Experience Cloud Services {#data-sheets}
