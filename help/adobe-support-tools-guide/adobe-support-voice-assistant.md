@@ -1,6 +1,7 @@
 ---
 title: Adobe Support Voice Assistant — After-Hours & Weekend Support (Japan)
 description: Adobe Support Voice Assistant helps customers in Japan get after-hours and weekend phone support in Japanese for case updates, urgent escalations, and callback requests.
+hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
 product_v2:
