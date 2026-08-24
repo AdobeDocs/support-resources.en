@@ -107,7 +107,7 @@ While the AI Voice Assistant can handle many common support needs, there are som
 
 * **Cannot resolve complex technical issues on the call** — the assistant can gather information and log it to your case, but deep technical troubleshooting is handled by a support engineer 
 
-* **Cannot guarantee immediate callback timing** — callback requests are prioritized based on case priority (e.g., P1 cases are handled fastest), but exact response times may vary 
+* **Cannot guarantee immediate callback timing** — callback requests are prioritized based on case priority (for example, P1 cases are handled fastest), but exact response times may vary 
 
 * **Cannot process language other than Japanese** — the assistant is designed specifically for Japanese-language conversations during this after-hours/weekend service window 
 
