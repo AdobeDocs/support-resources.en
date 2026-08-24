@@ -26,7 +26,7 @@ role_v2:
 
 ## Overview
 
-When you need help outside of regular Adobe Support business hours — evenings, nights, or weekends in Japan — the AI Voice Assistant is available to help you over the phone. You can speak naturally in Japanese, just as you would with a live support agent, and the assistant will understand your request and help you right away. 
+When you need help outside of regular Adobe Support business hours — evenings, nights, or weekends in Japan — the AI Voice Assistant is available to help you over the phone. Speak naturally in Japanese, as you would with a live support agent, and the assistant understands your request and helps you right away. 
 
 This means you don't have to wait until the next business day for things like checking your case status or flagging an urgent issue — you can get support anytime. 
 
@@ -47,11 +47,11 @@ The AI Voice Assistant supports the following capabilities:
 
 ### Understand and respond in Japanese 
 
-You can speak to the assistant naturally in Japanese, the same way you would talk to a live support agent. There's no need to press phone keys or use specific keywords — just explain what you need in your own words, and the assistant will understand and respond conversationally.
+Speak to the assistant naturally in Japanese, the same way you would talk to a live support agent. There's no need to press phone keys or use specific keywords — just explain what you need in your own words, and the assistant understands and responds conversationally.
 
 ### Check case status instantly 
 
-If you already have an open support case, ask the assistant for an update, and it will look it up immediately and tell you where things stand — for example, whether it's still under investigation, waiting on more information, or resolved.
+If you have an open support case, ask the assistant for an update. It looks it up immediately and tells you where things stand.
 
 ### Receive the latest updates on open cases 
 
@@ -59,7 +59,7 @@ The assistant can share the most recent notes or progress logged on your case, s
 
 ### Increase case priority to P1
 
-If your issue is serious — such as a major system outage or something significantly impacting your business — the assistant can recognize this and increase your case priority to P1 (Critical) priority, so it receives immediate attention even outside business hours. 
+If your issue is serious — such as a major system outage or something significantly impacting your business — the assistant recognizes this and increases your case priority to P1 (Critical) priority, so it receives immediate attention even outside business hours. 
 
 >[!NOTE]
 >
@@ -67,15 +67,15 @@ If your issue is serious — such as a major system outage or something signific
 
 ### Request a callback from Adobe Support 
 
-If you'd prefer to speak with a human support engineer, or your issue needs more detailed help, simply ask the assistant, and it will arrange for Adobe Support to call you back.
+If you'd prefer to speak with a human support engineer, or your issue needs more detailed help, ask the assistant, and it will arrange for Adobe Support to call you back.
 
 ### Capture responses to technical questions and automatically add them to case notes 
 
-If the assistant asks you technical questions to better understand your issue — for example, error messages, reproduction steps, or what you were doing when the issue occurred — your answers are automatically saved to your case notes. This means you won't have to repeat yourself later; the next support engineer who picks up your case will already have this information.
+If the assistant asks you technical questions to better understand your issue — for example, error messages, reproduction steps, or what you were doing when the issue occurred — your answers are automatically saved to your case notes. This means you don't have to repeat yourself later; the next support engineer who picks up your case already has this information.
 
 ## Sample conversations
 
-To help you get a feel for how a call might go, here are a few example exchanges: 
+To help you get a feel for how a call goes, here are a few example exchanges: 
 
 ### Checking case status
 
@@ -100,7 +100,7 @@ To help you get a feel for how a call might go, here are a few example exchanges
 
 >[!NOTE]
 >
->If the issue causes outages or serious interruptions to a production system, the assistant will prioritize connecting you toward escalation or callback options for immediate assistance.
+>If the issue causes outages or serious interruptions to a production system, the assistant prioritizes connecting you toward escalation or callback options for immediate assistance.
 
 ## Limitations
 
