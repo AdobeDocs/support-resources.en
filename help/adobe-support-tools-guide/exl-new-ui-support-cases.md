@@ -1,6 +1,7 @@
 ---
 title: Create and manage support cases
 description: Learn how to create, view, and manage support cases in the redesigned Experience League Support portal.
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
