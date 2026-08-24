@@ -77,19 +77,22 @@ If the assistant asks you technical questions to better understand your issue �
 
 To help you get a feel for how a call might go, here are a few example exchanges: 
 
-**Checking case status**
+### Checking case status
+
 | Speaker | Japanese | Translation (for reference) |
 |--- |--- |--- |
 | Customer | ケース番号12345の状況を教えてください。| Can you tell me the status of case number 12345? |
 | Voice Assistant | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 | Understood. Let me check case 12345... It's currently under investigation by an engineer. The latest update was recorded today at 3 PM. |
 
-**Escalating to P1**
+### Escalating to P1
+
 | Speaker | Japanese | Translation (for reference) |
 |--- |--- |--- |
 | Customer | 本番環境がダウンしていて、業務に大きな影響が出ています。 | Our production environment is down and it's seriously affecting our business. |
 | Voice Assistant | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をP1に引き上げます。担当チームにすぐ通知いたします。 | I understand the situation. Since this appears to be a critical issue, I'll escalate this case to P1 priority and notify the team immediately. |
 
-**Requesting a callback**
+### Requesting a callback
+
 | Speaker | Japanese | Translation (for reference) |
 |--- |--- |--- |
 | Customer | 担当者から電話で詳しく話したいです。 | I'd like to speak with someone directly over the phone. |
