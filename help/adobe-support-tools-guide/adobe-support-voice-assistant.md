@@ -25,7 +25,7 @@ role_v2:
 >This page describes the AI Voice Assistant available for phone-based (IVR) support in Japan during after-hours and weekend periods, when live agents are not available. For general case submission during business hours, refer to the standard [Adobe Customer Support Experience](/help/adobe-support-tools-guide/adobe-customer-support-experience.md) documentation.
 >
 >
->This service is only available in Japan.
+>The service is only available in Japan.
 
 ## Overview
 
