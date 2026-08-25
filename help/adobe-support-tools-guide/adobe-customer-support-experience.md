@@ -280,3 +280,4 @@ Once sufficient information has been collected, the AI automatically generates a
 * Reproduction steps
 
 You can review the draft before submitting to ensure all details are accurate, and you can add attachments, logs, screenshots, and other supplemental details at any point during or after the case creation conversation to provide the support team with the full context they need. 
+
