@@ -23,6 +23,9 @@ role_v2:
 >[!NOTE]
 >
 >This page describes the AI Voice Assistant available for phone-based (IVR) support in Japan during after-hours and weekend periods, when live agents are not available. For general case submission during business hours, refer to the standard [Adobe Customer Support Experience](/help/adobe-support-tools-guide/adobe-customer-support-experience.md) documentation.
+>
+>
+>The service is only available in Japan.
 
 ## Overview
 
@@ -47,7 +50,7 @@ The AI Voice Assistant supports the following capabilities:
 
 ### Understand and respond in Japanese 
 
-Speak to the assistant naturally in Japanese, the same way you talk to a live support agent. There's no need to press phone keys or use specific keywords — just explain what you need in your own words, and the assistant understands and responds conversationally.
+Speak to the assistant naturally in Japanese, the same way you talk to a live support agent. No need to press phone keys or use specific keywords — just explain what you need in your own words, and the assistant understands and responds conversationally.
 
 ### Check case status instantly 
 
@@ -71,7 +74,7 @@ If you prefer to speak with a human support engineer, or your issue needs more d
 
 ### Capture responses to technical questions and automatically add them to case notes 
 
-If the assistant asks you technical questions to better understand your issue — for example, error messages, reproduction steps, or what you were doing when the issue occurred — your answers are automatically saved to your case notes. This means you don't have to repeat yourself later; the next support engineer who picks up your case already has this information.
+If the assistant asks you technical questions to understand your issue better — for example, error messages, reproduction steps, or what you were doing when the issue occurred — your answers are automatically saved to your case notes. This means you don't have to repeat yourself later; the next support engineer who picks up your case already has this information.
 
 ## Sample conversations
 
@@ -120,4 +123,4 @@ While the AI Voice Assistant can handle many common support needs, there are som
 
 >[!NOTE]
 >
->For anything outside the assistant's capabilities, you'll be seamlessly directed to request a callback from a live Adobe Support engineer.
+>For anything outside the assistant's capabilities, you'll be seamlessly directed to request a callback from an Adobe Support engineer.
