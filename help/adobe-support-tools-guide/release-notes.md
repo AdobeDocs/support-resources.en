@@ -35,11 +35,8 @@ These release notes contain updates to the Experience League support and include
 ## August 26, 2026 - Updates in the redesigned Experience League Support Portal
 
 1. The case creation interface now remembers your last selected experience - **[!UICONTROL Classic Form]** or **[!UICONTROL AI Chat]**. If **[!UICONTROL AI Chat]** was used most recently, it is automatically selected the next time you create a case, so you do not need to switch manually on each visit.
-
 1. Attachments can now be deleted directly from the **[!UICONTROL Case Details]** page using the delete icon shown on each attachment. This capability is not available for closed cases or for Workfront organizations.
-
 1. Sorting is now supported on all columns on the **[!UICONTROL My Cases]** page.
-
 1. **[!UICONTROL AI Recommendations]** are now available when **[!UICONTROL Admin Console]** is selected as the product during case creation.
 
 ## August 19, 2026 - Case Creation, My Cases, and Case Details now available in the redesigned Experience League Support Portal
