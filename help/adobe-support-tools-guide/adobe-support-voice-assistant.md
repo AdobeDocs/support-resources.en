@@ -47,7 +47,7 @@ The AI Voice Assistant supports the following capabilities:
 
 ### Understand and respond in Japanese 
 
-Speak to the assistant naturally in Japanese, the same way you would talk to a live support agent. There's no need to press phone keys or use specific keywords — just explain what you need in your own words, and the assistant understands and responds conversationally.
+Speak to the assistant naturally in Japanese, the same way you talk to a live support agent. There's no need to press phone keys or use specific keywords — just explain what you need in your own words, and the assistant understands and responds conversationally.
 
 ### Check case status instantly 
 
@@ -63,11 +63,11 @@ If your issue is serious — such as a major system outage or something signific
 
 >[!NOTE]
 >
->Increasing priority to P1 notifies the support team right away. You may still receive a callback for critical issues, consistent with Adobe's standard P1 response process.
+>Increasing priority to P1 notifies the support team right away. You receive a callback for critical issues, consistent with Adobe's standard P1 response process.
 
 ### Request a callback from Adobe Support 
 
-If you'd prefer to speak with a human support engineer, or your issue needs more detailed help, ask the assistant, and it will arrange for Adobe Support to call you back.
+If you prefer to speak with a human support engineer, or your issue needs more detailed help, ask the assistant, and it arranges for Adobe Support to call you back.
 
 ### Capture responses to technical questions and automatically add them to case notes 
 
