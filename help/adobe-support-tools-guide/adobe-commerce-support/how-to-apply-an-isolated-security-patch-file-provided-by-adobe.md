@@ -52,6 +52,6 @@ For additional information about applying patches to Cloud projects, see [Apply 
     patch -p1 < %patch_name%.patch
     ```
 
-   (If the above command doesn't work, try using `-p2` instead of `-p1` )
+   (If the above command doesn't work, try using `-p2` instead of `-p1`)
 
 1. For the changes to be reflected, refresh the cache in the [!UICONTROL Admin] under **[!UICONTROL System]** > **[!UICONTROL Cache Management]**.
