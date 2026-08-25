@@ -64,4 +64,5 @@ role: User, Admin
   - [Partner Adobe Commerce on cloud infrastructure sandbox requests](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
   - [Unable to add user to Adobe Commerce cloud project](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [How to apply a composer patch provided by Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+  - [How to apply a Isolated patch provided by Adobe](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
   - [Support Tools overview](adobe-commerce-support/overview.md)
