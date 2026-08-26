@@ -34,4 +34,4 @@ This requirement also applies when partners are working in internal environments
 
 If you're submitting a ticket on behalf of a merchant who has not been granted Shared Access, please request access from the account owner. For steps on how to request access, refer to [Shared Access: Grant Privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#shared-access). 
 
-Partners can submit a support case via https://partners.adobe.com/digitalexperience/m/forms/case.
+Partners can submit a support case via [https://partners.adobe.com/digitalexperience/m/forms/case](https://partners.adobe.com/digitalexperience/m/forms/case).
