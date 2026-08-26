@@ -26,7 +26,7 @@ See [Reset environment on Cloud](https://experienceleague.adobe.com/en/docs/comm
 
 See [Deployment troubleshooter](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29640) in the support knowledge base.
 
-## Where/How do solution partners or tech partners submit a support request? {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
+## Where/How do partners submit a support request? {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
 Partners with a Partner Sandbox Cloud project cannot submit tickets for sandbox-related issues through the [Support section of Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home). Please do not use a merchant's account to submit these tickets, as they appear to be submitted on the merchant's behalf and cause confusion.
 
@@ -34,4 +34,4 @@ This requirement also applies when partners are working in internal environments
 
 If you're submitting a ticket on behalf of a merchant who has not been granted Shared Access, please request access from the account owner. For steps on how to request access, refer to [Shared Access: Grant Privileges for other users to access your account](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#shared-access). 
 
-Partners can submit a support case via https://partners.adobe.com/digitalexperience/m/forms/case.
+Partners can submit a support case [here](https://partners.adobe.com/digitalexperience/m/forms/case).
