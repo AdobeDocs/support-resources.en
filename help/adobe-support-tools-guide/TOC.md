@@ -19,7 +19,6 @@ role: User, Admin
 - Experience League support portal - new user interface {#exl-new-ui}
   - [Overview](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [Create and manage support cases](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
-- {hide-from-toc} [Adobe Support Voice Assistant — After-Hours & Weekend Support (Japan)](/help/adobe-support-tools-guide/adobe-support-voice-assistant.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigating the Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Execute pending Jobs](adobe-admin-console/execute-jobs.md)
