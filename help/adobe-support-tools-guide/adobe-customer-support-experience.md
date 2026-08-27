@@ -2,7 +2,6 @@
 keywords: Experience Platform support;platform support;intelligent services support; customer ai support; attribution ai support; rtcdp support; submit support ticket;customer support
 title: Adobe Experience Cloud Customer One for Enterprise
 description: Adobe Customer Support Experience
-hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -32,7 +31,7 @@ topic_v2:
 
 Support tickets are now submitted via [Experience League](https://experienceleague.adobe.com/home#support). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#create-a-support-ticket-with-experience-league).
 
-We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
+We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using Experience League. Once live, your organization will be able to access Adobe Customer Support easily; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal. 
 
 If you are an Adobe Commerce user, refer to [Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) in the Experience League Support User Guide for Adobe Commerce.
 
@@ -206,7 +205,7 @@ After submission:
 
 Experience League Support provides an AI-powered chat interface as an alternative way to create and manage support cases. The AI chat experience is opt-in and does not replace the classic case creation workflow.
 
-[!NOTE]
+>[!NOTE]
 >
 >The portal now saves your **[!UICONTROL AI Chat]** selection as your preferred case creation experience and remembers it for your next visit.
 
