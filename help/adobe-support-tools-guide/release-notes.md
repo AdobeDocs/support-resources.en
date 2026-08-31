@@ -31,6 +31,24 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## September 7, 2026 - Updates to After-Hours Support in Japan  
+
+1. Customers in Japan can now get phone-based (IVR) support from a new **AI Voice Assistant** during evenings, nights, and weekends, when live agents are not available. Natural speech in Japanese is supported—no keywords or menu navigation required.
+
+1. The **AI Voice Assistant** can instantly check case status, telling you whether your case is still under investigation, waiting on more information, or resolved.
+
+1. The **AI Voice Assistant** can share the most recent notes or progress logged on your case, providing visibility into activity without waiting for a callback or email.
+
+1. For major outages or serious business impact, the assistant can escalate your case to **[!UICONTROL P1 (Critical)]** priority.
+
+1. You can request a callback from an Adobe Support engineer at any time through the assistant.
+
+1. If the assistant asks technical questions to understand your issue (error messages, reproduction steps, etc.), your answers are automatically saved to your case notes, eliminating the need to repeat them to the next engineer.
+
+>[!NOTE]
+>
+>This service is available for Japanese-language conversations only, during after-hours and weekend windows. You must verify your identity or case details before the assistant can share case information. Complex technical troubleshooting or product configuration changes are routed to a live engineer via callback.
+
 ## August 27, 2026 - Updates in the redesigned Experience League Support Portal
 
 1. The case creation interface remembers your last selected experience - **[!UICONTROL Classic Form]** or **[!UICONTROL AI Chat]**. If **[!UICONTROL AI Chat]** was used most recently, it is automatically selected the next time you create a case, so you do not need to switch manually on each visit.
