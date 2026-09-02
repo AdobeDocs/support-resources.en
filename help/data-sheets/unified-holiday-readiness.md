@@ -85,6 +85,8 @@ By following these guidelines and leveraging Adobe's public documentation, organ
 
 To prepare Adobe Journey Optimizer for the holiday season, organizations should anticipate event spikes and cross-channel complexity, configure journey and frequency rules, and ensure data hygiene and decisioning logic. They must also validate performance at scale, enforce security and API guardrails, and apply post-peak insights to refine future campaigns.
 
+Use the following recommendations, as well as steps described in [Adobe Experience Platform holiday readiness guide](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/unified-holiday-readiness#aep). 
+
 ### Predict demand
 
 * Based on holiday season compressions and heavier campaign volume, expect:
@@ -352,6 +354,23 @@ This video, [Adobe Campaign: Holiday Readiness - Considerations and Preparations
 * Technical Recommendations for Adobe Campaign Classic (ACC) & Adobe Campaign Standard (ACS)
 
 To have Adobe Campaign ready for the holiday peak season, organizations should finalize deliverability checks, validate campaign configurations, and ensure scalable infrastructure and cross-channel orchestration are in place to confidently execute high-volume, time-sensitive campaigns throughout the holiday season.
+
+### Recommended reading
+
+For Adobe Campaign v8 and Adobe Campaign Classic v7:
+
+* [Improving deliverability](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/deliverability-management/about-deliverability)
+* [Workflow best practices](https://experienceleague.adobe.com/en/docs/campaign/automation/workflows/introduction/workflow-best-practices)
+
+For Adobe Campaign Standard:
+
+* [Improving deliverability](https://experienceleague.adobe.com/en/docs/campaign-standard/using/testing-and-sending/managing-deliverability/about-deliverability)
+* [Workflow best practices](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows)
+
+General deliverability best practices:
+
+* [Deliverability Best Practice Guide](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction)
+
 
 +++
 
