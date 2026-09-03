@@ -12,7 +12,7 @@ exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
 
 >[!NOTE]
 >
->Those guidance are current as of October 2025. The updated version for the 2026 holiday season will be published shortly.
+>Those guidance are current as of October 2025. The updated version for the 2026 holiday season is scheduled to be published by the end of September 2026.
 
 The Adobe DX Solutions Unified Holiday Readiness Guide helps you prepare for the holiday season by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
 
