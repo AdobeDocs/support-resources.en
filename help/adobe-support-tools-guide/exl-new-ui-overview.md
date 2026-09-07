@@ -23,7 +23,7 @@ topic_v2:
 
 ## Overview
 
-The redesigned Experience League Support portal provides a unified and intuitive experience for managing Adobe support activities. It offers faster access to essential features, including tracking support cases, monitoring product status, accessing case insights, and connecting with the Success team.
+The redesigned Experience League Support Portal is now the default experience for all users. When you access the support application, you are automatically directed to the redesigned portal. The portal provides a unified and intuitive experience for managing Adobe support activities, with faster access to essential features such as tracking support cases, monitoring product status, accessing case insights, and connecting with the Success team.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Use the toggle in the portal to switch between the redesigned Experience League 
 
 ![New UI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-Both portals remain synchronized, ensuring that case data and support information remain consistent across experiences.
+Both portal experiences remain synchronized, ensuring that support case data and information stay consistent across experiences. Your portal preference is saved based on the selection of the **[!UICONTROL Return to the previous experience]** switcher, and you are directed to your last selected portal experience each time you visit.
 
 ![Old UI](/help/adobe-support-tools-guide/assets/old-ui.png)
 

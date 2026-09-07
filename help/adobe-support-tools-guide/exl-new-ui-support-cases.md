@@ -120,7 +120,11 @@ You can view and manage support cases from the redesigned Experience League supp
 
 ![View and manage your cases entry points](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-The **[!UICONTROL All your Cases]** page opens. Switch between **[!UICONTROL My Cases]** and **[!UICONTROL My Org Cases]** to view your cases or cases across your organization. Use **[!UICONTROL Search cases]** to search within the selected time range. In the upper-right corner, select a time range to view data for the last 3, 6, 12, 18, or 24 months. By default, cases, search results, and filters display data for the last 3 months.
+The **[!UICONTROL All your Cases]** page opens. Select **[!UICONTROL My Cases]** to view your cases, or select **[!UICONTROL My Org Cases]** to view cases across your organization. Use **[!UICONTROL Search cases]** to search within the selected time range.
+
+In the upper-right corner, select a time range to view cases from the last 3, 6, 12, 18, 24 months, or All time. By default, the case list, search results, and filters display data from the last 3 months.
+
+To view the complete case history, including cases older than 24 months, select the **[!UICONTROL All Time]** option from the dropdown.
 
 ![My Cases page](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 
