@@ -31,7 +31,7 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
-## September 7, 2026 - Updates to After-Hours Support in Japan  
+## September 15, 2026 - Updates to After-Hours Support in Japan  
 
 1. Customers in Japan can now get phone-based (IVR) support from a new **AI Voice Assistant** during evenings, nights, and weekends, when live agents are not available. Natural speech in Japanese is supported—no keywords or menu navigation required.
 
