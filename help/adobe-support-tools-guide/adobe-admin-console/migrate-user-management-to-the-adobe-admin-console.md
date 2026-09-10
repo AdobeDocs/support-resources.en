@@ -1,34 +1,50 @@
 ---
-title: Migrate Frame.io user management to the Admin Console
+title: Migrate user management to the Adobe Admin Console
 description: Learn how eligible enterprise accounts can migrate user management to the Adobe Admin Console.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+TQID: 'https://experienceleague.adobe.com/l0jyxNyd32NYh6ggu2iNYz-7DgSsKSmgl1wgQAVskIc'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: d1c959e9-891f-4624-8eb1-4d6658c0f72f
+    internal-label: Creative services
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
-# Migrate Frame.io user management to the Admin Console
+# Migrate user management to the Adobe Admin Console
 
-Contact your Frame.io account team to transition eligible V4 accounts to centralized user 
-management.
+Contact your Adobe account team to discuss transitioning eligible solutions to centralized user management through the Adobe Admin Console.
 
->[!NOTE]
->
->Frame.io's web and mobile apps are available in English, Japanese, German, Russian, 
-Spanish, Italian, French, and Brazilian Portuguese.
+Before contacting your Adobe account team, verify that your organization meets the eligibility requirements and identify the stakeholders who will participate in migration planning.
 
-Before contacting your account team, verify that your organization meets the eligibility requirements and identify the stakeholders who will need to participate in the migration planning.
+Migration eligibility varies by solution. Before beginning the migration process, ensure that your organization has:
 
-- Frame.io V4 enterprise account (accounts created October 2024 or later, or accounts that have already migrated to V4)
-- Enterprise and Teams plans manage Frame.io through the Adobe Admin Console and the Global Admin Console.
-- System Admin access to verify your current Frame.io account version
-- Contact information for your Frame.io account team 
+- An eligible enterprise solution or deployment that supports migration to Adobe Admin Console-based user management.
+- Access to the Adobe Admin Console, where applicable.
+- Administrative access required to review your current user management configuration.
+- Contact information for your Adobe account team or implementation representative.
+- Any solution-specific prerequisites completed, if applicable.
 
 ## Verify eligibility and request migration
 
-1. Sign in to your Frame.io [enterprise account](https://accounts.frame.io/welcome) and verify that your account is on V4.
-1. Contact your Frame.io account team and request migration to Adobe Admin Console user management.
-1. Work with your Adobe account team on migration timing and rollout.
-1. Communicate any sign-in or access changes to affected administrators and users.
+1. Review your current solution configuration and confirm that it supports migration to Adobe Admin Console-based user management.
+2. Review any solution-specific eligibility requirements and prerequisites.
+3. Contact your Adobe account team and request migration to Adobe Admin Console user management.
+4. Work with your Adobe account team to review migration timing, implementation requirements, and organizational readiness.
+5. Communicate any sign-in or access changes to affected administrators and users.
 
-Once your team completes migration, you manage Frame.io users and assign roles in Adobe Admin Console instead of Frame.io’s interface. Existing users retain their access and permissions during the transition.
+## After migration
 
-If your account does not meet the eligibility criteria, contact your Frame.io account team to explore options for becoming eligible for Adobe Admin Console user management.
+Once migration is complete:
+
+- User administration is managed through the Adobe Admin Console.
+- User sign-in and access experiences may be updated based on the organization's identity configuration.
+- Ongoing user lifecycle management activities should be performed through the Adobe Admin Console unless otherwise documented for the solution.
+
+If your organization does not meet the eligibility criteria, contact your Adobe account team to explore options for becoming eligible for Adobe Admin Console user management.
