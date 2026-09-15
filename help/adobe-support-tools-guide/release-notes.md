@@ -31,6 +31,18 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## September 10, 2026 – Redesigned Experience League Support Portal is now the default experience
+
+1. The redesigned Experience League Support Portal is now set as the default experience for all users. When accessing the support application, users are automatically directed to the redesigned portal.
+
+1. The UI switcher label has been updated from **[!UICONTROL Try the New Home Page]** to **[!UICONTROL Return to the Previous Experience]** for greater clarity.
+
+1. Portal preferences continue to be saved and applied based on the **[!UICONTROL Return to the Previous Experience]** switcher selection, so users are directed to their last-selected portal experience on every visit.
+
+1. A new **[!UICONTROL All Time]** option has been introduced in the **[!UICONTROL Time Range]** filter dropdown on the **[!UICONTROL My Cases]** page, allowing the complete case history to be viewed beyond the last 24 months.
+
+1. The Adobe Commerce **[!UICONTROL System Insights]** widget on the case creation form has been repositioned to appear above the **[!UICONTROL AI Recommendations]** section in the right sidebar.
+
 ## August 27, 2026 - Updates in the redesigned Experience League Support Portal
 
 1. The case creation interface remembers your last selected experience - **[!UICONTROL Classic Form]** or **[!UICONTROL AI Chat]**. If **[!UICONTROL AI Chat]** was used most recently, it is automatically selected the next time you create a case, so you do not need to switch manually on each visit.
