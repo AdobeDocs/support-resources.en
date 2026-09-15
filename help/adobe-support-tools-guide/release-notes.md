@@ -31,6 +31,24 @@ These release notes contain updates to the Experience League support and include
 ![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
 
+## September 15, 2026 - Updates to After-Hours Support in Japan  
+
+1. Customers in Japan can now get phone-based (IVR) support from a new **AI Voice Assistant** during evenings, nights, and weekends, when live agents are not available. Natural speech in Japanese is supported—no keywords or menu navigation required.
+
+1. The **AI Voice Assistant** can instantly check case status, telling you whether your case is still under investigation, waiting on more information, or resolved.
+
+1. The **AI Voice Assistant** can share the most recent notes or progress logged on your case, providing visibility into activity without waiting for a callback or email.
+
+1. For major outages or serious business impact, the assistant can escalate your case to **[!UICONTROL P1 (Critical)]** priority.
+
+1. You can request a callback from an Adobe Support engineer at any time through the assistant.
+
+1. If the assistant asks technical questions to understand your issue (error messages, reproduction steps, etc.), your answers are automatically saved to your case notes, eliminating the need to repeat them to the next engineer.
+
+>[!NOTE]
+>
+>This service is available for Japanese-language conversations only, during after-hours and weekend windows. You must verify your identity or case details before the assistant can share case information. Complex technical troubleshooting or product configuration changes are routed to a live engineer via callback.
+
 ## September 10, 2026 – Redesigned Experience League Support Portal is now the default experience
 
 1. The redesigned Experience League Support Portal is now set as the default experience for all users. When accessing the support application, users are automatically directed to the redesigned portal.
@@ -42,6 +60,7 @@ These release notes contain updates to the Experience League support and include
 1. A new **[!UICONTROL All Time]** option has been introduced in the **[!UICONTROL Time Range]** filter dropdown on the **[!UICONTROL My Cases]** page, allowing the complete case history to be viewed beyond the last 24 months.
 
 1. The Adobe Commerce **[!UICONTROL System Insights]** widget on the case creation form has been repositioned to appear above the **[!UICONTROL AI Recommendations]** section in the right sidebar.
+
 
 ## August 27, 2026 - Updates in the redesigned Experience League Support Portal
 
