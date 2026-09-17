@@ -1,13 +1,15 @@
 ---
+title: Operational readiness
 description: Operational readiness recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
-feature: Support, Configuration, Performance
-role: Admin, Developer
-type: Tutorial
+feature-set: Commerce
+feature: Support
+solution: Commerce
+role: Developer, Admin, Leader
 ---
 
 # Operational readiness
 
-This section provides technical recommendations for preparing [!DNL Adobe Commerce] environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
+This section provides technical recommendations for preparing Adobe Commerce environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
 
 ## Apply all security and performance patches {#apply-all-security-and-performance-patches}
 

@@ -1,8 +1,10 @@
 ---
+title: Scalability & capacity planning
 description: Scalability and capacity planning recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
-feature: Support, Configuration, Performance
-role: Admin, Developer
-type: Tutorial
+feature-set: Commerce
+feature: Support
+solution: Commerce
+role: Developer, Admin, Leader
 ---
 
 # Scalability & capacity planning
@@ -17,8 +19,7 @@ This section provides technical recommendations for preparing [!DNL Adobe Commer
 
 Coordinate with Adobe Support to temporarily scale compute resources during promotions. Plan at least 10 business days in advance. See [How to request a temporary upsize](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize).
 
-* For Commerce on cloud infrastructure customers, implementing a planned upsize requires raising a support ticket in advance with the date range and required cluster size, coordinated with your dedicated Account Manager based on current resource consumption.
-* **Example:** a Pro-architecture customer with a daily baseline of 24 cores (24 vCPUs, 96 GB RAM) upsizing to 96 cores for 7 days would use roughly 4x the resources (96 vCPUs, 384 GB RAM)—an incremental consumption of about 504 vCPU-days (96×7 − 24×7).
+* For Commerce on cloud infrastructure customers, implementing a planned upsize requires raising a support ticket in advance with the date range and required cluster size, coordinated with your dedicated Account Manager based on current resource consumption. For example: a Pro-architecture customer with a daily baseline of 24 cores (24 vCPUs, 96 GB RAM) upsizing to 96 cores for 7 days would use roughly 4x the resources (96 vCPUs, 384 GB RAM)—an incremental consumption of about 504 vCPU-days (96×7 − 24×7).
 
 ## Enable Fastly origin shielding (Cloud only) {#enable-fastly-origin-shielding}
 

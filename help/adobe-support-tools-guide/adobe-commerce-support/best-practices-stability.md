@@ -1,8 +1,10 @@
 ---
+title: Best practices & stability
 description: Best practices and stability recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
-feature: Support, Configuration, Performance
-role: Admin, Developer
-type: Tutorial
+feature-set: Commerce
+feature: Support
+solution: Commerce
+role: Developer, Admin, Leader
 ---
 
 # Best practices & stability

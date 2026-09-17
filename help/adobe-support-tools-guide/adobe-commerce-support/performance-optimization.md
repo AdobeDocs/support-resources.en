@@ -1,5 +1,5 @@
 ---
-Title: Performance optimization
+title: Performance optimization
 description: Performance optimization recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
 feature-set: Commerce
 feature: Support
