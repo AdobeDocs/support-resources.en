@@ -7,7 +7,7 @@ type: Tutorial
 
 # Best practices & stability
 
-This section provides technical recommendations for preparing [!DNL Adobe Commerce] environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
+This section provides technical recommendations for preparing Adobe Commerce environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
 
 >[!NOTE]
 >
@@ -36,15 +36,15 @@ Remove debug logs and monitor recurring errors to prevent disk overuse and impro
 
 Keep disk usage under 70% to avoid outages. See [Manage disk space](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space).
 
-* On Commerce on cloud infrastructure, track the `/mnt/shared` (shared files, logs, media) and `/data/mysql` (database) volumes. [!DNL Adobe Commerce] provides a warning when either volume exceeds 70% usage.
+* On Commerce on cloud infrastructure, track the `/mnt/shared` (shared files, logs, media) and `/data/mysql` (database) volumes. Adobe Commerce provides a warning when either volume exceeds 70% usage.
 * On-premises, monitor the equivalent application and database storage volumes for your hosting environment.
 
 ## Review slow database queries {#review-slow-database-queries}
 
 Identify and optimize costly queries using an APM tool and `mysql-slow.log`. See [Resolve database performance issues](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues). Commerce on cloud infrastructure includes a bundled [!DNL New Relic] subscription for this; on-premises environments need their own APM tooling.
 
-* **[!DNL New Relic] > APM & Services** > select environment > **Databases** > sort by most time-consuming transactions.
-* **[!DNL New Relic] > Logs** > filter by `filePath:"/var/log/mysql/mysql-slow.log"`.
+* Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL APM & Services]** > **[!UICONTROL Environment]** > **[!UICONTROL Databases]** and sort by most time-consuming transactions.
+* Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL Logs]** and filter by `filePath:"/var/log/mysql/mysql-slow.log"`.
 * Confirm slow queries are not being executed frequently.
 
 ## Configure cron jobs correctly {#configure-cron-jobs-correctly}
@@ -59,10 +59,10 @@ All asynchronous operations in [!DNL Adobe Commerce] depend on correctly configu
 
 ## Optimize client-side settings {#optimize-client-side-settings}
 
-Enable JavaScript, CSS, and HTML minification and bundling for improved storefront load times. See [Optimize CSS/JS files](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files). Configure at **Stores > Settings > Configuration > Advanced > Developer**:
+Enable JavaScript, CSS, and HTML minification and bundling for improved storefront load times. See [Optimize CSS/JS files](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files). Configure at **[!UICONTROL Stores]** > **[!UICONTROL Settings]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]**:
 
-* Grid Settings — Asynchronous indexing: Enable
-* CSS Settings — Minify CSS Files: Yes
-* JavaScript Settings — Minify JavaScript Files: Yes
-* JavaScript Settings — Enable JavaScript Bundling: Yes (not on by default)
-* Template Settings — Minify HTML: Yes
+* Grid Settings — **[!UICONTROL Asynchronous indexing]**: *Enable*
+* CSS Settings — **[!UICONTROL Minify CSS Files]**: *Yes*
+* JavaScript Settings — **[!UICONTROL Minify JavaScript Files]**: *Yes*
+* JavaScript Settings — **[!UICONTROL Enable JavaScript Bundling]**: *Yes* (not on by default)
+* Template Settings — **[!UICONTROL Minify HTML]**: *Yes*

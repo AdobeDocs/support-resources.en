@@ -1,9 +1,10 @@
 ---
 Title: Performance optimization
 description: Performance optimization recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
-feature: Support, Configuration, Performance
-role: Admin, Developer
-type: Tutorial
+feature-set: Commerce
+feature: Support
+solution: Commerce
+role: Developer, Admin, Leader
 ---
 
 # Performance optimization
