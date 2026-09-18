@@ -12,6 +12,13 @@ product_v2:
 feature_v2:
   - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
     internal-label: Best Practices
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+subfeature_v2:
+  - id: 3c398179-d35a-51ba-b317-6c5b95feef5e
+    internal-label: Logs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
