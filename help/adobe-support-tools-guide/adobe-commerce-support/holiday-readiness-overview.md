@@ -38,7 +38,7 @@ This playbook provides executive-level guidance for preparing Adobe Commerce on 
 
 These focus areas help ensure your platform remains stable, secure, and performant under peak load.
 
-## 1. Performance Optimization
+## Performance Optimization
 
 * [Optimize Fastly Request Caching](performance-optimization.md#optimize-fastly-request-caching): Normalize your promotional tracking parameters, confirm your landing pages are cacheable, and use GraphQL GET for PWA or headless storefronts to raise your Fastly cache hit ratio.
 * [Enable Fastly IO](performance-optimization.md#enable-fastly-io): Turn on Fastly Image Optimization and Deep IO so image transformations run at the CDN edge instead of the origin, cutting page render time on image-heavy storefronts.
