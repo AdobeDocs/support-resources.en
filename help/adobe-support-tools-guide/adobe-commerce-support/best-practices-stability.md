@@ -1,5 +1,5 @@
 ---
-title: Best practices & stability
+title: Best practices and stability
 description: Best practices and stability recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
 feature-set: Commerce
 feature: Support
@@ -26,7 +26,7 @@ role_v2:
     internal-label: Developer
 ---
 
-# Best practices & stability
+# Best practices and stability
 
 This section provides technical recommendations for preparing Adobe Commerce environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
 
@@ -36,14 +36,14 @@ This section provides technical recommendations for preparing Adobe Commerce env
 
 ## Upgrade to the latest Adobe Commerce version {#upgrade-to-latest-adobe-commerce-version}
 
-Ensure your site is not on an unsupported version, which can impact performance and increase vulnerability to security issues. The latest release includes critical security fixes and performance enhancements that benefit any project upgrading from a prior version. See [System requirements](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements) and the Adobe Commerce Life Cycle Policy for details on unsupported versions.
+Ensure your site is not on an unsupported version, which can impact performance and increase vulnerability to security issues. The latest release includes critical security fixes and performance enhancements that benefit any project upgrading from a prior version. See [Adobe Commerce lifecycle policy](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/lifecycle-policy) for details on unsupported versions.
 
 ## Install the latest ECE-Tools and Quality Patches Tool (QPT) {#install-latest-ece-tools-and-quality-patch-tool-qpt}
 
 Keep tools and patches updated to apply Adobe-provided performance enhancements. See [Update the ECE-Tools package](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package).
 
 * **(Cloud only)** Ensure the latest `ece-tools` module and its dependent modules are installed (use the `--with-dependencies` switch) so required cloud patches are properly applied for your [!DNL Adobe Commerce] version.
-* Review the patch list in the Quality Patches Tool and confirm that applicable performance patches compatible with your version have been applied. QPT is available for both Commerce on cloud infrastructure and on-premises installations.
+* Review the patch list in the Quality Patches Tool (QPT) and confirm that applicable performance patches compatible with your version have been applied. QPT is available for both Commerce on cloud infrastructure and on-premises; for on cloud infrastructure it's included in ECE-Tools. For details, refer to [QPT installation and usage](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
 
 ## Review and clean log files {#review-and-clean-log-files}
 
@@ -64,15 +64,15 @@ Keep disk usage under 70% to avoid outages. See [Manage disk space](https://expe
 
 Identify and optimize costly queries using an APM tool and `mysql-slow.log`. See [Resolve database performance issues](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues). Commerce on cloud infrastructure includes a bundled [!DNL New Relic] subscription for this; on-premises environments need their own APM tooling.
 
-* Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL APM & Services]** > **[!UICONTROL Environment]** > **[!UICONTROL Databases]** and sort by most time-consuming transactions.
-* Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL Logs]** and filter by `filePath:"/var/log/mysql/mysql-slow.log"`.
-* Confirm slow queries are not being executed frequently.
+1. Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL APM & Services]** > **[!UICONTROL Environment]** > **[!UICONTROL Databases]** and sort by most time-consuming transactions.
+1. Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL Logs]** and filter by `filePath:"/var/log/mysql/mysql-slow.log"`.
+1. Confirm slow queries are not being executed frequently.
 
 ## Configure cron jobs correctly {#configure-cron-jobs-correctly}
 
-Verify cron jobs run under the proper user and every minute to support queue and indexer processes. See [Configure cron jobs](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
+Verify cron jobs run every minute and under the proper to support queue and indexer processes. See [Configure cron jobs](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
 
-All asynchronous operations in [!DNL Adobe Commerce] depend on correctly configured Linux cron jobs, set up under the appropriate Unix user's crontab—failure to configure cron properly means Commerce will not function as expected.
+All asynchronous operations in Adobe Commerce depend on correctly configured Linux cron jobs, set up under the appropriate Unix user's crontab—failure to configure cron properly means Commerce will not function as expected.
 
 >[!NOTE]
 >
@@ -80,10 +80,12 @@ All asynchronous operations in [!DNL Adobe Commerce] depend on correctly configu
 
 ## Optimize client-side settings {#optimize-client-side-settings}
 
-Enable JavaScript, CSS, and HTML minification and bundling for improved storefront load times. See [Optimize CSS/JS files](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files). Configure at **[!UICONTROL Stores]** > **[!UICONTROL Settings]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]**:
+Enable JavaScript, CSS, and HTML minification and bundling for improved storefront load times. Configure at **[!UICONTROL Stores]** > **[!UICONTROL Settings]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]**:
 
 * Grid Settings — **[!UICONTROL Asynchronous indexing]**: *Enable*
 * CSS Settings — **[!UICONTROL Minify CSS Files]**: *Yes*
 * JavaScript Settings — **[!UICONTROL Minify JavaScript Files]**: *Yes*
 * JavaScript Settings — **[!UICONTROL Enable JavaScript Bundling]**: *Yes* (not on by default)
 * Template Settings — **[!UICONTROL Minify HTML]**: *Yes*
+
+Refer to [Optimize CSS/JS files](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files) for more details.

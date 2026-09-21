@@ -30,11 +30,11 @@ role_v2:
 
 This playbook provides executive-level guidance for preparing Adobe Commerce on Cloud Infrastructure environments for high-traffic events, such as the holiday season. It consolidates technical recommendations into five strategic focus areas:
 
-- [Performance Optimization](/help/adobe-support-tools-guide/adobe-commerce-support/performance-optimization.md)
+- [Performance optimization](/help/adobe-support-tools-guide/adobe-commerce-support/performance-optimization.md)
 - [Best Practices & Stability](/help/adobe-support-tools-guide/adobe-commerce-support/best-practices-stability.md)
-- [Monitoring & Observability](/help/adobe-support-tools-guide/adobe-commerce-support/monitoring-observability.md)
-- [Scalability & Capacity Planning](/help/adobe-support-tools-guide/adobe-commerce-support/scalability-capacity-planning.md)
-- [Operational Readiness](/help/adobe-support-tools-guide/adobe-commerce-support/operational-readiness.md)
+- [Monitoring and observability](/help/adobe-support-tools-guide/adobe-commerce-support/monitoring-observability.md)
+- [Scalability and capacity planning](/help/adobe-support-tools-guide/adobe-commerce-support/scalability-capacity-planning.md)
+- [Operational readiness](/help/adobe-support-tools-guide/adobe-commerce-support/operational-readiness.md)
 
 These focus areas help ensure your platform remains stable, secure, and performant under peak load.
 
@@ -47,7 +47,7 @@ These focus areas help ensure your platform remains stable, secure, and performa
 * [Enable Asynchronous Order and Email Processing](performance-optimization.md#enable-asynchronous-order-and-email-processing): Queue order placement, order-data grid updates, and checkout emails to run in the background across three separate settings, so checkout stays fast under high order volume.
 * [Configure Indexers for Update on Schedule](performance-optimization.md#configure-indexers-for-update-on-schedule): Move indexers from Update on Save to the cron-driven Update on Schedule mode to avoid locking during frequent catalog updates—except for the customer_grid indexer.
 * [Consider Scaled (Split) Architecture](performance-optimization.md#consider-scaled-split-architecture): If tuning and code-level fixes still leave CPU maxed out under load, move to a six-node split-tier setup that scales web and database nodes independently.
-
+For detailed steps for each of those performance optimization recommendations, refer to [Adobe Commerce holiday readiness > Performance optimization](performance-optimization.md)
 ## 2. Best Practices & Stability
 
 * [Upgrade to Latest Adobe Commerce Version](best-practices-stability.md#upgrade-to-latest-adobe-commerce-version): Stay on a supported release to keep the security fixes and performance improvements Adobe ships in each version.
