@@ -1,5 +1,5 @@
 ---
-title: Scalability & capacity planning
+title: Scalability and capacity planning
 description: Scalability and capacity planning recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
 feature-set: Commerce
 feature: Support
@@ -25,7 +25,7 @@ role_v2:
     internal-label: Developer
 ---
 
-# Scalability & capacity planning
+# Scalability and capacity planning
 
 This section provides technical recommendations for preparing [!DNL Adobe Commerce] environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
 
