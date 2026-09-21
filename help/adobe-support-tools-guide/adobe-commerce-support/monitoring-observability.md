@@ -1,5 +1,5 @@
 ---
-title: Monitoring & observability
+title: Monitoring and observability
 description: Monitoring and observability recommendations to help Adobe Commerce merchants prepare their environments for high-traffic events such as the holiday season.
 feature-set: Commerce
 feature: Support
@@ -29,7 +29,7 @@ role_v2:
     internal-label: Developer
 ---
 
-# Monitoring & observability
+# Monitoring and observability
 
 This section provides technical recommendations for preparing Adobe Commerce environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
 
