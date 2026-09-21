@@ -52,9 +52,9 @@ role: User, Admin
   - [Adobe Commerce holiday readiness]{#adobe-commerce-holiday-readiness}
     - [Overview](/help/adobe-support-tools-guide/adobe-commerce-support/holiday-readiness-overview.md)
     - [Performance optimization](/help/adobe-support-tools-guide/adobe-commerce-support/performance-optimization.md)
-    - [Best practices & stability](/help/adobe-support-tools-guide/adobe-commerce-support/best-practices-stability.md)
-    - [Monitoring & observability](/help/adobe-support-tools-guide/adobe-commerce-support/monitoring-observability.md)
-    - [Scalability & capacity planning](/help/adobe-support-tools-guide/adobe-commerce-support/scalability-capacity-planning.md)
+    - [Best practices and stability](/help/adobe-support-tools-guide/adobe-commerce-support/best-practices-stability.md)
+    - [Monitoring and observability](/help/adobe-support-tools-guide/adobe-commerce-support/monitoring-observability.md)
+    - [Scalability and capacity planning](/help/adobe-support-tools-guide/adobe-commerce-support/scalability-capacity-planning.md)
     - [Operational readiness](/help/adobe-support-tools-guide/adobe-commerce-support/operational-readiness.md)
   - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [How to obtain and apply security patches](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
