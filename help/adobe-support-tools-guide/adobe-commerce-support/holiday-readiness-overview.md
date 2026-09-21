@@ -30,11 +30,11 @@ role_v2:
 
 This playbook provides executive-level guidance for preparing Adobe Commerce on Cloud Infrastructure environments for high-traffic events, such as the holiday season. It consolidates technical recommendations into five strategic focus areas:
 
-- [Performance optimization](/help/adobe-support-tools-guide/adobe-commerce-support/performance-optimization.md)
-- [Best Practices & Stability](/help/adobe-support-tools-guide/adobe-commerce-support/best-practices-stability.md)
-- [Monitoring and observability](/help/adobe-support-tools-guide/adobe-commerce-support/monitoring-observability.md)
-- [Scalability and capacity planning](/help/adobe-support-tools-guide/adobe-commerce-support/scalability-capacity-planning.md)
-- [Operational readiness](/help/adobe-support-tools-guide/adobe-commerce-support/operational-readiness.md)
+- Performance optimization
+- Best Practices and Stability
+- Monitoring and observability
+- Scalability and capacity planning
+- Operational readiness
 
 These focus areas help ensure your platform remains stable, secure, and performant under peak load.
 
