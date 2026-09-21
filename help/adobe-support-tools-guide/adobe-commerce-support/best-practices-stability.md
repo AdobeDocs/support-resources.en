@@ -82,7 +82,7 @@ All asynchronous operations in Adobe Commerce depend on correctly configured Lin
 
 Enable JavaScript, CSS, and HTML minification and bundling for improved storefront load times. Configure at **[!UICONTROL Stores]** > **[!UICONTROL Settings]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]**:
 
-* Grid Settings — **[!UICONTROL Asynchronous indexing]**: *Enable*
+* [!UICONTROL Grid Settings] — **[!UICONTROL Asynchronous indexing]**: *Enable*
 * CSS Settings — **[!UICONTROL Minify CSS Files]**: *Yes*
 * JavaScript Settings — **[!UICONTROL Minify JavaScript Files]**: *Yes*
 * JavaScript Settings — **[!UICONTROL Enable JavaScript Bundling]**: *Yes* (not on by default)
