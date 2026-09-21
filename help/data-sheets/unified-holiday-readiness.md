@@ -1,22 +1,90 @@
 ---
-title: Adobe DX Solutions Unified Holiday Readiness Guide
-description: Adobe DX holiday readiness for AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics, and Target to help you plan, scale, secure, and optimize.
+title: Adobe CXO Solutions Unified Holiday Readiness Guide
+description: Adobe CXO holiday readiness for AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics, and Target to help you plan, scale, secure, and optimize.
 feature-set: Experience Cloud
 feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
+autotag-review: '2026-09-21T21:20:32.279Z'
+TQID: 'https://experienceleague.adobe.com/4rgFqi4Af8ZndgiuhQG6L63dvvPxCfUvcPNkMe8zu90'
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: 1e0ea71a-a210-5748-9b0f-c02c2ef6a746
+    internal-label: Workflows
+  - id: 498495a2-cf39-51d9-b3fa-0013e205931b
+    internal-label: Marketing
+  - id: 4ba071ad-cd19-5536-8ec6-24c224dd4e87
+    internal-label: Programs
+  - id: 5c3c43cd-8c0e-55fc-95ba-cd0f8b685d97
+    internal-label: Segmentation
+  - id: 82d07ce8-bd4a-51ff-9469-838be0c168bf
+    internal-label: Campaigns
+  - id: a4a9911c-3a92-4f17-a7f9-fe2eb3235fef
+    internal-label: Monitoring
+  - id: b726bf67-3ea0-5ccf-a4b6-64d44fc843ef
+    internal-label: Deliverability
+  - id: b8f5b046-8215-56ca-9113-4e34a8eaec1e
+    internal-label: Projects
+  - id: c9e8aacc-3520-5f37-83f1-3025bd0e798b
+    internal-label: Database
+  - id: cfc34eeb-a172-5f8f-87e2-7b1278be8c7b
+    internal-label: Use Cases
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
+    internal-label: Experimentation
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+    internal-label: Audience segmentation
 ---
-# Adobe DX Solutions Unified Holiday Readiness Guide
+# Adobe CXO Solutions Unified Holiday Readiness Guide
 
 >[!NOTE]
 >
 >Those guidance are current as of October 2025. The updated version for the 2026 holiday season is scheduled to be published by the end of September 2026.
 
-The Adobe DX Solutions Unified Holiday Readiness Guide helps you prepare for the holiday season by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
+The Adobe CXO Solutions Unified Holiday Readiness Guide helps you prepare for the holiday season by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
 
-Follow these best practices to ensure your Adobe Digital Experience solutions are resilient, secure, and ready for peak holiday traffic: 
+To ensure your Adobe Customer Experience Orchestration solutions are resilient, secure, and ready for peak holiday traffic, follow these best practices: 
 
 * Plan for increased traffic. 
 * Avoid major changes during peak windows; schedule updates before or after the holiday season. 
@@ -50,7 +118,7 @@ Adobe Experience Platform (AEP) plays a critical role in powering real-time cust
 
 ### Predict seasonal demand
 
-To prepare for seasonal traffic spikes, Adobe recommends planning for capacity and monitoring streaming profile ingestion. This includes forecasting data volumes and ensuring your system can handle increased throughput. See [Plan for capacity and seasonal traffic](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile) for reference.
+To prepare for seasonal traffic spikes, Adobe recommends planning capacity and monitoring streaming profile ingestion. This includes forecasting data volumes and ensuring your system can handle increased throughput. See [Plan for capacity and seasonal traffic](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic) for reference.
 
 ### Prepare for scale
 
@@ -58,7 +126,7 @@ Adobe provides several strategies to ensure your environment is ready for holida
 
 * Increase allocated capacity for sandboxes.
 * Identify high-throughput dataflows in the [monitoring dashboard](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile) and apply throttling or filtering where needed.
-* Use batch ingestion for lower-latency use cases to optimize performance as described in [License usage and capacities: Streaming throughput best practices](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity#suggestions).
+* Use batch ingestion for lower-latency use cases to optimize performance as described in [License usage and capacities: Streaming throughput best practices](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity#plan-and-schedule-streaming-and-edge-capacity).
 
 These practices help maintain ingestion reliability and reduce latency during peak periods.
 
@@ -66,7 +134,7 @@ These practices help maintain ingestion reliability and reduce latency during pe
 
 To stay within operational limits and avoid service disruptions, Adobe recommends following ingestion and profile guardrails:
 
-* [Streaming throughput best practices](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity#suggestions)
+* [Streaming throughput best practices](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity)
 * [Guardrails for Data Ingestion](https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/guardrails)
 * [Default guardrails for Real-Time Customer Profile data and segmentation](https://experienceleague.adobe.com/en/docs/experience-platform/profile/guardrails)
 * [AEP Blueprints: Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails)
@@ -172,7 +240,7 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 
 * Leverage RAM ([[!UICONTROL Reporting Activity Manager] overview](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to monitor active and queued reporting requests in real time, identify at-capacity connections, and spot bottlenecks.
 * Watch for increased latency during peak load using the [Errors And Troubleshooting Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) and [Known Limitations](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations) articles.
-* Empower admins to preemptively suspend or cancel long-running/blocked requests via RAM. Refer to the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests) article.
+* Empower admins to suspend or cancel long-running/blocked requests preemptively via RAM. Refer to the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests) article.
 
 ### Best practices
 
@@ -223,7 +291,7 @@ The holiday season is rapidly approaching, and for many Adobe customers, this si
 
 ### Adobe Experience Manager (AEM) Cloud Services
 
-If your organization experiences its busiest moments during the holiday season, you may be contemplating how to optimize your Adobe Experience Manager site to accommodate peak traffic. Fortunately, with Adobe Experience Manager Cloud Services, your site is already equipped with the capability to auto-scale, ensuring a seamless experience for your visitors, no matter if there are sudden changes in traffic. 
+If your organization experiences its busiest moments during the holiday season, you may be contemplating how to optimize your Adobe Experience Manager site to accommodate peak traffic. Fortunately, Adobe Experience Manager Cloud Services equips your site to auto-scale, ensuring a seamless experience for your visitors despite sudden traffic changes. 
 
 #### Prepare for scale
 
@@ -246,9 +314,9 @@ For information on AEM website traffic security/protection, see the [Overview - 
 
 Adobe has scheduled maintenance exclusion periods to ensure uninterrupted service during critical holiday windows:
 
-* **No automatic updates** will occur between:
-  * November 24, 2025 – December 2, 2025
-  * December 15, 2025 – January 2, 2026
+* **No automatic AEMaaCS maintenance** occurs during the following timeframes, beginning and ending at midnight (00:00) CET:
+  * Monday, November 23 2026 until Tuesday, December 1 2026.
+  * Monday, December 14 2026 until Sunday, January 3 2027.
 
 This ensures stability during high-traffic periods. For full release schedules and maintenance windows, refer to the [AEM release roadmap](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap).
 
@@ -268,7 +336,7 @@ To ensure successful holiday campaigns with Adobe Marketo, teams should verify e
 ### Prepare for scale
 
 * Check your SPF/DKIM settings and ensure everything is still set up and working correctly. See the [Set up SPF and DKIM for your Email Deliverability](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability) article for details.
-* Audit and clean your Marketo database by purging inactive/invalid records. This will increase the chances that your sends land in the inboxes of your most sales ready leads. See the [Marketo Database Health Check-up & How to Keep it Clean](https://nation.marketo.com/t5/champion-program-blogs/marketo-database-health-check-up-amp-how-to-keep-it-clean/ba-p/323563) article for details.   
+* Audit and clean your Marketo database by purging inactive/invalid records. This increases the chances that your sends land in the inboxes of your most sales ready leads. See the [Marketo Database Health Check-up & How to Keep it Clean](https://nation.marketo.com/t5/champion-program-blogs/marketo-database-health-check-up-amp-how-to-keep-it-clean/ba-p/323563) article for details.   
 * Confirm that your team members have the right permissions to perform tasks and prevent unintended access or changes to the emails. Whether you're making changes through the **[!UICONTROL Admin]** or through the **[!UICONTROL Admin Console]**, we've got you covered. See the [Managing User Roles and Permissions](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions) article.
 * Review your Launchpad integrations to ensure correct authentication and resolve any potential errors before they are used. See the [Marketo Developer Guide: Authentication](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication) article.
 
@@ -285,7 +353,7 @@ Efficiency starts with understanding exactly how Marketo prioritizes and process
 
 Before you hit **[!UICONTROL Send]**, make sure that your emails look and perform exactly as intended. 
 
-* Marketo offers multiple ways to test an email's appearance to make sure it looks exactly the way you envisioned it. 
+* Marketo offers multiple ways to test an email's appearance. Use these to make sure it looks exactly the way you envisioned it. 
     * Use the **[!UICONTROL Preview]** function to make sure that your dynamic content and tokens are rendered correctly by previewing by segmentation or individual leads. See the [Preview an Email with Dynamic Content](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content) article.
     * Send a direct email to your test records quickly and easily to see how your email appears on different clients/devices. See the [Run a Single Flow Step from a Smart List](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list) article.
     * For [!DNL Litmus] users, it's now easier than ever to integrate your account and initiate rendering tests directly from the email editor. See the [Test Email Rendering with [!DNL Litmus]](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering) article.
@@ -304,7 +372,7 @@ With this guide, you can rest a bit easier knowing you're starting from a strong
 
 +++**Click to see the Adobe Workfront holiday readiness recommendations.**
 
-To prepare Adobe Workfront for the holiday season, teams should update support contacts, align internal schedules with Adobe, avoid major changes during peak windows, and proactively monitor automations and integrations to ensure smooth operations.
+To prepare Adobe Workfront for the holiday season, update support contacts, align internal schedules with Adobe, avoid major changes during peak windows, and proactively monitor automations and integrations to ensure smooth operations.
 
 ### Prepare for scale
 
@@ -321,8 +389,6 @@ Stay informed about Workfront releases and test new features in sandbox environm
 
 * [Prepare for an Adobe Workfront release](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront Release Notes Archive](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases)
-* [Q1 2025 Release Overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront Release Webinar Recording](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Best practices
 
@@ -340,21 +406,23 @@ By planning ahead, maintaining clear communication, and escalating issues early,
 +++**Click to see the Adobe Campaign holiday readiness recommendations.**
 
 
-To prepare Adobe Campaign for holiday readiness, teams should proactively validate deliverability settings, optimize audience segmentation and message frequency, ensure infrastructure scalability, and test cross-channel campaign orchestration to handle seasonal volume and engagement spikes effectively.
+To prepare Adobe Campaign for holiday readiness, proactively validate deliverability settings, optimize audience segmentation and message frequency, ensure infrastructure scalability, and test cross-channel campaign orchestration to handle seasonal volume and engagement spikes effectively.
 
-### Expert tips to make your holiday campaigns stand out
+Refer to the following documentation for more details. 
 
-Just like it's never too early to start your holiday shopping, it's never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that will make all your organization's holiday wishes come true. But do you know all the tips for running campaigns that will finish the year out with a bang? Check this video, [Expert tips to make your holiday campaigns stand out](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), that discusses deliverability and execution best practices and will show you how to do it all in Adobe Campaign.
+**For Adobe Campaign v8 and Adobe Campaign Classic v7:**
 
-### Considerations and preparations for the holiday period
+* [Improving deliverability](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/deliverability-management/about-deliverability) 
+* [Workflow best practices](https://experienceleague.adobe.com/en/docs/campaign/automation/workflows/introduction/workflow-best-practices)
 
-This video, [Adobe Campaign: Holiday Readiness - Considerations and Preparations for the Holiday Period](https://helpx.adobe.com/customer-care-office-hours/campaign/campaign-holiday-readiness.html), covers:
+**For Adobe Campaign Standard:**
 
-* Engaging the Campaign community
-* Deliverability – Considerations for the holidays and beyond! 
-* Technical Recommendations for Adobe Campaign Classic (ACC) & Adobe Campaign Standard (ACS)
+* [Improving deliverability](https://experienceleague.adobe.com/en/docs/campaign-standard/using/testing-and-sending/managing-deliverability/about-deliverability)
+* [Workflow best practices](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows)
 
-To have Adobe Campaign ready for the holiday peak season, organizations should finalize deliverability checks, validate campaign configurations, and ensure scalable infrastructure and cross-channel orchestration are in place to confidently execute high-volume, time-sensitive campaigns throughout the holiday season.
+**General deliverability best practices:**
+
+* [Deliverability Best Practice Guide](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction)
 
 +++
 
@@ -386,7 +454,7 @@ To maintain fast and reliable reporting during the holidays, Adobe recommends:
 
 ### Holiday maintenance planning
 
-Adobe typically enforces **maintenance exclusion windows** during peak holiday periods to ensure uninterrupted service. Customers should monitor Adobe's release and maintenance schedules via Experience League and coordinate with their Adobe account teams for support planning.
+Adobe typically enforces **maintenance exclusion windows** during peak holiday periods to ensure uninterrupted service. Monitor Adobe's release and maintenance schedules via Experience League and coordinate with their Adobe account teams for support planning.
 
 By following these guidelines and leveraging Adobe's public documentation, organizations can ensure their Adobe Analytics implementation is robust, responsive, and ready for the demands of the holiday season.
 
