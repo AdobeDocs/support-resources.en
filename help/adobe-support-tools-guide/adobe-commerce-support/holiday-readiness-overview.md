@@ -47,8 +47,10 @@ These focus areas help ensure your platform remains stable, secure, and performa
 * [Enable Asynchronous Order and Email Processing](performance-optimization.md#enable-asynchronous-order-and-email-processing): Queue order placement, order-data grid updates, and checkout emails to run in the background across three separate settings, so checkout stays fast under high order volume.
 * [Configure Indexers for Update on Schedule](performance-optimization.md#configure-indexers-for-update-on-schedule): Move indexers from Update on Save to the cron-driven Update on Schedule mode to avoid locking during frequent catalog updates—except for the customer_grid indexer.
 * [Consider Scaled (Split) Architecture](performance-optimization.md#consider-scaled-split-architecture): If tuning and code-level fixes still leave CPU maxed out under load, move to a six-node split-tier setup that scales web and database nodes independently.
+* 
 For detailed steps for each of those performance optimization recommendations, refer to [Adobe Commerce holiday readiness > Performance optimization](performance-optimization.md)
-## 2. Best Practices & Stability
+
+## Best Practices and Stability
 
 * [Upgrade to Latest Adobe Commerce Version](best-practices-stability.md#upgrade-to-latest-adobe-commerce-version): Stay on a supported release to keep the security fixes and performance improvements Adobe ships in each version.
 * [Install Latest ECE-Tools and Quality Patch Tool (QPT)](best-practices-stability.md#install-latest-ece-tools-and-quality-patch-tool-qpt): Update ece-tools with its dependencies and confirm the applicable Quality Patches Tool fixes are applied, for both cloud and on-premises installations.
@@ -58,20 +60,20 @@ For detailed steps for each of those performance optimization recommendations, r
 * [Configure Cron Jobs Correctly](best-practices-stability.md#configure-cron-jobs-correctly): Confirm cron runs every minute under the correct user, since every async operation in Commerce depends on it.
 * [Optimize Client-Side Settings](best-practices-stability.md#optimize-client-side-settings): Turn on CSS, JavaScript, and HTML minification and bundling to speed up storefront load times.
 
-## 3. Monitoring & Observability
+## Monitoring and Observability
 
 * [Monitor Traffic with New Relic](monitoring-observability.md#monitor-traffic-with-new-relic): Use Fastly logs streaming into New Relic to spot traffic anomalies, abusive IPs, malicious requests targeting endpoints like payment, and device/browser trends.
 * [Customize New Relic Alerts](monitoring-observability.md#customize-new-relic-alerts): Set up your own NRQL-based alerts for unusual traffic, slow GraphQL queries, or rising error rates, on top of Adobe's managed alerts.
 * [Track Apdex Score](monitoring-observability.md#track-apdex-score): Watch the Apdex score (target ≥ 0.85) to keep backend and frontend response times in a range users consider satisfactory.
 * [Review Support Insights (SWAT Report)](monitoring-observability.md#review-support-insights-swat-report): Run a SWAT report before and after peak events to identify system-level risks and improvement areas.
 
-## 4. Scalability & Capacity Planning
+## Scalability and Capacity Planning
 
 * [Plan Cluster Upsize Early](scalability-capacity-planning.md#plan-cluster-upsize-early): Request a temporary compute upsize from Adobe Support at least 10 business days before a major promotion.
 * [Enable Fastly Origin Shielding](scalability-capacity-planning.md#enable-fastly-origin-shielding): Route uncached requests through a Shield POP near your origin so fewer requests hit the origin server directly.
 * [Conduct Load and Failover Tests](scalability-capacity-planning.md#conduct-load-and-failover-tests): Test load and recovery scenarios ahead of major campaigns to confirm your scaling and rollback plans actually hold up.
 
-## 5. Operational Readiness
+## Operational Readiness
 
 * [Apply All Security and Performance Patches](operational-readiness.md#apply-all-security-and-performance-patches): Finish all patching before code freeze so deployments aren't disrupted later.
 * [Run Pre-Holiday Health Checks](operational-readiness.md#run-pre-holiday-health-checks): Test backups, cron health, and cache warmup scripts so operations run smoothly under load.
