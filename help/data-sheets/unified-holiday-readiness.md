@@ -78,10 +78,6 @@ topic_v2:
 ---
 # Adobe CXO Solutions Unified Holiday Readiness Guide
 
->[!NOTE]
->
->Those guidance are current as of October 2025. The updated version for the 2026 holiday season is scheduled to be published by the end of September 2026.
-
 The Adobe CXO Solutions Unified Holiday Readiness Guide helps you prepare for the holiday season by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
 
 To ensure your Adobe Customer Experience Orchestration solutions are resilient, secure, and ready for peak holiday traffic, follow these best practices: 
