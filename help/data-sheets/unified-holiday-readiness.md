@@ -1,6 +1,6 @@
 ---
-title: Adobe CXO Solutions Unified Holiday Readiness Guide
-description: Adobe CXO holiday readiness for AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics, and Target to help you plan, scale, secure, and optimize.
+title: Adobe CX Solutions Unified Holiday Readiness Guide
+description: Adobe CX holiday readiness for AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics, and Target to help you plan, scale, secure, and optimize.
 feature-set: Experience Cloud
 feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
@@ -76,11 +76,11 @@ topic_v2:
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
     internal-label: Audience segmentation
 ---
-# Adobe CXO Solutions Unified Holiday Readiness Guide
+# Adobe CX Solutions Unified Holiday Readiness Guide
 
-The Adobe CXO Solutions Unified Holiday Readiness Guide helps you prepare for the holiday season by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
+The Adobe CX Solutions Unified Holiday Readiness Guide helps you prepare for the holiday season by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
 
-To ensure your Adobe Customer Experience Orchestration solutions are resilient, secure, and ready for peak holiday traffic, follow these best practices: 
+To ensure your Adobe Customer Experience solutions are resilient, secure, and ready for peak holiday traffic, follow these best practices: 
 
 * Plan for increased traffic. 
 * Avoid major changes during peak windows; schedule updates before or after the holiday season. 
