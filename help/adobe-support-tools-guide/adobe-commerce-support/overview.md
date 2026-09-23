@@ -3,6 +3,18 @@ title: Support Tools overview
 description: Adobe Commerce offers a variety of support tools that help and empower you to improve your e-commerce store experience. We provide personalized best practices, diagnostic and monitoring tools, and the most relevant information about your site.
 feature: Support, Tools and External Services
 role: Admin
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Support Tools overview
 
