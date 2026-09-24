@@ -1,6 +1,7 @@
 ---
 title: Adobe CX Solutions Unified Holiday Readiness Guide
 description: Adobe CX holiday readiness for AEP, AJO, CJA, Commerce, AEM, Marketo, Workfront, Campaign, Analytics, and Target to help you plan, scale, secure, and optimize.
+hold: true
 feature-set: Experience Cloud
 feature: Support
 solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Journey Analytics, Commerce, Experience Manager, Workfront, Campaign, Analytics, Target, Marketo Engage
