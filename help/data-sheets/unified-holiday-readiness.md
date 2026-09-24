@@ -78,7 +78,7 @@ topic_v2:
 ---
 # Adobe CX Solutions Unified Holiday Readiness Guide
 
-The Adobe CX Solutions Unified Holiday Readiness Guide helps you prepare for the holiday season by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
+This Adobe CX Solutions Unified Holiday Readiness Guide is updated with the latest recommendations for the 2026 holiday season. It helps you prepare by focusing on proactive planning rather than reactive problem-solving. It provides practical steps to ensure your instances are ready, minimizing potential issues before they arise. The Adobe team brings technical expertise, a wide range of capabilities, and proven methods to deliver the right level of support and guidance—both technical and strategic—so your business is well-prepared. 
 
 To ensure your Adobe Customer Experience solutions are resilient, secure, and ready for peak holiday traffic, follow these best practices: 
 
