@@ -492,3 +492,4 @@ Keep your implementation within [Adobe Target limits](https://experienceleague.a
 Before personalizing experiences, confirm consent compliance under GDPR and CCPA. Avoid storing personally identifiable information (PII) in profile parameters and validate API security to protect customer data. 
 
 +++
+
