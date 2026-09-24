@@ -267,7 +267,7 @@ To ensure a successful peak season for your organization, it's essential to prep
 
 ### Predict demand
 
-* During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for an increase in visitors by submitting Holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"} for details.
+During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for an increase in visitors by submitting Holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"} for details.
 
 ### Prepare for scale
 
@@ -311,7 +311,7 @@ For information on AEM website traffic security/protection, see the [Overview - 
 
 Adobe has scheduled maintenance exclusion periods to ensure uninterrupted service during critical holiday windows:
 
-* **No automatic AEMaaCS maintenance** occurs during the following timeframes, beginning and ending at midnight (00:00) CET:
+**No automatic AEMaaCS maintenance** occurs during the following timeframes, beginning and ending at midnight (00:00) CET:
   * Monday, November 23 2026 until Tuesday, December 1 2026.
   * Monday, December 14 2026 until Sunday, January 3 2027.
 
