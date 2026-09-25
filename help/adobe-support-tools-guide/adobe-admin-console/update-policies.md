@@ -4,9 +4,16 @@ description: Learn how a global administrator can set and modify policies for an
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
+TQID: 'https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
     internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
@@ -15,8 +22,6 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
 ---
 # Update organization policies in the Global Admin Console
 

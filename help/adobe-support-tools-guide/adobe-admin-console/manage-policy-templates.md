@@ -4,17 +4,22 @@ description: Learn how global administrators can apply policy templates to any c
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
+TQID: 'https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
     internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
 ---
 # Manage policy templates in the Global Admin Console
 

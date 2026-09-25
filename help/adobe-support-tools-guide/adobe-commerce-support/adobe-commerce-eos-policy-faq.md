@@ -5,7 +5,7 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -16,9 +16,15 @@ feature_v2:
     internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
     internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
     internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -36,7 +42,7 @@ The following FAQ is intended to help merchants, developers, and partners unders
 
 ### Where can I find the software support dates for all versions of Adobe Commerce?
 
-You can find the Adobe Commerce software lifecycle policy and dates of software support in the [Adobe Commerce Software Lifecycle Policy](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). We also publish end of support (EOS) dates on our [developer documentation page](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions).
+You can find the Adobe Commerce software lifecycle policy in the [Adobe Commerce Software Lifecycle Policy](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). For version-specific lifecycle and software support dates, see the [Adobe Commerce Lifecycle Policy and Support Dates](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/lifecycle-policy). We also publish end of support (EOS) dates on our [developer documentation page](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions).
 
 ### What does it mean when Adobe ends support for a version of Adobe Commerce software?
 
@@ -120,7 +126,7 @@ No, Adobe does not re-prioritize support tickets based on the end of support dat
 
 ### For support tickets opened BEFORE the end of support date, is there an alert to remind merchants of the upcoming end of support?
 
-No, there are no reminder alerts notifying support ticket users of upcoming end of support dates. It is the responsibility of the ticket opener to know the end of support dates for the Adobe Commerce version that they are on, which can be found on our [Adobe Commerce Software Lifecycle policy](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf).
+No, there are no reminder alerts notifying support ticket users of upcoming end of support dates. It is the responsibility of the ticket opener to know the end of support dates for the Adobe Commerce version that they are on, which can be found in the [Adobe Commerce Software Lifecycle Policy](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf) and the [Adobe Commerce Lifecycle Policy and Support Dates](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/lifecycle-policy).
 
 ### If a support ticket for a software version is opened AFTER the end of support date for that version, will it still be worked on to resolution?
 

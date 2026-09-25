@@ -8,74 +8,44 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-autotag-review: '2026-09-21T21:20:32.279Z'
-TQID: 'https://experienceleague.adobe.com/4rgFqi4Af8ZndgiuhQG6L63dvvPxCfUvcPNkMe8zu90'
 product_v2:
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+    internal-label: Experience Platform
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
 feature_v2:
-  - id: 1e0ea71a-a210-5748-9b0f-c02c2ef6a746
-    internal-label: Workflows
-  - id: 498495a2-cf39-51d9-b3fa-0013e205931b
-    internal-label: Marketing
-  - id: 4ba071ad-cd19-5536-8ec6-24c224dd4e87
-    internal-label: Programs
-  - id: 5c3c43cd-8c0e-55fc-95ba-cd0f8b685d97
-    internal-label: Segmentation
-  - id: 82d07ce8-bd4a-51ff-9469-838be0c168bf
-    internal-label: Campaigns
-  - id: a4a9911c-3a92-4f17-a7f9-fe2eb3235fef
-    internal-label: Monitoring
-  - id: b726bf67-3ea0-5ccf-a4b6-64d44fc843ef
-    internal-label: Deliverability
-  - id: b8f5b046-8215-56ca-9113-4e34a8eaec1e
-    internal-label: Projects
-  - id: c9e8aacc-3520-5f37-83f1-3025bd0e798b
-    internal-label: Database
-  - id: cfc34eeb-a172-5f8f-87e2-7b1278be8c7b
-    internal-label: Use Cases
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-    internal-label: Integrations
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
     internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
 role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-    internal-label: Implementation
-  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-    internal-label: Experimentation
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-    internal-label: Customer experience
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-    internal-label: Troubleshooting
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-    internal-label: Governance
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-    internal-label: Optimization
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-    internal-label: Customer journeys
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-    internal-label: Security
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-    internal-label: Personalization
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-    internal-label: Administration
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-    internal-label: Privacy
-  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-    internal-label: Audience segmentation
 ---
 # Adobe CX Solutions Unified Holiday Readiness Guide
 
