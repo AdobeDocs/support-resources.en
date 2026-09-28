@@ -196,7 +196,7 @@ By proactively forecasting seasonal demand, configuring channels and rules, vali
 
 +++**Click to see the Customer Journey Analytics (CJA) holiday readiness recommendations.**
 
-Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readiness.
+Adobe recommends the following steps to prepare your Customer Journey Analytics instance for the holiday season.
 
 ### Prepare for scale
 
@@ -211,8 +211,7 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 
 ### Best practices
 
-* Schedule exports/reports during low-traffic periods to smooth load and minimize latency. Refer to the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"} article.
-* Spread out Requests: Schedule reports at different intervals throughout the day.
+* Spread report and export runs across the day, prioritizing off-peak periods where possible, to distribute load and minimize latency. Refer to the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"} article.
 * Reduce panels, simplify segments, shorten date ranges, and avoid excess concurrent jobs. See the [Optimizing CJA Workspace Performance](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"} article for details.
 
 ### Troubleshooting
