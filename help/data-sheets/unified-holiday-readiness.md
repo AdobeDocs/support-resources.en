@@ -85,7 +85,7 @@ Adobe Experience Platform (AEP) plays a critical role in powering real-time cust
 
 ### Predict seasonal demand
 
-To prepare for seasonal traffic spikes, Adobe recommends planning capacity and monitoring streaming profile ingestion. This includes forecasting data volumes and ensuring your system can handle increased throughput. See [Plan for capacity and seasonal traffic](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"} for reference.
+Forecast seasonal data volumes and peak streaming profile ingestion using historical patterns and planned activity. Review ingestion monitoring to identify when demand may peak and whether capacity could be a constraint. See [Plan for capacity and seasonal traffic](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"} for reference.
 
 ### Prepare for scale
 
