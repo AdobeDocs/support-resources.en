@@ -85,7 +85,7 @@ Adobe Experience Platform (AEP) plays a critical role in powering real-time cust
 
 ### Predict seasonal demand
 
-To prepare for seasonal traffic spikes, Adobe recommends planning capacity and monitoring streaming profile ingestion. This includes forecasting data volumes and ensuring your system can handle increased throughput. See [Plan for capacity and seasonal traffic](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"} for reference.
+Forecast seasonal data volumes and peak streaming profile ingestion using historical patterns and planned activity. Review ingestion monitoring to identify when demand may peak and whether capacity could be a constraint. See [Plan for capacity and seasonal traffic](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"} for reference.
 
 ### Prepare for scale
 
@@ -196,7 +196,7 @@ By proactively forecasting seasonal demand, configuring channels and rules, vali
 
 +++**Click to see the Customer Journey Analytics (CJA) holiday readiness recommendations.**
 
-Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readiness.
+Adobe recommends the following steps to prepare your Customer Journey Analytics instance for the holiday season.
 
 ### Prepare for scale
 
@@ -211,8 +211,7 @@ Customer Journey Analytics uses The 5 Ps to achieve holiday/peak season readines
 
 ### Best practices
 
-* Schedule exports/reports during low-traffic periods to smooth load and minimize latency. Refer to the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"} article.
-* Spread out Requests: Schedule reports at different intervals throughout the day.
+* Spread report and export runs across the day, prioritizing off-peak periods where possible, to distribute load and minimize latency. Refer to the [Scheduled reports](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"} article.
 * Reduce panels, simplify segments, shorten date ranges, and avoid excess concurrent jobs. See the [Optimizing CJA Workspace Performance](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"} article for details.
 
 ### Troubleshooting
@@ -237,7 +236,7 @@ To ensure a successful peak season for your organization, it's essential to prep
 
 ### Predict demand
 
-* During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for an increase in visitors by submitting Holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"} for details.
+During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for an increase in visitors by submitting Holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"} for details.
 
 ### Prepare for scale
 
@@ -281,7 +280,7 @@ For information on AEM website traffic security/protection, see the [Overview - 
 
 Adobe has scheduled maintenance exclusion periods to ensure uninterrupted service during critical holiday windows:
 
-* **No automatic AEMaaCS maintenance** occurs during the following timeframes, beginning and ending at midnight (00:00) CET:
+**No automatic AEMaaCS maintenance** occurs during the following timeframes, beginning and ending at midnight (00:00) CET:
   * Monday, November 23 2026 until Tuesday, December 1 2026.
   * Monday, December 14 2026 until Sunday, January 3 2027.
 
@@ -462,3 +461,4 @@ Keep your implementation within [Adobe Target limits](https://experienceleague.a
 Before personalizing experiences, confirm consent compliance under GDPR and CCPA. Avoid storing personally identifiable information (PII) in profile parameters and validate API security to protect customer data. 
 
 +++
+
