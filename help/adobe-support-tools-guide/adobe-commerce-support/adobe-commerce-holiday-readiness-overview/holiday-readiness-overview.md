@@ -48,7 +48,7 @@ These focus areas help ensure your platform remains stable, secure, and performa
 * Configure Indexers for Update on Schedule: Move indexers from Update on Save to the cron-driven Update on Schedule mode to avoid locking during frequent catalog updates—except for the customer_grid indexer.
 * Consider Scaled (Split) Architecture: If tuning and code-level fixes still leave CPU maxed out under load, move to a six-node split-tier setup that scales web and database nodes independently.
 
-For detailed steps for each of those performance optimization recommendations, refer to [Adobe Commerce holiday readiness > Performance optimization](/help/adobe-support-tools-guide/adobe-commerce-support/performance-optimization.md).
+For detailed steps for each of those performance optimization recommendations, refer to [Adobe Commerce holiday readiness > Performance optimization](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md).
 
 ## Best Practices and Stability
 
@@ -60,7 +60,7 @@ For detailed steps for each of those performance optimization recommendations, r
 * Configure Cron Jobs Correctly: Confirm cron runs every minute under the correct user, since every async operation in Commerce depends on it.
 * Optimize Client-Side Settings: Turn on CSS, JavaScript, and HTML minification and bundling to speed up storefront load times.
 
-For detailed steps for each of those best practices and stability recommendations, refer to [Adobe Commerce holiday readiness > Best Practices and Stability](/help/adobe-support-tools-guide/adobe-commerce-support/best-practices-stability.md).
+For detailed steps for each of those best practices and stability recommendations, refer to [Adobe Commerce holiday readiness > Best Practices and Stability](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md).
 
 ## Monitoring and Observability
 
@@ -69,7 +69,7 @@ For detailed steps for each of those best practices and stability recommendation
 * Track Apdex Score: Watch the Apdex score (target ≥ 0.85) to keep backend and frontend response times in a range users consider satisfactory.
 * Review Support Insights (SWAT Report): Run a SWAT report before and after peak events to identify system-level risks and improvement areas.
 
-For detailed steps for each of those monitoring and observability recommendations, refer to [Adobe Commerce holiday readiness > Monitoring and Observability](/help/adobe-support-tools-guide/adobe-commerce-support/monitoring-observability.md).
+For detailed steps for each of those monitoring and observability recommendations, refer to [Adobe Commerce holiday readiness > Monitoring and Observability](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/monitoring-observability.md).
 
 ## Scalability and Capacity Planning
 
@@ -77,7 +77,7 @@ For detailed steps for each of those monitoring and observability recommendation
 * Enable Fastly Origin Shielding: Route uncached requests through a Shield POP near your origin so fewer requests hit the origin server directly.
 * Conduct Load and Failover Tests: Test load and recovery scenarios ahead of major campaigns to confirm your scaling and rollback plans actually hold up.
 
-For detailed steps for each of those scalability and capacity planning recommendations, refer to [Adobe Commerce holiday readiness > Scalability and Capacity Planning](/help/adobe-support-tools-guide/adobe-commerce-support/scalability-capacity-planning.md).
+For detailed steps for each of those scalability and capacity planning recommendations, refer to [Adobe Commerce holiday readiness > Scalability and Capacity Planning](/help/adobe-support-tools-guide/adobe-commerce-holiday-readiness-overview/adobe-commerce-support/scalability-capacity-planning.md).
 
 ## Operational Readiness
 
@@ -86,4 +86,4 @@ For detailed steps for each of those scalability and capacity planning recommend
 * Establish Monitoring Playbooks: Document alert thresholds, escalation paths, and 24x7 contacts so the team can respond fast during peak.
 * Document Rollback Plans: Keep versioned rollback strategies ready so you can recover quickly from a bad deployment.
 
-For detailed steps for each of those operational readiness recommendations, refer to [Adobe Commerce holiday readiness > Scalability and Operational Readiness](/help/adobe-support-tools-guide/adobe-commerce-support/operational-readiness.md).
+For detailed steps for each of those operational readiness recommendations, refer to [Adobe Commerce holiday readiness > Scalability and Operational Readiness](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/operational-readiness.md).
