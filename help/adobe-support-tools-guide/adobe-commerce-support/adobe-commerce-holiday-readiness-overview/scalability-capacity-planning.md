@@ -27,23 +27,26 @@ role_v2:
 
 # Scalability and capacity planning
 
-This section provides technical recommendations for preparing [!DNL Adobe Commerce] environments—both Commerce on cloud infrastructure and on-premises—for high-traffic events such as the holiday season.
+This section provides technical recommendations for scaling [!DNL Adobe Commerce] environments to prepare for high-traffic events such as the holiday season.
 
 >[!NOTE]
 >
->Steps marked **(Cloud only)** apply to Commerce on cloud infrastructure. On-premises environments should plan equivalent capacity increases with their own hosting provider or infrastructure team.
+>Steps marked **(Cloud only)** apply to Commerce on cloud infrastructure. Most other recommendations also apply to on-premises deployments.
 
 ## Plan cluster upsize early (Cloud only) {#plan-cluster-upsize-early}
 
-Coordinate with Adobe Support to temporarily scale compute resources during promotions. Plan at least 10 business days in advance. See [How to request a temporary upsize](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize).
+For Commerce Cloud customers, a temporary cluster upsize allocates more computing resources to handle peak-season traffic surges. Raise a support ticket in advance with the date range and required cluster size, and coordinate with your dedicated Account Manager on current resource consumption and requirements. Submit the request at least 48 business hours before the capacity is needed—for the holiday season specifically, submit as early as possible, since capacity during Black Friday and Cyber Monday is limited. See [How to request a temporary upsize](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize).
 
-* For Commerce on cloud infrastructure customers, implementing a planned upsize requires raising a support ticket in advance with the date range and required cluster size, coordinated with your dedicated Account Manager based on current resource consumption. For example: a Pro-architecture customer with a daily baseline of 24 cores (24 vCPUs, 96 GB RAM) upsizing to 96 cores for 7 days would use roughly 4x the resources (96 vCPUs, 384 GB RAM)—an incremental consumption of about 504 vCPU-days (96×7 − 24×7).
+For example, a Pro-architecture customer with a daily baseline of 24 cores (24 vCPUs, 96 GB RAM) upsizing to 96 cores for 7 days would use roughly 4 times the resources (96 vCPUs, 384 GB RAM)—an incremental consumption of about 504 vCPU-days (96×7 − 24×7).
 
-## Enable Fastly origin shielding (Cloud only) {#enable-fastly-origin-shielding}
+## Fastly origin shielding {#fastly-origin-shielding}
 
-Configure a Shield POP close to your origin to reduce direct hits and latency for uncached requests. See [Fastly custom cache configuration](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration). For details on how origin shielding works, see [Performance optimization](performance-optimization.md).
+The purpose of Adobe Commerce [!DNL Fastly]'s origin shielding is to reduce traffic directly to the Adobe Commerce origin. When a request is received, a [!DNL Fastly] edge location (Point of Presence) checks for cached content and delivers it. If it isn't cached, it continues to the Shield POP to check if it's cached there—if the content has previously been requested even from another global POP, it will be cached. Finally, if it isn't cached on the Shield POP, it will only then proceed to the origin server.
+
+[!DNL Fastly] origin shielding can be enabled in the Adobe Commerce Admin, in the [!DNL Fastly] configuration backend settings. Choose a shield location closest to your Adobe Commerce origin data center for the best performance. For details, see [Configure back ends and origin shielding](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding).
+
+By default, [!DNL Fastly] origin shielding is not enabled.
 
 ## Conduct load and failover tests {#conduct-load-and-failover-tests}
 
 Perform load and recovery tests before major campaigns to validate scaling configurations and rollback plans.
-

@@ -43,13 +43,13 @@ This section provides technical recommendations for preparing [!DNL Adobe Commer
 
 >[!NOTE]
 >
->[!DNL Fastly] origin shielding also affects cache performance. For configuration details, see [Fastly origin shielding](#fastly-origin-shielding).
+>[!DNL Fastly] origin shielding also affects cache performance. For configuration details, see [Fastly origin shielding](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding).
 
 ## Enable Fastly IO (Cloud only) {#enable-fastly-io}
 
 [!DNL Fastly] IO offloads image resizing and format conversion to the [!DNL Fastly] edge network instead of the Adobe Commerce origin. This reduces server load and improves page rendering speed for image-heavy storefronts, a common bottleneck during high-traffic sales periods. For configuration options, see [Fastly image optimization](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization).
 
-Before you begin, confirm that origin shielding is configured. [!DNL Fastly] IO requires origin shielding as a prerequisite. For configuration details, see [Fastly origin shielding](#fastly-origin-shielding).
+Before you begin, confirm that origin shielding is configured. [!DNL Fastly] IO requires origin shielding as a prerequisite. For configuration details, see [Fastly origin shielding](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding).
 
 **To enable [!DNL Fastly] IO:**
 
