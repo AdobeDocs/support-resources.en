@@ -34,58 +34,70 @@ This section provides technical recommendations for preparing Adobe Commerce env
 >
 >Steps marked **(Cloud only)** apply to Commerce on cloud infrastructure. Most other recommendations also apply to on-premises deployments.
 
-## Upgrade to the latest Adobe Commerce version {#upgrade-to-latest-adobe-commerce-version}
+## Upgrade to latest version of Adobe Commerce {#upgrade-to-latest-version-of-adobe-commerce}
 
-Ensure your site is not on an unsupported version, which can impact performance and increase vulnerability to security issues. The latest release includes critical security fixes and performance enhancements that benefit any project upgrading from a prior version. See [Adobe Commerce lifecycle policy](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/lifecycle-policy) for details on unsupported versions.
+Ensure your site is not on an unsupported version of Adobe Commerce, which may affect your site's performance and increase vulnerability to security issues. Upgrade to the latest version of Adobe Commerce to be secure and ready for the holiday season.
 
-## Install the latest ECE-Tools and Quality Patches Tool (QPT) {#install-latest-ece-tools-and-quality-patch-tool-qpt}
+The [latest release](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) of Adobe Commerce includes many [critical security fixes](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview), including enhancements and mitigated issues, that will benefit your project when upgrading from a prior version.
 
-Keep tools and patches updated to apply Adobe-provided performance enhancements. See [Update the ECE-Tools package](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package).
+For more information on unsupported versions of Adobe Commerce, review the [Adobe Commerce Life Cycle Policy](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/lifecycle-policy).
 
-* **(Cloud only)** Ensure the latest `ece-tools` module and its dependent modules are installed (use the `--with-dependencies` switch) so required cloud patches are properly applied for your [!DNL Adobe Commerce] version.
-* Review the patch list in the Quality Patches Tool (QPT) and confirm that applicable performance patches compatible with your version have been applied. QPT is available for both Commerce on cloud infrastructure and on-premises; for on cloud infrastructure it's included in ECE-Tools. For details, refer to [QPT installation and usage](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+## Install latest ECE-Tools and Quality Patch Tool (QPT) {#install-latest-ece-tools-and-quality-patch-tool-qpt}
 
-## Review and clean log files {#review-and-clean-log-files}
+Ensure that the latest `ece-tools` module and its dependent modules are installed, using the `--with-dependencies` switch, so that all required cloud patches are properly installed for your Adobe Commerce version. For steps, see [Update the ECE-Tools package](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package).
 
-Remove debug logs and monitor recurring errors to prevent disk overuse and improve log visibility. See [Log locations](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/log-locations).
-
-* Review default log files (`~/var/log`, `~/var/log/exception.log`, `~/var/log/support_report.log`, `~/var/log/system.log`, `~/var/report`) and fix recurring errors.
-* Remove debug logs left over from past troubleshooting.
-* These logs are also available in the [!DNL New Relic] Logs section.
-
-## Monitor disk size growth {#monitor-disk-size-growth}
-
-Keep disk usage under 70% to avoid outages. See [Manage disk space](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space).
-
-* On Commerce on cloud infrastructure, track the `/mnt/shared` (shared files, logs, media) and `/data/mysql` (database) volumes. Adobe Commerce provides a warning when either volume exceeds 70% usage.
-* On-premises, monitor the equivalent application and database storage volumes for your hosting environment.
-
-## Review slow database queries {#review-slow-database-queries}
-
-Identify and optimize costly queries using an APM tool and `mysql-slow.log`. See [Resolve database performance issues](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues). Commerce on cloud infrastructure includes a bundled [!DNL New Relic] subscription for this; on-premises environments need their own APM tooling.
-
-1. Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL APM & Services]** > **[!UICONTROL Environment]** > **[!UICONTROL Databases]** and sort by most time-consuming transactions.
-1. Navigate to **[!UICONTROL [!DNL New Relic]]** > **[!UICONTROL Logs]** and filter by `filePath:"/var/log/mysql/mysql-slow.log"`.
-1. Confirm slow queries are not being executed frequently.
-
-## Configure cron jobs correctly {#configure-cron-jobs-correctly}
-
-Verify cron jobs run every minute and under the proper to support queue and indexer processes. See [Configure cron jobs](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
-
-All asynchronous operations in Adobe Commerce depend on correctly configured Linux cron jobs, set up under the appropriate Unix user's crontab—failure to configure cron properly means Commerce will not function as expected.
+Review the patch list available in the Quality Patches Tool and ensure the performance patches compatible with your Adobe Commerce version have been applied. See [Quality Patches Tool: Search for patches](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview).
 
 >[!NOTE]
 >
->The legacy `dev/tools/cron.sh` script has been removed and can no longer be used.
+>QPT is available for both Adobe Commerce on cloud infrastructure and on-premises installations. Installation and usage commands differ between the two—for Cloud, QPT is included with the ECE-Tools package.
+
+## Review and clean log files {#review-and-clean-log-files}
+
+Review the log files in the cloud environment (for example, application log files under `~/var/log`) and identify any frequently logged records being written to the default or custom log files. For details, see [View and manage logs](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/log-locations).
+
+* Review the following default log files and fix recurring errors: `~/var/log`, `~/var/log/exception.log`, `~/var/log/support_report.log`, `~/var/log/system.log`, `~/var/report`.
+* Remove debug logs that were previously added for troubleshooting past issues.
+
+These logs are also available in [!DNL New Relic], see [New Relic log management](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
+
+## Monitor disk size growth {#monitor-disk-size-growth}
+
+Your Adobe Commerce on cloud infrastructure has two main disk volumes. Monitor these volumes to ensure they have sufficient free space when there is heavy traffic. Adobe Commerce provides a warning when either volume reaches above 70% usage.
+
+* `/mnt/shared` (shared files, including logs and media files)
+* `/data/mysql` (database volume)
+
+For details, see [Manage disk space](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space).
+
+## Review slowest database requests {#review-slowest-database-requests}
+
+It is important to regularly monitor and review the most time-consuming database transactions in [!DNL New Relic]. Investigate significantly slow queries and components.
+
+* **Check the most time-consuming transactions:** Go to **[!UICONTROL New Relic]** > **[!UICONTROL APM & Services]** > select environment > **[!UICONTROL Databases]**, then sort by Most time consuming transactions.
+
+* **Check the MySQL slow query log:** Review `mysql-slow.log` for slow queries recorded by the system. These logs are also available in [!DNL New Relic]: go to **[!UICONTROL New Relic]** > **[!UICONTROL Logs]**, and filter by `filePath:"/var/log/mysql/mysql-slow.log"`.
+
+Review the [!DNL MySQL] slow query logs regularly to confirm slow queries aren't running frequently. For steps to resolve queries you identify as problematic, see [Resolve database performance issues](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues).
+
+## Configure cron jobs {#configure-cron-jobs}
+
+All asynchronous operations in Commerce are performed using the Linux cron command.
+
+Commerce depends on proper cron job configuration for important system functions, including indexing and queue consumer operations. Failure to set it up properly means Commerce will not function as expected.
+
+It is critical that Commerce cron is set up and configured correctly, using the appropriate Unix user in the Unix crontab file. Each Unix user has its own crontab file, which is the configuration used to run cron jobs for that user. For steps, see [Configure and run cron jobs](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs).
+
+The script `dev/tools/cron.sh` can no longer be executed, because it has been removed.
 
 ## Optimize client-side settings {#optimize-client-side-settings}
 
-Enable JavaScript, CSS, and HTML minification and bundling for improved storefront load times. Configure at **[!UICONTROL Stores]** > **[!UICONTROL Settings]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]**:
+To improve the storefront responsiveness of your Commerce instance, configure the following settings under **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]**, which is available only in Developer mode:
 
-* [!UICONTROL Grid Settings] — **[!UICONTROL Asynchronous indexing]**: *Enable*
-* [!UICONTROL CSS Settings] — **[!UICONTROL Minify CSS Files]**: *Yes*
-* [!UICONTROL JavaScript Settings] — **[!UICONTROL Minify JavaScript Files]**: *Yes*
-* [!UICONTROL JavaScript Settings] — **[!UICONTROL Enable JavaScript Bundling]**: *Yes* (not on by default)
-* [!UICONTROL Template Settings] — **[!UICONTROL Minify HTML]**: *Yes*
+* **[!UICONTROL Grid Settings]** > **[!UICONTROL Asynchronous indexing]**: *Enable*
+* **[!UICONTROL CSS Settings]** — **[!UICONTROL Minify CSS Files]**: *Yes*
+* **[!UICONTROL JavaScript Settings]** — **[!UICONTROL Minify JavaScript Files]**: *Yes*
+* **[!UICONTROL JavaScript Settings]** — **[!UICONTROL Enable JavaScript Bundling]**: *Yes* (not enabled by default)
+* **[!UICONTROL Template Settings]** — **[!UICONTROL Minify HTML]**: *Yes*
 
-Refer to [Optimize CSS/JS files](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files) for more details.
+Since Adobe Commerce on Cloud always runs in Production mode, set each option from the command line instead—for example, `bin/magento config:set --lock-config dev/css/minify_files 1`—then commit the resulting `app/etc/config.php` change and redeploy. For the full list of CLI paths, see [Optimize resource files](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files).
