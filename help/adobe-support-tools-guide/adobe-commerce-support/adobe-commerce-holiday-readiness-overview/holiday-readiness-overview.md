@@ -77,7 +77,7 @@ For detailed steps for each of those monitoring and observability recommendation
 * Enable Fastly Origin Shielding: Route uncached requests through a Shield POP near your origin so fewer requests hit the origin server directly.
 * Conduct Load and Failover Tests: Test load and recovery scenarios ahead of major campaigns to confirm your scaling and rollback plans actually hold up.
 
-For detailed steps for each of those scalability and capacity planning recommendations, refer to [Adobe Commerce holiday readiness > Scalability and Capacity Planning](/help/adobe-support-tools-guide/adobe-commerce-holiday-readiness-overview/adobe-commerce-support/scalability-capacity-planning.md).
+For detailed steps for each of those scalability and capacity planning recommendations, refer to [Adobe Commerce holiday readiness > Scalability and Capacity Planning](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md).
 
 ## Operational Readiness
 
