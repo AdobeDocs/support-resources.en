@@ -27,7 +27,7 @@ role_v2:
 
 # Scalability and capacity planning
 
-This section provides technical recommendations for scaling [!DNL Adobe Commerce] environments to prepare for high-traffic events such as the holiday season.
+This section provides technical recommendations for scaling Adobe Commerce environments to prepare for high-traffic events such as the holiday season.
 
 >[!NOTE]
 >
