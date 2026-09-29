@@ -31,7 +31,7 @@ role_v2:
 
 # Monitoring and observability
 
-This section provides technical recommendations for monitoring [!DNL Adobe Commerce] environments to prepare for high-traffic events such as the holiday season.
+This section provides technical recommendations for monitoring Adobe Commerce environments to prepare for high-traffic events such as the holiday season.
 
 >[!NOTE]
 >
