@@ -112,9 +112,9 @@ Use asynchronous processing to queue and execute high-volume order-related opera
 
 * Asynchronous order data processing: Intensive storefront sales and intensive order processing can conflict at the database level. Enabling this setting distinguishes the two traffic patterns, so orders are placed in temporary storage and moved in bulk to the Order Management grid without collisions. This schedules updates, by cron, to the Orders, Invoices, Shipments, and Credit Memos grids, avoiding locks and reducing processing time. For best results, configure cron to run once every minute.
 
->[!NOTE]
->
->How you enable this depends on your deployment mode. Adobe Commerce on cloud infrastructure Staging and Production environments run in Production mode by default, where this setting isn't available through the Admin. In Production mode, run `bin/magento config:set dev/grid/async_indexing 1` instead. In Default mode, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]** > **[!UICONTROL Grid Settings]** and set **[!UICONTROL Asynchronous Indexing]** to *[!UICONTROL Enable]*.
+  >[!NOTE]
+  > 
+  >How you enable this depends on your deployment mode. Adobe Commerce on cloud infrastructure Staging and Production environments run in Production mode by default, where this setting isn't available through the Admin. In Production mode, run `bin/magento config:set dev/grid/async_indexing 1` instead. In Default mode, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]** > **[!UICONTROL Grid Settings]** and set **[!UICONTROL Asynchronous Indexing]** to *[!UICONTROL Enable]*.  
 
   For details, see [Scheduled order operations](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations).
 

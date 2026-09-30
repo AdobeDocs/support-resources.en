@@ -43,9 +43,7 @@ For example, a Pro-architecture customer with a daily baseline of 24 cores (24 v
 
 The purpose of Adobe Commerce [!DNL Fastly]'s origin shielding is to reduce traffic directly to the Adobe Commerce origin. When a request is received, a [!DNL Fastly] edge location (Point of Presence) checks for cached content and delivers it. If it isn't cached, it continues to the Shield POP to check if it's cached there—if the content has previously been requested even from another global POP, it will be cached. Finally, if it isn't cached on the Shield POP, it will only then proceed to the origin server.
 
-[!DNL Fastly] origin shielding can be enabled in the Adobe Commerce Admin, in the [!DNL Fastly] configuration backend settings. Choose a shield location closest to your Adobe Commerce origin data center for the best performance. For details, see [Configure back ends and origin shielding](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding).
-
-By default, [!DNL Fastly] origin shielding is not enabled.
+[!DNL Fastly] origin shielding can be enabled in the Adobe Commerce Admin, in the [!DNL Fastly] configuration backend settings. Choose a shield location closest to your Adobe Commerce origin data center for the best performance. For details, see [Configure back ends and origin shielding](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding). By default, [!DNL Fastly] origin shielding is not enabled.
 
 ## Conduct load and failover tests {#conduct-load-and-failover-tests}
 
