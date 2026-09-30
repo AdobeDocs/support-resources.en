@@ -4,17 +4,22 @@ description: Learn how global administrators can add, edit, and delete product p
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
+TQID: 'https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
     internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
-TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
 ---
 # Manage product profiles in the Global Admin Console
 

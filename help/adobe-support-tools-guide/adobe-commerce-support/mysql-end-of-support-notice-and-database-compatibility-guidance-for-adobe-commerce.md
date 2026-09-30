@@ -3,6 +3,14 @@ title: MySQL end-of-support notice and database compatibility guidance for Adobe
 description: This article provides information about MySQL end‑of‑support timelines and database compatibility guidance for supported Adobe Commerce versions.
 solution: Commerce
 exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # MySQL end-of-support notice and database compatibility guidance for Adobe Commerce
 

@@ -5,6 +5,18 @@ feature: Support
 feature-set: Commerce
 role: Admin
 exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure
 
