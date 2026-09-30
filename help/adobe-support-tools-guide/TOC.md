@@ -49,7 +49,7 @@ role: User, Admin
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
   - [Adobe Commerce support overview](adobe-commerce-support/adobe-commerce-support-overview.md)
-  - [Adobe Commerce holiday readiness]{#adobe-commerce-holiday-readiness}
+  - Adobe Commerce holiday readiness {#adobe-commerce-holiday-readiness}
     - [Overview](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
     - [Performance optimization](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
     - [Best practices and stability](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
