@@ -35,14 +35,6 @@ Participation in the Adobe Feedback Program is entirely voluntary and designed t
 
 Opportunities vary based on factors such as product area, region, customer profile, and program availability, and not all participants will be invited to every opportunity. Your feedback helps Adobe improve products, prioritize future investments, and deliver better customer experiences.
 
-## Program Terms
-
->[!BEGINSHADEBOX]
-
-Participation may require acceptance of the Adobe Feedback Program Agreement. Additional terms may apply depending on the specific program or activity.
-
->[!ENDSHADEBOX]
-
 ## Frequently Asked Questions
 
 +++ Who can participate?
@@ -69,7 +61,9 @@ Yes. Participants in the Program will receive Adobe confidential information and
 
 +++
 
-<p>&nbsp;&ensp;</p>
+## Program Terms
+
+Participation may require acceptance of the Adobe Feedback Program Agreement. Additional terms may apply depending on the specific program or activity.
 
 >[!BEGINSHADEBOX]
 
