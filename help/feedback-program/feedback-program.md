@@ -69,7 +69,7 @@ Yes. Participants in the Program will receive Adobe confidential information and
 
 +++
 
-<p>&nbsp;</p>
+<p>&nbsp;&ensp;</p>
 
 >[!BEGINSHADEBOX]
 
@@ -81,6 +81,6 @@ As an experience maker, you're considered the expert. The program enables direct
 
 Reach out to your Adobe account representative today for further information and eligibility requirements.
 
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program"{target="_blank"} tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
 
 >[!ENDSHADEBOX]
