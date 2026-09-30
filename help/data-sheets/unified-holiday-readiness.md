@@ -166,9 +166,9 @@ Refer to [AJO Experimentation Accelerator best practices](https://experienceleag
 ### Best practices
 
 * Use omnichannel orchestration. Refer to the blog [Essential omnichannel customer journeys for engagement and growth](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement){target="_blank"} article that shows a holiday season example with AJO. 
-* Prioritize real-time triggers where appropriate. For example: cart abandon, browse abandon, and stock alerts, as holiday shoppers are more reactive.
-* Leverage segmentation & personalization: Target high-intent segments, tailor offers based on past purchase behavior, and preferences.
-* Minimal messaging fatigue: Enforce caps and quiet hours to avoid over-soliciting. Refer to the [Elevate Customer Experience with Daily Frequency Capping in AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510){target="_blank"} blog post.
+* Prioritize real-time triggers where appropriate. Examples include cart abandonment, browse abandonment, and stock alerts, as holiday shoppers are more reactive.
+* Leverage segmentation & personalization: Target high-intent segments, tailor offers based on past purchase behavior and preferences.
+* Minimize messaging fatigue: Enforce caps and quiet hours to avoid over-soliciting. Refer to the [Elevate Customer Experience with Daily Frequency Capping in AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510){target="_blank"} blog post.
 * Timing matters: Plan sends earlier in holiday window (given compressed season) and align channels to time-zones and local audience behavior.
 * Offer dynamic/limited-time offers to create urgency, but coordinate across channels to avoid duplication and conflict.
 * Use suppression logic: Suppress audiences who have just purchased, or apply post-purchase journeys to avoid redundant messaging.
@@ -178,10 +178,10 @@ Refer to [AJO Experimentation Accelerator best practices](https://experienceleag
 * Ensure access control and permissions are configured so that only required users can deploy journeys or modify business rules.
 * Monitor and enforce API call/connection capping: For example, see the [Capping API | Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/capping){target="_blank"} article.
 * Use clean first-party data and ensure proper identity stitching so that messaging is customer-centric not duplicate/misaligned.
-* Ensure deliverability domains are warmed, anti-spam measures are in place, especially for high-volume holiday sends.
+* Ensure deliverability domains are warmed and anti-spam measures are in place, especially for high-volume holiday sends.
 * Review audit logs and journey changes frequently during peak season to detect mis-runs or errant journeys early.
 
-### Post-peak learns
+### Post-peak lessons learned
 
 * After peak loads, conduct a review of journey entry counts, suppression counts, opt-out rates, deliverability metrics, and channel performance.
 * Clean up suppressed segments, and pause or retire journeys built for holiday window to avoid carry-over fatigue.
@@ -204,8 +204,8 @@ Adobe recommends the following steps to prepare your Customer Journey Analytics 
 
 ### Monitor performance
 
-* Leverage RAM ([[!UICONTROL Reporting Activity Manager] overview](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to monitor active and queued reporting requests in real time, identify at-capacity connections, and spot bottlenecks.
-* Watch for increased latency during peak load using the [Errors And Troubleshooting Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} and [Known Limitations](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"} articles.
+* Leverage RAM ([[!UICONTROL Reporting Activity Manager] overview](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}) to monitor active and queued reporting requests in real time, identify at-capacity connections, and spot bottlenecks.
+* Watch for increased latency during peak load using the [Errors and Troubleshooting Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} and [Known Limitations](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"} articles.
 * Empower admins to suspend or cancel long-running/blocked requests preemptively via RAM. Refer to the [Cancel reporting requests in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"} article.
 
 ### Best practices
@@ -216,7 +216,7 @@ Adobe recommends the following steps to prepare your Customer Journey Analytics 
 ### Troubleshooting
 
 * When troubleshooting workspace errors, refer to error messages for the cause and recommended actions; use RAM ([!UICONTROL Reporting Activity Manager]) to clear bottlenecks and manage concurrency effectively. See [CJA Workspace Error Handling](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} for more details.
-* Use RAM ([[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) to pinpoint problematic users, queries, or projects; prioritize and terminate/cancel as needed.
+* Use RAM ([[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}) to pinpoint problematic users, queries, or projects; prioritize and terminate/cancel as needed.
 
 ### Post-peak learns
 
@@ -229,13 +229,13 @@ Adobe recommends the following steps to prepare your Customer Journey Analytics 
 
 ## Adobe Commerce holiday readiness guide {#commerce}
 
-+++**Click to see the  Adobe Commerce holiday readiness recommendations.**
++++**Click to see the Adobe Commerce holiday readiness recommendations.**
 
 To ensure a successful peak season for your organization, it's essential to prepare your Adobe Commerce digital storefront for high traffic. 
 
 ### Predict demand
 
-During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for an increase in visitors by submitting Holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"} for details.
+During the peak holiday sales period (mid-November through mid-January), Adobe recommends that all Adobe Commerce merchants hosted on our cloud infrastructure proactively plan for an increase in visitors by submitting holiday surge capacity requests. See [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"} for details.
 
 ### Prepare for scale
 
@@ -280,8 +280,8 @@ For information on AEM website traffic security/protection, see the [Overview - 
 Adobe has scheduled maintenance exclusion periods to ensure uninterrupted service during critical holiday windows:
 
 **No automatic AEMaaCS maintenance** occurs during the following timeframes, beginning and ending at midnight (00:00) CET:
-  * Monday, November 23 2026 until Tuesday, December 1 2026.
-  * Monday, December 14 2026 until Sunday, January 3 2027.
+  * Monday, November 23, 2026, until Tuesday, December 1, 2026.
+  * Monday, December 14, 2026, until Sunday, January 3, 2027.
 
 This ensures stability during high-traffic periods. For full release schedules and maintenance windows, refer to the [AEM release roadmap](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}.
 
@@ -312,7 +312,7 @@ Efficiency starts with understanding exactly how Marketo prioritizes and process
 * Understanding how Marketo prioritizes the processing of campaign flow steps is crucial to avoid inadvertently delaying any urgent or high priority emails. See the [How Campaign Processing Works](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264) article.
 * Being mindful of smart list logic helps ensure your campaigns execute quickly and at peak performance. See the [Best Practices for Smart Lists](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists){target="_blank"} article.
 * **[!UICONTROL Head Start]** or **[!UICONTROL Recipient Time Zone]** can start building emails in advance of your send, reducing delays, and providing added prep time for qualifying leads with high-resource logic. See the [Head Start for Email Programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} and the [Schedule Email Programs with Recipient Time Zone](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"} articles for details. 
-* Your campaign is active, and leads are flowing through, and then you notice a mistake with flow step. It's tempting to fix with a quick adjustment, but being aware of what happens when you change a live wait step or reorder your flows can help you avoid a lot of headaches and clean-up later. See the [Editing Campaign Flow with Members in Wait Steps](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294) article.
+* Your campaign is active, and leads are flowing through, and then you notice a mistake in a flow step. It's tempting to fix it with a quick adjustment, but being aware of what happens when you change a live wait step or reorder your flows can help you avoid a lot of headaches and clean-up later. See the [Editing Campaign Flow with Members in Wait Steps](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294){target="_blank"} article.
 
 ### Test and validate
 
@@ -321,13 +321,13 @@ Before you hit **[!UICONTROL Send]**, make sure that your emails look and perfor
 * Marketo offers multiple ways to test an email's appearance. Use these to make sure it looks exactly the way you envisioned it. 
     * Use the **[!UICONTROL Preview]** function to make sure that your dynamic content and tokens are rendered correctly by previewing by segmentation or individual leads. See the [Preview an Email with Dynamic Content](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content){target="_blank"} article.
     * Send a direct email to your test records quickly and easily to see how your email appears on different clients/devices. See the [Run a Single Flow Step from a Smart List](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list){target="_blank"} article.
-    * For [!DNL Litmus] users, it's now easier than ever to integrate your account and initiate rendering tests directly from the email editor. See the [Test Email Rendering with [!DNL Litmus]](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering) article.
+    * For [!DNL Litmus] users, it's now easier than ever to integrate your account and initiate rendering tests directly from the email editor. See the [Test Email Rendering with [!DNL Litmus]](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering){target="_blank"} article.
 * Check out the Email spam report feature, which integrates with [!DNL SpamAssassin] to review your email's content and assign a score on how likely it is to hit the inbox or be marked as *spam*. See the [Email spam report](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report){target="_blank"} article.
 * Keep an eye on [!UICONTROL Campaign Queue] to verify your campaigns are processing and prioritizing high urgency items correctly. See the [Is My Campaign Running?](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662){target="_blank"} article.
 
 ### Streamline your support experience 
 
-When something goes wrong, speed matters, and Marketo Support is here to help! Include these details in your support case to avoid back and forth and help our team work towards a quicker resolution. See the [Best Practices for Working With Marketo Support](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491) article. 
+When something goes wrong, speed matters, and Marketo Support is here to help! Include these details in your support case to avoid back and forth and help our team work towards a quicker resolution. See the [Best Practices for Working With Marketo Support](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491){target="_blank"} article. 
 
 With this guide, you can rest a bit easier knowing you're starting from a strong position to drive engagement and conversions during this critical window. The stakes are high, but your stress doesn't have to be. Start your preparations today and make this holiday season your most successful yet. 
 
@@ -419,7 +419,7 @@ To maintain fast and reliable reporting during the holidays, Adobe recommends:
 
 ### Holiday maintenance planning
 
-Adobe typically enforces **maintenance exclusion windows** during peak holiday periods to ensure uninterrupted service. Monitor Adobe's release and maintenance schedules via Experience League and coordinate with their Adobe account teams for support planning.
+Adobe typically enforces **maintenance exclusion windows** during peak holiday periods to ensure uninterrupted service. Monitor Adobe's release and maintenance schedules via Experience League and coordinate with your Adobe account teams for support planning.
 
 By following these guidelines and leveraging Adobe's public documentation, organizations can ensure their Adobe Analytics implementation is robust, responsive, and ready for the demands of the holiday season.
 
@@ -442,7 +442,7 @@ Refer to [Best practices for optimization with Adobe Target](https://experiencel
 ### Prepare for scale
 
 * Plan for increased traffic on the website and mobile devices and inform the Target support team to increase server capacity to avoid any blocked calls.
-* For any load/pen testing, Target support team should be informed in advance. 
+* For any load/pen testing, the Target support team should be informed in advance. 
 * Upgrade to the latest `at.js`/Delivery API versions. 
 * Freeze non-critical changes; prepare for fallback experiences.
 * Align support and escalation processes and enable proactive alerts. 
