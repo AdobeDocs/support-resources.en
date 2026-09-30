@@ -49,6 +49,13 @@ role: User, Admin
   - [FAQ](faq.md)
 - Adobe Commerce Support {#adobe-commerce-support}
   - [Adobe Commerce support overview](adobe-commerce-support/adobe-commerce-support-overview.md)
+  - [Adobe Commerce holiday readiness]{#adobe-commerce-holiday-readiness}
+    - [Overview](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
+    - [Performance optimization](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
+    - [Best practices and stability](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
+    - [Monitoring and observability](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/monitoring-observability.md)
+    - [Scalability and capacity planning](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md)
+    - [Operational readiness](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/operational-readiness.md)
   - [MySQL end-of-support notice and database compatibility guidance for Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [How to request temporary Adobe Commerce on cloud infrastructure upsize](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [Holiday Surge Capacity Requests for Adobe Commerce on our cloud infrastructure](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
