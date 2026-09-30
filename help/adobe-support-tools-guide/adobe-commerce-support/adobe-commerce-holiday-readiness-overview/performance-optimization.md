@@ -86,9 +86,9 @@ On Commerce on cloud infrastructure, enable this by setting the `REDIS_BACKEND` 
 
 A [!DNL Redis] slave connection is a read-only connection to a [!DNL Redis] instance, allowing read traffic to be served from a non-master node. Without it enabled, [!DNL MySQL] can suffer a high-load bottleneck. Check [!DNL New Relic]'s APM Overview chart for rising response times as an early sign, then confirm in the **[!UICONTROL Database]** tab by sorting by most time-consuming transaction to identify slow [!DNL MySQL] `SELECT` queries. Enable this by setting the deploy variable `REDIS_USE_SLAVE_CONNECTION` to `true`.
 
-   >[!NOTE]
-   >
-   >`REDIS_USE_SLAVE_CONNECTION` is supported only on Staging and Production Pro cluster environments. It is not supported on Starter or Scaled (split) architecture projects. Enabling it on Scaled architecture causes [!DNL Redis] connection errors—use [!DNL Redis] L2 cache instead on that architecture. See [Implement Redis L2 cache](#implement-redis-l2-cache-implement-redis-l2-cache) above.
+>[!NOTE]
+>
+>`REDIS_USE_SLAVE_CONNECTION` is supported only on Staging and Production Pro cluster environments. It is not supported on Starter or Scaled (split) architecture projects. Enabling it on Scaled architecture causes [!DNL Redis] connection errors—use [!DNL Redis] L2 cache instead on that architecture. See [Implement Redis L2 cache](#implement-redis-l2-cache-implement-redis-l2-cache) above.
 
 ### MySQL slave connections 
 
@@ -107,6 +107,7 @@ Use asynchronous processing to queue and execute high-volume order-related opera
   ```
   bin/magento setup:config:set --checkout-async 1
   ```
+  
   Once enabled, order details aren't available immediately—the order remains queued until the `placeOrderProcess` consumer verifies it against inventory (enabled by default) and updates it. Before disabling this module, verify that all in-flight asynchronous orders have finished processing. For details, see [Checkout performance best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing).
 
 * Asynchronous order data processing: Intensive storefront sales and intensive order processing can conflict at the database level. Enabling this setting distinguishes the two traffic patterns, so orders are placed in temporary storage and moved in bulk to the Order Management grid without collisions. This schedules updates, by cron, to the Orders, Invoices, Shipments, and Credit Memos grids, avoiding locks and reducing processing time. For best results, configure cron to run once every minute.
