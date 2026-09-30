@@ -51,11 +51,11 @@ This section provides technical recommendations for preparing Adobe Commerce env
 
 Before you begin, confirm that origin shielding is configured. [!DNL Fastly] IO requires origin shielding as a prerequisite. For configuration details, see [Fastly origin shielding](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding).
 
-**To enable [!DNL Fastly] IO:**
+To enable [!DNL Fastly] IO:
 
 1. In the Admin, go to the **[!UICONTROL Fastly Configuration]** page and select **[!UICONTROL Configure]** next to **[!UICONTROL Default IO config options]**.
 1. Confirm that the [!DNL Fastly] IO snippet is enabled.
-1. In the **[!UICONTROL Image Optimization]** configuration, set **[!UICONTROL Enable deep image optimization]** to *Yes*. This setting disables Adobe Commerce's built-in image resizing and transfers the task to [!DNL Fastly].
+1. In the **[!UICONTROL Image Optimization]** configuration, set **[!UICONTROL Enable deep image optimization]** to *[!UICONTROL Yes]*. This setting disables Adobe Commerce's built-in image resizing and transfers the task to [!DNL Fastly].
 1. Confirm that the shield location is set correctly. For configuration details, see [Fastly origin shielding](#fastly-origin-shielding).
 
 >[!NOTE]
@@ -112,9 +112,9 @@ Use asynchronous processing to queue and execute high-volume order-related opera
 
 * Asynchronous order data processing: Intensive storefront sales and intensive order processing can conflict at the database level. Enabling this setting distinguishes the two traffic patterns, so orders are placed in temporary storage and moved in bulk to the Order Management grid without collisions. This schedules updates, by cron, to the Orders, Invoices, Shipments, and Credit Memos grids, avoiding locks and reducing processing time. For best results, configure cron to run once every minute.
 
-  >[!NOTE]
-  >
-  >How you enable this depends on your deployment mode. Adobe Commerce on cloud infrastructure Staging and Production environments run in Production mode by default, where this setting isn't available through the Admin. In Production mode, run `bin/magento config:set dev/grid/async_indexing 1` instead. In Default mode, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]** > **[!UICONTROL Grid Settings]** and set **[!UICONTROL Asynchronous Indexing]** to *[!UICONTROL Enable]*.
+>[!NOTE]
+>
+>How you enable this depends on your deployment mode. Adobe Commerce on cloud infrastructure Staging and Production environments run in Production mode by default, where this setting isn't available through the Admin. In Production mode, run `bin/magento config:set dev/grid/async_indexing 1` instead. In Default mode, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]** > **[!UICONTROL Grid Settings]** and set **[!UICONTROL Asynchronous Indexing]** to *[!UICONTROL Enable]*.
 
   For details, see [Scheduled order operations](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations).
 
@@ -139,7 +139,7 @@ Set each indexer's update mode independently at **[!UICONTROL System]** > **[!UI
 
 The use of flat tables for products and categories is not recommended. This deprecated feature can cause performance degradation and indexing issues. For details, see [Flat catalogs](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/catalog/catalog-flat).
 
-To disable the flat catalog, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Catalog]** > **[!UICONTROL Catalog]** > **[!UICONTROL Storefront]**, set **[!UICONTROL Use Flat Catalog Category]** to *No*, set **[!UICONTROL Use Flat Catalog Product]** to *No*, then click **[!UICONTROL Save Config]**.
+To disable the flat catalog, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Catalog]** > **[!UICONTROL Catalog]** > **[!UICONTROL Storefront]**, set **[!UICONTROL Use Flat Catalog Category]** to *[!UICONTROL No]*, set **[!UICONTROL Use Flat Catalog Product]** to *[!UICONTROL No]*, then click **[!UICONTROL Save Config]**.
 
 Some third-party modules and customizations do require flat tables to function correctly. Evaluate the impact and risk of continuing to use those extensions before disabling flat tables.
 
