@@ -80,7 +80,7 @@ On Commerce on cloud infrastructure, enable this by setting the `REDIS_BACKEND` 
 
 ## Enable MySQL and Redis slave connections (Cloud only) {#enable-mysql-and-redis-slave-connections}
 
-[!DNL Redis] and [!DNL MySQL] slave connections offload read traffic to replica nodes, reducing load on the master connection during high-traffic periods. For configuration steps, see [MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection) and [REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection) in the Commerce on Cloud Infrastructure Guide.
+[!DNL Redis] and [!DNL MySQL] slave connections offload read traffic to replica nodes, reducing load on the master connection during high-traffic periods. For configuration steps, see [MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection) and [REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection) or [VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection), depending on your Adobe Commerce version.
 
 ### Redis slave connections
 
