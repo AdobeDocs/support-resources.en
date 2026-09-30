@@ -94,10 +94,10 @@ The script `dev/tools/cron.sh` can no longer be executed, because it has been re
 
 To improve the storefront responsiveness of your Commerce instance, configure the following settings under **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]**, which is available only in Developer mode:
 
-* **[!UICONTROL Grid Settings]** > **[!UICONTROL Asynchronous indexing]**: *Enable*
-* **[!UICONTROL CSS Settings]** — **[!UICONTROL Minify CSS Files]**: *Yes*
-* **[!UICONTROL JavaScript Settings]** — **[!UICONTROL Minify JavaScript Files]**: *Yes*
-* **[!UICONTROL JavaScript Settings]** — **[!UICONTROL Enable JavaScript Bundling]**: *Yes* (not enabled by default)
-* **[!UICONTROL Template Settings]** — **[!UICONTROL Minify HTML]**: *Yes*
+* **[!UICONTROL Grid Settings]** > **[!UICONTROL Asynchronous indexing]**: *[!UICONTROL Enable]*
+* **[!UICONTROL CSS Settings]** — **[!UICONTROL Minify CSS Files]**: *[!UICONTROL Yes]*
+* **[!UICONTROL JavaScript Settings]** — **[!UICONTROL Minify JavaScript Files]**: *[!UICONTROL Yes]*
+* **[!UICONTROL JavaScript Settings]** — **[!UICONTROL Enable JavaScript Bundling]**: *[!UICONTROL Yes]* (not enabled by default)
+* **[!UICONTROL Template Settings]** — **[!UICONTROL Minify HTML]**: *[!UICONTROL Yes]*
 
 Since Adobe Commerce on Cloud always runs in Production mode, set each option from the command line instead—for example, `bin/magento config:set --lock-config dev/css/minify_files 1`—then commit the resulting `app/etc/config.php` change and redeploy. For the full list of CLI paths, see [Optimize resource files](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files).

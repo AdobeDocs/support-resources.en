@@ -63,7 +63,7 @@ Modify this query to suit your needs, segment it further, or turn it into a dash
 
 ## Customize New Relic alerts (Cloud only) {#customize-new-relic-alerts}
 
-In addition to the Managed Alerts set by Adobe Commerce Cloud, you can set a wide range of alerts and notifications for your platform during peak sale season—for example, notifying you of bot traffic or an increased response time on a GraphQL query. See [Managed alerts for Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce) for the full list of built-in alerts.
+In addition to the Managed Alerts set by Adobe Commerce on cloud infrastructure, you can set a wide range of alerts and notifications for your platform during peak sale season—for example, notifying you of bot traffic or an increased response time on a GraphQL query. See [Managed alerts for Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce) for the full list of built-in alerts.
 
 [!DNL New Relic] Alerts and AI support NRQL-based query structures. Set up custom alerts from the [!DNL New Relic] dashboard under **[!UICONTROL Alerts & AI]**.
 

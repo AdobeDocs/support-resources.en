@@ -37,9 +37,9 @@ This section provides technical recommendations for preparing Adobe Commerce env
 
 [!DNL Fastly] caches responses at the edge to reduce load on your origin server. During peak season, a few configuration checks help you get the most out of that cache, especially when you're running promotions with tracking parameters or a headless storefront. For the full configuration reference, see [Customize cache configuration](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration).
 
-* **Normalize tracking parameters:** During the holiday season, you're likely to run social and paid campaigns, such as Google Ads, Facebook, and X, that append unique tracking strings to every URL. Each unique string creates a separate cache entry for what's otherwise the same page, which lowers your cache hit ratio. Add these parameters to the **[!UICONTROL Ignored URL Parameters]** list in the [!DNL Fastly] configuration in the Adobe Commerce Admin so that [!DNL Fastly] treats them as equivalent.
-* **Confirm that your landing pages are cacheable:** Check the `x-cache` response header on each promotion landing page. A cacheable page returns `HIT`, or a `HIT`/`MISS` pair on subsequent loads. If the header returns `MISS, MISS`, the page isn't caching and requires investigation.
-* **Use GET requests for GraphQL queries:** If you run a PWA or headless storefront, send GraphQL queries as `GET` requests with the query included in the URL, rather than as `POST` requests. [!DNL Fastly] caches only `GET` requests where the query is part of the URL. A `GET` request with the query sent in the body isn't cached.
+* Normalize tracking parameters: During the holiday season, you're likely to run social and paid campaigns, such as Google Ads, Facebook, and X, that append unique tracking strings to every URL. Each unique string creates a separate cache entry for what's otherwise the same page, which lowers your cache hit ratio. Add these parameters to the **[!UICONTROL Ignored URL Parameters]** list in the [!DNL Fastly] configuration in the Adobe Commerce Admin so that [!DNL Fastly] treats them as equivalent.
+* Confirm that your landing pages are cacheable: Check the `x-cache` response header on each promotion landing page. A cacheable page returns `HIT`, or a `HIT`/`MISS` pair on subsequent loads. If the header returns `MISS, MISS`, the page isn't caching and requires investigation.
+* Use GET requests for GraphQL queries: If you run a PWA or headless storefront, send GraphQL queries as `GET` requests with the query included in the URL, rather than as `POST` requests. [!DNL Fastly] caches only `GET` requests where the query is part of the URL. A `GET` request with the query sent in the body isn't cached.
 
 >[!NOTE]
 >
@@ -102,23 +102,22 @@ Enable the `MYSQL_USE_SLAVE_CONNECTION` flag on Pro cluster environments to dire
 
 Use asynchronous processing to queue and execute high-volume order-related operations in the background, reducing frontend latency during peak traffic. This covers three related but distinct settings—see [Configuration best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration) for an overview.
 
-* **Asynchronous order placement:** The Async Order module marks an order as received, places it in a queue, and processes orders first-in-first-out. It is disabled by default. Enable it from the command line:
+* Asynchronous order placement: The Async Order module marks an order as received, places it in a queue, and processes orders first-in-first-out. It is disabled by default. Enable it from the command line:
 
   ```
   bin/magento setup:config:set --checkout-async 1
   ```
-
   Once enabled, order details aren't available immediately—the order remains queued until the `placeOrderProcess` consumer verifies it against inventory (enabled by default) and updates it. Before disabling this module, verify that all in-flight asynchronous orders have finished processing. For details, see [Checkout performance best practices](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing).
 
-* **Asynchronous order data processing:** Intensive storefront sales and intensive order processing can conflict at the database level. Enabling this setting distinguishes the two traffic patterns, so orders are placed in temporary storage and moved in bulk to the Order Management grid without collisions. This schedules updates, by cron, to the Orders, Invoices, Shipments, and Credit Memos grids, avoiding locks and reducing processing time. For best results, configure cron to run once every minute.
+* Asynchronous order data processing: Intensive storefront sales and intensive order processing can conflict at the database level. Enabling this setting distinguishes the two traffic patterns, so orders are placed in temporary storage and moved in bulk to the Order Management grid without collisions. This schedules updates, by cron, to the Orders, Invoices, Shipments, and Credit Memos grids, avoiding locks and reducing processing time. For best results, configure cron to run once every minute.
 
   >[!NOTE]
   >
-  >How you enable this depends on your deployment mode. Adobe Commerce on Cloud Staging and Production environments run in Production mode by default, where this setting isn't available through the Admin. In Production mode, run `bin/magento config:set dev/grid/async_indexing 1` instead. In Default mode, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]** > **[!UICONTROL Grid Settings]** and set **[!UICONTROL Asynchronous Indexing]** to *Enable*.
+  >How you enable this depends on your deployment mode. Adobe Commerce on cloud infrastructure Staging and Production environments run in Production mode by default, where this setting isn't available through the Admin. In Production mode, run `bin/magento config:set dev/grid/async_indexing 1` instead. In Default mode, go to **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]** > **[!UICONTROL Grid Settings]** and set **[!UICONTROL Asynchronous Indexing]** to *[!UICONTROL Enable]*.
 
   For details, see [Scheduled order operations](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations).
 
-* **Asynchronous email notifications:** This setting moves checkout and order-processing email notifications to the background. Enable it at **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Sales]** > **[!UICONTROL Sales Emails]** > **[!UICONTROL General Settings]** > **[!UICONTROL Asynchronous Sending]**.
+* Asynchronous email notifications: This setting moves checkout and order-processing email notifications to the background. Enable it at **[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Sales]** > **[!UICONTROL Sales Emails]** > **[!UICONTROL General Settings]** > **[!UICONTROL Asynchronous Sending]**.
 
 ## Configure indexers for update on schedule {#configure-indexers-for-update-on-schedule}
 
@@ -153,7 +152,7 @@ If, after applying the preceding configuration and code-level optimizations, loa
 
 Split-tier architecture uses a minimum of six nodes: three service nodes running [!DNL OpenSearch] or [!DNL Elasticsearch], [!DNL MariaDB], and [!DNL Redis] or [!DNL Valkey], and three web nodes running `php-fpm` and `NGINX`.
 
-* **Service nodes** can scale vertically only, by increasing server size (CPU and memory). Because the database cluster is built for high availability, service nodes cannot scale horizontally in a reliable way.
-* **Web nodes** can scale both vertically and horizontally, adding web servers to handle increased request volume.
+* Service nodes can scale vertically only, by increasing server size (CPU and memory). Because the database cluster is built for high availability, service nodes cannot scale horizontally in a reliable way.
+* Web nodes can scale both vertically and horizontally, adding web servers to handle increased request volume.
 
 This lets you expand infrastructure on demand for periods of high load, scaling each tier independently. To switch to split-tier architecture ahead of an expected heavy-load period, contact your Adobe Account Team.
