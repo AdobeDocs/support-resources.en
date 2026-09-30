@@ -28,7 +28,7 @@ role_v2:
 
 # Adobe Commerce holiday readiness overview
 
-This playbook provides guidance for preparing Adobe Commerce on cloud infrastructure environments for high-traffic events, such as the holiday season. It consolidates technical recommendations into five strategic focus areas:
+This playbook provides guidance for preparing Adobe Commerce environments for high-traffic events, such as the holiday season. It consolidates technical recommendations into five strategic focus areas:
 
 - Performance optimization
 - Best practices and stability
