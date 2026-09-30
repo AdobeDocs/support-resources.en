@@ -170,22 +170,22 @@ Refer to [AJO Experimentation Accelerator best practices](https://experienceleag
 * Leverage segmentation & personalization: Target high-intent segments, tailor offers based on past purchase behavior and preferences.
 * Minimize messaging fatigue: Enforce caps and quiet hours to avoid over-soliciting. Refer to the [Elevate Customer Experience with Daily Frequency Capping in AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510){target="_blank"} blog post.
 * Timing matters: Plan sends earlier in holiday window (given compressed season) and align channels to time-zones and local audience behavior.
-* Offer dynamic/limited-time offers to create urgency, but coordinate across channels to avoid duplication and conflict.
+* Use dynamic/limited-time offers to create urgency, but coordinate across channels to avoid duplication and conflict.
 * Use suppression logic: Suppress audiences who have just purchased, or apply post-purchase journeys to avoid redundant messaging.
 
 ### Security and governance
 
 * Ensure access control and permissions are configured so that only required users can deploy journeys or modify business rules.
 * Monitor and enforce API call/connection capping: For example, see the [Capping API | Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/capping){target="_blank"} article.
-* Use clean first-party data and ensure proper identity stitching so that messaging is customer-centric not duplicate/misaligned.
+* Use clean first-party data and ensure proper identity stitching so that messaging is customer-centric, not duplicate/misaligned.
 * Ensure deliverability domains are warmed and anti-spam measures are in place, especially for high-volume holiday sends.
 * Review audit logs and journey changes frequently during peak season to detect mis-runs or errant journeys early.
 
 ### Post-peak lessons learned
 
 * After peak loads, conduct a review of journey entry counts, suppression counts, opt-out rates, deliverability metrics, and channel performance.
-* Clean up suppressed segments, and pause or retire journeys built for holiday window to avoid carry-over fatigue.
-* Use insights from real-time performance to refine next year's planning (For example: send time adjustments, channel mix, and message volume).
+* Clean up suppressed segments and pause or retire journeys built for the holiday window to avoid carry-over fatigue.
+* Use insights from real-time performance to refine next year's planning (for example, send time adjustments, channel mix, and message volume).
 
 By proactively forecasting seasonal demand, configuring channels and rules, validating journey performance, and enforcing security and governance, organizations can ensure Adobe Journey Optimizer delivers seamless, personalized, and resilient customer experiences throughout this holiday season and beyond.
 
@@ -218,11 +218,11 @@ Adobe recommends the following steps to prepare your Customer Journey Analytics 
 * When troubleshooting workspace errors, refer to error messages for the cause and recommended actions; use RAM ([!UICONTROL Reporting Activity Manager]) to clear bottlenecks and manage concurrency effectively. See [CJA Workspace Error Handling](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"} for more details.
 * Use RAM ([[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}) to pinpoint problematic users, queries, or projects; prioritize and terminate/cancel as needed.
 
-### Post-peak learns
+### Post-peak lessons learned
 
 * After the holiday/peak period, review performance & incident logs to evaluate the impact of the best practices provided.
 * Review slow queries and user tasks to identify patterns/trends that can be optimized for the next season.
-* Gather feedback from users and stakeholders—update your own runbooks and readiness plans using newly gained insights.
+* Gather feedback from users and stakeholders. Then update your own runbooks and readiness plans using newly gained insights.
 * Provide feedback to the Adobe teams via your Account team.
 
 +++
@@ -311,7 +311,7 @@ Efficiency starts with understanding exactly how Marketo prioritizes and process
 
 * Understanding how Marketo prioritizes the processing of campaign flow steps is crucial to avoid inadvertently delaying any urgent or high priority emails. See the [How Campaign Processing Works](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264) article.
 * Being mindful of smart list logic helps ensure your campaigns execute quickly and at peak performance. See the [Best Practices for Smart Lists](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists){target="_blank"} article.
-* **[!UICONTROL Head Start]** or **[!UICONTROL Recipient Time Zone]** can start building emails in advance of your send, reducing delays, and providing added prep time for qualifying leads with high-resource logic. See the [Head Start for Email Programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} and the [Schedule Email Programs with Recipient Time Zone](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"} articles for details. 
+* **[!UICONTROL Head Start]** or **[!UICONTROL Recipient Time Zone]** can start building emails in advance of your send, reducing delays and providing added prep time for qualifying leads with high-resource logic. See the [Head Start for Email Programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} and the [Schedule Email Programs with Recipient Time Zone](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"} articles for details. 
 * Your campaign is active, and leads are flowing through, and then you notice a mistake in a flow step. It's tempting to fix it with a quick adjustment, but being aware of what happens when you change a live wait step or reorder your flows can help you avoid a lot of headaches and clean-up later. See the [Editing Campaign Flow with Members in Wait Steps](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294){target="_blank"} article.
 
 ### Test and validate
@@ -441,7 +441,7 @@ Refer to [Best practices for optimization with Adobe Target](https://experiencel
 
 ### Prepare for scale
 
-* Plan for increased traffic on the website and mobile devices and inform the Target support team to increase server capacity to avoid any blocked calls.
+* Plan for increased traffic on the website and mobile devices and ask the Target support team to increase server capacity to avoid any blocked calls.
 * For any load/pen testing, the Target support team should be informed in advance. 
 * Upgrade to the latest `at.js`/Delivery API versions. 
 * Freeze non-critical changes; prepare for fallback experiences.
