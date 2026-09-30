@@ -327,7 +327,7 @@ Before you hit **[!UICONTROL Send]**, make sure that your emails look and perfor
 
 ### Streamline your support experience 
 
-When something goes wrong, speed matters, and Marketo Support is here to help! Include these details in your support case to avoid back and forth and help our team work towards a quicker resolution. See the [Best Practices for Working With Marketo Support](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491){target="_blank"} article. 
+When something goes wrong, speed matters, and Marketo Support is here to help! Refer to the [Best Practices for Working With Marketo Support](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491){target="_blank"} article for the information to include in your support case. Providing these details upfront can help avoid back-and-forth and lead to a faster resolution.
 
 With this guide, you can rest a bit easier knowing you're starting from a strong position to drive engagement and conversions during this critical window. The stakes are high, but your stress doesn't have to be. Start your preparations today and make this holiday season your most successful yet. 
 
