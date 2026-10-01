@@ -244,7 +244,7 @@ Follow the recommendations in the [Planning and pivoting: A strategic approach t
 ### Best practices
 
 * Follow Adobe's guide [How to prepare your infrastructure for high traffic — the 5 Ps of peak season performance](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic){target="_blank"}.
-* For detailed technical recommendations on how to prepare your Adobe Commerce instance for the holiday season, refer to [Adobe Commerce holiday readiness overview](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness/holiday-readiness-overview){target="_blank"}.
+* For detailed technical recommendations on how to prepare your Adobe Commerce instance for the holiday season, refer to [Adobe Commerce holiday readiness guide](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness/holiday-readiness-overview){target="_blank"}.
 
 +++
 
