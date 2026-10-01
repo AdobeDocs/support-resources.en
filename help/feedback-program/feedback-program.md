@@ -35,6 +35,14 @@ Participation in the Adobe Feedback Program is entirely voluntary and designed t
 
 Opportunities vary based on factors such as product area, region, customer profile, and program availability, and not all participants will be invited to every opportunity. Your feedback helps Adobe improve products, prioritize future investments, and deliver better customer experiences.
 
+## Program Terms
+
+>[!BEGINSHADEBOX]
+
+Participation may require acceptance of the Adobe Feedback Program Agreement. Additional terms may apply depending on the specific program or activity.
+
+>[!ENDSHADEBOX]
+
 ## Frequently Asked Questions
 
 +++ Who can participate?
@@ -61,12 +69,6 @@ Yes. Participants in the Program will receive Adobe confidential information and
 
 +++
 
-## Program Terms
-
-Participation may require acceptance of the Adobe Feedback Program Agreement. Additional terms may apply depending on the specific program or activity.
-
->[!BEGINSHADEBOX]
-
 ## Join the Adobe Feedback Program
 
 Help shape the future of Adobe products through early access opportunities, research studies, and direct feedback with our product teams.
@@ -74,6 +76,8 @@ Help shape the future of Adobe products through early access opportunities, rese
 As an experience maker, you're considered the expert. The program enables direct engagement with Adobe product development specialists, where your perspectives will influence Adobe's future direction.
 
 Reach out to your Adobe account representative today for further information and eligibility requirements.
+
+>[!BEGINSHADEBOX]
 
 [!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
 
