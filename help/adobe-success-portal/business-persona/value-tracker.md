@@ -1,11 +1,11 @@
 ---
-title: "[!UICONTROL Value Tracker]"
+title: '[!UICONTROL Value Tracker]'
 description: The [!UICONTROL Value Tracker] page provides a view of your [!UICONTROL Use Cases] organized by KBOs.
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
-TQID: https://experienceleague.adobe.com/TwfH8YYNuuyUaiTY4KnqjepbtqUxX0pbYx9HldoEoeU
+TQID: 'https://experienceleague.adobe.com/TwfH8YYNuuyUaiTY4KnqjepbtqUxX0pbYx9HldoEoeU'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

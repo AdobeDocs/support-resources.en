@@ -2,10 +2,10 @@
 title: Key functionalities for technical persona
 description: /[!DNL Adobe Success/] portal's features for a technical persona enable users to create and manage support cases, monitor system performance, and track alerts related to security and functionality.
 exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
-TQID: https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk
+TQID: 'https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

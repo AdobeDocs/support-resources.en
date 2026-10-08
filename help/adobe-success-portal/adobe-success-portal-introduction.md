@@ -2,10 +2,10 @@
 title: Introduction to [!DNL Adobe Success] portal
 description: /[!DNL Adobe Success/] portal is a unified portal for customers to submit cases, view ticket progress, access support, and planning tools.
 exl-id: 546db101-b9d4-43f4-a513-a46b955280de
-TQID: https://experienceleague.adobe.com/Tar9AsnKRvEDBwWaWSpzvVt-haJ9Z1qBDfN7F2a8AU8
+TQID: 'https://experienceleague.adobe.com/Tar9AsnKRvEDBwWaWSpzvVt-haJ9Z1qBDfN7F2a8AU8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

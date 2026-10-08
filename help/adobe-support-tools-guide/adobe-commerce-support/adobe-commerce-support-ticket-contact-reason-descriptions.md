@@ -2,10 +2,10 @@
 title: Adobe Commerce support ticket [!UICONTROL Issue Reason] descriptions
 description: This article lists the support ticket **[!UICONTROL Issue Reason]** field options and provides detailed descriptions of each one.
 exl-id: 3af194c6-6f28-4ce1-bf60-af80057cb86b
-TQID: https://experienceleague.adobe.com/ON-DBtV4gobYWsItla-mCAVYYpngS6GX6Tq4Omtnf3Y
+TQID: 'https://experienceleague.adobe.com/ON-DBtV4gobYWsItla-mCAVYYpngS6GX6Tq4Omtnf3Y'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
