@@ -1,11 +1,11 @@
 ---
-title: "[!UICONTROL Key Business Objectives]"
+title: '[!UICONTROL Key Business Objectives]'
 description: /[!UICONTROL Key Business Objectives/] are high-level goals that a customer aims to achieve through their partnership with Adobe.
 exl-id: 1798d438-caeb-45a6-bc12-347028a6a4e5
-TQID: https://experienceleague.adobe.com/n6tLZWu7WaT-5UEQSagaJFXBc-EmnFvaH6VwpLRhoQs
+TQID: 'https://experienceleague.adobe.com/n6tLZWu7WaT-5UEQSagaJFXBc-EmnFvaH6VwpLRhoQs'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

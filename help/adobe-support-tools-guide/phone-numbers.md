@@ -2,10 +2,10 @@
 title: Specify a preferred support phone number
 description: Update for Adobe Support phone numbers. Specify your preferred support phone number.
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
-TQID: https://experienceleague.adobe.com/m0Q85GrXnxzxzAH3zOj07ik7WDSHFTEGBomdBTsttEI
+TQID: 'https://experienceleague.adobe.com/m0Q85GrXnxzxzAH3zOj07ik7WDSHFTEGBomdBTsttEI'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

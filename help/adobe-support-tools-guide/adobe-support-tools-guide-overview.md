@@ -2,10 +2,10 @@
 title: Adobe Support and Tools Guide overview
 description: Adobe Support and Tools Guide—your central resource on case management, support entitlements, Adobe Admin Console tasks, and product-specific support in Experience League.
 exl-id: 8a2832e8-d3c0-465c-b32e-52b3f0ac13d4
-TQID: https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY
+TQID: 'https://experienceleague.adobe.com/tU02jQ-jAGNsnDEsyiXzBs-rs0poCZostwyaiDDDEpY'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
