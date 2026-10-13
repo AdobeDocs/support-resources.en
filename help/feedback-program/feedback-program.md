@@ -73,7 +73,7 @@ As an experience maker, you're considered the expert. The program enables direct
 
 Reach out to your Adobe account representative today for further information and eligibility requirements.
 
-[![sign-in button](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
+[![sign-in button](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
 <!--
 [!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
