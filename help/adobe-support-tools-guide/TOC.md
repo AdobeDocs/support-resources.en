@@ -72,4 +72,5 @@ role: User, Admin
   - [Unable to add user to Adobe Commerce cloud project](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [How to apply a composer patch provided by Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [How to apply a Isolated patch provided by Adobe](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [How to report a vulnerability found by a third-party security agency](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [Support Tools overview](adobe-commerce-support/overview.md)
