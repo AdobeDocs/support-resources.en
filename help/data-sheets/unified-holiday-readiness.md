@@ -239,7 +239,7 @@ During the peak holiday sales period (mid-November through mid-January), Adobe r
 
 ### Prepare for scale
 
-Follow the recommendations in the [Planning and pivoting: A strategic approach to peak season 2025](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"} guide, which provides actionable strategies using Adobe Commerce (and optional Adobe Experience Cloud tools) to help you plan, pivot, and deliver outstanding customer experiences during the busiest time of year. 
+Follow the recommendations in the [Planning and pivoting: A strategic approach to peak season 2026](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"} guide, which provides actionable strategies using Adobe Commerce (and optional Adobe Experience Cloud tools) to help you plan, pivot, and deliver outstanding customer experiences during the busiest time of year. 
 
 ### Best practices
 
