@@ -36,6 +36,7 @@ Adobe Commerce offers a variety of support tools that help and empower you to im
   * [Observation for Adobe Commerce overview](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/observation-for-adobe-commerce/intro)
 * Commerce Site Assessment tool
   * [Commerce site assessment](https://experienceleague.adobe.com/tools/commerce-site-assessment/index.html)
+    
 ## Managed alerts
  
 * Managed alerts on Adobe Commerce
