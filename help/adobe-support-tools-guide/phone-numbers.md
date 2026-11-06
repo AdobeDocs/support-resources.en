@@ -16,25 +16,24 @@ topic_v2:
     internal-label: Security
 ---
 # Specify a preferred support phone number
-
+ 
+## Before you begin
+ 
 When you are assigned an **Admin** role, such as **Product Support Admin**, you receive an email confirming that you have administrator permissions to manage the instance.
-
+ 
 The email now contains the text below in red that explains how to go to your **[!UICONTROL Account Profile]** and share with us your preferred Support Phone Number.
-
+ 
 ![preferred support number](assets/admin-console-1.png)
-
-To specify your preferred phone number:
-
+ 
+## Set your preferred support phone number
+ 
 1. Click on the **[!UICONTROL Account Profile]** link to open a new window to sign in using `account.adobe.com`.
-
    ![sign in](assets/sign-in.png)
-
 1. Go through the login process and land on the screen below on `account.adobe.com`.
 1. Select **[!UICONTROL Account and security]** > **[!UICONTROL Account]** to see the Support phone number field.
 1. Add a phone number here that you would like us to use for recognizing you for your support needs.
-
 ![specify details](assets/account-info.png)
-
+ 
 ![add phone number](assets/enter-phone-number.png)
-
+ 
 ![results](assets/result.png)
