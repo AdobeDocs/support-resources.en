@@ -31,6 +31,7 @@ Adobe Commerce offers a variety of support tools that help and empower you to im
     * Apply quality patches included in the package
     * Revert previously applied patches
     * View the general information about quality patches available for the installed version of Adobe Commerce.
+
     The tool is aimed to enable you to self-serve with patches for issues you might experience with Adobe Commerce, or easily apply patches suggested by Adobe Commerce support.
 * Observation for Adobe Commerce
   * [Observation for Adobe Commerce overview](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/observation-for-adobe-commerce/intro)
