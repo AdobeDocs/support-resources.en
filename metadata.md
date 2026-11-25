@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
+solution: CX Enterprise
 usetq: true
 product: experience cloud
 type: Documentation
